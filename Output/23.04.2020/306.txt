@@ -1,0 +1,801 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 93-69 (FIS) on examining risk management and internal controls for trading activities of banking organizations -- December 20, 1993</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF"><A NAME="pagetop"></A>
+<blockquote>
+<table border=0 width="600">
+<TR>
+<TD>
+<table border=0 width="600">
+<TR>
+<TD width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font SIZE=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><Div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font SIZE=3><b>SR 93-69 (FIS)<br>
+December 20, 1993 <br></b></td>
+</tr></table>
+<b><br>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font SIZE=3><b>Examining Risk Management and Internal Controls for Trading Activities of Banking Organizations
+</b></font></td>
+</tr>
+</table><br>
+<font SIZE=3><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The review of risk management and internal controls is
+an essential element of our  examination of trading activities.
+In view of the increasing importance of these activities to the
+overall risk profile and profitability of certain banking
+organizations, the following guidance is being issued to
+highlight key considerations in examining the risk management and
+internal controls of trading activities in both cash and
+derivative instruments.<a href="#Footnote1" title="Footnote 1" name="Footref1"><SUP>1</SUP></a> <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+This guidance specifically targets trading, market
+making, and customer accommodation activities in cash and
+derivative instruments at State member banks, branches and
+agencies of foreign banks, and Edge corporations.&nbsp;&nbsp;The principles
+set forth in this guidance also apply to the risk management of
+bank holding companies, which should manage and control aggregate
+risk exposures on a consolidated basis, while recognizing legal
+distinctions among subsidiaries.&nbsp;&nbsp;Many of the principles advanced
+can also be applied to banks' use of derivatives as end-users.
+Examiners should assess management's application of this guidance
+to the holding company and to a bank's end-user derivative
+activities where appropriate, given the nature of the
+institution's activities and current accounting standards.&nbsp;&nbsp;  <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following guidance both reiterates and supplements
+earlier directives provided in various supervisory letters and
+examination manuals on these topics.&nbsp;&nbsp;It is also incorporated and
+addressed in significant detail in the draft Capital Markets and
+Trading Activities Manual that is currently being field tested.
+Specifically, this letter provides examiner guidance for
+evaluating the following elements of an institution's risk
+management process for trading and derivatives activities:<br>
+<p>
+<table width="600" lines=0>
+<tr>
+<td valign=top align=right width=10%>I.&nbsp;&nbsp;
+</td>
+<td width=90%>Board of directors and management oversight;<br>&nbsp;
+</td>
+</tr>
+<tr>
+<td valign=top align=right>II.&nbsp;&nbsp;
+</td>
+<td>The measurement procedures, limit systems, and
+monitoring and review functions of the risk management
+process; and,<br>&nbsp;
+</td>
+</tr>
+<tr>
+<td valign=top align=right>III.&nbsp;&nbsp;
+</td>
+<td>Internal controls and audit procedures.<br>&nbsp;
+</td>
+</tr>
+</table>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In assessing the adequacy of these elements at
+individual institutions, examiners should consider the nature and
+volume of a bank's activities and the bank's overall approach
+toward managing the various types of risks involved.&nbsp;&nbsp;As with the
+examination of other banking activities, examiner judgment plays
+a key role in assessing the adequacy and necessary sophistication
+of a bank's risk management system for cash and derivative
+instrument trading and hedging activities.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Many of the managerial and examiner practices contained
+in this guidance are fundamental and are generally accepted as
+sound banking practices for both trading and non-trading
+activities.&nbsp;&nbsp;However, other elements may be subject to change, as
+both supervisory and bank operating standards evolve in response
+to new technologies, financial innovations, and developments in
+market and business practices.&nbsp;&nbsp;Future experience, including that
+gained from implementing the Capital Markets and Trading
+Activities Manual, may also identify useful changes to these
+examiner guidelines. <br>
+<p>
+ <b>I.&nbsp;&nbsp;&nbsp;&nbsp;Oversight of the Risk Management Process</b> <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As is standard practice for most banking activities,
+banks should maintain written policies and procedures that
+clearly outline the institution's risk management guidance for
+trading and derivative activities.&nbsp;&nbsp;At a minimum these policies
+should identify the risk tolerances of the board of directors and
+should clearly delineate lines of authority and responsibility
+for managing the risk of these activities.&nbsp;&nbsp;Individuals
+throughout the trading and derivatives areas should be fully
+aware of all policies and procedures that relate to their
+specific duties.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The board of directors, senior-level management, and
+members of independent risk management functions are all
+important participants in the risk management process.&nbsp;&nbsp;Examiners
+should ensure that these participants are aware of their
+responsibilities and that they adequately perform their
+appropriate role in managing the risk of trading and derivative
+activities. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Board of Directors.</b>&nbsp;&nbsp;The board of directors should
+approve all significant policies relating to the management of
+risks throughout the institution.&nbsp;&nbsp;These policies, which should
+include those related to trading activities, should be consistent
+with the organization's broader business strategies, capital
+adequacy, expertise, and overall willingness to take risk.
+Accordingly, the board should be informed regularly of the risk
+exposure of the institution and should regularly re-evaluate
+significant risk management policies and procedures with special
+emphasis placed on those defining the institution's risk
+tolerance regarding these activities.&nbsp;&nbsp;The board of directors
+should also conduct and encourage discussions between its members
+and senior management, as well as between senior management and
+others in the institution, regarding the institution's risk
+management process and risk exposure. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Senior Management.&nbsp;&nbsp;</b>Senior management is responsible
+for ensuring that there are adequate policies and procedures for
+conducting trading operations on both a long-range and day-to-day
+basis.&nbsp;&nbsp;This responsibility includes ensuring that there are
+clear delineations of lines of responsibility for managing risk,
+adequate systems for measuring risk, appropriately structured
+limits on risk taking, effective internal controls, and a
+comprehensive risk-reporting process.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior management should evaluate regularly the
+procedures in place to manage risk to ensure that those
+procedures are appropriate and sound.&nbsp;&nbsp;Senior management should
+also foster and participate in active discussions with the board,
+with staff of risk management functions, and with traders
+regarding procedures for measuring and managing risk.&nbsp;&nbsp;Management
+must also ensure that trading and derivative activities are
+allocated sufficient resources and staff to manage and control
+risks. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Independent Risk Management Functions.</b>&nbsp;&nbsp;The process of
+measuring, monitoring, and controlling risk consistent with the
+established policies and procedures should be managed
+independently of individuals conducting trading activities, up
+through senior levels of the institution.&nbsp;&nbsp;An independent system
+for reporting exposures to both senior-level management and to
+the board of directors is an important element of this process.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Banking organizations should have highly qualified
+personnel throughout their trading and derivatives areas,
+including their risk management and internal control functions.
+The personnel staffing independent risk management functions
+should have a complete understanding of the risks associated with
+all traded on- and off-balance sheet instruments.&nbsp;&nbsp;Accordingly,
+compensation policies for these individuals should be adequate to
+attract and retain personnel qualified to judge these risks.&nbsp;&nbsp;As
+a matter of general policy, compensation policies, especially in
+the risk management, control, and senior management functions,
+should be structured in a way that avoids the potential
+incentives for excessive risk taking that can occur if, for
+example, salaries are tied too closely to the profitability of
+trading or derivatives activities.&nbsp;&nbsp;<br>
+<p>
+ <b>II.&nbsp;&nbsp;&nbsp;&nbsp;The Risk Management Process</b> <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The primary components of a sound risk management
+process are:&nbsp;&nbsp;a comprehensive risk measurement approach; a
+detailed structure of limits, guidelines, and other parameters
+used to govern risk taking; and a strong management information
+system for monitoring and reporting risks.&nbsp;&nbsp;These components are
+fundamental to both trading and non-trading activities, alike.
+Moreover, the underlying risks associated with these activities,
+such as credit, market, liquidity, and operating risk, are not
+new to banking, although their measurement and management can be
+somewhat more complex.&nbsp;&nbsp;Accordingly, the process of risk
+management for trading activities should be integrated into the
+institution's overall risk management system to the fullest
+extent possible using a conceptual framework common to the bank's
+other activities.&nbsp;&nbsp;Such a common framework enables the
+institution to manage its consolidated risk exposure more
+effectively, especially since the various individual risks
+involved in trading activities can, at times, be interconnected
+and can often transcend specific markets.&nbsp;&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As is the case with all risk-bearing activities, the
+risk exposures a banking organization assumes in its trading and
+derivatives activities should be fully supported by an adequate
+capital position.&nbsp;&nbsp;Banking organizations should ensure that their
+capital positions are sufficiently strong to support all trading
+and derivatives risks on a fully consolidated basis and that
+adequate capital is maintained in all affiliated entities engaged
+in these activities.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Risk Measurement.</b>&nbsp;&nbsp;An institution's system for
+measuring the various risks of trading and derivatives activities
+should be both comprehensive and accurate.&nbsp;&nbsp;Risks should be
+measured and aggregated across trading and non-trading activities
+on an institution-wide basis to the fullest extent possible. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;While examiners should not require the use of a single
+prescribed risk measurement approach for management purposes,
+they should evaluate the extent to which a bank's procedures
+enable management to assess exposures on a consolidated basis.
+Examiners should also evaluate whether the risk measures and the
+risk measurement process are sufficiently robust to reflect
+accurately the multiple types of risks facing the institution.
+Risk measurement standards should be understood by relevant
+personnel at all levels of the institution--from individual
+traders to the board of directors--and should provide a common
+framework for limiting and monitoring risk taking activities. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The process of marking trading and derivatives
+positions to market is fundamental to measuring and reporting
+exposures accurately and on a timely basis.&nbsp;&nbsp;Institutions active
+in dealing foreign exchange, derivatives, and other traded
+instruments should have the ability to monitor credit exposures,
+trading positions, and market movements at least daily.&nbsp;&nbsp;Some
+institutions should also have the capacity, or at least the goal,
+of monitoring their more actively traded products on a real-time
+basis.&nbsp;&nbsp;<br>
+<p>
+
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Analyzing stress situations, including combinations of
+market events that could affect the banking organization, is also
+an important aspect of risk measurement.&nbsp;&nbsp;Sound risk measurement
+practices include identifying possible events or changes in
+market behavior that could have unfavorable effects on the bank
+and assessing the ability of the bank to withstand them.&nbsp;&nbsp;These
+analyses should consider not only the likelihood of adverse
+events, reflecting their probability, but also plausible &quot;worst
+case&quot; scenarios.&nbsp;&nbsp;Ideally, such worst case analysis should be
+conducted on an institution-wide basis by taking into account the
+effect of unusual price changes or the default of a large
+counterparty across both the derivatives and cash trading
+portfolios and the loan and funding portfolios.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such stress tests should not be limited to quantitative
+exercises that compute potential losses or gains.&nbsp;&nbsp;They should
+also include more qualitative analyses of the actions management
+might take under particular scenarios.&nbsp;&nbsp;Contingency plans
+outlining operating procedures and lines of communication, both
+formal and informal, are important products of such qualitative
+analyses.&nbsp;&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Limiting Risks.</b>&nbsp;&nbsp;A sound system of integrated
+institution-wide limits and risk-taking guidelines is an
+essential component of the risk management process.&nbsp;&nbsp;Such a
+system should set boundaries for organizational risk-taking and
+should also ensure that positions that exceed certain
+predetermined levels receive prompt management attention, so that
+they can be either reduced or prudently addressed.&nbsp;&nbsp;The limit
+system should be consistent with the effectiveness of the
+organization's overall risk management process and with the
+adequacy of its capital position.&nbsp;&nbsp;An appropriate limit system
+should permit management to control exposures, to initiate
+discussion about opportunities and risks, and to monitor actual
+risk taking against predetermined tolerances, as determined by
+the board of directors and senior management. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Global limits should be set for each major type of risk
+involved.&nbsp;&nbsp;These limits should be consistent with the bank's
+overall risk measurement approach and should be integrated to the
+fullest extent possible with institution-wide limits on those
+risks as they arise in all other activities of the firm.&nbsp;&nbsp;The
+limit system should provide the capability to allocate limits
+down to individual business units.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At times, especially when markets are volatile, traders
+may exceed their limits.&nbsp;&nbsp;While such exceptions may occur, they
+should be made known to senior management and approved only by
+authorized personnel.&nbsp;&nbsp;These positions should also prompt
+discussions between traders and management about the consolidated
+risk-taking activities of the firm or the trading unit.&nbsp;&nbsp;The
+seriousness of individual or continued limit exceptions depends
+in large part upon management's approach toward setting limits
+and on the actual size of individual and organizational limits
+relative to the institution's capacity to take risk.&nbsp;&nbsp;Banks with
+relatively conservative limits may encounter more exceptions to
+those limits than do institutions where limits may be less
+restrictive.&nbsp;&nbsp;Ultimately, examiners should ensure that stated
+policies are enforced and that the level of exposure is managed
+prudently.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Reporting</b>. An accurate, informative, and timely
+management information system is essential to the prudent
+operation of a trading or derivatives activity.&nbsp;&nbsp;Accordingly, the
+examiner's assessment of the quality of the management
+information system is an important factor in the overall
+evaluation of the risk management process.&nbsp;&nbsp;Examiners should
+determine the extent to which the risk management function
+monitors and reports its measures of trading risks to appropriate
+levels of senior management and to the board of directors.
+Exposures and profit and loss statements should be reported at
+least daily to managers who supervise but do not, themselves,
+conduct trading activities.&nbsp;&nbsp;More frequent reports should be made
+as market conditions dictate.&nbsp;&nbsp;Reports to other levels of senior
+management and the board may occur less frequently, but examiners
+should determine whether the frequency of reporting provides
+these individuals with adequate information to judge the changing
+nature of the institution's risk profile.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examiners should ensure that the management information
+systems translate the measured risk from a technical and
+quantitative format to one that can be easily read and understood
+by senior managers and directors, who may not have specialized
+and technical knowledge of trading activities and derivative
+products.&nbsp;&nbsp;Risk exposures arising from various products within
+the trading function should be reported to senior managers and
+directors using a common conceptual framework for measuring and
+limiting risks.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b>Management Evaluation and Review</b>.&nbsp;&nbsp;Management should
+ensure that the various components of a bank's risk management
+process are regularly reviewed and evaluated.&nbsp;&nbsp;This review should
+take into account changes in the activities of the institution
+and in the market environment, since the changes may have created
+exposures that require additional management and examiner
+attention.&nbsp;&nbsp;Any material changes to the risk management system
+should also be reviewed.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The independent risk management functions should
+regularly assess the methodologies, models, and assumptions used
+to measure risk and to limit exposures.&nbsp;&nbsp;Proper documentation of
+these elements of the risk measurement system is essential for
+conducting meaningful reviews.&nbsp;&nbsp;The review of limit structures
+should compare limits to actual exposures and should also
+consider whether existing measures of exposure and limits are
+appropriate in view of the bank's past performance and current
+capital position. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The frequency and extent to which banks should re-evaluate their risk measurement methodologies and models depends,
+in part, on the specific risk exposures created by their trading
+activities, on the pace and nature of market changes, and on the
+pace of innovation with respect to measuring and managing risks.
+At a minimum, banks with significant trading and derivative
+activities should review the underlying methodologies of their
+models at least annually--and more often as market conditions
+dictate--to ensure they are appropriate and consistent.&nbsp;&nbsp;Such
+internal evaluations may, in many cases, be supplemented by
+reviews by external auditors or other qualified outside parties,
+such as consultants who have expertise with highly technical
+models and risk management techniques.&nbsp;&nbsp;Assumptions should be
+evaluated on a continual basis. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Banks should also have an effective process to evaluate
+and review the risks involved in products that are either new to
+the firm or new to the marketplace and of potential interest to
+the firm.&nbsp;&nbsp;In general, a bank should not trade a product until
+senior management and all relevant personnel (including those in
+risk management, internal control, legal, accounting, and
+auditing) understand the product and are able to integrate the
+product into the bank's risk measurement and control systems.
+Examiners should determine whether the banking organization has a
+formal process for reviewing new products and whether it
+introduces new products in a manner that adequately limits
+potential losses. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<b>Managing Specific Risks.</b>&nbsp;&nbsp;The following discussions
+present examiner guidance for evaluating the specific components
+of a firm's risk management process in the context of each of the
+risks involved in trading cash and derivatives instruments.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Credit Risk.</i>&nbsp;&nbsp;Broadly defined, credit risk is the risk
+that a counterparty will fail to perform on an obligation to the
+banking institution.&nbsp;&nbsp;Banks should evaluate both settlement and
+pre-settlement credit risk at the customer level across all
+traded derivative and non-derivative products.&nbsp;&nbsp;On settlement
+day, the exposure to counterparty default may equal the full
+value of any cash flows or securities the bank is to receive.
+Prior to settlement, credit risk is measured as the sum of the
+replacement cost of the position, plus an estimate of the bank's
+potential future exposure from the instrument as a result of
+market changes.&nbsp;&nbsp;Replacement cost should be determined using
+current market prices or generally accepted approaches for
+estimating the present value of future payments required under
+each contract, given current market conditions. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Potential credit risk exposure is measured more
+subjectively than current exposure and is primarily a function of
+the time remaining to maturity and the expected volatility of the
+price, rate, or index underlying the contract.&nbsp;&nbsp;It is often
+assessed through simulation analysis and option valuation models,
+but can also be addressed by using &quot;add-ons,&quot; such as those
+included in the risk-based capital standard.&nbsp;&nbsp;In either case,
+examiners should evaluate the reasonableness of the assumptions
+underlying the bank's risk measure and should also ensure that
+banks that measure exposures using a portfolio approach do so in
+a prudent manner. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Master netting agreements and various credit
+enhancements, such as collateral or third-party guarantees, can
+be used by banks to reduce their counterparty credit risk.&nbsp;&nbsp;In
+such cases, a bank's credit exposures should reflect these risk
+reducing features only to the extent that the agreements and
+recourse provisions are legally enforceable in all relevant
+jurisdictions.&nbsp;&nbsp;This legal enforceability should extend to any
+insolvency proceedings of the counterparty.&nbsp;&nbsp;Banks should be able
+to demonstrate that they have exercised due diligence in
+evaluating the enforceability of these contracts and that
+individual transactions have been executed in a manner that
+provides adequate protection to the bank.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Credit limits that consider both settlement and pre-settlement exposures should be established for all counterparties
+with whom the bank trades.&nbsp;&nbsp;As a matter of general policy,
+trading with a counterparty should not commence until a credit
+line has been approved.&nbsp;&nbsp;The structure of the credit-approval
+process may differ among institutions, reflecting the
+organizational and geographic structure of the institution and
+the specific needs of its trading activities.&nbsp;&nbsp;Nevertheless, in
+all cases, it is important that credit limits be determined by
+personnel who are independent of the trading function, that these
+personnel use standards that are consistent with those used for
+nontrading activities, and that counterparty credit lines are
+consistent with the organization's policies and consolidated
+exposures.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examiners should consider the extent to which credit
+limits are exceeded and whether exceptions were resolved
+according to the bank's adopted policies and procedures.
+Examiners should also evaluate whether the institution's reports
+adequately provide traders and credit officers with relevant,
+accurate, and timely information about the credit exposures and
+approved credit lines.&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Trading activities that involve cash instruments often
+involve short-term exposures that are eliminated at settlement.
+However, in the case of derivative products traded in over-the-
+counter markets, the exposure can often exist for a period
+similar to that commonly associated with a bank loan.&nbsp;&nbsp;Given this
+potentially longer term exposure and the complexity associated
+with some derivative instruments, banks should consider not only
+the overall financial strength of the counterparty and its
+ability to perform on its obligation, but should also consider
+the counterparty's ability to understand and manage the risks
+inherent in the derivative product.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Market Risk.</i>&nbsp;&nbsp;Market risk is the risk to a bank's
+financial condition resulting from adverse movements in market
+prices.&nbsp;&nbsp;Accurately measuring a bank's market risk requires
+timely information about the current market values of its assets,
+liabilities, and off-balance sheet positions.&nbsp;&nbsp;Although there are
+many types of market risks that can affect a portfolio's value,
+they can generally be described as those involving forward risk
+and those involving options.&nbsp;&nbsp;Forward risks arise from factors
+such as changing interest rates and currency exchange rates, the
+liquidity of markets for specific commodities or financial
+instruments, and local or world political and economic events.
+Market risks related to options include these factors as well as
+evolving perceptions of the volatility of price changes, the
+passage of time, and the interactive effect of other market
+risks.&nbsp;&nbsp;All of these sources of potential market risk can affect
+the value of the institution and should be considered in the risk
+measurement process. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Market risk is increasingly measured by market
+participants using a value-at-risk approach, which measures the
+potential gain or loss in a position, portfolio, or institution
+that is associated with a price movement of a given probability
+over a specified time horizon.&nbsp;&nbsp;Banks should revalue all trading
+portfolios and calculate their exposures at least daily .
+Although banks may use risk measures other than value at risk,
+examiners should consider whether the measure used is
+sufficiently accurate and rigorous and whether it is adequately
+incorporated into the bank's risk management process. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examiners should also ensure that the institution
+compares its estimated market risk exposures with actual market
+price behavior.&nbsp;&nbsp;In particular, the output of any market risk
+models that require simulations or forecasts of future prices
+should be compared with actual prices.&nbsp;&nbsp;If the projected and
+actual results differ materially, the models should be modified,
+as appropriate.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Banks should establish limits for market risk that
+relate to their risk measures and that are consistent with
+maximum exposures authorized by their senior management and board
+of directors.&nbsp;&nbsp;These limits should be allocated to business units
+and individual traders and be clearly understood by all relevant
+parties.&nbsp;&nbsp;Examiners should ensure that exceptions to limits are
+detected and adequately addressed by management.&nbsp;&nbsp;In practice,
+some limit systems may include additional elements such as stop-loss limits and trading guidelines that may play an important
+role in controlling risk at the trader and business unit level;
+examiners should include them in their review of the limit
+system.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<i>Liquidity Risk.</i>&nbsp;&nbsp;Banks face two types of liquidity risk
+in their trading activities:&nbsp;&nbsp;those related to specific products
+or markets and those related to the general funding of the bank's
+trading activities.&nbsp;&nbsp;The former is the risk that a banking
+institution cannot easily unwind or offset a particular position
+at or near the previous market price because of inadequate market
+depth or because of disruptions in the marketplace.&nbsp;&nbsp;Funding
+liquidity risk is the risk that the bank will be unable to meet
+its payment obligations on settlement dates.&nbsp;&nbsp;Since neither type
+of liquidity risk is unique to trading activities, management
+should evaluate these risks in the broader context of the
+institution's overall liquidity.&nbsp;&nbsp;When establishing limits,
+institutions should be aware of the size, depth and liquidity of
+the particular market and establish trading guidelines
+accordingly.&nbsp;&nbsp;Management should also give consideration to the
+potential problems associated with replacing contracts that
+terminate early in volatile or illiquid markets.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In developing guidelines for controlling the liquidity
+risks in trading activities, banks should consider the
+possibility that they could lose access to one or more markets,
+either because of concerns about the bank's own creditworthiness,
+the creditworthiness of a major counterparty, or because of
+generally stressful market conditions.&nbsp;&nbsp;At such times, the bank
+may have less flexibility in managing its market, credit, and
+liquidity risk exposures.&nbsp;&nbsp;Banks that make markets in over-the-counter derivatives or that dynamically hedge their positions
+require constant access to financial markets, and that need may
+increase in times of market stress.&nbsp;&nbsp;The bank's liquidity plan
+should reflect the institution's ability to turn to alternative
+markets, such as futures or cash markets, or to provide
+sufficient collateral or other credit enhancements in order to
+continue trading under a broad range of scenarios.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Examiners should ensure that banking institutions that
+participate in over-the-counter derivative markets adequately
+consider the potential liquidity risks associated with the early
+termination of derivative contracts.&nbsp;&nbsp;Many forms of standardized
+contracts for derivative transactions allow counterparties to
+request collateral or to terminate their contracts early if the
+banking institution experiences an adverse credit event or a
+deterioration in its financial condition.&nbsp;&nbsp;In addition, under
+conditions of market stress, customers may ask for the early
+termination of some contracts within the context of the dealer's
+market making activities.&nbsp;&nbsp;In such situations, a bank that owes
+money on derivative transactions may be required to deliver
+collateral or settle a contract early and possibly at a time when
+the bank may face other funding and liquidity pressures.&nbsp;&nbsp;Early
+terminations may also open up additional, unintended, market
+positions.&nbsp;&nbsp;Management and directors should be aware of these
+potential liquidity risks and should address them in the bank's
+liquidity plan and in the broader context of the bank's liquidity
+management process.&nbsp;&nbsp;In their reviews, examiners should consider
+the extent to which such potential obligations could present
+liquidity risks to the bank.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i>Operational Risk, Legal Risk and Business Practices.</i>&nbsp;&nbsp;
+Operating risk is the risk that deficiencies in information
+systems or internal controls will result in unexpected loss.
+Legal risk is the risk that contracts are not legally enforceable
+or documented correctly.&nbsp;&nbsp;Although operating and legal risks are
+difficult to quantify, they can often be evaluated by examining a
+series of plausible &quot;worst-case&quot; or &quot;what if&quot; scenarios, such as
+a power loss, a doubling of transaction volume, a mistake found
+in the pricing software for collateral management, or an
+unenforceable contract.&nbsp;&nbsp;They can also be assessed through
+periodic reviews of procedures, documentation requirements, data
+processing systems, contingency plans, and other operating
+practices.&nbsp;&nbsp;Such reviews may help to reduce the likelihood of
+errors and breakdowns in controls, improve the control of risk
+and the effectiveness of the limit system, and prevent unsound
+marketing practices and the premature adoption of new products or
+lines of business.&nbsp;&nbsp;Considering the heavy reliance of trading
+activities on computerized systems, banks should have plans that
+take into account potential problems with their normal processing
+procedures.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Banks should also ensure that trades that are
+consummated orally are confirmed as soon as possible.&nbsp;&nbsp;Oral
+transactions conducted via telephone should be recorded on tape
+and subsequently supported by written documents.&nbsp;&nbsp;Examiners
+should ensure that the institution monitors the consistency
+between the terms of a transaction as they were orally agreed-upon and the terms as they were subsequently confirmed.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examiners should also consider the extent to which
+banks evaluate and control operating risks through the use of
+internal audits, stress testing, contingency planning, and other
+managerial and analytical techniques.&nbsp;&nbsp;Banks should also have
+approved policies that specify documentation requirements for
+trading activities and formal procedures for saving and
+safeguarding important documents that are consistent with legal
+requirements and internal policies.&nbsp;&nbsp;Relevant personnel should
+fully understand the requirements.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Legal risks should be limited and managed through
+policies developed by the institution's legal counsel (typically
+in consultation with officers in the risk management process)
+that have been approved by the bank's senior management and board
+of directors.&nbsp;&nbsp;At a minimum, there should be guidelines and
+processes in place to ensure the enforceability of counterparty
+agreements.&nbsp;&nbsp;Examiners should determine whether a bank is
+adequately evaluating the enforceability of its agreements before
+individual transactions are consummated.&nbsp;&nbsp;Banks should also
+ensure that the counterparty has sufficient authority to enter
+into the transaction and that the terms of the agreement are
+legally sound.&nbsp;&nbsp;Banks should further ascertain that their netting
+agreements are adequately documented, that they have been
+executed properly, and that they are enforceable in all relevant
+jurisdictions.&nbsp;&nbsp;Banks should have knowledge of relevant tax laws
+and interpretations governing the use of these instruments.
+Knowledge of these laws is necessary not only for the bank's
+marketing activities, but also for its own use of derivative
+products. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Sound business practices provide that banking
+organizations take steps to ascertain the character and financial
+sophistication of counterparties.&nbsp;&nbsp;This includes efforts to
+ensure that the counterparties understand the nature of and the
+risks inherent in the agreed transactions.&nbsp;&nbsp;Where the
+counterparties are unsophisticated, either generally or with
+respect to a particular type of transaction, banks should take
+additional steps to ensure that counterparties are made aware of
+the risks attendant in the specific type of transaction.&nbsp;&nbsp;While
+counterparties are ultimately responsible for the transactions
+into which they choose to enter, where a bank recommends specific
+transactions for an unsophisticated counterparty, the bank should
+ensure that it has adequate information regarding its
+counterparty on which to base its recommendation.<br>
+<p>
+ <b>III.</b>  <b>Internal Controls and Audits</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A review of internal controls has long been central to
+the Federal Reserve's examination of trading and derivatives
+activities.&nbsp;&nbsp;Policies and related procedures for the operation of
+these activities should be an extension of the institution's
+overall structure of internal controls and should be fully
+integrated into routine work-flows.&nbsp;&nbsp;Properly structured, a
+system of internal controls should promote effective and
+efficient operations, reliable financial and regulatory
+reporting, and compliance with relevant laws, regulations, and
+bank policies.&nbsp;&nbsp;In determining whether internal controls meet
+those objectives, examiners should consider:&nbsp;&nbsp;the overall control
+environment of the organization; the process for identifying,
+analyzing and managing risk; the adequacy of management
+information systems; and adherence to control activities such as
+approvals, confirmations and reconciliations.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Assessing the adequacy of internal controls involves a
+process of understanding, documenting, evaluating and testing an
+institution's internal control system.&nbsp;&nbsp;This assessment should
+include product or business line reviews which, in turn, should
+start with an assessment of the line's organizational structure.
+Examiners should check for adequate separation of duties,
+especially between trading desk personnel and internal control
+and risk management functions, adequate oversight by a
+knowledgeable manager without day-to-day trading
+responsibilities, and the presence of separate reporting lines
+for risk management and internal control personnel on one side
+and for trading personnel on the other.&nbsp;&nbsp;Product-by-product
+reviews of management structure should supplement the overall
+assessment of the organizational structure of the trading and
+derivatives areas.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Examiners are expected to conduct in-depth reviews of
+the internal controls of key activities.&nbsp;&nbsp;For example, for
+transaction recording and processing, examiners should evaluate
+written policies and procedures for recording trades, assess the
+trading area's adherence to policy, and analyze the transaction
+processing cycle, including settlement, to ensure the integrity
+and accuracy of the bank's records and management reports.
+Examiners should review the revaluation process in order to
+assess the adequacy of written policies and procedures for
+revaluing positions and for creating any associated revaluation
+reserves.&nbsp;&nbsp;Examiners should review compliance with revaluation
+policies and procedures, the frequency of revaluation, and the
+independence and quality of the sources of revaluation prices,
+especially for instruments traded in illiquid markets.&nbsp;&nbsp;All
+significant internal controls associated with the management of
+market risk, such as position versus limit reports and limit
+overage approval policies and procedures, should also be
+reviewed.&nbsp;&nbsp;Examiners should also review the credit approval
+process to ensure that the risks of specific products are
+adequately captured and that credit approval procedures are
+followed for all transactions.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+An important step in the process of reviewing
+internal controls is the examiner's appraisal of the frequency,
+scope, and findings of independent internal and external auditors
+and the ability of those auditors to review the bank's trading
+and derivatives activities.&nbsp;&nbsp;Internal auditors should audit and
+test the risk management process and internal controls on a
+periodic basis, with the frequency based on a careful risk assessment.&nbsp;&nbsp;The depth and frequency of internal audits should be
+increased if weaknesses and significant issues are discovered or
+if significant changes have been made to product lines, modelling
+methodologies, the risk oversight process, internal controls, or
+the overall risk profile of the institution.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In reviewing the risk management functions in
+particular, internal auditors should thoroughly evaluate the
+effectiveness of internal controls relevant to measuring,
+reporting and limiting risks.&nbsp;&nbsp;Internal auditors should also
+evaluate compliance with risk limits and the reliability and
+timeliness of information reported to the bank's senior
+management and board of directors.&nbsp;&nbsp;Internal auditors are also
+expected to evaluate the independence and overall effectiveness
+of the bank's risk management functions.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The level of confidence that examiners place in the
+banking organization's audit programs, the nature of the audit
+findings and management's response to those findings will
+influence the scope of the current examination of trading and
+derivatives activities.&nbsp;&nbsp;Even when the audit process and findings
+are satisfactory, examiners should document, evaluate and test
+critical internal controls.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Similar to the focus of internal auditors, examiners
+should pay special attention to significant changes in product
+lines, risk measurement methodologies, limits, and internal
+controls that have occurred since the last examination.
+Meaningful changes in earnings from trading or derivatives
+activities, or in the size of positions or the value at risk
+associated with these activities, should also receive emphasis
+during the examination. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For additional areas of testing and evaluation,
+examiners should consult the Capital Markets and Trading
+Activities Manual. If you have any questions regarding these
+practices, please call Roger Cole, (202/452-2618), Jim Houpt
+(202/452-3358), or Jim Embersit (202/452-5249).<br>
+<p>
+<p>
+<p>
+<center>Richard Spillenkothen
+<br>
+Director</center>
+
+<br>
+<p>
+
+<hr>
+<P>
+<B>Footnotes</B>
+<P>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;In general terms, derivative instruments are bilateral contracts or agreements whose value derives from the value of one or more underlying assets, interest rates, exchange rates, commodities, or financial or commodity indexes.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<A HREF="../">SR letters</A> | <a href="./">1993</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<A HREF="/">Home</A> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

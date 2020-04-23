@@ -1,0 +1,161 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR SR 04-1 on Interagency Policy on Banks/Thrifts Providing Financial Support to Funds Advised by the Banking Organization -- January 5, 2004</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 04-1<br>
+		January&nbsp;5,&nbsp;2004</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+   SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION 
+   STAFF AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC 
+   AND FOREIGN BANKING ORGANIZATION SUPERVISED BY THE 
+   FEDERAL RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Interagency 
+   Policy on Banks/Thrifts Providing Financial Support 
+   to Funds Advised by the Banking Organization</div>
+<p>The Board of Governors of the Federal Reserve System, 
+   Federal Deposit Insurance Corporation, Office of 
+   the Comptroller of the Currency, and Office of Thrift 
+   Supervision (the agencies) have issued the attached 
+   <i>Interagency Policy on Banks/Thrifts Providing 
+   Financial Support to Funds Advised by the Banking 
+   Organization or its Affiliates</i>. This interagency 
+   policy statement sets forth the collective views 
+   of the agencies concerning the safety and soundness 
+   implications of a bank providing financial support 
+   to investment funds advised by the bank or its affiliates 
+   (i.e.,&nbsp;affiliated investment fund). </p>
+<p>The three core principles 
+   contained in the interagency policy statement emphasize 
+   that a bank should <b>not</b>:</p>
+<ul class="indent">
+   <li>inappropriately place its resources and reputation 
+      at risk for the benefit of affiliated investment 
+      funds' investors and creditors;</li>
+   <li>violate the limits and requirements contained 
+      in sections 23A and 23B of the Federal Reserve 
+      Act and Regulation&nbsp;W, other applicable legal 
+      requirements, or any special supervisory condition 
+      imposed by the agencies; or </li>
+   <li>create an expectation that the bank will prop 
+      up the advised fund(s).</li>
+</ul>
+<p>In addition, bank affiliated investment advisers 
+   are encouraged to establish alternate sources of 
+   financial support to avoid seeking support from affiliated 
+   banks. Finally, bank management is expected to notify 
+   and consult with its appropriate federal banking 
+   agency prior to (or immediately after, in the event 
+   of an emergency) providing material financial support 
+   to an affiliated investment fund.<a href="#Footnote1" name="Footref1" title="Footnote 1"><sup>1</sup></a></p>
+<p>The guidance contained in the interagency policy 
+   statement is consistent with the Board's existing 
+   guidance issued in 1994 through <a href="/boarddocs/srletters/1994/SR9453.htm">SR 
+   letters&nbsp;94-53</a>, <i>Investment Adviser Activities</i>, 
+   and 94-54, <i>Contributions by Banking Organizations 
+   to Mutual Funds and Common Investment Funds</i>. 
+   With the issuance of this interagency policy statement, 
+   SR&nbsp;letter 94-54 is rescinded. However, the sound 
+   practices for management and oversight of investment 
+   adviser activities recommended in SR&nbsp;letter&nbsp;94-53 
+   remain valid. </p>
+<p>As with certain other supervisory guidance issued 
+   prior to passage of the Gramm-Leach-Bliley Act&nbsp;(GLBA), 
+   examiners are reminded of the necessary modifications 
+   in the implementation of that guidance in the context 
+   of functional regulation. Under GLBA the SEC, as 
+   the functional regulator of the investment advisory 
+   activities of registered investment advisors, has 
+   primary rulemaking and supervisory responsibility 
+   for those advisers.&nbsp; Accordingly, the guidance 
+   advanced in SR&nbsp;letter&nbsp;94-53 as it pertains 
+   to the examination of investment advisers to mutual 
+   funds should now be viewed principally as guidance 
+   applicable to the parent bank or bank holding company 
+   in its oversight and control of functionally regulated 
+   entities.<a href="#Footnote2" name="Footref2" title="Footnote 2"><sup>2</sup></a> 
+   All other advisory activities, such as trust departments 
+   operating collective investment funds, remain subject 
+   to the guidance contained in SR&nbsp;letter&nbsp;94-53 
+   as well as the new interagency guidance on providing 
+   financial support to funds advised by banking organizations. 
+</p>
+<p>Reserve Banks are requested to send a copy of this 
+   SR&nbsp;letter and the interagency policy statement 
+   to senior management at domestic and foreign banking 
+   organizations supervised by the Federal Reserve. 
+   If you have any questions or are notified of actual 
+   or pending material financial support by a state 
+   member bank, or branch or agency subject to Federal 
+   Reserve supervision, please contact Jim&nbsp;Embersit, 
+   Deputy Associate Director (202-452-5249), or Mike&nbsp;Schoenfeld, 
+   Senior Supervisory Financial Analyst (202-452-2836), 
+   Market and Liquidity Risk Section. </p>
+<div class="officer">Richard Spillenkothen<br>
+   Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+   <dt class="nobreak">Attachment:</dt>
+   <dd class="srltr"><a href="SR0401a1.pdf">Interagency Policy on Banks/Thrifts 
+      Providing Financial Support to Funds Advised by the Banking Organization 
+      or its Affiliates<span class="pdf"> (173&nbsp;KB&nbsp;PDF)</span></a>.</dd>
+   <dt class="nobreak">Supersedes:</dt>
+   <dd class="srltr">SR&nbsp;letter&nbsp;94-54</dd>
+   <dt class="nobreak">Cross References: </dt>
+   <dd class="srltr"><a href="/boarddocs/srletters/1994/SR9453.htm">SR&nbsp;letters&nbsp;94-53</a>, 
+      SR&nbsp;94-54, and <a href="/boarddocs/srletters/2000/sr0013.htm">SR&nbsp;00-13</a></dd>
+   <dt class="nobreak">Modifies: </dt>
+   <dd class="srltr"><a href="/boarddocs/srletters/1994/SR9453.htm">SR&nbsp;letter&nbsp;94-53</a></dd>
+</dl>
+<hr width="50%" align="left">
+<div class="ftnotes"> <b>Notes:</b> 
+   <ol>
+      <li><a name="Footnote1"></a>The deferral or waiver 
+         of fees is <i>not</i> deemed to be material 
+         financial support for this purpose.&nbsp;&nbsp;<a href="#Footref1">Return&nbsp;to&nbsp;text</a></li>
+      <li><a name="Footnote2"></a>Federal Reserve examiners 
+         no longer examine a registered investment adviser 
+         that solely provides advice to a mutual fund 
+         subject to SEC supervision, unless GLBA criteria 
+         are met (see <a href="/boarddocs/srletters/2000/sr0013.htm">SR 
+         letter 00-13</a> for additional details).&nbsp;&nbsp;<a href="#Footref2">Return&nbsp;to&nbsp;text</a></li>
+   </ol>
+</div>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2004">2004</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: February 21, 2006</b> </div>
+</div>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

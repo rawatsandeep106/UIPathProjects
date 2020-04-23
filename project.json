@@ -3,11 +3,13 @@
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
+    "UiPath.Cryptography.Activities": "[1.0.7346.28183]",
     "UiPath.Excel.Activities": "[2.8.1-preview]",
     "UiPath.Mail.Activities": "[1.8.1-preview]",
     "UiPath.Python.Activities": "[1.1.6863.33404]",
     "UiPath.System.Activities": "[20.2.0-preview]",
     "UiPath.UIAutomation.Activities": "[20.2.0-preview]",
+    "UiPath.WebAPI.Activities": "[1.4.5-beta.864518]",
     "UiPathTeam.HTMLActivities": "[2.0.0]"
   },
   "webServices": [],

@@ -1,0 +1,120 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 99-25 (SUP) on minimum documentation standards for loan line sheets--September 29, 1999</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY bgcolor=ffffff>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=15% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border=0 align=left vspace=0 hspace=0></td>
+<td width=50%><font face=arial SIZE=-2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></td>
+<td width=15%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><font face=arial size=-2><b>DIVISION OF BANKING<br>SUPERVISION AND REGULATION<p></td>
+</tr>
+<tr>
+<td></td>
+<td><font size=-1 face=arial><b>SR 99-25 (SUP)<br>
+September 29, 1999<br>
+</td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%><font size=-1 face=arial>
+<b>TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b><br>
+<br>
+<table width="80%">
+<tr>
+<td width="12%" valign="top" align="left"><font face="arial" size=-1><b>SUBJECT:</b></td>
+<td width=88% align=left><font face="times new roman" size=3><b>Minimum Documentation Standards for Loan Line Sheets
+</b></font></td>
+</tr>
+</table><br>
+<p>
+<font size=3 face="times new roman">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Federal Reserve continues to review its examination and supervisory policies and procedures to bring them into full conformity with a risk-focused examination approach.&nbsp; As a part of these efforts, this letter updates <U>minimum</U> documentation standards for loan line sheets.&nbsp; These standards maintain the consistency and strength of our historic transactional approach and reflect the efficiencies inherent in a risk-focused approach to examinations. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Certain minimum documentation must appear on all line sheets in order to leave an acceptable audit trail.&nbsp; Much of this information is frequently placed on the line ticket automatically through use of a computer-based loan review system.&nbsp; However, the disposition of the loan and the reasons for that disposition are the most crucial entries on the line ticket; these must be documented by the examiner.&nbsp; Examiner judgment should be exercised in establishing the amount of documentation required to support the loan review decision.&nbsp; That decision and a summary of the reasons a loan is passed, listed for special mention, or adversely classified should be provided (preferably in bullet form) on the loan line ticket.&nbsp; Beyond that, the documentation will vary depending on the complexity and profile of the credit.&nbsp; Frequently, the examiner will provide more detailed information on the collateral, cash flow, repayment history, or other factors affecting the credit, but this additional information is not mandatory if the rationale for the disposition of the credit is otherwise clear. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The following information should be recorded on line tickets (items 1 through 7 are frequently provided through a computer-based loan review system):
+<p>
+<ul>
+<OL>
+<LI>Name and location of borrower</LI>
+<LI>Notation if the borrower is an insider or a related interest of an insider</LI>
+<LI>Business or occupation</LI>
+<LI>Loan terms</LI>
+<LI>Purpose of loan</LI>
+<LI>Repayment source</LI>
+<LI>Collateral summary and value</LI>
+<LI>Loan officer assigned to the credit and internal rating of the credit</LI>
+<LI>Total commitment and total outstanding balances</LI>
+<LI>Examination date</LI>
+<LI>Past due/nonaccrual status</LI>
+<LI>Amounts previously classified</LI>
+<LI>Loan disposition (pass, special mention, or adverse classification)</LI>
+<LI>Rationale for examiner's conclusions (preferably in bullet form)</LI>
+<LI>Name or initials of the examiner reviewing the credit</LI>
+<LI>Any significant comments by, or commitments from, management (including management's disagreement with the disposition of the loan, if applicable)</LI>
+<LI>Any noted documentation exceptions or loan administration policy or procedural weaknesses<B> </B>and any contravention of law, regulation, or policy</LI>
+</OL>
+</UL>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Besides the minimum line sheet documentation, additional documentation items should be included when needed to describe the terms of the credit and/or the disposition accorded it by the examiners - e.g., guarantors, amount of any specific reserve, amounts previously charged-off.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Loan line sheets should briefly note if information is not available or reliable due to deficient loan administration systems and processes, particularly with respect to loan and collateral documentation and collateral values.&nbsp; If such deficiencies are material, a listing of the exceptions should be noted in the report of examination.&nbsp; In addition, the affect of these loan administration weaknesses should be discussed and factored into the risk management rating. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Questions regarding this letter should be addressed to Molly&nbsp;S.&nbsp;Wassom, Deputy Associate Director, at 202-452-2305, or Robert&nbsp;Walker, Senior Supervisory Financial Analyst, at 202-452-3429.
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+Supersedes:&nbsp;&nbsp;SR letter 94-15
+<p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../">SR letters</a> | <a href="./">1999</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

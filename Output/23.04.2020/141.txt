@@ -1,0 +1,271 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 06-14 (Revised) on Revised Policy Governing Access to Confidential Supervisory Information -- August 29, 2006 -- Revised June 30, 2009</title>
+	<meta name="keywords" content=" ">
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 06 - 14<br>
+      August 29, 2006</b><br>
+		<div style="margin-top:.75ex; color:#990000; font-size:80%;">Revised June 30, 2009</div>
+   </div>
+</div>
+<br clear="all" />
+<div style="margin:3ex 0 3ex 0; color:#990000;"><i>The original Attachment 3 (Hiring Non-citizens) was replaced <span class="nobreak">June 30, 2009</span> by a more up-to-date version.</i></div>
+
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+  SUPERVISION<br>
+  AT EACH FEDERAL RESERVE BANK</div>				
+<div class="subject">SUBJECT:&nbsp;&nbsp;Revised Policy Governing Access to Confidential 
+   Supervisory Information</div>
+<p>On August 7, 2006, by an immediately effective interim rule, the Board amended 
+   its rule regarding the employment of non-citizens to permit the hiring of 
+   certain non-citizens into positions requiring access to confidential supervisory 
+   information, subject to certain conditions. Although the rule focuses on the 
+   hiring of Board staff, it affects Reserve Bank staff needing access to Board 
+   information in performing activities on behalf of the Board. The interim rule 
+   clarifies that Reserve Bank staff who seek access to confidential supervisory 
+   information must meet the same conditions that apply to Board staff. The interim 
+   rule retains the Board's preference for employing U.S. citizens and U.S. nationals 
+   over equally qualified persons who are not U.S. citizens or U.S. nationals. 
+   The interim rule parallels a recently implemented restriction that the Federal 
+   Open Market Committee&nbsp;(FOMC) applies to access by Reserve Bank employees 
+   to FOMC information. The full text of the Federal Register notice is attached 
+   (Attachment&nbsp;1). </p>
+<div class="SectionHeader">Rule Governing Access to Confidential Supervisory 
+   Information</div>
+<p>Confidential supervisory information generally consists of information regarding 
+   the Board's examination and supervision of entities subject to its jurisdiction. 
+   Under the August&nbsp;7,&nbsp;2006, interim rule (as was the case under the 
+   prior interim rule covering FOMC information),<a href="#Footnote1" name="Footref1" title="Footnote 1"><sup>1</sup></a> 
+   access to confidential supervisory information is limited to &quot;Protected 
+   Individuals,&quot; which covers three categories of persons: U.S. citizens, 
+   U.S. nationals, and non-citizens (i.e.,&nbsp;lawful permanent resident aliens 
+   or &quot;green card holders&quot;) who are eligible for U.S. citizenship and 
+   seeking such citizenship.<a href="#Footnote2" name="Footref2" title="Footnote 2"><sup>2</sup></a> 
+   In addition, under the new interim rule, a non-citizen in a position requiring 
+   a Ph.D. in economics or finance who meets certain conditions is also eligible 
+   for access to confidential supervisory information, as further described below. 
+</p>
+<p>These requirements extend to all supervisory staff requiring access to confidential 
+   supervisory information, including but not limited to Federal Reserve examiners, 
+   as well as other Reserve Bank employees who are authorized to access confidential 
+   supervisory information. The requirements apply to confidential supervisory 
+   information at any level (i.e.,&nbsp;Restricted-Controlled&nbsp;FR, Restricted&nbsp;FR, 
+   and Internal&nbsp;FR), in any form (e.g.,&nbsp;paper or electronic) and irrespective 
+   of where the information resides in the Federal Reserve System, including 
+   both national and local databases. Thus, unless an employee is a Protected 
+   Individual or qualifies for the limited exception for certain non-citizens 
+   described below, the employee may not have access to confidential supervisory 
+   information.</p>
+<div class="SectionHeader">Exception for Non-citizen<a href="#Footnote3" name="Footref3" title="Footnote 3"><sup>3</sup></a> 
+   Access to Confidential Supervisory Information</div>
+<p>The immediately effective interim rule provides a narrow exception for certain 
+   non-citizens with valid work visas hired into certain positions (which the 
+   interim rule refers to as an &quot;Eligible Position&quot;). The change was 
+   prompted by a specific business need to hire qualified individuals with a 
+   Ph.D. in economics or finance to perform risk quantification analysis required 
+   by evolving risk management practices and expected revisions to capital guidelines 
+   and frameworks (i.e., Basel II). The exception is a narrow one, as the only 
+   Eligible Positions are those that require a Ph.D. in economics or in finance 
+   and require access to confidential supervisory information. The exception 
+   does not extend, for example, to Federal Reserve examiners or supervision 
+   staff in other job functions that require access to confidential supervisory 
+   information. A non-citizen employed in an Eligible Position will be permitted, 
+   however, to receive a temporary credential authorizing his or her participation 
+   in an examination or inspection as a subject matter expert. </p>
+<p>For a non-citizen with a valid work visa employed in an Eligible Position, 
+   access to confidential supervisory information and the level of access that 
+   the non-citizen is eligible to receive are contingent on the non-citizen meeting 
+   certain Country List, employment, and residency requirements. In addition, 
+   the Director of the Board's Division of Banking Supervision and Regulation 
+   must concur with a Reserve Bank's recommendation to provide a non-citizen 
+   in an Eligible Position access to confidential supervisory information as 
+   a condition for allowing access and a background investigation satisfactory 
+   to the Board may be required.<a href="#Footnote4" name="Footref4" title="Footnote 4"><sup>4</sup></a> The rule distinguishes between non-citizens 
+   from a country on the Country List, which is contained in the annual federal 
+   appropriations' laws, and those non-citizens who are from a country that is 
+   not on the Country List. While the Board, whose funds are not appropriated, 
+   is not subject to the limitations specifying the countries whose citizens 
+   are eligible to be hired as federal employees using appropriated funds, the 
+   interim rule uses the Country List as a common point of reference to help 
+   align the Board's practices with those approved by Congress in appropriating 
+   funds to federal government agencies. This will help ensure consistent treatment 
+   for all System employees engaged in supervisory activities, which are conducted 
+   by the Reserve Banks under delegated authority by the Board. </p>
+<p>Attachment 2 contains a table that summarizes the information access policy 
+   by category of staff and security level, including the new exception for non-citizens 
+   with valid work visas employed in Eligible Positions. Under the new interim 
+   rule, a non-citizen with a valid work visa who is from a country on the Country 
+   List, and who is employed in an Eligible Position, may receive access to confidential 
+   supervisory information classified as Internal&nbsp;FR or Restricted&nbsp;FR. 
+   A non-citizen in this category would be eligible for access to the most sensitive 
+   information, Restricted-Controlled&nbsp;FR information, only after meeting 
+   the following conditions: (1)&nbsp;the Reserve Bank officer-in-charge of supervision 
+   has recommended the employee for access to Restricted-Controlled information 
+   and the Board's Director of Banking Supervision and Regulation has concurred 
+   with the recommendation; (2)&nbsp;the employee has resided in the United States 
+   for at least six&nbsp;years and has been employed for at least two&nbsp;years 
+   in the Federal Reserve System; and (3)&nbsp;the employee has passed a background 
+   investigation acceptable to the Board. A non-citizen with a valid work visa 
+   who is from a country <i>not</i> on the Country List, and who is employed 
+   in an Eligible Position, may be granted access to Internal&nbsp;FR information 
+   without having to meet the length of employment or U.S. residency requirements. 
+   Further, a non-citizen in this category would be eligible to receive access 
+   to Restricted&nbsp;FR information if he or she meets the same three conditions 
+   noted above. Such a non-citizen, however, would <i>not</i> be eligible for 
+   access to Restricted-Controlled information under the interim rule. </p>
+<p>Attachment 3 contains the current Country List used by federal government 
+   agencies, which is the common point of reference for applying the interim 
+   rule. If the employee's country is deleted from the Country List after the 
+   employee begins his or her employment with the Federal Reserve System, the 
+   employee's existing access to confidential supervisory information designated 
+   as Restricted&nbsp;FR or Restricted-Controlled&nbsp;FR will not be affected by the change 
+   in the Country List. Similarly, the employee would continue to be eligible 
+   for access to confidential supervisory information classified Restricted-Controlled&nbsp;FR information and may be granted such access if he or she meets the additional 
+   conditions outlined below for employees from a country on the Country List.</p>
+<div class="SectionHeader">Grandfathering Provisions</div>
+<p>For some Reserve Banks, these requirements may represent a change from past 
+   Reserve Bank practice. Accordingly, a small number of Reserve Bank staff who 
+   had access to confidential supervisory information as of August&nbsp;7,&nbsp;2006, 
+   the effective date of the interim rule, who now would not qualify for such 
+   access or need to take additional steps to be granted access, may continue 
+   their existing level of access subject to the successful completion of a background 
+   check. This means, for example, that a non-citizen Reserve Bank employee who 
+   is not from a country on the Country List and who currently has access to 
+   Restricted&nbsp;FR information, will continue to have access to this information, 
+   but will be subject to successful completion of a background check. As a non-citizen 
+   from a country not on the Country List, this employee would remain ineligible 
+   for access to Restricted-Controlled&nbsp;FR information. As previously noted, 
+   background checks will be performed by the Board on behalf of Reserve Banks 
+   following current procedures.</p>
+<p>The interim rule does permit a lawful permanent resident alien who was a System 
+   employee as of January&nbsp;1,&nbsp;2006, who does not currently have access 
+   to confidential supervisory information and who does not qualify as a Protected 
+   Individual because he or she failed to file for citizenship within six months 
+   of eligibility, to become a Protected Individual if he or she meets the requirements 
+   of the interim rule and undergoes a background check acceptable to the Board. 
+   The interim rule permits this employee to become a Protected Individual if, 
+   before requesting access to confidential supervisory information, he or she 
+   files for citizenship. To retain access to confidential supervisory information 
+   under this grandfathering provision, the employee must attain U.S. citizenship 
+   within two&nbsp;years of applying for it, not counting the processing time 
+   by the Department of Homeland Security, Citizenship and Immigration Services. 
+   In contrast, a lawful permanent resident alien hired after the effective date 
+   of this interim rule who fails to file for citizenship within six&nbsp;months 
+   of eligibility would not be considered a Protected Individual. He or she would 
+   only qualify as a Protected Individual upon becoming a U.S. citizen.</p>
+<div class="SectionHeader">Implementation and Compliance</div>
+<p>A number of related policies and forms (e.g.,&nbsp;confidentiality agreements, 
+   Intending Citizenship forms) will be updated as a result of these changes. 
+   While citizenship requirements pertaining to confidential supervisory information 
+   apply to all employees requiring such access, as clarified earlier in this 
+   letter, the procedures for Federal Reserve examiners outlined in <a href="/boarddocs/srletters/1994/SR9440.htm">SR&nbsp;letter&nbsp;94-40</a>, 
+   &quot;Citizenship Policy and Requirements for Federal Reserve Examiners,&quot; 
+   continue to be in effect, including completion of the required Intending Citizenship 
+   form. At this time, Reserve Banks should review their internal practices and 
+   procedures, and immediately implement enhancements as necessary to comply 
+   with the citizenship access requirements. Strong consideration should also 
+   be given to ensuring that all employment notices for positions requiring access 
+   to confidential supervisory information contain appropriate disclosure about 
+   the Federal Reserve's citizenship requirements. </p>
+<p>Since the revised policy is newly implemented and has numerous technical provisions 
+   requiring compliance, we encourage Reserve Banks with specific situations 
+   and questions about applicability to consult frequently and as needed with 
+   the appropriate Board staff. Within the Board's Division of Banking Supervision 
+   and Regulation, questions concerning the policy should be directed to Cynthia&nbsp;Carter, 
+   Senior Supervisory Financial Analyst at (202)&nbsp;452-3633. In the Board's 
+   Legal Division, questions concerning the Board's rule on non-citizens, including 
+   the County List, should be directed to Alye&nbsp;Foster, Senior Counsel at 
+   (202)&nbsp;452-5289.</p>
+<div class="officer">Roger T. Cole<br>
+   Acting Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+   <dt class="nobreak">Enclosures:</dt>
+   <dd class="srltr">Attachment 1 &#150; <a href="SR0614a1.pdf">Federal Register 
+      Notice<span class="pdf"> (793&nbsp;KB&nbsp;PDF)</span></a> 
+      <div class="smindent"><span class="ltrheadersm">August 7, 2006</span></div>
+      <br>
+      Attachment 2 &#150; <a href="SR0614a2.pdf">Access Policy for Confidential 
+      Supervisory Information<span class="pdf"> (240&nbsp;KB&nbsp;PDF)</span></a> 
+      <div class="smindent"><span class="ltrheadersm">Revised Rule effective August 
+               2006</span></div>
+      <br>
+      Attachment 3 &#150; <a href="SR0614a3.pdf">Hiring Non-citizens<span class="pdf"> 
+      (72&nbsp;KB&nbsp;PDF)</span></a> 
+      <div class="smindent"><span class="ltrheadersm">June 2009</span></div>
+   </dd>
+</dl>
+<hr width="50%" align="left">
+<div class="ftnotes"> <b>Notes:</b> 
+   <ol>
+      <li><a name="Footnote1"></a>The prior interim rule was published as an 
+         immediately effective interim rule on November&nbsp;7,&nbsp;2005. It 
+         permitted the Board to hire certain non-citizens into positions requiring 
+         access to FOMC information, with certain restrictions and subject to 
+         a preference for citizens over equally qualified non-citizens.&nbsp;&nbsp;<a href="#Footref1">Return&nbsp;to&nbsp;text</a></li>
+      <li><a name="Footnote2"></a>Protected Individual means: (i)&nbsp;A citizen 
+         or national of the United&nbsp;States, (ii)&nbsp;an alien who: (A)&nbsp;meets 
+         the conditions set forth in 8&nbsp;USC&nbsp;1324b(a)(3)(B), as amended, 
+         and (B)&nbsp;has filed with the Board or the appropriate Federal Reserve 
+         Bank a declaration of intention to become a citizen of the United&nbsp;States, 
+         or (iii)&nbsp;an alien who: (A)&nbsp;is lawfully admitted for permanent 
+         residence, is admitted for temporary residence under 8&nbsp;USC&nbsp;1160(a) 
+         or&nbsp;1255a(a)(1), is admitted as a refugee under 8&nbsp;USC&nbsp;1157, 
+         or is granted asylum under 8&nbsp;USC&nbsp;1158; (B)&nbsp;was an employee 
+         of the Board or a Federal Reserve Bank on January&nbsp;1,&nbsp;2006; 
+         (C)&nbsp;before requesting access to sensitive information filed an 
+         application for U.S. citizenship; and (D)&nbsp;has had his or her application 
+         for citizenship pending for two&nbsp;years or less, unless in the case 
+         of an application pending for a longer period, the alien can establish 
+         that the alien is actively pursuing naturalization. Time consumed by 
+         the Department of Homeland Security, Citizenship and Immigration Services 
+         (or its predecessor or successor agency) in processing the application 
+         shall not be counted toward the 2-year period. <i>See</i> 12&nbsp;CFR&nbsp;268.205(a)(9).&nbsp;&nbsp;<a href="#Footref2">Return&nbsp;to&nbsp;text</a></li>
+      <li><a name="Footnote3"></a>A non-citizen means &quot;any individual who 
+         is not a Protected Individual&quot; thus, the term may include a lawful 
+         permanent resident alien who chooses not to file for U.S. citizenship. 
+         12&nbsp;CFR&nbsp;268.205(a)(8).&nbsp;&nbsp;<a href="#Footref3">Return&nbsp;to&nbsp;text</a></li>
+      <li><a name="Footnote4"></a>When a background investigation is required, 
+         the investigation is performed by the Board on behalf of a Reserve Bank, 
+         following procedures currently in place.&nbsp;&nbsp;<a href="#Footref4">Return&nbsp;to&nbsp;text</a></li>
+   </ol>
+</div>
+
+<br clear="all">
+<br>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2006">2006</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: June 30, 2009</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

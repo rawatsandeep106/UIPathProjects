@@ -1,0 +1,515 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 95-18 (SUP) on section 309 of the Riegle Community Development and Regulatory Improvement Act of 1994, intra-agency appeals process -- March 28, 1995</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF"><a name="pagetop"></a>
+<blockquote>
+<table border=0 width="600">
+<TR>
+<TD>
+<table border=0 width="600">
+<TR>
+<TD width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font SIZE=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><Div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font SIZE=3><b>SR 95-18 (SUP)<br>
+March 28, 1995<br></b></td>
+</tr></table>
+<b><br>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font SIZE=3><b>Section 309 of the Riegle Community Development and Regulatory Improvement Act of 1994, Intra-Agency Appeals Process</b></font></td>
+</tr>
+</table><br>
+<font SIZE=3><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board has approved final guidelines that implement the intra-agency
+appeals process required by section 309 of the Riegle Community Development and
+Regulatory Improvement Act of 1994.&nbsp;&nbsp;Attached is the press release and Federal Register notice regarding section 309.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This appeals process is available to all financial institutions supervised by the
+Federal Reserve and is effective immediately.&nbsp;&nbsp;Reserve Banks are asked to distribute these
+guidelines to those institutions in their district supervised by the Federal Reserve.&nbsp;&nbsp;In
+addition, Reserve Banks should begin to implement the procedures outlined in the attached
+Federal Register notice.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Should you have any questions regarding these procedures please contact
+either Ann Marie Kohlligian, (202)&nbsp;452-3528, or Bill Spaniel, (202)&nbsp;452-3469, at the Board.<br>
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+ATTACHMENT TRANSMITTED ELECTRONICALLY BELOW<br>
+<p>
+<p>
+<hr>
+<p>
+<br>
+<center>FEDERAL RESERVE SYSTEM
+<br>
+[Docket No. R-0867]
+<br>
+Internal Appeals Process</center>
+
+<br>
+<p>
+<font size = +1><b>AGENCY</b>:</font>
+Board of Governors of the Federal Reserve System.<br>
+<font size = +1><br>
+<b>ACTION</b>:&nbsp;&nbsp;</font>
+Final guidelines.<br>
+ <b>
+<font size = +1><br>
+SUMMARY</b>:&nbsp;&nbsp;</font>
+The Board is issuing its final guidelines on an
+internal appeals process for institutions wishing to appeal an
+adverse material supervisory determination.<br>
+ <b>
+<font size = +1><br>
+EFFECTIVE DATE</b>:&nbsp;&nbsp;</font>
+March 24, 1995.<br>
+ <b>
+<font size = +1><br>
+FOR FURTHER INFORMATION CONTACT</b>:&nbsp;&nbsp;</font>
+Gregory A. Baer, Managing
+Senior Counsel, Legal Division (202/452-3236); Shawn McNulty,
+Assistant Director, Division of Consumer and Community Affairs
+(202/452-3946); or Ann Marie Kohlligian, Senior Counsel/Manager,
+Division of Banking Supervision and Regulation (202/452-3528),
+Board of Governors of the Federal Reserve System.&nbsp;&nbsp;For the
+hearing impaired only, Telecommunication Device for the Deaf
+(TDD), Dorothea Thompson (202/452-3544).<br>
+
+<font size = +1> <b><br>
+SUPPLEMENTARY INFORMATION</b>:<br>
+</font>
+ <b><br>
+Background</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 309 of the Riegle Community Development and
+Regulatory Improvement Act of 1994 (the Act), 12 U.S.C. 4806,
+requires the Board (as well as the other Federal banking
+agencies) to establish an independent, intra-agency appellate
+process that is available to institutions to seek review of
+material supervisory determinations.&nbsp;&nbsp;Section 309 specifies
+various requirements that the appellate process must meet.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On December 29, 1994, the Board published for public comment
+its proposed guidelines that would implement the intra-agency
+appellant process required by section 309 of the Act. (59 Fed. Reg. 67297 (December 29, 1994)).&nbsp;&nbsp;In general, the proposed
+guidelines required that:&nbsp;&nbsp;(1) all appeals be in writing and
+approved by the institution's board of directors; (2) all appeals
+be heard and decided within specified timeframes; (3) the initial
+appeal be heard by a person or persons selected by the Reserve
+Bank (the review panel) who had not participated in, or reported
+to the persons who made, the material supervisory determination
+under review; (4) an adverse decision by the review panel be
+appealable to a Reserve Bank President; (5)&nbsp;an adverse decision
+by a Reserve Bank President be appealable to the Board; and (6)
+Reserve Banks establish safeguards to protect institutions that
+file appeals from examiner retaliation.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Although section 309 requires the Board to develop an
+internal appeals process only for state member banks, the
+proposed guidelines expanded the process and made it available to
+all institutions that are subject to Federal Reserve oversight,
+including bank holding companies, U.S. agencies and branches of
+foreign banks and Edge corporations.<a href="#Footnote1" title="Footnote 1" name="Footref1"><SUP>1</SUP></a>  The proposed guidelines
+also defined a &quot;material supervisory determination&quot; to include
+all material matters relating to the examination or inspection
+process, but exclude those matters, such as the imposition of a
+prompt corrective action directive or a cease and desist order,
+for which an alternative, independent right of appeal exists.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As noted in the proposed guidelines, the Board continues to
+believe that questions about or objections to supervisory
+determinations made during the course of an inspection or
+examination are most effectively handled through the longstanding
+Federal Reserve practice of resolving any problems informally
+during the course of the inspection or examination process.<br>
+<p>
+<b><br>Public Comments</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board received 27 comments on its proposed guidelines
+from Federal Reserve Banks, financial institutions, trade
+associations, law firms and a consulting firm.&nbsp;&nbsp;While the
+comments were generally supportive of the proposed guidelines,
+most comments submitted suggested changes or raised concerns
+regarding the implementation of the internal appeals process.
+These proposed changes and concerns, which are discussed below,
+relate to five areas:&nbsp;&nbsp;(1) protection from examiner retaliation;
+(2) independence of the review panel; (3) who should decide the
+final appeal at the Board; (4) the need for additional, specific
+timeframes; and (5)&nbsp;procedural issues.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(1)&nbsp;&nbsp;&nbsp;&nbsp;<b>Protection from Examiner Retaliation</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Thirteen comments raised concerns about examiner
+retaliation.&nbsp;&nbsp;Several comments suggested that the Ombudsman,
+which the Board is required to establish under section 309 of the
+Act, should play a role in addressing this issue, such as serving
+as an independent contact for institutions that believe they have
+been subject to some form of retaliation or ensuring that
+different examiners conduct examinations that commence after an
+appeal has been filed.&nbsp;&nbsp;Some comments suggested that greater
+Board involvement in the appeals process would protect
+institutions against retaliation, while others suggested that the
+guidelines include specific sanctions and disciplinary actions
+for examiners found to have engaged in retaliation due to an
+appeal.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board acknowledges that some institutions may perceive
+that availing themselves of the appeals process may result in
+retaliatory action by examiners.&nbsp;&nbsp;As proposed, the guidelines
+require the Reserve Banks to establish safeguards to protect
+institutions that file appeals from retaliation.&nbsp;&nbsp;While the Board
+believes that this provides sufficient protection and meets the
+requirements of section&nbsp;309, the Ombudsman is available to
+address such concerns and may be contacted by institutions who
+believe they may have suffered retaliation as a result of an
+appeal.&nbsp;&nbsp;The role of this official and his/her procedures for
+addressing these concerns will be outlined in the Board's Policy
+Statement for the Ombudsman.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(2)&nbsp;&nbsp;&nbsp;&nbsp;<b>Independence of Review Panel</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Six comments suggested modifications to the part of the
+guidelines that addressed the independence of the review panel.
+Several stated that the appeals process cannot be independent so
+long as it remains an internal procedure and suggested that
+outside parties, such as a peer review panel or a panel appointed
+by the Federal Financial Institutions Examination Council, hear
+and decide all appeals.&nbsp;&nbsp;Another comment suggested that the
+review panel exclude not only persons who participated in, or who
+directly or indirectly report to the person(s) who participated
+in, the material supervisory determination under appeal, but
+anyone who directly or indirectly supervises the person(s) who
+made such determination.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 309 of the Act reflects a Congressional conclusion
+that an intra-agency appeals process will provide institutions
+with an adequate means to redress adverse material supervisory
+determinations.&nbsp;&nbsp;The Board does not believe that it is necessary
+to expand the guidelines beyond what is required by the statute.
+Similarly, section 309 requires that the person hearing the
+appeal not directly or indirectly report to the person who
+initially made the supervisory decision under review.
+Consequently, the composition of the review panel has not been
+modified in the final guidelines.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(3)&nbsp;&nbsp;&nbsp;&nbsp;<b>Who Decides the Final Appeal at the Board</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposed guidelines provided for an appeal of an adverse
+decision by a Reserve Bank President to the appropriate Board
+division director, who would consult with the appropriate
+Governor of the Board's oversight committee for that division.
+Three comments suggested that it would be more suitable for a
+Governor to review a decision by a Reserve Bank President.&nbsp;&nbsp;The
+final guidelines have been modified so that an appeal of a
+Reserve Bank President's decision will be to the Governor who
+serves as chairman of the appropriate oversight committee, who
+will consult with that division's director.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(4)&nbsp;&nbsp;&nbsp;&nbsp;<b>Need for Additional Timeframes</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The proposed guidelines required institutions to file an
+appeal within 30 days of the material supervisory determination
+and the review panel to decide the appeal within 30 days of its
+receipt.&nbsp;&nbsp;The proposed guidelines also required Reserve Bank
+Presidents to make a decision on any matter appealed to them
+within 30 days of receipt.&nbsp;&nbsp;Several comments noted that the
+proposed guidelines did not contain timeframes for other actions,
+such as the time in which an appeal should be filed with a
+Reserve Bank President or the Board, or the time in which the
+Board would make a decision on an appeal.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board agrees with these comments on the need for
+additional timeframes.&nbsp;&nbsp;Consequently, the final guidelines
+require that an appeal to a Reserve Bank President or the Board
+to be filed within 30 days of receipt of an adverse decision by
+the review panel or the Reserve Bank President, respectively.
+The final guidelines also require that the Board decide any
+appeal within 60 days of its receipt.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(5)&nbsp;&nbsp;&nbsp;&nbsp;<b>Procedural Issues</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Several comments suggested that the Board's guidelines
+include some additional procedures in order to ensure that the
+internal appeal process works smoothly.&nbsp;&nbsp;One comment suggested
+that the guidelines explicitly provide that the material
+supervisory determination remain in effect while it is under
+appeal, while another comment suggested that the determination be
+stayed pending the completion of the appeal.&nbsp;&nbsp;The Board believes
+that it is appropriate for the determination to remain in effect
+while it is under appeal, and the final guidelines have been
+modified to state this explicitly.&nbsp;&nbsp;The Board does not believe
+that section 309 of the Act is intended to stay the Board's
+supervisory decisions, but rather is designed to provide
+institutions with a procedure by which to voice objections to
+supervisory determinations for which no other formal appeals
+procedures exist.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Another comment suggested that institutions that consent to
+the issuance of a formal enforcement action, such as a cease and
+desist order, be allowed to use the internal appeals process to
+challenge the material supervisory determinations that led to the
+enforcement action.&nbsp;&nbsp;This suggestion seems inconsistent with the
+intent of section&nbsp;309 of the Act, which is to provide an avenue
+for the review of material supervisory determinations and not to
+contest enforcement actions for which an alterative appeals
+mechanism exists.&nbsp;&nbsp;Therefore, the Board has not adopted this
+suggestion.&nbsp;&nbsp;Another comment suggested that the record be
+expunged of any material supervisory decisions that have been
+modified or overturned on appeal.&nbsp;&nbsp;The Board believes that it is
+appropriate to maintain all records of its supervisory actions,
+including those relating to a decision that is modified or
+overturned as a result of an internal appeal.&nbsp;&nbsp;Nonetheless, the
+Reserve Banks are expected to maintain complete records of any
+appeal, including updating all files, both hard copy and
+electronic, to reflect the results of all appeals.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One comment suggested that the board of directors of an
+institution only be required to approve the initiation of an
+appeal, but that management be allowed to decide on any
+subsequent appeals to a Reserve Bank President or the Board.
+Another comment noted that getting approval of the board of
+directors of a foreign bank would be extremely difficult in order
+for its U.S. agency or branch to file timely appeals.&nbsp;&nbsp;The Board
+continues to believe that the board of directors should be
+involved in each step of the appeals process; therefore, the
+final guidelines still require board approval for each step in
+the appeals process.&nbsp;&nbsp;On the other hand, the final guidelines
+have been modified to allow the senior management person(s) with
+authority for U.S. operations of a foreign bank to approve
+appeals; however, he or she must approve each step of the appeal.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board has decided to adopt several other procedural
+suggestions.&nbsp;&nbsp;The final guidelines provide that any appeal filed
+must contain all of the facts and arguments that the institution
+would like to present to the review panel, the Reserve Bank
+President or the Board, as the case may be, and that the review
+panel, the Reserve Bank President or the Board may reject the
+appeal for lack of clarity or information.&nbsp;&nbsp;In such a case, an
+institution would have 30 days in which to refile a rejected
+appeal.&nbsp;&nbsp;Last, the final guidelines make explicit that the
+internal appeals process does not give the appealing institutions
+any discovery or other similar rights.<br>
+<p>
+ <b>
+GUIDELINES FOR APPEALS OF MATERIAL SUPERVISORY DETERMINATIONS</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Section 309 of the Riegle Community Development and
+Regulatory Improvement Act of 1994, 12 U.S.C. 4806, requires the
+Board and the other Federal banking agencies to establish an
+independent, intra-agency process to review appeals of material
+supervisory determinations.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The purpose of these guidelines is to allow each Reserve
+Bank to administer its own appellate process, but to establish
+procedures under which all Reserve Banks' appellate process must
+operate.&nbsp;&nbsp;Doing so will ensure that each Reserve Bank's process
+is consistent with section 309 and that institutions will be
+granted the same appellant rights regardless of the Federal
+Reserve district in which they reside.<br>
+<br>
+<b>Procedures for Appealing a Material Supervisory Determination</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any appeal of a material supervisory determination pursuant
+to section 309 shall be filed and considered pursuant to the
+following procedures.<br>
+<p>
+(1) Any appeal shall be approved by the board of directors of the
+institution, or in the case of a U.S. agency or branch of a
+foreign bank, the senior management person(s) responsible for the
+bank's U.S. operations, and filed in writing with the Secretary
+of the Reserve Bank or other appropriate Reserve Bank official
+within 30 calendar days of receipt of the written material
+supervisory determination, unless the time for filing is extended
+by the Reserve Bank.&nbsp;&nbsp;The Reserve Bank shall promptly provide a
+copy of the appeal to the appropriate division director of the
+staff of the Board of Governors.<br>
+<p>
+(2) Any appeal shall contain all the facts and arguments that the
+institution wishes to present.&nbsp;&nbsp;The appeal may be rejected for
+lack of clarity or information.&nbsp;&nbsp;In such case, the institution
+may refile the appeal within 30 calendar days of receipt of
+written notice of the rejection of any filing.<br>
+<p>
+(3) The appeal shall be considered in the first instance by a
+person or persons selected by the Reserve Bank (the review panel)
+who --<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(A) did not participate in the material supervisory
+determination;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(B) do not directly or indirectly report to the person who
+made the material supervisory determination under review; and<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(C) are qualified to review the material supervisory
+determination.<br>
+<p>
+(4) The appellant institution may appear before the review panel
+in order to present testimony and, with the consent of the review
+panel, witnesses.&nbsp;&nbsp;The review panel shall also solicit the views of the Reserve Bank staff involved in the determination under
+appeal, Board staff, and, where appropriate, the staff of other
+supervisory agencies (for example, in case of joint examinations
+or inspections).&nbsp;&nbsp;Nothing in this appeals process shall create
+any discovery or other such rights.<br>
+<p>
+(5) Any appeal shall be decided, in writing, by the review panel
+within 30 calendar days of the filing of an informationally
+complete appeal, unless the appellant and the review panel
+jointly agree to extend the time for decision.<br>
+<p>
+
+<p>
+(6) Any appellant institution dissatisfied with the decision of
+the review panel may, with the consent of its board of directors
+of the institution, or in the case of a U.S. agency or branch of
+a foreign bank, the senior management person(s) responsible for
+the bank's U.S. operations, appeal that decision to the Reserve
+Bank President by filing a written appeal with the Secretary of
+the Reserve Bank or other appropriate Reserve Bank official
+within 30 calendar days of receipt of the review panel's written
+decision.&nbsp;&nbsp;The appeal shall contain all facts and arguments that
+the institution wishes to be considered.&nbsp;&nbsp;The appeal may be
+rejected for lack of clarity or information.&nbsp;&nbsp;In such case, the
+institution may refile the appeal within 30 calendar days of
+receipt of written notice of the rejection.&nbsp;&nbsp;The appeal shall be
+decided by the Reserve Bank President, in writing, within 30
+calendar days of the filing of an informationally complete
+appeal.<br>
+<p>
+(7) Any appellant institution dissatisfied with the decision of
+the Reserve Bank President may, with the consent of its board of
+directors of the institution, or in the case of a U.S. agency or
+branch of a foreign bank, the senior management person(s)
+responsible for the bank's U.S. operations, appeal that decision
+to the appropriate Governor by filing a written appeal with the
+Secretary of the Board within 30 calendar days of receipt of the
+Reserve Bank President's written decision.&nbsp;&nbsp;The appeal may be
+rejected for lack of clarity or information.&nbsp;&nbsp;In such case, the
+institution may refile the appeal within 30 calendar days of
+receipt of written notice of the rejection.&nbsp;&nbsp;The appeal shall be
+decided, in writing, by the appropriate Governor, who shall
+consult with the director of the appropriate division of the
+Board of Governors, within 60 calendar days of the filing of an
+informationally complete appeal. <br>
+
+<p>
+<br>
+<b>Safeguards Against Retaliation</b>. Each Reserve Bank shall establish
+appropriate safeguards to protect appellants from retaliation.
+The Board's Ombudsman will periodically contact institutions
+after their appeals have been decided in order to make certain
+that no retaliation has occurred.&nbsp;&nbsp;In addition, institutions who
+believe they have suffered retaliation as the result of an appeal
+may contact the Board's Ombudsman.<br>
+<br>
+<b>Availability of Procedures</b>. Each Reserve Bank shall make these
+guidelines and the Reserve Bank's process for selecting a review
+panel available to each institution in its district, any
+institution appealing a material supervisory determination, and
+any member of the public who requests them.<br>
+<br>
+<b>Eligible Institutions</b>. Any institution about which the Federal
+Reserve makes a material supervisory determination is eligible
+for the appeal process.&nbsp;&nbsp;This includes state member banks, bank
+holding companies and their nonbank subsidiaries, U.S. agencies
+and branches of foreign banks, Edge and agreement corporations,
+third party EDP servicers, and other entities examined or
+inspected by a Reserve Bank.<br>
+<br>
+<b>Material Supervisory Determination Defined</b>. Whether an appealed
+action constitutes a &quot;material supervisory determination&quot;
+eligible for the appeals process shall be decided by the person
+or persons hearing the appeal, and a determination that the
+action is not appealable under these guidelines may be further
+appealed to the Reserve Bank President or the appropriate
+oversight Governor in the same manner as any other adverse
+decision.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The term &quot;material supervisory determination&quot; includes, but
+is not limited to, material determinations relating to
+examination or inspection composite ratings, the adequacy of loan
+loss reserves and significant loan classifications.&nbsp;&nbsp;The term does <i>not </i>include any supervisory determination for which an independent right of appeal exists.&nbsp;&nbsp;Such actions include prompt corrective action directives issued pursuant to section 38 of the Federal Deposit Insurance Act, as amended (the FDI Act), actions
+to impose administrative enforcement actions under the FDI Act
+and the Bank Holding Company Act of 1956, as amended (the BHC
+Act), capital directives, and orders issued pursuant to
+applications under the BHC Act.<br>
+<br>
+<b>Effect of Appeal on Material Supervisory Determinations</b>. A
+material supervisory determination shall remain in effect while
+under appeal and until such time it is modified or overturned
+through the appeals process.&nbsp;&nbsp;The appeal of a material
+supervisory determination does not prevent the Federal Reserve
+from taking any supervisory or enforcement action -- formal or
+informal -- it deems appropriate to discharge the Federal
+Reserve's supervisory responsibilities. <br>
+<br>
+<b>Savings Provision</b>. Section 309 expressly provides that it shall
+not affect the authority of the Board or any other agency to take
+enforcement or supervisory action against an institution.&nbsp;&nbsp;In
+such cases, the rights of appeal provided for in the statutes and
+regulations concerning these actions shall govern.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;By order of the Board of Governors of the Federal Reserve
+System, March 24, 1995.<br>
+<p>
+<p>
+<center>(signed)
+<br>
+Jennifer J. Johnson,
+<br>
+Deputy Secretary of the Board.</center>
+
+<br>
+<p>
+<p>
+<p>
+
+<hr>
+<P>
+<B>Footnotes</B>
+<P>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;The final guidelines have been modified to state explicitly that third party EDP servicers subject to examination by the Federal Reserve may appeal any material supervisory determination.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<A HREF="../">SR letters</A> | <a href="./">1995</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<A HREF="/">Home</A> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

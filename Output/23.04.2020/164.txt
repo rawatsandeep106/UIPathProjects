@@ -1,0 +1,410 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+	<meta http-equiv="Content-Type" content="text/html; charset=iso-8859-1" />
+	<meta name="keywords" content="CRE loan workouts">
+	<meta name="description" content="The Federal Reserve Board of Governors in Washington DC." />
+	<title>FRB: Supervisory Letter SR 09-7 on Prudent Commercial Real Estate Loan workouts -- October 30, 2009</title>
+<link href="/resources/pubweb.css" rel="stylesheet" type="text/css" />
+<link href="/resources/secondary.css" rel="stylesheet" type="text/css" />
+<link href="/resources/print.css" rel="stylesheet" type="text/css" media="print"/>
+<link href="/boarddocs/srletters/letter_2009.css" rel="stylesheet" type="text/css" />
+
+<script language="JavaScript" type="text/javascript" src="/resources/bankingLeftNav.js"></script>
+<script language="JavaScript" type="text/javascript" src="/resources/exit_new.js"></script>
+<script language="JavaScript" type="text/javascript" src="/resources/swfLink.js"></script>
+
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+
+<body>
+<span id="skip2">
+<a href="#mainNav">skip to main navigation</a>
+<a href="#secondNav">skip to secondary navigation</a>
+<a href="#content">skip to content</a>
+</span>
+
+<!-- HEADER STARTS -->
+<table id="headerTopLinks" cellpadding="0" cellspacing="0">
+<tr><td class="headerTopLinksLeft">
+
+<a href="/whatsnew.htm">What's New</a> &middot; 
+<a href="/whatsnext.htm">What's Next</a> &middot; 
+<a href="/sitemap.htm">Site Map</a> &middot; 
+<a href="/azindex.htm">A-Z Index</a> &middot; 
+<a href="/careers/default.htm">Careers</a> &middot; 
+<a href="/feeds/default.htm">RSS</a> &middot; 
+<a href="/mediacenter/media.htm">All Videos</a> &middot;
+<a href="/faqs/faq.htm">Current FAQs</a>
+
+</td>
+<td class="curve1"></td>
+<td class="headerTopLinksRight">
+<form action="http://search.newyorkfed.org/board_public/search" method="GET"><label for="searchbox"><div id="skip2">Search</div></label><input type="text" name="text" size="12" maxlength="100" id="searchbox" >&nbsp;<input id="headerTopLinksSearchFormSubmit" type="image" src="/gifjpg/searchbutton.gif" name="Search" alt="Search" border="0">&nbsp;<a href="http://search.newyorkfed.org/board_public" class="search">Advanced Search</a></form>
+</td>
+<td class="curve2"></td>
+</tr></table>
+
+<div id="top">
+
+    <div id="headerMasthead"><a href="/default.htm"><img src="/bankinforeg/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System"></a></div>
+
+<a name="mainNav"></a>
+<div class="navMenuBack">
+<table id="navMenu" border="0" cellpadding="0" cellspacing="0">
+<tr>
+    <td>
+        <div class="navItem"><a href="/aboutthefed/default.htm">About<BR>the Fed</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/newsevents/default.htm">News<BR>&amp; Events</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/monetarypolicy/default.htm">Monetary<BR>Policy</a></div>
+    </td>
+    <td id="selected">
+        <div class="navItem"><a href="/bankinforeg/default.htm">Banking<BR>Information<BR>&amp; Regulation</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/paymentsystems/default.htm">Payment<BR>Systems</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/econresdata/default.htm">Economic<BR>Research<BR>&amp; Data</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/consumerinfo/default.htm">Consumer<BR> Information</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/communitydev/default.htm">Community<BR>Development</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/reportforms/default.cfm">Reporting<BR>Forms</a></div>
+    </td>
+    <td>
+        <div class="navItem"><a href="/publications/default.htm">Publications</a></div>
+    </td>
+
+</tr>
+</table>
+<!-- HEADER ENDS -->
+ 
+ 
+</div>
+</div>
+<div id="contentContainer">
+<a name="secondNav"></a><span id="skip2"><a href="#content">skip to content</a></span>
+        
+<div id="leftnav">
+
+        
+        <div class="secondaryContentLeftNav">
+        
+        <script language="javascript" type="text/javascript">
+        <!--
+        buildMenu();
+        -->
+        </script>
+        <noscript>
+        <a href="/resources/bankingLeftNav.htm">Menu</a>
+        </noscript>
+        <img src="/bankinforeg/gifjpg/spacer.gif" alt=" "> 
+        
+        </div>
+          
+</div>
+
+<div id="content">
+<div id="BreadCrumbContainer">
+<a href="/default.htm">Home</a>
+ &gt; <a href="../default.htm">SR Letters</a>
+
+</div><!-- CLOSES BreadCrumbContainer -->
+
+
+<div class="generalContentText" id="printThis">
+
+<div id="printIcon"><a href="javascript:printable('/boarddocs/srletters/print_banking_letters.css');"><img src="/gifjpg/printIcon.gif" alt="Print">Print</a></div>
+
+
+<a name="content"></a>
+<img src="/bankinforeg/gifjpg/masthead2.jpg" alt="Board of Governors of the Federal Reserve System" id="defaultPrintImage">
+<h1 class="border">Supervision and Regulation Letters</h1>
+<div id="TwoColumns">
+
+<div id="leftText3">
+
+<h2>SR 09-7</h2>
+
+<h3>Prudent Commercial Real Estate Loan workouts</h3>
+
+<div class="abs_date">October 30, 2009</div>
+
+<div class="abs_links">
+	<a href="SR0907.pdf">Print version (39 KB PDF)</a> | 
+	<a href="#access">HTML</a>
+</div>
+
+<div class="abs_att_section">
+	<strong>Attachment(s):</strong>
+	<div class="abs_att"><a href="sr0907a1.pdf">Policy Statement on Prudent Commercial Real Estate 
+   	Loan Workouts (452&nbsp;KB&nbsp;PDF)</a></div>
+</div>
+
+
+<div class="abs_back"><a href="/boarddocs/srletters/">Back to all SR Letters</a></div>
+
+<a name="access"></a>
+
+<hr>
+
+<div class="html_letter">
+
+<div class="left"><img src="../gifjpg/seal_bw.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0" width="116" height="116"></div>
+
+<div class="middle">
+	<div class="ltrheader" style="padding-top:1ex;">BOARD OF GOVERNORS</div>
+	<div class="ltrheadersm" style="margin-top:1ex;">OF THE</div>
+	<div class="ltrheader" style="margin-top:1ex;">FEDERAL RESERVE SYSTEM</div>
+	<div class="ltrheadersm" style="margin-top:1.5ex;">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+
+<div class="right">
+	<div class="division_head">DIVISION OF BANKING<br>SUPERVISION AND REGULATION</div>
+
+	<div class="ltr_number">SR 09-7</div>
+
+	<div class="date_text">October 30, 2009</div>
+
+</div>
+
+
+<div class="salutation">OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE<br /> 
+	BANK AND TO BANKING ORGANIZATIONS SUPERVISED BY THE FEDERAL<br /> RESERVE
+</div>
+
+
+<!-- Subject -------------------- -->
+<div class="subject2">
+<table>
+<tr>
+<td valign="top" style="padding-top:.2em;"><span class="subject_head">SUBJECT:&nbsp;&nbsp;</span></td>
+<td><span class="subject_text">Prudent Commercial Real Estate Loan Workouts</span></td>
+</tr>
+</table>
+</div>
+
+
+<!-- Body of the letter -------------------- -->
+<div class="letter_body">
+
+<p>The Federal Reserve, along with the other financial regulators of the Federal Financial Institutions 
+	Examination Council&nbsp;(FFIEC),<a href="#Footnote1" name="Footref1" title="Footnote 1"><sup>1</sup></a> 
+   has adopted the attached policy statement on <em>Prudent Commercial Real Estate Loan Workouts</em>. The 
+   Federal Reserve and the other financial regulators issued this policy statement to update longstanding 
+   guidance regarding the workout of CRE loans, especially in light of recent increases in such workouts. 
+   This guidance is intended to promote prudent CRE loan workouts at regulated financial institutions and 
+   to ensure examiners take a balanced and consistent approach in reviewing institutions’ workout activities. 
+   If conducted in a reasonable and prudent manner, such workouts are often in the best interest of both the 
+   institution and the borrower.</p>
+   
+<p>Financial institutions that implement prudent loan workout arrangements after performing comprehensive 
+	reviews of borrowers’ financial conditions will not be subject to criticism for engaging in these efforts, 
+   even if the restructured loans have weaknesses that result in adverse credit classifications.  In addition, 
+   renewed or restructured loans to creditworthy borrowers on reasonable terms will not be subject to adverse 
+   classifications solely because the value of the underlying collateral declined.</p>
+   
+<p>The examiner’s evaluation of a loan workout should be based upon the fundamentals of the particular loan, 
+	considering the project’s current and stabilized cash flows, debt service capacity, guarantor support, 
+   and other factors relevant to the borrower’s ability and willingness to repay the debt.</p>
+
+<div class="SectionHeader">Overview of Guidance</div>
+
+<p>The statement sets forth the appropriate standards for evaluating the management practices, workout 
+	arrangements, credit classification, regulatory reporting, and accounting for prudent CRE loan workouts, 
+   including:</p>
+
+<ul style="margin-left:7ex;">
+	<li class="ds">Risk management elements for the loan workout program</li>
+	<li>Loan workout arrangements
+		<ul>
+      	<li class="ds">Analyzing the repayment capacity of the borrower</li>
+      	<li class="ds">Evaluating guarantees</li>
+      	<li class="ds">Assessing collateral values</li>
+		</ul>
+   </li>
+   <li>Classification of loans
+		<ul>
+      	<li class="ds">Loan performance assessment for classification purposes</li>
+      	<li class="ds">Classification of renewals or restructuring of maturing loans</li>
+      	<li class="ds">Classification of troubled CRE loans dependent on the sale of collateral for 
+         	repayment</li>
+      	<li class="ds">Classification and accrual treatment of restructured loans with a partial 
+         	charge-off</li>
+		</ul>
+   </li>
+   <li>Regulatory reporting and accounting considerations
+		<ul>
+      	<li class="ds">Implications for interest accrual</li>
+      	<li class="ds">Restructured loans</li>
+      	<li class="ds">Allowance for loan and lease losses </li>
+		</ul>
+   </li>
+</ul>
+
+<p>The statement includes examples of CRE loan workouts.  The examples are provided for illustrative 
+	purposes only, and reflect examiners’ analytical processes for credit classifications and 
+   assessments of institutions’ accounting and reporting treatments for restructured loans.  While 
+   the statement includes references and background materials related to regulatory reporting and 
+   accounting, appraisals and valuation concepts, and classification definitions, it does not change 
+   existing regulatory reporting or accounting guidance or standards.  Rather, the guidance addresses 
+   supervisory expectations for reporting that reinforces longstanding guidance.</p>
+
+<div class="SectionHeader">Scope</div>
+
+<p>This statement applies to loans that are secured by multifamily property, and nonfarm nonresidential 
+	property where the primary source of repayment is derived from rental income associated with the 
+   property (that is, loans for which 50&nbsp;percent or more of the source of repayment comes from 
+   third-party, nonaffiliated, rental income) or the proceeds of the sale, refinancing, or permanent 
+   financing of the property.  Further, the guidance covers loans for land development and construction 
+   loans (including 1&ndash; to 4&ndash;family residential and commercial construction loans), other land 
+   loans, loans to real estate investment trusts (REITs), and unsecured loans to developers.  This is 
+   consistent with the definition for CRE loans in SR letter&ndash;07-1, &quot;Interagency Guidance on 
+   Concentrations in Commercial Real Estate.&quot;</p>
+
+<div class="SectionHeader">Conclusion</div>
+
+<p>Federal Reserve Banks are asked to distribute this letter to financial institutions supervised by the 
+	Federal Reserve in their districts, as well as to their own supervisory and examination staff.  If you 
+   have any questions, please contact Jon&ndash;Greenlee, Associate Director, Risk Management, at 
+   (202)&nbsp;452-2962; Sabeth&nbsp;Siddique, Assistant Director, Credit Risk, at (202)&nbsp;452-3861; 
+   Robert&nbsp;Walker, Senior Supervisory Financial Analyst, Credit Risk, at (202)&nbsp;452-3429; 
+   Virginia&nbsp;Gibbs, Senior Supervisory Financial Analyst, Credit Risk, at (202)&nbsp;452-2521; 
+   Lawrence&nbsp;Rufrano, Senior Supervisory Financial Analyst, Risk Policy and Guidance, at 
+   (202)&nbsp;452-2808; and Linda&nbsp;Ditchkus, Senior Project Manager, Accounting Policy and 
+   Disclosure, at (202)&nbsp;452-3506.</p>
+
+<!-- Signature block, choose one -------------------- -->
+
+<div class="officer"><em>signed by</em><br>Patrick M. Parkinson<br>Director</div>
+
+
+<!-- Attachments -------------------- -->
+<div class="attachments">
+	<div>Attachment:&nbsp; <a href="sr0907a1.pdf">Policy Statement on Prudent Commercial Real Estate 
+   	Loan Workouts (452&nbsp;KB&nbsp;PDF)</a></div>
+</div>
+
+
+
+<div class="attachments">
+	<div>Cross References:</div>
+   <ul>
+   	<li class="ds"><a href="../2007/sr0701.htm">SR letter 07-1</a>, &quot;Concentrations in Commercial 
+      	Real Estate Lending, Sound Risk Management Practices&quot;</li>
+   	<li class="ds"><a href="../2006/sr0617.htm">SR letter 06-17</a>, &quot;Interagency Policy Statement on 
+      	the Allowance for Loan and Lease Losses&quot;</li>
+   	<li class="ds"><a href="../2005/sr0514.htm">SR letter 05-14</a>, &quot;Interagency FAQs on 
+      	Residential Tract Development Lending&quot;</li>
+   	<li class="ds"><a href="../2001/sr0117.htm">SR letter 01-17</a>, &quot;Interagency Policy Statement 
+      	on Allowance for Loan and Lease Losses Methodologies and Documentation for Banks and Savings 
+         Institutions&quot;</li>
+   	<li class="ds">SR letter 94-55, &quot;Interagency Appraisal and 
+      	Evaluation Guidelines&quot;</li>
+   	<li class="ds"><a href="../1993/sr9330.htm">SR letter 93-30</a>, &quot;Interagency Policy Statements 
+      	on Supervisory Initiatives Released Today&quot;</li>
+   </ul>
+</div>
+
+
+
+<div class="attachments">
+	<div>Supersedes:</div>
+   <ul>
+   	<li class="ds">SR letter 91-24, &quot;Interagency Examination Guidance on Commercial Real Estate 
+      	Loans&quot;</li>
+   	<li class="ds">SR letter 91-25, &quot;Interagency Examination Guidance on Commercial Real Estate 
+      	Loans&quot;</li>
+   </ul>
+</div>
+
+
+
+<div class="footnotes">
+	<div class="halfline">&nbsp;</div>
+	<b>Notes:</b> 
+	<ol>
+		<li class="ds"><a name="Footnote1"></a>The other financial regulators are the Federal Deposit Insurance 
+      	Corporation, National Credit Union Administration, Office of the Comptroller of the Currency, 
+         Office of Thrift Supervision, and FFIEC State Liaison 
+         Committee.&nbsp;&nbsp;<a href="#Footref1" class="noprint return">Return&nbsp;to&nbsp;text</a></li>
+	</ol>
+</div>
+
+
+<!-- End of letter body -------------------- -->
+</div>
+
+
+
+</div>
+
+
+
+</div><!-- CLOSES leftText -->
+
+<div id="rightText">
+</div> <!-- CLOSES rightText -->
+</div> <!-- CLOSES TwoColumns -->
+<div class="clear"></div>
+</div> <!-- CLOSES generalContentText -->
+
+<div id="lastUpdate">Last update: 
+
+    February 1, 2011</div>
+
+
+<div id="FooterLinks">
+
+<a href="/default.htm">Home</a> | 
+<a href="/bankinforeg/default.htm">Banking Information & Regulation</a> | 
+<a href="../default.htm">SR letters</a> 
+
+
+</div> <!-- CLOSES FooterLinks -->
+
+ 
+<div id="secondaryFooterLinks">
+	<div class="secondaryFooterLinksLeft">
+
+		<a href="/accessibility.htm">Accessibility</a>
+		<a href="/feedback.cfm">Contact us</a>
+
+	        <img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon" /><a href="/linkingpolicy.htm">Linking Policy</a>
+		<a href="/generalinfo/foia/default.cfm">FOIA</a>
+ 
+	</div>
+
+	<div class="secondaryFooterLinksRight">
+		<a href="http://www.adobe.com/products/acrobat/readstep2.html">PDF Reader</a><img src="/gifjpg/exitIcon.gif" alt="Leaving the Board" border="0" class="exitIcon" />
+	</div>
+	<div class="clear"></div>
+</div> <!-- CLOSES secondaryFooterLinks -->
+
+
+</div> <!-- CLOSES content -->
+<div class="clear"></div>
+</div> <!-- CLOSES contentContainer -->
+
+<div id="footer">
+<div id="Footer2"></div>
+</div> <!-- CLOSES footer -->
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

@@ -1,0 +1,92 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 00-17 (SPE) on Guidance on the Risk Management of Outsourced Technology Services--November 30, 2000</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrs.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=25% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border=0 align=left vspace=0 hspace=0></td>
+<td align=center width=30%><em class=letterhead>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</em></td>
+<td width=25%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=letterhead>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</em></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=salutation>SR 00-17 (SPE)<br>
+November 30, 2000</em></td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%>
+<table cellpadding=0 cellspacing=0 width=80%>
+<tr>
+<td valign=top><em class="salutation">TO&nbsp;THE&nbsp;</em></td>
+<td><em class=salutation>OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC AND FOREIGN BANKING ORGANIZATION SUPERVISED BY THE FEDERAL RESERVE</em></td>
+</tr>
+</table>
+<p>
+<table width="80%">
+<tr>
+<td width="13%" valign="top" align="left"><em class="salutation">SUBJECT:&nbsp;&nbsp;</em></td>
+<td width=87% align=left><b>Guidance on the Risk Management of Outsourced Technology Services
+</b></td>
+</tr>
+</table>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The federal banking agencies recently issued the attached supplemental guidance on the risk management of outsourced technology services.&nbsp;  Banking organizations should consider this guidance within the context of their assessment of the scope and importance of the outsourced services to their enterprise, as well as the risks resulting from those services.&nbsp; This new guidance contains many of the same sound practices and recommendations set forth in SR letter 00-4, &quot;Outsourcing of Information and Transaction Processing,&quot; which was issued by the Federal Reserve on February&nbsp;29,&nbsp;2000.&nbsp; The interagency guidance provides banking organizations with additional specific information that may be useful to consider on topics relevant to their outsourcing risk management practices. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The interagency guidance focuses on the risk management process of identifying, measuring, monitoring, and controlling the risks associated with outsourcing technology services.&nbsp; While outsourcing can improve banking services, help control costs, and provide the technical assistance needed to maintain and expand product offerings, it also introduces additional risks that need to be addressed.&nbsp; The guidance includes four key elements to address those risks: risk assessment, service provider selection, contract provisions and review, and ongoing service provider monitoring.&nbsp; The guidance also includes an appendix that provides examples of considerations that may be relevant in the areas of due diligence in selecting a service provider, contracting issues, and ongoing service provider monitoring.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+This supervisory guidance should be shared with banking organizations.&nbsp; If you have any questions, please contact Heidi&nbsp;Richards, Manager, Specialized Activities, (202)&nbsp;452-2598 or Mike&nbsp;Wallas, Supervisory Financial Analyst, (202)&nbsp;452-2081.
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+<a href="sr0017a1.pdf" target="_top">Attachment</a> <font color=gray>(35&nbsp;KB&nbsp;PDF)</font>
+<p>
+Cross Reference:&nbsp;&nbsp;SR 00-4 (SUP)
+<p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../default.htm">SR letters</a> | <a href="default.htm">2000</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: April 13, 2012</b>
+</div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

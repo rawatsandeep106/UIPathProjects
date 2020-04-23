@@ -1,0 +1,111 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 03-15 on Interagency Advisory on the Use of the Federal Reserve's Primary Credit Program in Effective Liquidity Management -- July 25, 2003</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 03-15<br>
+      July 25, 2003</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+   SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION 
+   STAFF AT EACH FEDERAL RESERVE BANK AND TO DOMESTIC 
+   AND FOREIGN BANKING ORGANIZATIONS SUPERVISED BY THE 
+   FEDERAL RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Interagency 
+   Advisory on the Use of the Federal Reserve's Primary 
+   Credit Program in Effective Liquidity Management</div>
+<p>The Board of Governors of the Federal Reserve System, 
+   the Office of the Comptroller of the Currency, the 
+   Federal Deposit Insurance Corporation, the Office 
+   of Thrift Supervision, and the National Credit Union 
+   Administration (collectively, the Agencies) have 
+   issued the attached <i>Interagency Advisory on the 
+   Use of the Federal Reserve's Primary Credit Program 
+   in Effective Liquidity Management</i>. The interagency 
+   advisory presents information on the new Federal 
+   Reserve primary and secondary discount window programs 
+   and provides guidance on the appropriate use of primary 
+   credit in an effective liquidity management program 
+   to the directors, management, examiners and supervisors 
+   of depository institutions. </p>
+<p>The advisory explains that the new primary credit 
+   program is designed to provide depository institutions 
+   with an additional tool for managing short-term liquidity 
+   risks through the extension of short-term credit 
+   to eligible institutions at a rate above the target 
+   federal funds rate. An important goal of the primary 
+   credit program is to reduce institutions' reluctance 
+   to use the window as a source of back-up, short-term 
+   liquidity. Since primary credit can serve as a viable 
+   source of back-up, short term funds, supervisors 
+   and examiners should view the occasional use of primary 
+   credit as appropriate and unexceptional. </p>
+<p>The primary credit facility is only one of many tools 
+   that institutions may utilize in managing their liquidity 
+   risk profile. An institution's management should 
+   ensure that the institution maintains adequate access 
+   to a diversified array of funding sources, including 
+   liquid assets such as high-grade investment securities 
+   and a diversified mix of wholesale and retail borrowings. 
+</p>
+<p>If an institution incorporates discount window borrowings 
+   in its contingency plans, the plans should be updated 
+   in light of the new programs. Management also should 
+   occasionally test the institution's ability to borrow 
+   at the discount window to ensure that there are no 
+   unexpected impediments or complications should such 
+   lines need to be utilized. </p>
+<p>Reserve Banks are asked to send a copy of this SR&nbsp;letter 
+   and the interagency advisory to senior management 
+   at domestic and foreign banking organizations supervised 
+   by the Federal&nbsp;Reserve. If you have any questions, 
+   please contact Jim&nbsp;Embersit, Assistant&nbsp;Director 
+   (202-452-5249), or Mary&nbsp;Frances&nbsp;Monroe, 
+   Senior Supervisory Financial Analyst (202-452-5231), 
+   Market and Liquidity Risk Section.</p>
+<div class="officer">Richard Spillenkothen<br>
+   Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+  <dt class="nobreak">Attachment:</dt>
+   <dd class="srltr"><a href="SR0315a1.pdf">Interagency Advisory on the Use of 
+      the Federal Reserve's Primary Credit Program in Effective Liquidity Management<span class="pdf"> 
+      (331&nbsp;KB&nbsp;PDF)</span></a></dd>
+ 
+</dl>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2003">2003</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: February 21, 2006</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

@@ -1,0 +1,344 @@
+<HTML>
+<HEAD>
+	<script language="JavaScript" src="/exit.js"></script>
+	<Title>FRB: Supervisory Letter SR 99-3 (SUP) on supervisory guidance regarding counterparty credit risk management--February 1, 1999</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY bgcolor=ffffff>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=15% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border=0 align=left vspace=0 hspace=0></td>
+<td width=50%><font face=arial SIZE=-2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></td>
+<td width=15%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><font face=arial size=-2><b>DIVISION OF BANKING<br>SUPERVISION AND REGULATION<p></td>
+</tr>
+<tr>
+<td></td>
+<td><font size=3 face="Times New Roman"><b>SR 99-3 (SUP)<br>
+February 1, 1999<br>
+</td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%><font size=3 face="Times New Roman">
+<b>TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESERVE BANK AND TO CERTAIN DOMESTIC AND FOREIGN<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BANKING ORGANIZATIONS SUPERVISED BY THE<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;FEDERAL RESERVE</b><br>
+<br>
+<table width=100%>
+<tr>
+<td width=12% valign=top align=left><font face="Times New Roman" size=3><b>SUBJECT:</b></td>
+<td width=88% align=left><font face="Times New Roman" size=3><b>Supervisory Guidance Regarding Counterparty Credit Risk Management
+</b></font></td>
+</tr>
+</table><br>
+<p>
+<font size=3 face="Times New Roman">
+<b>Overview</B>
+<P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Events in both emerging and developed financial markets over the past two years and their negative impact on some banking institutions have underscored to both banks and bank supervisors the challenges involved in adapting existing risk management tools to new products, customers, and product lines in increasingly global and interrelated markets.&nbsp; Losses stemming from the Asian crisis and the 1998 market turbulence, including those arising from bank hedge fund relationships, indicate that basic credit risk management policies, procedures, and internal controls were insufficient at some institutions to address the risks of new, fast growing, or evolving products and activities.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Going forward, banking institutions must remain acutely mindful of the need to focus sufficient resources and attention on ensuring the integrity and adequacy of all elements of their counterparty credit risk management processes.&nbsp; This is especially true for activities, business lines, and products experiencing significant growth, above normal profitability or risk profiles, and large potential future exposures.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+To address weaknesses in risk management systems, the Federal Reserve is issuing the attached guidance providing supervisors and bank management insights on those elements of counterparty credit risk management systems at large complex banking organizations that may need special review and enhancement.&nbsp; (Refer to <a href="#attachment1">Attachment I</a>.) &nbsp;The guidance reiterates and expands upon fundamental principles of counterparty credit risk management that are covered in existing supervisory materials of the Federal Reserve and other regulators and in established industry standards.<a href="#Footnote1" title="Footnote 1" name="Footref1"><sup>1</sup></a>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+As further detailed in the attached guidance, examiners and supervisory staff are instructed to continue and, where appropriate, strengthen their efforts to evaluate whether banking institutions:
+<p>
+<UL>
+<LI>Devote sufficient resources and adequate attention to the management of the risks involved in growing, highly profitable or potentially high-risk activities and product lines.</LI>
+<P>
+<LI>Have internal audit and independent risk management functions that adequately focus on growth, profitability, and risk criteria in targeting their reviews.</LI>
+<p>
+<LI>Achieve an appropriate balance among all elements of credit risk management, including both qualitative and quantitative assessments of counterparty creditworthiness; measurement and evaluation of both on- and off- balance sheet exposures, including potential future exposure; adequate stress testing; reliance on collateral and other credit enhancements; and the monitoring of exposures against meaningful limits.</LI>
+<p>
+<LI>Employ policies that are sufficiently calibrated to the risk profiles of particular types of counterparties and instruments to ensure adequate credit risk assessment, exposure measurement, limit setting, and use of credit enhancements.</LI>
+<P>
+<LI>Ensure that that actual business practices conform with stated policies and their intent.</LI>
+<P>
+<LI>Are moving in a timely fashion to enhance their measurement of counterparty credit risk exposures, including the refinement of potential future exposure measures and the establishment of stress testing methodologies that better incorporate the interaction of market and credit risks.</LI>
+</UL>
+<P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+To adequately evaluate these factors, supervisors and examiners should conduct sufficient and targeted transaction testing on activities, business lines, and products experiencing significant growth, above normal profitability or large potential future exposures.
+<p>
+<B>Challenges in Adapting Existing Risk Management Tools to New Activities and Product Lines</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Current supervisory guidance as well as various industry studies and reports have long identified the principal elements of sound counterparty credit risk management.&nbsp; These elements are: (1) an adequate assessment of the creditworthiness of a counterparty, both initially and on an ongoing basis; (2) adequate risk measurement; (3) the use of effectively designed credit enhancements; and (4) a robust system of monitoring and controlling exposures against limits.&nbsp; The &quot;tools&quot; needed to successfully implement each of these elements include the information used to make assessments of creditworthiness, the collateral and contractual closeout arrangements used to enhance credit relationships, the measures of potential future exposure and current market value used to monitor risk, and the limits used to manage exposures and initiate risk controlling actions.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+As financial institutions develop <B>new</B> product lines, customers, and businesses, they often utilize these tools in forms that have evolved in the context of more <B>established</B> business lines.&nbsp; Moreover, conventional wisdom, experience, and common practice can often result in certain tools being used more prominently than others, leading to imbalances in the overall credit risk management process.&nbsp; For example, heavy reliance on collateral or counterparty reputation may reduce incentives to make potentially costly enhancements to credit exposure measurement systems.&nbsp; This over-reliance on certain tools, at the expense of a more balanced approach, may not create significant risk management problems when the volume of new products, customers or businesses is low.&nbsp; However, once the volume of these new activities expands beyond a critical mass, such imbalances can often lead to serious credit risk management shortcomings.&nbsp; This is a particular concern in those cases where new and growing activities reach a level where stress events, which often involve the suspension of long-standing and widely accepted relationships among markets and risk factors, can result in material financial loss.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Clearly, recent events in both emerging and developed financial markets have illustrated that risk management systems broke down in some product, customer, and business lines that experienced significant growth and above normal initial profitability.&nbsp; In these cases, competition, pursuit of earnings, and the general press of business appear to have resulted in the introduction of risk exposures for which existing risk management infrastructures were not sufficient.&nbsp; For example, in the case of the 1997 Asian crisis, over-reliance on implied sovereign guarantees may have led many financial institutions to pay less attention to the financial condition of individual foreign counterparties.&nbsp; Similarly, in the case of hedge funds, over-reliance on the use of collateral and counterparty reputation may have led to compromises in the due diligence process or in the adequate measurement of credit exposures. 
+<p>
+<B>Potential Weaknesses in Credit Risk Management Systems</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Supervisory experience at the international level and the findings of supervisory reviews have identified weaknesses in the policies, practices, and internal controls of the counterparty credit risk management systems at some large banking organizations.&nbsp; In some cases, policies governing certain elements appear unduly general so as to compromise their usefulness in managing the risks involved with particular types of counterparties.&nbsp; In other areas, practices may not conform to stated policies or their intent.&nbsp; Situations may also exist where internal controls, including documentation and independent review, are inadequate or lack rigor.&nbsp; In addition, some large institutions have credit risk exposure measurement and management regimes that, while effective in traditional areas of bank credit extension, need enhancements when employed in more sophisticated or complex trading and derivatives activities. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The attached guidance identifies specific areas that supervisory staff and bank management should consider in assessing and strengthening the credit risk management processes in trading and derivatives operations.&nbsp; In particular, it offers important insights as to how some banks' counterparty credit risk management systems may need to be enhanced in consideration of: (1) the specific types of counterparties with which they do business; (2) current industry practices that may emphasize certain elements of risk management over other elements; and, (3) the increasingly important interactions between the market and credit risks involved in banks' trading and derivatives relationships.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The guidance is forward looking and applies to the management of exposures arising from the broad array of current and future bank counterparties and counterparty types.&nbsp; The guidance is particularly relevant in light of work conducted by the Basle Committee on Banking Supervision (BCBS) regarding bank relationships with &quot;highly leveraged institutions.&quot; &nbsp;That effort has provided an excellent case study that details, in the context of a specific type of counterparty, the consequences and implications of inadequacies in some banking organizations' counterparty credit risk management systems.<a href="#Footnote2" title="Footnote 2" name="Footref2"><sup>2</sup></a>&nbsp; Documents resulting from that international supervisory effort are available through the Bank for International Settlements Internet site at <A HREF="http://www.bis.org/" target="_top" onclick="linkalert()">www.bis.org</A>.<a href="#Footnote3" title="Footnote 3" name="Footref3"><sup>3</sup></a>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+As necessary, the specific insights offered in the attached guidance as well as those provided in the BCBS documents will be formally included in the Federal Reserve's <U>Trading</U> <U>and</U> <U>Capital</U> <U>Markets</U> <U>Activities</U> <U>Manual</U> in its March&nbsp;1999 update.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Reserve Banks should ensure that all supervisory central points of contact, examiners, and other staff involved in the supervision of large complex banking organizations review this guidance and focus their supervisory efforts accordingly.&nbsp; Reserve Banks should also distribute this guidance to domestic and foreign banking organizations with significant trading and derivatives counterparty credit exposures.&nbsp; A draft transmittal letter is provided in <a href="#attachment2">Attachment II</a>.&nbsp; Supervisory staff involved in the supervision of institutions with hedge fund counterparty relationships should also review the BCBS documents.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Questions regarding this guidance should be directed to Michael&nbsp;Martinson, Deputy Associate Director, Specialized Activities, (202-452-3640) or James&nbsp;Embersit, Manager, Capital Markets, (202-452-5249).
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+Attachments
+<p>
+<ul>
+<table>
+<tr>
+<td valign=top><font size=3 face="Times New Roman">Attachment 1 - </td>
+<td><font size=3 face="Times New Roman"><a href="#attachment1">Supervisory Guidance Regarding Counterparty Credit Risk Management Systems</a><br>&nbsp;</td>
+</tr>
+<tr>
+<td valign=top><font size=3 face="Times New Roman">Attachment 2 - </td>
+<td><font size=3 face="Times New Roman"><a href="#attachment2">Suggested Transmittal Letter</a></td>
+</tr>
+</table>
+</ul>
+<p>
+<br>
+<hr width=50% align=left>
+<p>
+<b>Notes</b>
+<p>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;
+Such materials include the Federal Reserve’s supervisory manual on <a href="http://www.federalreserve.gov/boarddocs/SupManual/default.htm#trading">Trading and Capital Markets Activities</a>; <a href="../1993/sr9369.htm">SR Letter 93-69</a> “Examining Risk Management and Internal Controls for Trading Activities of Banking Organizations”; the 1994 G-30 study “Derivatives: Practices & Principles”; and the 1995 sound practices advanced by the securities industry’s Derivatives Policy Group.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+<p>
+<a name="Footnote2">2.</a>&nbsp;&nbsp;
+This effort drew upon the supervisory experience of member countries of the BCBS.  &nbsp;Reviews of U.S. banking organizations were conducted by staff of the Federal Reserve (Board and Reserve Bank), other federal banking agencies, and the New York State Banking Department.&nbsp;&nbsp;<a href="#Footref2">Return to text</a>
+<p>
+<a name="Footnote3">3.</a>&nbsp;&nbsp;
+On January 28, 1999, the BCBS issued two documents on the lessons learned from recent events surrounding bank relationships with “highly leveraged institutions”. &nbsp;The primary document, “Banks’ Interactions with Highly Leveraged Institutions,”(HLIs) reviews the Long Term Capital Management episode, analyzes the risks posed by HLIs to banking institutions, and summarizes the current status of banks’ risk management practices with respect to HLIs. &nbsp;The second document, “Sound Practices for Interactions with Highly Leveraged Institutions,” sets out sound practices for the management of the credit risk inherent in banks' trading and derivatives activities with HLIs.&nbsp;&nbsp;<a href="#Footref3">Return to text</a>
+<a name="attachment1"></a>
+<p>
+<br>
+<hr>
+<p>
+<br>
+<B><center>Attachment I
+<p>
+Supervisory Guidance Regarding<br>
+Counterparty Credit Risk Management Systems </center></b>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The following discussion provides supervisory guidance on those elements of counterparty credit risk management systems that may need special reviews and enhancements.&nbsp; The guidance specifically targets the risk management practices of banks and Edge corporations.&nbsp; The basic principles also apply to bank holding companies (and, where appropriate, their subsidiaries) that should manage and control aggregate risk exposures on a consolidated basis, while recognizing legal distinctions and possible obstacles to cash movements among subsidiaries.<a href="#A1Note1" name="A1Ref1" title="Attachment 1 Footnote 1"><sup>1</sup></a>
+<p>
+<br>
+<B>Fundamental Elements of Counterparty Credit Risk Management</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In examining and monitoring the trading and derivatives activities at banking institutions, current guidance presented in the Federal Reserve's Trading and Capital Markets Activities Manual (TCMAM) instructs supervisors and examiners to fully evaluate the integrity of the following key elements of an institution's counterparty credit risk management process. 
+<p>
+<UL>
+<LI>The institution's assessment of counterparty creditworthiness, both initially and on an ongoing basis, as evidenced by a counterparty's capital strength, leverage, on and off-balance sheet risk factors and contingencies, liquidity, operating results, reputation, and ability to understand and manage the risks inherent in the counterparty's line of business, as well as the risks involved in the particular products and transactions that define the customer relationship.</LI>
+<p>
+<LI>The standards, methodologies and techniques used in measuring counterparty credit risk exposures on an individual instrument, counterparty, and portfolio basis.</LI>
+<p>
+<LI>The use and management of credit enhancements for mitigating counterparty credit risks, including collateral arrangements and collateral management systems, contractual downgrade or material change triggers, and contractual &quot;option to terminate&quot; or closeout provisions.</LI>
+<p>
+<LI>The risk limit and monitoring systems that entail the setting of meaningful limits on counterparty credit risk, monitoring exposures against these limits, and initiating meaningful risk assessments and risk controlling actions in the event that exposures exceed limits.</LI>
+</ul>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Lessons stemming from the turbulence in both emerging and developed financial markets during 1997 and 1998, and the findings of targeted reviews of bank relationships with emerging market counterparties and hedge funds point to varying degrees of potential weakness in the policies, practices, and internal controls in each of these elements at some banking organizations.&nbsp; The confluence of competitive pressures, pursuit of earnings, and over-reliance on customer reputation may have led to substantive lapses in fundamental risk management principles regarding counterparty risk assessment, exposure monitoring, and the management of credit risk limits.&nbsp; In some cases, policies governing these activities may be unduly general so as to compromise their usefulness in managing the risks involved with particular types of counterparties.&nbsp; In other areas, practices may not conform to stated policies or their intent.&nbsp; Situations may also exist where internal controls, including documentation and independent review, may be inadequate or lack rigor.&nbsp; In addition, some large institutions have found themselves with counterparty credit risk exposure measurement and management regimes that, while effective in more traditional areas of credit extension, may need enhancements when utilized in trading and derivatives activities. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The following discussions identify specific areas for supervisors and examiners to consider in assessing the risk profiles and credit risk management processes in the trading and derivatives operations of large banking organizations.&nbsp; In addition to a brief discussion of the appropriate targeting of supervisory resources, the guidance addresses the supervisory review of the primary elements of counterparty credit risk management systems, including assessment of counterparty creditworthiness, credit risk measurement, the use of credit enhancements, and the processes used to set credit limits and monitor these limits against exposures.&nbsp; 
+<p>
+<br>
+<B>Targeting Supervisory Resources</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In risk focusing supervisory initiatives, examiners have always targeted those activities and areas with significant growth and above normal profitability profiles -- especially in trading and derivatives activities where the press of business may invite the introduction of new product lines or the approval of counterparties before the necessary risk management infrastructure or procedures are fully in place.&nbsp; Events in developing and developed financial markets and the various types of losses posted by banking institutions over the past two years, including recent events surrounding bank hedge fund relationships, underscore the merits of this supervisory approach.&nbsp; Supervisors and examiners should continue this approach and encourage the audit and independent risk management functions of banking institutions to adopt similar growth, profitability, and size criteria in targeting their reviews. 
+<p>
+<br>
+<B>Assessment of Counterparty Creditworthiness</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Supervisors and examiners should place increasing attention on the appropriateness, specificity, and rigor of the policies, procedures, and internal controls that banking institutions currently use in assessing the counterparty credit risks arising from their trading and derivatives activities.&nbsp; With regard to policies, most banking organizations appear to have extensive written policies covering their assessment of counterparty creditworthiness for both the initial due diligence process (i.e. prior to conducting business with a customer) and for ongoing monitoring.&nbsp; However, going forward, examiners should focus particular attention on how such policies are structured and implemented.&nbsp; General policies broadly structured to apply to <B>all</B> types of counterparties may prove inadequate for directing bank staff in the proper review of the risks posed by particular types of counterparties.&nbsp; For example, although most bank policies call for the assessment and monitoring of the capital strength and leverage of customers, the assessment of hedge fund counterparties at several institutions appeared often to rely on only simple balance sheet measures and traditional assessments of financial condition.&nbsp; While such information may be adequate for many types of counterparties, it may be entirely insufficient for those counterparties where off-balance sheet positions are a source of significant leverage and where risk profiles are narrowly based on concentrated business lines, such as with hedge funds and similar institutional investors.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+General policies calling for annual counterparty credit reviews serve as another example of broad policies that may compromise the integrity of the assessment of individual counterparties or types of counterparties -- especially in cases where a counterparty's risk profile can change significantly over much shorter time horizons.&nbsp;  
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Credit risk assessment policies should also properly define the types of analyses to be conducted for particular types of counterparties based on the nature of their risk profile.&nbsp; In addition to customization of fundamental analyses based on industry and business line characteristics, this may entail the need for stress testing and scenario analysis.&nbsp; Such analyses is particularly important in cases where a counterparty's creditworthiness may be adversely affected by short-term fluctuations in financial markets and especially in situations where potential credit exposure to a counterparty increases at the same time the counterparty's credit quality deteriorates. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Examiners have always paid special attention to areas where bank practices may not conform to stated policies.&nbsp; These efforts are made especially difficult when bank policies lack sufficient specificity to properly focus bank counterparty risk assessments.&nbsp; Accordingly, examiners should ensure that bank policies sufficiently address the risk profiles of particular types of counterparties and instruments.&nbsp; Policies should specify: 1)&nbsp;the types of counterparties that may require special consideration; 2) the types and frequency of information to be obtained from such counterparties; 3) the types and frequency of analyses to be conducted, including the need for and type of any stress testing analysis; and 4) how such information and analyses appropriately address the risk profile of the particular type of counterparty.&nbsp; Such specificity in credit assessment policies is particularly important where limited transparency may hinder market discipline on the risk taking activities of counterparties -- as may have been the case with hedge funds. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Even where credit risk assessment policies may be sufficiently defined, examiners should place increasing emphasis on ensuring that existing practice conforms with both the stated objectives and the intent of the organization's established policies.&nbsp; For example, supervisory reviews have found that some banks rely on significantly less information on the financial strength, condition, and liquidity of some types of counterparties than may have been required by their own policies.&nbsp; Moreover, as can often be the case in highly competitive and fast moving transaction environments, analyses specified in policies, such as the review of a counterparty's ability to manage the risks of its business, appear not to have been conducted in a sufficiently rigorous manner. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Necessary internal controls for ensuring that practices conform with stated policies include actively enforced documentation standards and periodic independent reviews by internal auditors or other risk control units.&nbsp; Examiners should evaluate an institution's documentation standards and determine that internal reviews are adequately conducted for business lines, products, and exposures to particular groups of counterparties and individual customers that exhibit significant growth or above normal profitability.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Examiners should evaluate the integrity of these internal controls through their own transaction testing of such situations using targeted examinations and reviews.&nbsp; Such testing should include robust sampling of transactions with an institution's major counterparties in the targeted area, as well as sufficient stratification to ensure that practices involving smaller relationships also adhere to stated policies. 
+<p>
+<br>
+<B>Credit Risk Exposure Measurement</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Financial market turbulence over the past two years has emphasized the important interrelationships between market movements and the credit risk exposures involved in banks' derivatives activities.&nbsp; Accordingly, supervisors and examiners should be alert to situations where banks may need to enhance their current computations of loan equivalents and potential future exposures (PFE) used to measure, monitor, and control their derivatives counterparty credit exposure.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In general, most banking institutions fully recognize that the credit risk of derivatives positions includes both the current replacement cost of a contract, as well as the contract's PFE.&nbsp; PFEs are generally calculated using statistical techniques to estimate the worst case potential loss over a specified time horizon at some specified confidence interval (e.g., 95%, 97.5%, and 99%), which is generally derived in some manner from historically observed market fluctuations.&nbsp; Together with the current replacement cost, such PFEs are used to convert derivatives contracts to &quot;loan equivalents&quot; for aggregating credit exposures across products and instruments.&nbsp; 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The time horizon used to calculate PFEs can vary depending upon the bank's risk tolerance, collateral protection, and ability to terminate its credit exposure.&nbsp; Some institutions may use a time horizon equal to the life of the respective instrument.&nbsp; While such a time horizon may be appropriate for unsecured positions, for collateralized exposures the use of lifetime, worst-case estimates PFEs may be ineffective in measuring the true nature of counterparty risk exposure.&nbsp; While life-of-contract PFE measures provide an objective and conservative long-term exposure estimate, they bear little relationship to the actual credit exposures banks typically incur in the case of collateralized relationships.&nbsp; In such cases, a bank's actual credit exposure is the PFE from the time a counterparty fails to meet a collateral call until the time the bank liquidates its collateral and closes out the derivative contract -- a period which is typically much shorter than the contract's life.&nbsp; Although on initial perception, highly conservative measurements may seem acceptable, in practice, their lack of realism can cause them to be discounted by managers and traders and may result in inappropriate limits being set, thereby compromising the entire risk management process. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+For some institutions more realistic measures of collateralized exposures in times of market stress are needed.&nbsp; These measures should take into account the shorter time horizons over which action can be taken to mitigate losses.&nbsp; They should also incorporate estimates of collateral recovery rates given potential market liquidity impacts of stress events on collateral values.&nbsp; Some institutions already calculate such measures by assessing the worst case value of positions over a time horizon of one or two weeks -- their estimate of a reasonable liquidation period in times of stress.&nbsp; Other institutions are moving to build the capability of estimating portfolio-based PFEs by any one of several different time horizons or buckets depending on the liquidity and breadth of the underlying instrument or risk factor.&nbsp; Based on management's opinion of the appropriate workout time frame, different time horizons can be used for different counterparties, transactions or collateral types to more precisely define exposures.&nbsp; Supervisors and examiners should be alert to situations where collateralized exposures may be inaccurately estimated and should encourage management at these institutions to enhance their exposure measurement systems accordingly. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Supervisors should also be cognizant of the manner in which institutions aggregate the credit exposures for individual counterparties.&nbsp; Some institutions may take a purely transactional approach to aggregation and do not incorporate the netting of long and short derivatives contracts, even when legally enforceable bi-lateral netting agreements are available.&nbsp; In such cases, simple sum estimates of positive exposures may seriously overestimate true credit exposure and examiners should monitor and encourage an institution's movement toward more realistic measures of counterparty exposure.&nbsp; Other institutions may take a portfolio approach where information systems allow and incorporate netting (both within and across products, business lines or risk factors) and portfolio correlation effects to construct more comprehensive counterparty exposure measures.&nbsp; In such cases, supervisors should ensure that an institution has adequate internal controls governing exposure estimation, including robust model review processes and data integrity checks. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In stratifying samples and selecting counterparties and transactions upon which to base targeted testing of practices and internal controls, supervisors and examiners should incorporate measures of potential future exposure regardless of the collateralization of current market value exposures.&nbsp; As recent events have shown, meaningful counterparty credit risks that surface during periods of stress can go undetected when too much emphasis is placed on collateralization of current market values and only unsecured current market exposures are used for targeting transaction testing. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Supervisors and examiners should also be aware that some banks may<B> </B>need to develop more meaningful measures of credit risk exposures under volatile market conditions through the development and implementation of timely and plausible stress testing and scenario analysis of counterparty credit exposures.&nbsp; Stress testing and scenario analysis should evaluate the impact of large market moves on the credit exposure to individual counterparties and should assess the implications inherent in liquidating positions under such conditions.&nbsp; Analyses should consider the effects of market liquidity on the value of positions and any related collateral.&nbsp; The results of stress testing and scenario analyses should be incorporated in senior management reports.&nbsp; Such reports should provide sufficient information to ensure an adequate understanding of the nature of the exposure and the analyses conducted.&nbsp; Information should also be sufficient to trigger risk-controlling actions where necessary.&nbsp; The use of meaningful scenario analyses is particularly important since stress tests derived from simple applications of higher confidence intervals or longer time horizons to PFE, Value at Risk and other measures may not adequately capture the market and exposure dynamics under turbulent market conditions, particularly as they relate to the interaction between market, credit, and liquidity risk.
+<p>
+<br>
+<b>Credit Enhancements</b>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+As trading and derivatives activities have expanded, institutions have placed increasing reliance on different types of credit enhancements to mitigate counterparty credit risks.&nbsp; This includes the use of collateral arrangements, contractual downgrade or material change triggers that enable the alteration of collateral or margining arrangements, and contractual &quot;option to terminate&quot; or closeout provisions. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+CollateraIization of exposures has become an industry standard for many types of counterparties.&nbsp; However, as pointed out in the TCMAM, collateralization mitigates but does not eliminate credit risks, and institutions should ensure that over-reliance on collateral does not compromise other elements of sound counterparty credit risk management such as the due diligence process.&nbsp; Institutions should ensure that they have clear policies governing the determination of loss thresholds and margining requirements for their derivatives counterparties.&nbsp; As with credit assessment, such policies should not be overly broad so as to compromise the risk reducing nature of collateral agreements with certain types of counterparties.&nbsp; Indeed, policies governing collateral arrangements should specifically define those cases where initial and variation margin is required and should explicitly identify situations where lack of transparency, business line risk profiles, and other counterparty characteristics merit special treatment - - as may be case with some highly leveraged counterparties such as hedge funds.&nbsp; Where consistent with the risk profile of the counterparty and instruments involved, policies should specify when margining requirements based on estimates of potential future exposures might be warranted.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Adequate policies should also govern the use of material change triggers and closeout provisions, which should take into account counterparty-specific situations and risk profiles.&nbsp; For example, closeout provisions based on annual events or material change triggers based on long-term performance may prove ineffective for counterparties whose risk profiles can change rapidly.&nbsp; Also, material change triggers, closeout provisions and related covenants should be designed to adequately protect against deterioration in a counterparty's creditworthiness.&nbsp; They should ensure that an institution is made aware of adverse financial developments on a timely basis and should facilitate action as counterparty risk increases and well in advance of the time when termination of a relationship is appropriate. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In evaluating an institution's management of its collateral arrangements and other credit enhancements, examiners should not only assess the adequacy of policies but should also determine whether there are sufficient internal controls to ensure that practices comply with these policies.&nbsp; Supervisory reviews have indicated that competitive pressures, rather than internal assessments of potential risk exposures, sometimes dictated loss thresholds, margining requirements, and closeout provisions with some counterparties.&nbsp; Therefore, insufficient internal controls may have unduly exposed certain institutions to these as well as other types of trading and derivatives counterparties.&nbsp; Accordingly, in reviewing areas dealing with counterparty credit risk management, examiners should identify the types of credit enhancements and contractual covenants used by an institution and determine whether the institution has sufficiently assessed their adequacy relative to the risk profile of the counterparty. 
+<p>
+<br>
+<B>Credit Risk Exposure Limit Setting and Monitoring Systems</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Exposure monitoring and limit systems are critical to the effective management of counterparty credit risk, and examiners should focus special attention on the policies, practices, and internal controls employed within such systems at large, complex banking institutions.&nbsp; An effective exposure monitoring system consists of establishing meaningful limits on the risk exposures an institution is willing to take, independent ongoing monitoring of exposures against such limits, and adequate controls to ensure that meaningful risk controlling action takes place when limits are exceeded.&nbsp; Because an effective exposure monitoring and limit process depends upon meaningful exposure measurement<B> </B>methodologies, supervisors should closely evaluate the integrity of these systems at institutions that may have inadequate exposure measurement systems -- especially with regard to the estimation of PFEs.&nbsp; Overly conservative measures or other types of less than meaningful exposure measurements can easily compromise well structured policies and procedures.&nbsp; Such situations can lead to limits being driven primarily by customer demand and used only to define and monitor customer facilities, rather than serving as strict levels defined by credit management that initiate risk controlling actions. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Supervisors and examiners should evaluate not only the adequacy of policies governing the exposure monitoring and limit system, but should also assess the procedures used for controlling credit risk exposures when they become large, a counterparty's credit standing weakens, or when the market comes under stress.&nbsp; Management should demonstrate clear ability to reduce large positions.&nbsp; Such actions can include the &quot;capping&quot; of current exposures, the curtailment of new business, assigning transactions to another counterparty (where feasible), and the restructuring of the transaction to limit potential exposure or make it less sensitive to market volatility.&nbsp; Institutions can also use various credit enhancement tools to manage exposures that have become unduly large or highly sensitive to market volatility.
+<p>
+<br>
+<hr>
+<p>
+<b>Notes</b>
+<p>
+<a name="A1Note1">1</a>&nbsp;&nbsp;
+The basic principles set forth in this guidance should also be employed in the supervision of U.S. branches and agencies of foreign banks, with appropriate adaptations to reflect the facts that: 1) those offices are an integral part of a foreign bank that should be managing its risks on a consolidated basis and recognizing possible obstacles to cash movements among branches, and 2) the foreign bank is subject to overall supervision by its home country authorities.&nbsp;&nbsp;<a href="#A1Ref1">Return to text</a>
+<a name="attachment2"></a>
+<p>
+<br>
+<hr>
+<p>
+<br>
+<b><center>Attachment II<br>
+Suggested Transmittal Letter</b></center>
+<p>
+<table width=100%>
+<tr>
+<td width=12% valign=top align=left><font face="Times New Roman" size=3><b>SUBJECT:</b></td>
+<td width=88% align=left><font face="Times New Roman" size=3><b>Supervisory Guidance Regarding Counterparty Credit Risk Management
+</b></font></td>
+</tr>
+</table>
+<p>
+Dear ________________________:
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+On February 1, 1999, the Federal Reserve issued the enclosed supervisory guidance providing supervisors and bankers information on those elements of counterparty credit risk management systems at large complex banking organizations that may need special review and enhancement.&nbsp; The guidance was issued to address potential weaknesses identified as a result of losses stemming from recent market turbulence and supervisory reviews of bank counterparty credit risk management systems.&nbsp; These reviews found that at some institutions basic credit risk management policies, procedures, and internal controls were insufficient to address the risks of new, fast growing, or evolving products and activities.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The guidance reiterates and expands upon fundamental principles of counterparty credit risk management that are covered in existing supervisory materials of the Federal Reserve and other regulators and in established industry standards, including the Federal Reserve's supervisory manual entitled <U>Trading</U> <U>and</U> <U>Capital</U> <U>Markets</U> <U>Activities</U>.&nbsp;  
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+As further described in the attached guidance and accompanying supervisory letter issued by the Board's Division of Banking Supervision and Regulation, examiners and supervisory staff are instructed to continue and, where appropriate, strengthen efforts to evaluate whether banking institutions:  
+<p>
+<UL>
+<LI>Devote sufficient resources and adequate attention to the management of the risks involved in growing, highly profitable or potentially high-risk activities and product lines.</LI>
+<p>
+<LI>Have internal audit and independent risk management functions that adequately focus on growth, profitability, and risk criteria in targeting their reviews.</LI>
+<p>
+<LI>Achieve an appropriate balance among all elements of credit risk management, including both qualitative and quantitative assessments of counterparty creditworthiness; measurement and evaluation of both on- and off- balance sheet exposures, including potential future exposure; adequate stress testing; reliance on collateral and other credit enhancements; and the monitoring of exposures against meaningful limits.</LI>
+<P>
+<LI>Employ policies that are sufficiently calibrated to the risk profiles of particular types of counterparties and instruments to ensure adequate credit risk assessment, exposure measurement, limit setting, and use of credit enhancements.</LI>
+<p>
+<LI>Ensure that that actual business practices conform with stated policies and their intent.</LI>
+<p>
+<LI>Are moving in a timely fashion to enhance their measurement of counterparty credit risk exposures, including the refinement of potential future exposure measures and the establishment of stress testing methodologies that better incorporate the interaction of market and credit risks.</LI>
+</ul>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+To evaluate whether banking organizations are adequately meeting their risk management obligations, supervisors and examiners have been instructed to conduct sufficient targeted transaction testing on those activities, business lines, and products experiencing significant growth, above normal profitability or large potential future exposures.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In the event you have any questions regarding this matter, please contact ____________________.
+<p>
+<br>
+Enclosure
+<p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../">SR letters</a> | <a href="./">1999</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: January 15, 2002</b>
+</div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

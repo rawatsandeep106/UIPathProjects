@@ -1,0 +1,115 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 01-03 (SUP) on guidance on enhanced scrutiny for transactions that may involve the proceeds of foreign official corruption -- January 16, 2001</title>
+	<link rel="stylesheet" type="text/css" href="../srltrs.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=25% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border=0 align=left vspace=0 hspace=0></td>
+<td align=center width=30%><em class=letterhead>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</em></td>
+<td width=25%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=letterhead>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</em></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=salutation>SR 01-03 (SUP)<br>
+January 16, 2001</em></td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%>
+<table cellpadding=0 cellspacing=0 width=80%>
+<tr>
+<td valign=top><em class="salutation">TO&nbsp;THE&nbsp;</em></td>
+<td><em class=salutation>OFFICER IN CHARGE OF SUPERVISION AND SUPERVISORY STAFF AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC AND FOREIGN BANKING ORGANIZATION SUPERVISED BY THE FEDERAL RESERVE</em></td>
+</tr>
+</table>
+<p>
+<table width="80%">
+<tr>
+<td width="13%" valign="top" align="left"><em class="salutation">SUBJECT:&nbsp;&nbsp;</em></td>
+<td width=87% align=left><b>Guidance on Enhanced Scrutiny for Transactions That May Involve the Proceeds of Foreign Official Corruption
+</b></td>
+</tr>
+</table>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Money Laundering and Financial Crimes Strategy Act of 1998 requires the federal government to develop a national strategy to combat money laundering.&nbsp; Under the Act, the strategy is to be developed through consultation with various federal and state law enforcement and bank regulatory agencies, including the Board.&nbsp; In addition, the law requires that annual reports be submitted to Congress detailing the steps the government proposes to take with regard to its anti-money laundering efforts.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The second of the annual reports submitted to the Congress, entitled <i>The National Money Laundering Strategy for 2000</i>, called for the Department of the Treasury and the federal bank regulators, among others, &quot;to develop guidance for financial institutions to conduct enhanced scrutiny of those customers and their transactions that pose a heightened risk of money laundering and other financial crimes.&quot;  Recently, an expert-level working group has been looking into several areas of potentially high-risk activity for which enhanced scrutiny may be appropriate and has focused on a type of activity involving senior foreign political figures, their immediate family, or their close associates that may involve the proceeds of foreign official corruption.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The working group recognized that banking organizations should be taking all reasonable steps to ensure that they do not knowingly or unwittingly assist in hiding or moving the proceeds of corruption by senior foreign political figures and those associated with them.&nbsp; The group also recognized that endemic high-level corruption is particularly damaging to a nation's economy and development.&nbsp; It found that this type of corruption undermines efforts to establish and strengthen market-based economic systems; interferes with the international community's efforts to support and promote economic development; discourages foreign private investment; and fosters a climate conducive to financial crime and other forms of lawlessness.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The working group developed guidance for banking organizations relating to their dealings with foreign political figures.&nbsp; The guidance provides advice to assist banks and other financial institutions in applying enhanced scrutiny to transactions by senior foreign political figures and closely related persons and entities, so that the institutions may more effectively detect and deter transactions involving the proceeds of foreign corruption.&nbsp; The guidance is also aimed at assisting banking organizations in protecting themselves from being used as conduits for such transactions.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Today, the Board, Federal Deposit Insurance Corporation, Office of the Comptroller of the Currency, Office of Thrift Supervision, and the U.S. Departments of Treasury and State disseminated the working group's guidance, which is entitled <i>Guidance on Enhanced Scrutiny for Transactions That May Involve the Proceeds of Foreign Official Corruption</i>.&nbsp; A copy of the guidance is attached.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The guidance contains resource information that will assist financial institutions in identifying senior foreign political figures.&nbsp; The guidance contains suggested procedures for account opening and maintenance for persons known to be senior foreign political figures, their immediate family, or their close associates.&nbsp; In addition, the attachment sets out a list of questionable or suspicious activities that, when present, may warrant enhanced scrutiny of transactions involving such persons. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The guidance is intended to build upon banks' and other financial institutions' existing due diligence and anti-money laundering programs, policies, procedures and controls, and to assist institutions in the continuing development and implementation of comprehensive due diligence programs in the areas of anti-money laundering, financial crimes, and the identification and reporting of suspicious transactions.&nbsp; Banks should apply the guidance to their private banking activities and accounts and other relevant areas of their operations.&nbsp; Similarly, other financial institutions should apply the guidance, as applicable, in connection with high dollar-value accounts or transactions in the relevant parts of their operations.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The guidance is not a rule or regulation and should not be interpreted as such.&nbsp; It is advice that banking organizations are encouraged to employ in conjunction with existing policies, practices, and procedures.&nbsp; In the event that deficiencies emerge at a financial institution that would have been minimized or eliminated if the advice contained in the guidance had been followed, examiners may encourage or, depending on the severity of the identified deficiencies, may require in appropriate cases that the advice contained in the guidance be integrated into the risk management policies and procedures of the affected institution.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Finally, it is important to emphasize that banking organizations that knowingly engage in transactions that represent the proceeds of foreign official corruption may be involved in the crime of money laundering under U.S. law.&nbsp; Regardless of whether the transactions would be in violation of the money laundering law, business relationships with persons who have high-ranking public positions in foreign governments, or other closely related persons, may however expose financial institutions to significant risk, especially if the persons involved come from a country in which corruption and the illicit use of public office to obtain personal wealth is widespread.&nbsp; This risk is even more acute if the persons involved come from a country whose counter-money laundering regime does not meet international financial transparency standards.&nbsp; Financial institutions that engage, directly or indirectly, in business relationships with senior political figures or closely related persons from such countries
+may be subjecting themselves to significant legal risks and reputational damage.&nbsp; The attached guidance is one more tool to assist banking organizations in identifying and, when appropriate, reporting and avoiding transactions of an illicit nature.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The guidance should be disseminated to the domestic and foreign financial institutions supervised by the Federal Reserve in your district, as well as the appropriate members of your Reserve Bank's supervision and legal staffs.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Should you have any questions regarding the guidance, please contact Richard&nbsp;A.&nbsp;Small, Deputy Associate Director, at (202)&nbsp;452-5235.
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+            <a href="sr0103a1.pdf">Attachment</a> <font color=gray>(780&nbsp;KB&nbsp;PDF)</font> 
+         <p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../default.htm">SR letters</a> | <a href="default.htm">2001</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+            <b>Last update: February 21, 2006</b> </div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

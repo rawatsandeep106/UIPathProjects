@@ -1,0 +1,135 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 95-19 (SUP) on revisions to guidance on meetings with Boards of Directors -- March 30, 1995</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF"><a name="pagetop"></a>
+<blockquote>
+<table border=0 width="600">
+<TR>
+<TD>
+<table border=0 width="600">
+<TR>
+<TD width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font SIZE=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><Div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font SIZE=3><b>SR 95-19 (SUP)<br>
+March 30, 1995<br></b></td>
+</tr></table>
+<b><br>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font SIZE=3><b>Revisions to Guidance on Meetings with Boards of Directors</b></font></td>
+</tr>
+</table><br>
+<font SIZE=3><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This SR letter amends guidance presented in SR 85-28, &quot;Examination
+Frequency and Communicating with Directors,&quot; and supersedes guidance provided in SR
+88-12, &quot;Meetings with Boards of Directors of Troubled Small Bank Holding Companies.&quot;<br>
+
+<h4>Meetings with Directors of Shell Bank Holding Companies with Less Than $500 million in
+Assets</h4>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SR 85-28 specifies that a meeting should generally be held with the board of
+directors at the conclusion of any full-scope examination or inspection in which a state
+member bank is rated CAMEL composite 4 or 5 or a bank holding company (BHC) is rated
+BOPEC composite 4 or 5.&nbsp;&nbsp;In addition, it specifies that a meeting should also be held if an
+organization is rated composite 3 and its condition is deteriorating or has shown little
+improvement since a prior examination/inspection in which it was rated composite 3.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SR 88-12 authorizes an exception to this general policy by delineating
+conditions under which a meeting need not be held with the directors of shell BHCs with
+less than $150 million in assets that are rated BOPEC composite 4 or 5.&nbsp;&nbsp;This SR letter
+extends this exception to all shell BHCS with less than $500 million in assets that are rated BOPEC composite 3, 4, or 5 and updates the
+conditions listed in SR 88-12. &nbsp;&nbsp;&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Specifically, a meeting with the board of directors need not be held after an
+inspection that results in a BOPEC composite rating of 3, 4, or 5 for a shell BHC with less
+than $500 million in assets if all of the following conditions are met:<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(a)&nbsp;&nbsp;&nbsp;&nbsp;a meeting was held when the BHC was first downgraded to a BOPEC
+composite rating of 3, 4, or 5; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(b)&nbsp;&nbsp;&nbsp;&nbsp;the examination of the subsidiary bank(s) revealed no significant deterioration
+since the prior meeting; <br>
+<p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(c)&nbsp;&nbsp;&nbsp;&nbsp;no significant violations were revealed by the inspection of the BHC; and  <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;(d)&nbsp;&nbsp;&nbsp;&nbsp;the BHC is in compliance with any informal or formal enforcement actions. <br>
+
+<p>
+<h4>Participation of Reserve Bank Officers in Meetings with Directors</h4>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under current guidance, members of the Reserve Banks' official staffs are
+expected to represent the Federal Reserve at meetings with the directors of banks and
+bank holding companies.&nbsp;&nbsp;This SR letter amends this guidance to grant Reserve Banks the
+discretion to have senior examination staff represent the Reserve Bank in meetings with
+the directors of banks and bank holding companies with less than $500 million in assets. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reserve Banks are further authorized to conduct conference calls with
+directors in place of on-site meetings for BHCs with less than $500 million in assets, when
+considered appropriate and if an on-site meeting was held following the previous
+inspection.<br>
+<p>
+<h4>Participation of Reserve Bank Presidents in Meetings with Directors</h4>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under current guidance, Reserve Bank Presidents are expected to participate
+in meetings with directors of the largest multinational and regional organizations that are
+rated BOPEC composite 3, 4, or 5.&nbsp;&nbsp;This SR letter amends that guidance to grant Reserve
+Banks the discretion to determine the circumstances under which the participation of
+Reserve Bank Presidents is appropriate and necessary. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have any questions regarding the changes discussed above, please
+contact Mr. Kevin Bertsch (202/452-5265).<br>
+<p>
+<p>
+<center>Stephen C. Schemering
+<br>
+Deputy Director </center>
+
+<br>
+<p>
+Cross-Reference:&nbsp;&nbsp;&nbsp;&nbsp;SR 85-28 <br>
+Supersedes:&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SR 88-12 <br>
+<p>
+<p>
+<p>
+
+
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<A HREF="../">SR letters</A> | <a href="./">1995</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<A HREF="/">Home</A> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

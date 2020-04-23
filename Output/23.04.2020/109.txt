@@ -1,0 +1,81 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 03-16 on Application Filing Information web page  -- September 8, 2003</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 03-16<br>
+      September&nbsp;8,&nbsp;2003</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+   SUPERVISION AND APPROPRIATE APPLICATIONS AND EXAMINATION 
+   STAFF AT EACH FEDERAL RESERVE BANK AND TO DOMESTIC 
+   AND FOREIGN BANKING ORGANIZATIONS SUPERVISED BY THE 
+   FEDERAL RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Application Filing Information Web Page</div>
+<p>Board staff has developed an online resource for 
+   banking organizations and others interested in how 
+   to submit banking applications to the Federal Reserve. 
+   The new Application Filing Information Web Page is 
+   located on the Board's public web site at <a href="/generalinfo/applications/afi/">www.federalreserve.gov/generalinfo/applications/afi/</a>.&nbsp; 
+</p>
+<p>The new web page provides general guidance with respect 
+   to the regulatory requirements and processing standards 
+   relating to applications submitted to the Federal 
+   Reserve by U.S. or foreign banking organizations. 
+   It describes the statutory factors considered by 
+   the Federal Reserve in evaluating an application, 
+   including the banking organization's record of compliance 
+   with the Community Reinvestment Act. Specific types 
+   of applications submitted to the Federal Reserve 
+   are described, as well as related newspaper publication 
+   instructions and processing timeframes. The web page 
+   also provides links to application forms. In addition, 
+   it identifies contacts at each Reserve Bank to whom 
+   questions or comments can be directed. </p>
+<p>Reserve Banks are asked to distribute this SR&nbsp;letter 
+   to their applications and examination staffs, and 
+   to the domestic and foreign banking organizations 
+   in their districts. Should you have any questions 
+   regarding the new web site, please contact Michael&nbsp;Sexton, 
+   Supervisory Financial Analyst, Division of Banking 
+   Supervision and Regulation, at (202)&nbsp;452-3009.</p>
+
+<div class="officer">Richard Spillenkothen<br>
+   Director</div>
+<br clear="all">
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2003">2003</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: July 21, 2005</b> </div>
+</div>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

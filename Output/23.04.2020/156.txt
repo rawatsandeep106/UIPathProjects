@@ -1,0 +1,93 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR SR 07-7 / CA 07-2 on guidance on filing notices of proposed class action settlements -- May 7, 2007</title>
+	<meta name="keywords" content=" ">
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION
+    <br><br>
+    DIVISION OF CONSUMER AND<br>
+   COMMUNITY AFFAIRS</div>
+   <div class="ltrheader"><b>SR 07-7 / CA 07-2<br>
+   May 7, 2007</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+  SUPERVISION<br>
+  AT EACH FEDERAL RESERVE BANK</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Guidance on Filing Notices of Proposed Class Action Settlements</div>
+<p>The Board of Governors of the Federal Reserve System is issuing this SR/CA letter to provide guidance
+   to banking organizations under its supervision of requirements for filing notice of proposed settlements
+   of class action litigation.</p>
+<p>The Class Action Fairness Act of 2005, Pub.L.&nbsp;No.&nbsp;109-2, 119&nbsp;Stat.&nbsp;4&nbsp;(2005)
+   (codified at 28&nbsp;U.S.C.&nbsp;&sect;&nbsp;1715), requires financial institutions that are defendants
+   in class action litigation to file with their primary Federal banking regulator (and, in the case
+   of state-chartered institutions in the United&nbsp;States, with their state banking supervisor) a
+   notice of any proposed settlement of such litigation if any of the matters alleged in the action are
+   subject to regulation or supervision by such agencies. The notice requirements apply to federal and
+   state depository institutions, depository institution holding companies, foreign banks, and non-depository
+   institution subsidiaries of any of the foregoing entities. Within 10&nbsp;days after the filing of
+   a proposed class action settlement agreement with the court, any defendant financial institution covered
+   by the law and supervised by the Federal Reserve should send notice of the proposed settlement
+   to the General Counsel at the responsible Federal Reserve Bank. Such notice should include the materials
+	described in 28&nbsp;U.S.C.&nbsp;&sect;&nbsp;1715(b).</p>
+<p>The notice required to be filed with the Federal Reserve Bank must also be filed with the financial
+   institution&rsquo;s state bank supervisor, if any.</p>
+<p>The notice requirements described above apply only when at least one matter at issue in the litigation
+   is subject to regulation or supervision by the regulator. For example, settlement of a class
+   action involving lending practices would give rise to the notice requirements described above, while
+   a lawsuit involving only personnel issues would not.</p>
+<p>A proposed settlement of class action litigation subject to these notice requirements may not be finally
+   approved by the court until 90 days after service of the requisite notice on the appropriate Federal
+   financial institutions regulator (and, where applicable, upon the appropriate state bank supervisor).</p>
+<p>Reserve Banks are asked to distribute this SR/CA letter to the domestic and foreign banking organizations
+   supervised by the Federal Reserve in their districts as well as to supervisory and examination staff.
+   Questions regarding these notice requirements may be directed to Lisa&nbsp;M.&nbsp;Villarreal, Counsel,
+   Division of Banking Supervision and Regulation, at (202)&nbsp;721-4570, Steve&nbsp;Meyer, Assistant
+   General Counsel, Legal Division, at (202)&nbsp;452-2522, or Paul&nbsp;Robin, Manager, Division of
+   Consumer and Community Affairs, at (202)&nbsp;452-3140.</p>
+<div class="officers">
+<div class="officer1">Roger T. Cole<br>
+  Director<br>
+	Division of Banking<br>
+	Supervision and Regulation</div>
+<div class="officer2">Sandra F. Braunstein<br>
+  Director<br>
+	Division of Consumer and<br>
+	Community Affairs</div>
+</div>
+<br clear="all">
+<br>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2007">2007</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: May 9, 2007</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

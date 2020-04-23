@@ -1,0 +1,104 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 08-12 on  Revisions to the Guide to the Interagency Country Exposure Review Committee (ICERC) Process -- November 25, 2008</title>
+
+	<meta name="keywords" content="ICERC and ATRR">
+
+	<link rel="stylesheet" type="text/css" href="../letter_2008.css">
+	<link rel="stylesheet" type="text/css" href="../letter_2008_screen.css" media="screen">
+	<link rel="stylesheet" type="text/css" href="../letter_2008_print.css" media="print">
+
+	<!--
+	<style type="text/css">
+
+	</style>
+	-->
+
+
+</html>
+
+<a name="pagetop"></a>
+
+
+<div class="left"><img src="../gifjpg/seal_bw.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0" width="116" height="116"></div>
+
+<div class="middle">
+	<div class="ltrheader" style="padding-top:1ex;">BOARD OF GOVERNORS</div>
+	<div class="ltrheadersm" style="margin-top:1ex;">OF THE</div>
+	<div class="ltrheader" style="margin-top:1ex;">FEDERAL RESERVE SYSTEM</div>
+	<div class="ltrheadersm" style="margin-top:1.5ex;">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+
+<div class="right">
+	<div class="division_head">DIVISION OF BANKING<br>SUPERVISION AND REGULATION</div>
+
+	<div class="ltr_number">SR 08-12</div>
+
+	<div class="date_text">November 25, 2008</div>
+
+</div>
+
+
+<div class="salutation">TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY STAFF AT EACH FEDERAL RESERVE BANK AND TO CERTAIN DOMESTIC AND FOREIGN BANKING ORGANIZATIONS SUPERVISED BY THE FEDERAL RESERVE</div>
+
+<div class="subject2">
+<table>
+<tr>
+<td valign="top" style="padding-top:.2em;"><span class="subject_head">SUBJECT:&nbsp;&nbsp;</span></td>
+<td><span class="subject_text">Revisions to the Guide to the Interagency Country Exposure Review Committee (ICERC) Process</span></td>
+</tr>
+</table>
+</div>
+
+<div class="letter_body">
+
+<p>The Federal Reserve Board, the Office of the Comptroller of the Currency, and the Federal Deposit Insurance Corporation (the agencies) have revised the ICERC procedures and adjusted the criteria for applying ICERC ratings.  As a result, the agencies are issuing a revised <i>Guide to the Interagency Country Exposure Review Committee Process</i>.  The agencies revised the guide to reflect improvements in regulated institutions’ cross-border exposure analyses and country risk management programs, as well as improvements in the availability of information on country and transfer risk.  The agencies will now assign ICERC ratings only to those countries in default, and will eliminate several rating categories.</p>
+
+<p>Reserve Banks should distribute this letter and the attached interagency guide to the appropriate officer of each bank holding company, state member bank, and banking Edge corporation in your District that files the Country Exposure Report (FFIEC&nbsp;009), as well as to each U.S. branch and agency of a foreign banking organization supervised by the Federal Reserve.  The revised guide should also be distributed to senior supervisory management and examination staff with responsibility for transfer risk issues.</p>
+
+<p>Questions concerning this interagency guide should be directed to Sabeth&nbsp;Siddique, Assistant Director, Credit Risk, at <span class="nobreak">(202) 452-3861</span>, or Donald&nbsp;Gabbai, Senior Supervisory Financial Analyst, Credit Risk, at <span class="nobreak">(202) 452-3358</span>.  In addition, questions may be sent via the Board’s public website.<a href="#Footnote1" id="Footref1" title="Footnote 1"><sup>1</sup></a>&nbsp;</p>
+
+<div class="officer"><em>signed by</em><br>Roger T. Cole<br>Director</div>
+
+<div class="attachments">
+	<div>Attachments:</div>
+
+	<ul class="nobullet">
+		<li class="ds"><a href="sr0812a1.pdf">Interagency Statement<span class="size noprint"> (60&nbsp;KB&nbsp;PDF)</span></a></li>
+		<li><a href="sr0812a2.pdf"><i>Guide to the Interagency Country Exposure Review Committee Process</i><span class="size noprint"> (1.74&nbsp;MB&nbsp;PDF)</span></a></li>
+	</ul>
+
+</div>
+
+<div class="cross_references">
+	<div>Supersedes:&nbsp; SR letter 99-35</div>
+
+</div>
+
+<div class="footnotes">
+	<div class="halfline">&nbsp;</div>
+	<b>Notes:</b> 
+	<ol>
+	<li class="ds"><a name="Footnote1"></a>See <a href="/feedback.cfm">http://www.federalreserve.gov/feedback.cfm</a>.&nbsp;&nbsp;<a href="#Footref1" class="noprint return">Return&nbsp;to&nbsp;text</a></li>
+	</ol>
+</div>
+
+</div>
+
+<div class="pubftnotes noprint">
+	<a href="../">SR letters</a> | 
+	<a href="../2008">2008</a> 
+	<div class="pubfooter">
+		<a href="/">Home</a> | 
+		<a href="/banknreg.htm">Banking information and regulation</a>
+		<br>
+		<a href="/accessibility.htm">Accessibility</a> | 
+		<a href="/feedback.cfm">Contact Us</a>
+		<br>
+		<b>Last update:&nbsp; July 22, 2009</b>
+	</div>
+</div>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

@@ -1,0 +1,172 @@
+<HTML>
+<HEAD>
+	<script language="JavaScript" src="/exit.js"></script>
+	<Title>FRB: Supervisory Letter SR 98-5 (SPE) on Changes to the Board's Securities Credit Regulations (Regulations G and U) -- March 23, 1998</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY bgcolor=ffffff>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=15% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border=0 align=left vspace=0 hspace=0></td>
+<td width=50%><font face=arial SIZE=-2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></td>
+<td width=15%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><font face=arial size=-2><b>DIVISION OF BANKING<br>SUPERVISION AND REGULATION<p></td>
+</tr>
+<tr>
+<td></td>
+<td><font size=-1 face=arial><b>SR 98-5 (SPE)<br>
+March 23, 1998<br>
+</td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%><font size=-1 face=arial>
+<b>TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b><br>
+<br>
+<table width="80%">
+<tr>
+<td width="12%" valign="top" align="left"><font face="arial" size=-1><b>SUBJECT:</b></td>
+<td width=88% align=left><font face=arial size=-1><b>Changes to the Board's Securities Credit Regulations (Regulations G and U)
+</b></font></td>
+</tr>
+</table><br>
+<p>
+<font size=-1>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Board recently adopted amendments to Regulations G and U and also published for public comment some proposed additional changes to its securities credit regulations.&nbsp; This describes the changes that have been made to Regulations G and U and the proposed new modifications, and requests that you communicate with current Regulation G lenders about this matter.
+<p>
+<B>Recent Changes to the Board's Securities Credit Regulations</b>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+As a result of the recent amendments to Regulations G and U, lenders subject to Regulation G will become subject to a revised Regulation U on April&nbsp;1, 1998, and Regulation G will be eliminated. The amendments generally reduce regulatory distinctions between broker-dealers, banks, and other lenders and implement changes to the Board's statutory authority under the Securities Exchange Act of 1934 mandated by the National Securities Markets Improvement Act of 1996.&nbsp; The title of Regulation U is also being changed to reflect its coverage of persons other than brokers and dealers.&nbsp; Entities that were known as "lenders" under Regulation G will be known as "nonbank lenders"  under Regulation U, and the term "lender" will be used in Regulation U to refer to banks and former Regulation G lenders collectively.&nbsp; 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Attachment 1 is a copy of the recent changes to the Board's Regulation U.
+<p>
+<B>Proposed Securities Credit Rule Changes</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Board published in the <i>Federal Register </i>an advanced notice of proposed rulemaking and request for comments.&nbsp; In its notice, a copy of which is attached as Attachment 2, the Board asked for public comment on a number of issues that were raised during the evaluation of its securities credit rules over the past few years, and specifically focused attention on the following:
+<p>
+<ol>
+<li><U>Registration requirements</U>
+<p>
+The registration requirements for lenders formerly subject to Regulation G have been moved to section 221.3(b)(1) of Regulation U.&nbsp; Nonbank lenders who extend credit secured by margin stock for any reason are required to register with the Federal Reserve within 30 days after any calendar quarter in which the lender either: 
+(1) extends $200,000 or more in credit secured by margin stock; or (2) has a total of $500,000 or more in credit secured by margin stock outstanding.&nbsp; Persons other than banks and broker-dealers who extend securities credit below these thresholds are not subject to the registration requirements and are not limited by the Board's 50 percent margin requirement for purpose loans secured by margin stock.&nbsp; The Board is soliciting comment on whether it should propose changes to the registration requirements, such as establishing higher dollar thresholds or eliminating the need for registration for nonbank lenders who do not extend "purpose credit" as defined in section 221.2 of Regulation U.
+<p>
+<li><U>Purpose statement</U>
+<p>
+Both Regulation G and Regulation U require lenders to obtain a written statement from their customers as to the purpose of a loan if the credit is secured by margin stock.&nbsp; This form is known as a "purpose statement" and is designated as the FR G-3 and FR U-1, respectively.&nbsp;   Although the margin requirements apply whenever a bank makes a purpose loan secured by margin stock, banks are not required to obtain a purpose statement for loans that do not exceed $100,000.&nbsp; Nonbank lenders, who are not required to register with the Board until they have extended at least $200,000 in  securities credit, must obtain a purpose statement for every loan they make after reaching the registration threshold.&nbsp; The Board is soliciting comment on whether it would be appropriate to amend Regulation U to provide uniform requirements for purpose statements, including possible elimination of the form.
+<p>
+<li><U>Reporting Forms</U>
+<p>
+In addition to the matters described above, the Board is soliciting comment on the disposition of certain reporting forms currently used by Regulation G lenders, the FR G-1, FR G-2, and FR G-4, and on further amendments to Regulation U that would affect the margin credit "purpose statements," the FR G-3 and the FR U-1. Accordingly, until the Board has collected and analyzed any forthcoming comments, it will extend for three years, under delegated authority by the Office of Management and Budget, the following collections of information: FR G-1 (OMB No. 7100-0011), FR G-2 (OMB No. 7100-0011), FR G-3 (OMB No. 7100-0018), FR G-4 (OMB No. 7100-0011), and FR U-1 (OMB No. 7100-0115). &#9;
+</ul>
+<p>
+<B>Over-the-counter Stocks</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+On April 1, 1998, Regulation U will be revised so that lenders other than brokers and dealers will no longer be required to apply the Board's margin requirements to all over-the-counter (OTC) stocks on the OTC List.&nbsp; Instead, lenders subject to the revised Regulation U will be required to apply the Board's margin requirements only to those OTC stocks that qualify for trading in the Nasdaq Stock Market's National Market System (NMS) securities.&nbsp; Prior to the adoption of these amendments, all of the Board's securities credit regulations permitted 50 percent loan value for: (1) stocks traded on a national securities exchange, (2) stocks in the National Market tier of the Nasdaq Stock Market, and (3) stocks in the Small Capitalization ("SmallCap" securities) tier of the Nasdaq Stock Market that are identified by the Board as "OTC margin stocks."  The Board has amended the definition of "margin stock" in the revised Regulation U (which incorporates Regulation G) to <I>exclude </I>stocks trading in the SmallCap tier of the Nasdaq Stock Market. Thus, the Board's quarterly OTC List will no longer be required for banks and other nonbroker lenders because the Board will no longer choose which Nasdaq stocks qualify as a margin stock for purposes of Regulation U. These lenders can determine whether an OTC stock is an NMS security by consulting a newspaper, contacting the NASD or SEC, or checking the NASD's web site at <a href="http://www.nasdaq.com" target="_top" onclick="linkalert()">http://www.nasdaq.com.&nbsp;</a> The Board is therefore deleting the requirements for inclusion on the OTC List formerly found in section 221.7 of Regulation U, the definition of "OTC margin stock" in section 221.2 of Regulation U, and the provision concerning "lack of notice of NMS security designation" formerly found in section 221.3(j) of Regulation U.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Lenders subject to Regulation T and borrowers subject to Regulation X who are required under Section 224.3(a) to conform credit they obtain to Regulation T must continue to use the OTC List.&nbsp;  An amendment to Regulation T that will make all stocks trading in the Nasdaq Stock Market marginable at brokers and dealers will be effective January 1, 1999.&nbsp; The Board will cease publication of the OTC List at that time.
+<p>
+<B>Communications with Regulation G Lenders</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Due to the significant changes that have been made, and are proposed to be made, the Board has not yet proposed additional changes to Regulations G and U.&nbsp; Reserve Banks are instructed to send the suggested transmittal letter attached as Attachment 3 to each Regulation G lender in their Districts.&nbsp; The transmittal letter notifies the Regulation G lenders about the elimination of Regulation G and requests comments on the issues stemming from the consolidation of  Regulation G into Regulation&nbsp;U.&nbsp; 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+If you have any questions please feel free to contact Peggy Wolffrum, Securities Regulation Analyst, at (202) 452-2837, or Scott Holz, Senior Attorney. Legal Division, at (202) 452-2966.
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+Attachments
+<p>
+<ul>
+<a href="sr9805a1.pdf" target="_top">Changes to the Board's Regulation U (20&nbsp;KB&nbsp;PDF)</a><br>
+<P>
+<a href="sr9805a2.pdf" target="_top">Proposed Rulemaking and Request for Comment (25&nbsp;KB&nbsp;PDF)</a>
+<p>
+<a href="#attachment3">Suggested Transmittal Letter</a>
+</ul>
+<p>
+<br>
+<a name="attachment3"><a>
+<hr>
+<p>
+<br>
+<div align=right>Attachment 3</div>
+<p>
+Suggested Transmittal Letter to Those Regulation G Lenders Subject to Changes in the New Regulation&nbsp;U (Regulation G)
+<p>
+<br>
+<table>
+<tr>
+<td valign=top><font size=-1 face=arial>Subject:&nbsp;&nbsp;</td>
+<td><font size=-1 face=arial>Changes to the Board's Securities Credit Regulations (Regulations G and U)</td>
+</tr>
+</table>
+<p>
+<br>
+Dear  _________:
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Federal Reserve recently took actions to reduce regulatory distinctions between broker-dealers, banks, and other lenders and implement changes to the Board's securities credit regulations.&nbsp; These actions include the extension of Regulation U to cover lenders formerly subject to Regulation G and the elimination of Regulation G.<B>  </B>The Board also published for public comment an advanced notice of proposed rulemaking relating to its securities credit rules.&nbsp; Among other things, the Board requested comments on the possible modification or elimination of the forms associated with Regulations G and U, and the revision of the Regulation U's registration requirements for nonbank lenders regarding dollar thresholds and lenders who do not extend credit to purchase securities.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+For your information, we have enclosed a copy of the recently revised Regulation U, and a copy of the advance notice of proposed rulemaking and request for comment as published in the <i>Federal&nbsp;Register.&nbsp; </i>Public comments on the proposed changes to the Board's securities credit rules are requested by April 1, 1998.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+If you have any questions regarding the enclosures, please call (name, title) of the Federal Reserve Bank of ___________.&nbsp; You may also contact 
+Peggy Wolffrum, Securities Regulation Analyst in the Board's Division of Banking Supervision and Regulation, at (202) 452-2837, or Scott Holz, Senior Attorney in the Board's Legal Division, at (202) 452-2966.
+<p>
+<br>
+<center>Sincerely,</center>
+<p>
+<br>
+Enclosures
+<p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../">SR letters</a> | <a href="./">1998</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: January 15, 2002</b>
+</div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

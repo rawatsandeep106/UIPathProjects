@@ -1,0 +1,118 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 05-8 on interagency interpretive guidance on the provision of banking services to money services businesses operating in the United States -- April 26, 2005</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   
+  <div class="ltrheader"><b>SR 05-8<br>
+    April 26, 2005</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+  SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION 
+  STAFF AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC 
+  AND FOREIGN BANKING ORGANIZATION SUPERVISED BY THE 
+  FEDERAL RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Interagency 
+  Interpretive Guidance on the Provision of Banking 
+  Services to Money Services Businesses Operating in 
+  the United States</div>
+<!-- single space -->
+<p>The Board of Governors of the Federal Reserve System, 
+  Federal Deposit Insurance Corporation, Office of the 
+  Comptroller of the Currency, Office of Thrift Supervision, 
+  and National Credit Union Administration, along with 
+  the U.S.&nbsp;Department of the Treasury's Financial 
+  Crimes Enforcement Network&nbsp;(FinCEN), have issued 
+  the attached interagency interpretive guidance for 
+  banking organizations to clarify the requirements 
+  of the Bank Secrecy Act and anti-money laundering 
+  regulations in relation to the provision of banking 
+  services to money services businesses&nbsp;(MSBs) 
+  operating in the United&nbsp;States. The interagency 
+  guidance is a follow up to the joint statement issued 
+  on March&nbsp;30,&nbsp;2005, and will be incorporated 
+  into the interagency BSA/AML examination procedures 
+  that are scheduled for release on June&nbsp;30,&nbsp;2005. 
+  In addition to the issuance of the interagency interpretive 
+  guidance, FinCEN has issued related guidance to the 
+  MSB industry on BSA compliance.</p>
+<p>The interagency guidance 
+  seeks to clarify existing requirements rather than 
+  to create new requirements or impose additional burdens 
+  on banking organizations. Given that MSBs vary widely 
+  in their operations and the levels of risks presented, 
+  the guidance addresses the need for banking organizations 
+  to assess risks associated with their different MSB 
+  accounts, and provides examples of potential indicators 
+  of low and high risk MSB accounts. The guidance outlines 
+  regulators' expectations for minimum due diligence 
+  on all MSB accounts and describes enhanced due diligence 
+  that may be appropriate for accounts identified as 
+  higher risk. The guidance also addresses the issues 
+  of filing Suspicious Activity Reports and account 
+  closure. </p>
+<p>The guidance encourages 
+  banking organizations to direct questions about BSA 
+  obligations and the provision of banking services 
+  to MSBs to FinCEN or their primary federal regulators; 
+  thus, it is expected that you may receive inquiries 
+  from banking organizations in your district. To ensure 
+  that the System provides consistent information on 
+  this subject, responses should be coordinated through 
+  Bridget&nbsp;M.&nbsp;Neill, Manager, Anti-Money Laundering 
+  Policy and Compliance Section, Division of Banking 
+  Supervision and Regulation, at the Board. </p>
+<p>Reserve Banks are asked 
+  to distribute this SR&nbsp;letter to the domestic 
+  and foreign banking organizations supervised by the 
+  Federal Reserve, as well as to supervisory and examination 
+  staff. If you have any questions, please contact Nina&nbsp;Nichols, 
+  Senior Counsel, Enforcement Section, at (202)&nbsp;452-2961, 
+  or Bridget&nbsp;M.&nbsp;Neill, at (202)&nbsp;452-5235.</p>
+<div class="officer">Richard Spillenkothen<br>
+        Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+  <dt class="nobreak">Attachment:</dt>
+   <dd class="srltr"><a href="SR0508a1.pdf"><i>Interagency Interpretive Guidance 
+      on Providing Banking Services to Money Services Business Operating in the 
+      United States</i><span class="pdf"> (1,667&nbsp;KB&nbsp;PDF)</span></a></dd>
+  <dt class="nobreak">Cross Reference: </dt>
+  <dd class="srltr"><a href="SR0507.htm">SR&nbsp;05-7</a></dd>
+</dl>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2005">2005</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+    <b>Last update: February 21, 2006</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

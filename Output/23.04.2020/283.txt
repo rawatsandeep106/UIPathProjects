@@ -1,0 +1,95 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 90-26 (FIS) on examination and inspection reports -- July 17, 1990</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF"><a name="pagetop"></a>
+<blockquote>
+<table border=0 width="600">
+<TR>
+<TD>
+<table border=0 width="600">
+<TR>
+<TD width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font SIZE=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><Div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font SIZE=3><b>SR 90-26 (FIS)<br>
+July 17, 1990<br></b></td>
+</tr></table>
+<b><br>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font SIZE=3><b>Examination and Inspection Reports
+</b></font></td>
+</tr>
+</table><br>
+<font SIZE=3><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Effective immediately, a statement describing the
+percentage of loans reviewed in each credit-extending nonbank
+subsidiary should be presented on the scope of examination page
+of the inspection report.&nbsp;&nbsp;The percentage will represent the
+<I>actual</I> loans reviewed by Federal Reserve examiners divided by
+total loans in each nonbank subsidiary.&nbsp;&nbsp;Statistical sampling or
+any form of extrapolation would not enter into the percentage
+derived for this purpose.&nbsp;&nbsp;In situations where different
+categories of loans are housed in a nonbank subsidiary, it may be
+relevant to present a percentage of loans reviewed by each
+different category, or different percentages presented if one
+category of loans is actually reviewed and another category is
+assessed by delinquency or a delinquency formula method.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The instructions for the scope of examination page of
+the commercial bank examination report presently require a
+statement describing the actual percentage of loans reviewed, and
+this should continue.&nbsp;&nbsp; However, in state member banks with
+assets in excess of $l billion, it would appear appropriate to
+present the percentage of loans reviewed in each category.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please contact Jim Garner (202-452-2704), if you have
+any questions.
+<p>
+<br>
+<center>William Taylor<br>
+Staff Director</center>
+<p>
+Cross Reference:&nbsp;&nbsp;SR 90-13
+<p>
+<p>
+
+
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<A HREF="../">SR letters</A> | <a href="./">1990</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<A HREF="/">Home</A> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: March 24, 2005</b>
+</div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

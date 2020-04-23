@@ -1,0 +1,284 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 97-24 (SUP) on risk-focused framework for supervision of large complex institutions -- October 27, 1997</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF">
+<a name="pagetop"></a>
+<blockquote>
+<table border=0 width="600">
+<TR>
+<TD>
+<table border=0 width="600">
+<TR>
+<TD width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font SIZE=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><Div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font SIZE=3><b>SR 97-24 (SUP)<br>
+October 27, 1997<br></b></td>
+</tr></table>
+<b><br>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font SIZE=3><b>Risk-Focused Framework for Supervision of Large Complex Institutions
+</b></font></td>
+</tr>
+</table><br>
+<font SIZE=3><p>
+<b>Introduction</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Over the last several years, a major strategic initiative of the Federal Reserve has
+been to develop and implement an examination and supervision program for large domestic and
+foreign banking organizations that focuses more effectively on an organization's principal risks
+and on its internal systems and processes for managing and controlling these risks.&nbsp; If properly
+carried out, such an approach can improve supervisors' ability to identify and address
+weaknesses on a timely basis.&nbsp; It can also be more cost-effective for supervisors and less
+burdensome to banking organizations.  This initiative reflects the fact that best practice in the supervision and regulation of banking organizations is an evolving concept that must continually
+respond to important developments in banking, including innovations in products, services, and
+activities; emerging risks and the changing nature of risk-taking; advancements in information
+technology and risk management techniques; and the globalization and integration of financial
+institutions and markets.&nbsp; In this context, supervisory policies and procedures must adapt and
+evolve over time as banking and financial conditions change.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The attached handbook,
+which sets forth a framework for risk-focused supervision of complex banking organizations, describes certain important aspects of the Federal Reserve's
+program to enhance the effectiveness of its supervisory processes for state member banks, bank
+holding companies, and foreign banking organizations.  The main objective of this program is to sharpen the focus of the supervisory process on: (1)&nbsp;those business activities which pose the
+greatest risks to the soundness of a banking organization and the financial system more generally
+and (2)  the assessment of an organization's management systems to identify, measure, monitor,
+and control its risks.&nbsp; Elements of this program are being utilized or have been pilot-tested in a
+number of Districts.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reserve Banks are asked to provide copies of this handbook to their staffs and to
+ensure that the framework set forth in the handbook is fully implemented going forward.&nbsp; Copies
+of the handbook should also be shared with state banking departments and the local offices of the
+FDIC and the Office of the Comptroller of the Currency.
+<p>
+<b>Large Complex Institutions Covered by the Framework</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For purposes of the risk-focused supervision framework, large complex
+institutions are defined as those that generally have a functional management structure; a broad
+array of products, services, and activities; operations that span multiple supervisory jurisdictions;
+and consolidated assets of $1 billion or more.&nbsp; These institutions may be domestic or foreign in
+origin, and include U.S. bank holding companies (together with their nonbank and foreign
+subsidiaries), state member banks, Edge Act and agreement corporations, and branches and
+agencies of foreign banks.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The risk-focused supervision framework balances reviews of functional activities
+and product lines with assessments of  legal entities and transactions among legal entities.&nbsp; As
+part of this functional approach, the framework endorses the concept of conducting, when
+appropriate, a series of targeted examinations during a supervisory cycle, focusing on a single
+activity, business line, or legal entity of the banking organization.&nbsp; Consistent with long-standing
+practice, the findings of these functional, business line, and legal entity examinations are to be
+coordinated closely with the efforts of other federal and state supervisors.&nbsp; Coordination and
+avoidance of duplication among federal and state supervisors are essential to effective
+supervision of complex banking organizations.&nbsp; In carrying out its umbrella supervisory
+responsibilities for bank holding companies and the U.S. operations of foreign banking
+organizations, the Federal Reserve should continue, as appropriate, to incorporate the findings
+and conclusions of other supervisors into its overall assessment of the consolidated banking
+organization or banking group.<br>
+<p>
+<b>Risk-Focused Framework</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The framework specifies six key steps in the risk-focused supervision of  large
+complex institutions, each of which requires the completion of certain analyses, assessments, and
+plans and the preparation of corresponding documents.&nbsp; These documents include: Institutional
+Overview, Risk Matrix, Risk Assessment, Supervisory Plan, Examination Program, and Scope
+Memorandum.&nbsp; As previously requested in SR&nbsp;letter&nbsp;96-29, for the Top 50 bank holding
+companies, Reserve Banks should continue to provide the Board's appropriate Supervision
+Operations sections with copies of these products as they are updated.&nbsp; For those large complex
+institutions not considered Top 50 bank holding companies, further guidance will be forthcoming
+on the submission of these products to Board staff.&nbsp; With respect to U.S. branches and agencies
+of foreign banking organizations, Reserve Banks should continue to prepare and update the
+products outlined in SR letter&nbsp;95-22&nbsp;(SUP.IB).&nbsp; Separate guidance will be issued concerning any
+future modifications to these products.<br>
+<p>
+<b>Examination and Inspection Procedures</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examination and inspection guidelines and procedures, including those setting
+forth a risk-focused framework for supervision, have been developed and prescribed in numerous
+SR letters over the last several years.&nbsp; This guidance has been incorporated into the handbook.<a href="#Footnote1" title="Footnote 1" name="Footref1"><sup>1</sup></a>&nbsp; 
+Further initiatives are underway to assist examiners in assessing the major business functions and
+activities of large complex institutions.&nbsp; Procedures are being developed in the form of
+"examination modules" for major functional areas, including loan portfolio analysis, treasury
+activities, trading and capital markets activities, and internal control and audit.&nbsp; The modules set
+forth examination objectives, establish examination procedures, and assist in the documentation
+of examiners' work.&nbsp; Starting October&nbsp;1, 1997, several of the modules were released for field
+testing.&nbsp; As additional modules are developed, they will be released for testing.&nbsp; It is expected
+that the examination modules will be fully implemented in mid-1998 and will be made available
+in an electronic format similar to the examination modules for community banks.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The development and testing of these materials, including the preparation of the
+handbook, have been part of a Systemwide effort to enhance the effectiveness and efficiency of
+the supervision process.&nbsp; As already suggested, this is an ongoing effort that will require
+continuing refinement and modification over time.&nbsp; Success of this process going forward will
+require the continued outstanding contributions of Reserve Bank and Board staff.<br>
+<p>
+<center>* * *</center>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Additional guidance will be forthcoming as needed on the implementation of the
+risk-focused supervision framework.&nbsp; Questions or comments concerning the handbook should
+be directed to Mr. Roger Cole, Associate Director, at (202)&nbsp;452-2618 and Mr. William A.
+Ryback, Associate Director, at (202)&nbsp;452-2733.<br>
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+ATTACHMENTS<br>
+<ul>
+<a href="sr9724a1.pdf" target="_top">Handbook transmitted as separate PDF file (509&nbsp;KB&nbsp;PDF)</a><br>
+<a href="#summary">Summary of Changes to Handbook transmitted electronically below</a><br>
+</ul>
+<p>
+Cross References:<br>
+<ul>
+AD letter 97-36 (SUP)<br>
+AD letter 96-50 (GEN) Restricted<br>
+SR letter 96-29 (SUP)<br>
+SR letter 95-22 (SUP.IB)
+</ul>
+<p>
+<br>
+<hr>
+<a name="summary"></a>
+<p>
+<br>
+<CENTER>
+ <B>Attachment</B><BR>
+    Summary of Changes<BR>
+    in the August 8th Handbook<BR>
+    from the Draft of June 5, 1997
+</CENTER>
+<P></P>
+<BR>
+
+<TABLE CELLSPACING="5" 
+      BORDER="0"
+      ALIGN="CENTER"
+      SUMMARY="The following table describes the summary of changes 
+             in the August 8th Handbook from the draft of June 5, 
+             1997.  The first column represents the page numbers 
+             from the June 5th’s draft, whereas the second column 
+             represents the new page numbers from the August 8th 
+             Handbook.  The last column describes the brief summary 
+             of what has been changed.">
+
+
+ <TR>
+  <TD VALIGN=TOP ALIGN=CENTER SCOPE="COL">
+      Page No.<BR><U>&nbsp;June&nbsp;5th&nbsp;</U><BR>&nbsp;</TD>
+  <TD VALIGN=TOP ALIGN=CENTER SCOPE="COL">
+      Page No.<BR><U>August&nbsp;8th</U><BR>&nbsp;</TD>
+  <TD VALIGN=TOP ALIGN=CENTER SCOPE="COL">
+      <FONT COLOR=WHITE>Modifications</FONT></TD>
+ </TR>
+
+ <TR>
+  <TD VALIGN=TOP ALIGN=CENTER>&nbsp;</TD>
+  <TD VALIGN=TOP ALIGN=CENTER>In general</TD>
+  <TD VALIGN=TOP>
+      The font has been changed to Times New Roman 12 pt.&nbsp; The 
+      change in the font has changed the spacing and reduced the 
+      number of pages.<BR>&nbsp;</TD>
+ </TR>
+
+ <TR>
+  <TD VALIGN=TOP ALIGN=CENTER>5</TD>
+  <TD VALIGN=TOP ALIGN=CENTER>4</TD>
+  <TD VALIGN=TOP>
+      Deleted footnote 4 from the June 5th draft and clarified 
+      discussion on nonbank subsidiaries of domestic institutions 
+      and Edge Act corporations.<BR>&nbsp;</TD>
+ </TR>
+
+ <TR>
+  <TD VALIGN=TOP ALIGN=CENTER>17</TD>
+  <TD VALIGN=TOP ALIGN=CENTER>15</TD>
+  <TD VALIGN=TOP>
+      Deleted footnote 14 from the June 5th draft.<BR>&nbsp;</TD>
+ </TR>
+
+ <TR>
+  <TD VALIGN=TOP ALIGN=CENTER>18</TD>
+  <TD VALIGN=TOP ALIGN=CENTER>15</TD>
+  <TD VALIGN=TOP>
+      Amended footnote 15 in the June 5th draft which is now 
+      footnote 13 in August&nbsp;8th Handbook.<BR>&nbsp;</TD>
+ </TR>
+
+ <TR>
+  <TD VALIGN=TOP ALIGN=CENTER>23-24</TD>
+  <TD VALIGN=TOP ALIGN=CENTER>20</TD>
+  <TD VALIGN=TOP>
+      Deleted the discussion on payments system activities as this 
+      matter will be addressed in an examination module.
+      <BR>&nbsp;</TD>
+ </TR>
+
+ <TR>
+  <TD VALIGN=TOP ALIGN=CENTER>39</TD>
+  <TD VALIGN=TOP ALIGN=CENTER>35</TD>
+  <TD VALIGN=TOP>
+      Amended footnote 22 in June 5th draft which is now footnote 
+      20 in August&nbsp;8th Handbook.<BR>&nbsp;</TD>
+ </TR>
+
+ <TR>
+  <TD VALIGN=TOP ALIGN=CENTER>&nbsp;</TD>
+  <TD VALIGN=TOP ALIGN=CENTER>Appendix K</TD>
+  <TD VALIGN=TOP>
+      Replaced draft Loan Portfolio Analysis Examination Module 
+      with draft Internal Control and Audit Module as this module 
+      provides a better example of a module applicable to both a 
+      bank holding company and a state member bank.<BR></TD>
+ </TR>
+
+</TABLE>
+
+<p>
+
+<hr>
+<P>
+<B>Footnotes</B>
+<P>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;
+An earlier draft of this handbook was distributed to attendees at the June examiner conference in Dallas.&nbsp; The attachment to this memorandum summarizes the changes made to the handbook since the conference.&nbsp; It is expected that the current version of the handbook will be available on the FEDWEB.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<A HREF="../">SR letters</A> | <a href="./">1997</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<A HREF="/">Home</A> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: April 25, 2016</b>
+</div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

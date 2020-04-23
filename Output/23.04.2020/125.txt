@@ -1,0 +1,97 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 04-4 on accounting for deferred compensation agreements -- February 11, 2004</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 04-4<br>
+      February 11, 2004</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+   SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION 
+   STAFF AT EACH FEDERAL RESERVE&nbsp;BANK AND TO DOMESTIC 
+   AND FOREIGN BANKING ORGANIZATIONS SUPERVISED BY THE 
+   FEDERAL&nbsp;RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Accounting 
+   for Deferred Compensation Agreements</div>
+<p>The Federal Reserve, along with the Office of the 
+   Comptroller of the Currency, the Federal Deposit 
+   Insurance Corporation, and the Office of Thrift Supervision 
+   (the&nbsp;agencies), have issued the attached Interagency 
+   Advisory on Accounting for Deferred Compensation 
+   Agreements and Bank-Owned Life Insurance&nbsp;(BOLI). 
+   Consistent with generally accepted accounting principles&nbsp;(GAAP), 
+   the advisory highlights the appropriate accounting 
+   for obligations under a type of deferred compensation 
+   agreement commonly referred to as a revenue neutral 
+   plan or an indexed retirement plan. The benefits 
+   payable under these plans are often based on the 
+   performance of investments in BOLI. </p>
+<p>State member banks should review their accounting 
+   for these agreements to ensure that they are being 
+   properly reported in accordance with this advisory. 
+   Banks should reflect any necessary changes for these 
+   agreements in their March&nbsp;31,&nbsp;2004, Call&nbsp;Reports 
+   as described in the guidance. Banks are not required 
+   to file amended Call&nbsp;Reports unless specifically 
+   directed by their Reserve&nbsp;Bank. While the interagency 
+   advisory applies to banks, it should also be followed 
+   by bank holding companies and U.S.&nbsp;branches 
+   and agencies of foreign banking organizations that 
+   file GAAP-based regulatory reports.</p>
+<p>Reserve Banks are asked to distribute this SR&nbsp;letter 
+   and the attached interagency advisory to state member 
+   banks, bank holding companies, and foreign banking 
+   organizations supervised by the Federal&nbsp;Reserve 
+   as well as to supervisory and examination staff. 
+   Questions pertaining to this letter should be directed 
+   to Arthur&nbsp;Lindo, Project Manager (202)&nbsp;452-2695, 
+   Douglas&nbsp;Carpenter, Supervisory Financial Analyst 
+   (202)&nbsp;452-2205, or Salome&nbsp;Tinker, Senior 
+   Financial Analyst (202)&nbsp;452-3034, in the Accounting 
+   Policy &amp; Disclosure and Regulatory Reports sections.</p>
+<div class="officer">Richard Spillenkothen<br>
+   Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+   <dt class="nobreak">Attachment:</dt>
+   <dd class="srltr"><a href="SR0404a1.pdf">Interagency Advisory on Accounting 
+      for Deferred Compensation Agreements and Bank-Owned Life Insurance&nbsp;(BOLI)</a><span class="pdf"> 
+      (703&nbsp;KB&nbsp;PDF)</span></dd>
+</dl>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2004">2004</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: February 21, 2006</b> </div>
+</div>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

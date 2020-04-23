@@ -1,0 +1,114 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 07-16 / CA 07-4 on statement on loss mitigation strategies for servicers of residential mortgages -- September 05, 2007</title>
+	<meta name="keywords" content=" ">
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 07-16 / CA 07-4<br>
+   September 5, 2007</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION
+STAFF AT EACH FEDERAL RESERVE BANK AND BANKING ORGANIZATIONS SUPERVISED BY THE FEDERAL RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Statement on Loss Mitigation Strategies for Servicers of Residential
+Mortgages</div>
+<p>The Federal Reserve along with the other federal financial agencies and Conference of State Bank Supervisors&nbsp;(CSBS)
+   issued the attached statement to encourage regulated institutions and state supervised entities that
+   service residential mortgages&nbsp;(servicers) to pursue strategies to mitigate losses while preserving
+   homeownership to the extent possible and appropriate.<a href="#Footnote1" name="Footref1" title="Footnote 1"><sup>1</sup></a> The
+   statement addresses the special issues of servicers of securitized mortgage loans that were not addressed
+   in other recent interagency statements on residential mortgage lending.<a href="#Footnote2" name="Footref2" title="Footnote 2"><sup>2</sup></a></p>
+<p>The statement outlines the steps a servicer may pursue when there is an increased risk of default,
+   including: identifying borrowers at heightened risk of delinquency or default, contacting borrowers
+   to assess their ability to repay, and determining whether default is reasonably foreseeable. The statement
+   goes on to explain possible loss mitigation techniques that a servicer may pursue with a borrower.
+   The agencies and CSBS recognize that servicers have to consider the governing documents for the securitization
+   trust to determine their authority to restructure loans that are delinquent or are in imminent risk
+   of default. Servicers should also consider referring appropriate borrowers to qualified homeownership
+counseling services that may be able to work with all parties to avoid unnecessary foreclosures.</p>
+<div class="pagebreak"><div class="hidden">pagebreak</div></div>
+<p>Federal Reserve Banks are asked to distribute this letter and statement to appropriate banking organizations
+   supervised by the Federal Reserve, as well as to their own supervisory and examination staff. For
+   questions concerning the safety and soundness aspects of this guidance, please contact in the Division
+   of Banking Supervision and Regulation: Sabeth&nbsp;Siddique, Assistant Director, at (202)&nbsp;452-3861;
+   Virginia&nbsp;Gibbs, Senior Supervisory Financial Analyst, at (202)&nbsp;452-2521; and William&nbsp;Tiernay,
+   Supervisory Financial Analyst, at (202)&nbsp;872-7579. For questions related to consumer compliance
+   issues, please contact Maryann&nbsp;Hunter, Advisor, Division of Consumer and Community Affairs, at
+   (202)&nbsp;452-6468. </p>
+<div class="officers">
+   <div class="officer1">Roger T. Cole<br>
+   Director<br>
+   Division of Banking Supervision<br>
+   and Regulation</div>
+   <div class="officer2">Sandra F. Braunstein<br>
+     Director<br>
+     Division of Consumer<br>
+   and Community Affairs</div>
+</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+  <dt class="nobreak">Attachment:</dt>
+  <dd class="srltr"><a href="/newsevents/press/bcreg/bcreg20070904a1.pdf">Statement
+        on Loss Mitigation Strategies for Servicers of Residential Mortgages<span class="pdf"> 
+        (22&nbsp;KB&nbsp;PDF)</span></a>
+   </dd>
+  <dt class="nobreak">Cross References: </dt>
+  <dd class="srltr">
+  	<ul>
+   	<li>Interagency Guidance on Nontraditional Mortgage Product Risks (<a href="/boarddocs/srletters/2006/SR0615.htm">SR
+        06-15/CA 06-12</a>)</li>
+        <li>Subprime Mortgage Lenders (<a href="SR0712.htm">SR 07-12/CA 07-3</a>)</li>
+        <li>Working with Mortgage Borrowers (<a href="SR0706.htm">SR 07-6/CA 07-1</a>)</li>
+  	</ul>
+  </dd>
+</dl>
+<hr width="50%" align="left">
+<div class="ftnotes"> <b>Notes:</b> 
+  <ol>
+    <li><a name="Footnote1"></a>For purposes of the statement, the term “federally regulated institutions” refers
+       to state- and nationally-chartered banks and their subsidiaries; bank holding companies and their
+       nonbank subsidiaries; savings associations and their subsidiaries; savings and loan holding companies
+       and their subsidiaries; and credit unions.&nbsp;&nbsp;<a href="#Footref1">Return&nbsp;to&nbsp;text</a></li>
+    <li><a name="Footnote2"></a>Refer to the October 2006 <i>Interagency Guidance on
+      Nontraditional Mortgage Product Risks</i>, the April 2007 <i>Statement on Working
+      with Mortgage Borrowers</i>, and the July 2007 <i>Statement on Subprime Mortgage
+      Lending</i>.&nbsp;&nbsp;<a href="#Footref2">Return&nbsp;to&nbsp;text</a></li>
+  </ol>
+</div>
+<br clear="all">
+<br>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2007">2007</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: September 6, 2007</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

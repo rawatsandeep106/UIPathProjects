@@ -1,0 +1,99 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 04-8 on Interagency Advisory concerning the legal protections associated with the filing of Suspicious Activity Reports -- May 24, 2004</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 04-8<br>
+      May 24, 2004</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+   SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION 
+   STAFF AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC 
+   AND FOREIGN BANKING ORGANIZATION SUPERVISED BY THE 
+   FEDERAL RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Interagency 
+   Advisory Concerning the Legal Protections Associated 
+   with the Filing of Suspicious Activity Reports</div>
+<p>Federal law provides protection from civil liability 
+   to financial institutions and their employees who 
+   report suspicious or potentially criminal activity 
+   to the appropriate law enforcement and bank supervisory 
+   authorities in Suspicious Activity Reports&nbsp;(SARs). 
+   A recent federal court case reaffirmed the scope 
+   of this statutory protection, which is generally 
+   referred to as a &quot;safe harbor.&quot; The enforcement 
+   staffs of the Federal Reserve Board and the other 
+   federal financial institutions supervisory agencies, 
+   along with the U.S. Department of the Treasury's 
+   Financial Crimes Enforcement Network, prepared an 
+   Interagency Advisory discussing the facts, holding, 
+   and implications of the court decision. A copy of 
+   the Interagency&nbsp;Advisory is attached. </p>
+<p>In addition to a discussion of the case and the background 
+   of the &quot;safe harbor&quot; provisions, the Interagency 
+   Advisory also provides useful information regarding 
+   steps that banking organizations should take to better 
+   ensure that they are fully protected under the law. 
+   Most importantly, the Advisory states that, in the 
+   opinion of the staffs of the banking agencies, financial 
+   institutions and their employees who follow their 
+   respective agencies' SAR regulations and the filing 
+   instructions should be fully protected by the &quot;safe 
+   harbor&quot; provisions of federal law. </p>
+<p>Reserve Banks are asked to distribute this SR&nbsp;letter 
+   and the attached Interagency Advisory to the state 
+   member banks, bank holding companies, and foreign 
+   banking organizations supervised by the Federal Reserve 
+   in their districts, as well as to their supervisory 
+   and examination staff. Questions pertaining to this 
+   letter should be directed to Herbert&nbsp;A.&nbsp;Biern, 
+   Senior Associate Director, at (202)&nbsp;452-2620, 
+   Nina&nbsp;Nichols, Special Counsel, at (202)&nbsp;452-2961, 
+   or to John&nbsp;McCormick, Special Counsel, at (202)&nbsp;728-5829, 
+   in the Division of Banking Supervision and Regulation.</p>
+<div class="officer">Richard Spillenkothen<br>
+				Director
+</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+   <dt class="nobreak">Attachment:</dt>
+   <dd class="srltr"><a href="SR0408a1.pdf">Interagency Advisory &#150; Federal 
+      court Reaffirms protections for Financial Institutions Filing Suspicious 
+      Activity Reports<span class="pdf"> (164&nbsp;KB&nbsp;PDF)</span></a></dd>
+</dl>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2004">2004</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: February 21, 2006</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

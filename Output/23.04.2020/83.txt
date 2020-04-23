@@ -1,0 +1,130 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter 00-9 (SPE) on equity investment and merchant banking activities--June 22, 2000</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrs.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=25% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border=0 align=left vspace=0 hspace=0></td>
+<td align=center width=30%><em class=letterhead>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</em></td>
+<td width=25%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=letterhead>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</em></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=salutation>SR 00-9 (SPE)<br>
+June 22, 2000</em></td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%>
+<table cellpadding=0 cellspacing=0 width=80%>
+<tr>
+<td valign=top><em class="salutation">TO&nbsp;THE&nbsp;</em></td>
+<td><em class=salutation>OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY STAFF AT EACH FEDERAL RESERVE BANK AND TO FINANCIAL HOLDING COMPANIES AND OTHER BANKING ORGANIZATIONS SUPERVISED BY THE FEDERAL REERVE THAT ENGAGE IN EQUITY INVESTMENT AND MERCHANT BANKING ACTIVITIES</em></td>
+</tr>
+</table>
+<p>
+<table width="80%">
+<tr>
+<td width="13%" valign="top" align="left"><em class="salutation">SUBJECT:&nbsp;&nbsp;</em></td>
+<td width=87% align=left><b>Supervisory Guidance on Equity Investment and Merchant Banking Activities
+</b></td>
+</tr>
+</table>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Over the past several years, investing in equities and equity interests of non-public companies, and lending to private equity-financed companies, have emerged as increasingly important sources of earnings and business relationships at a number of banking organizations.&nbsp; These activities historically have been conducted primarily through small business investment corporations (SBICs) and Edge Act subsidiaries of banks and bank holding companies, and through the authority granted to bank holding companies (BHCs) to make investments in up to five percent of the outstanding voting shares of any company.&nbsp; The merchant banking provisions of the Gramm-Leach-Bliley Act (GLB Act) provide additional authority to financial holding companies to make equity investments in non-financial companies.<a href="#Footnote1" title="Footnote 1" name="Footref1"><sup>1</sup></a>&nbsp; An interim rule implementing the merchant banking authority of the GLB was adopted by the Board of Governors and the Department of Treasury on March&nbsp;17,&nbsp;2000.<a href="#Footnote2" title="Footnote 2" name="Footref2"><sup>2</sup></a>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+While equity investments in non-financial companies can contribute substantially to earnings, such investments, like other rapidly growing and highly profitable business lines, can entail significant market, liquidity, and other risks.&nbsp; Such activities can also give rise to increased volatility of earnings and capital.&nbsp; It is the responsibility of a banking organization's senior management and board of directors to ensure that the risks associated with private equity investments and merchant banking activities do not adversely affect the safety and soundness of the banking organization and, as a result, any affiliated insured depository institutions.&nbsp; To this end, sound investment and risk management practices and strong capital positions are critical elements in the prudent conduct of these activities.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The attached document provides guidance on sound practices for managing the risks of equity investment activities.&nbsp; The guidance reflects actual industry practices compiled from a number of industry and supervisory sources including insights gained during supervisory reviews of banking organizations engaged in equity investment activities under SBIC and BHC authorities.&nbsp; Accordingly, the attached guidance provides useful management infrastructure and control benchmarks for those institutions that are currently engaged in equity investment activities, considering significant expansion of existing activities, or entering this business line for the first time. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The guidance summarizes the legal and regulatory authority under which banking organizations and financial holding companies may make equity investments, discusses basic safety and soundness issues regarding the management of equity investments, and identifies sound investment and risk management practices that merit the attention of both management and supervisors.&nbsp; The guidance also addresses sound practices in providing traditional lending-based banking services to portfolio companies, to portfolio company managers, and to general partners of equity investment ventures and funds.&nbsp; The guidance is general in scope and is intended to apply to the equity investment activities of financial holding companies, bank holding companies, state member banks, and their subsidiaries and affiliates -- regardless of the statutory or regulatory authority under which investments are made.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Market discipline is an important mechanism for controlling risk-taking and reinforcing supervisory efforts to promote safety and soundness in banking organizations and in financial markets more generally.&nbsp; For this reason, the attached guidance discusses the need for supervisors to encourage banking organizations to make appropriate public disclosures of their equity investment activities and sets forth recommendations for the scope of such disclosures.&nbsp; Topics relevant for public disclosure include: the types and nature of equity investments; the initial cost, carrying value, and fair value of investments; accounting techniques and valuation methodologies; and insights regarding the potential performance of equity investments under alternative market conditions.&nbsp; While a few institutions have made significant strides in improving public disclosure of their equity investment activities, considerable opportunities for improvement remain. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The potential risks and returns of equity investment and merchant banking activities exceed those of many more traditional banking activities.&nbsp; Consequently, organizations substantially engaged in these activities should have strong capital positions, with capital backing these businesses that is well above the current minimum regulatory requirements for traditional banking activities.&nbsp; They should also have robust internal methods for allocating capital that fully reflect the risks inherent in these activities.<a href="#Footnote3" title="Footnote 3" name="Footref3"><sup>3</sup></a>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In supervising equity investment and merchant banking activities, the Federal Reserve's primary objective is to identify material risks to, and promote the safety and soundness of, state member banks conducting these activities and of banks and other insured depository institutions affiliated with BHCs engaged in these business lines.&nbsp; Accordingly, Federal Reserve supervisors should place appropriate attention on equity investments and merchant banking activities in preparing institutional risk assessments, developing supervisory strategies, and, where appropriate, conducting on-site inspections and targeted reviews.&nbsp; Consistent with the Federal Reserve's role as umbrella supervisor of FHCs and BHCs, supervisors should, where appropriate and available, utilize fully the findings of primary bank supervisors and functional regulators of holding company affiliates in reviewing the potential risks of equity investment activities.&nbsp; 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In reviewing the merchant banking activities of FHCs and the equity investment activities of BHCs, supervisors should ensure that there is an appropriate focus on the impact of these activities on affiliated depository institutions.&nbsp; Assessments of the possible impact of these activities should take into account the potential risks and returns associated with the activities, potential volatility in some segments of the equity markets, the increasing competition for private equity investments, and the potential for new (and possibly inexperienced) financial institutions entering this business.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Deficiencies in any of the areas covered in the attached guidance should be brought to the attention of senior management or, if necessary, the board of directors to ensure that appropriate corrective action is taken in a timely and effective manner.&nbsp; Where such deficiencies pose material risks to depository institutions that are not supervised by the Federal Reserve, the Reserve Banks should communicate their concerns to the appropriate primary bank supervisor.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Reserve Banks should distribute this letter and the attached guidance to the appropriate financial holding companies and other banking organizations under their jurisdiction.&nbsp; Reserve Banks should also ensure that all central points of contact, examiners, and other staff involved in the supervision of banking organizations' investment activities review the attached guidance as well as the interim merchant banking rule and focus their supervisory efforts accordingly. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Questions regarding this guidance should be directed to James&nbsp;Embersit, Manager, Capital Markets, at (202)&nbsp;452-5249 or Mary&nbsp;Frances&nbsp;Monroe, Senior Supervisory Financial Analyst, Capital Markets, at (202)&nbsp;452-5231.
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<a href="sr0009a1.pdf" target="_top">Attachment</a> <font color=gray>(62K&nbsp;PDF)</font>
+<br>
+<a href="../../Press/General/2000/20000622/DEFAULT.HTM">Press release</a>
+<p>
+<br>
+<hr width=50% align=left>
+<p>
+<b>Notes:</b>
+<p>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;
+References to equity investments in this letter and the attached guidance are references to equity investments in non-financial companies unless otherwise noted.&nbsp; Non-financial companies include companies that engage in activities other than financial activities that a financial holding company may conduct pursuant to section&nbsp;4 of the Bank Holding Company Act, 12&nbsp;U.S.C.&nbsp;1843, as amended by the GLB Act, and the regulations and interpretations thereunder, including the interim regulations adopted by the Board and the Treasury Department.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+<p>
+<a name="Footnote2">2.</a>&nbsp;&nbsp;
+This interim rule, which is subject to revision after the comment period that ended May&nbsp;22,&nbsp;2000, is available on the Board’s web site:&nbsp; <a href="http://www.federalreserve.gov/boarddocs/press/BoardActs/2000" target="_top">www.federalreserve.gov/boarddocs/press/BoardActs/2000</a>.&nbsp;&nbsp;<a href="#Footref2">Return to text</a>
+<p>
+<a name="Footnote3">3.</a>&nbsp;&nbsp;
+On March&nbsp;22,&nbsp;2000, the Board issued for a 60-day public comment period a proposed rule regarding capital requirements for equity investment activities of banking organizations.&nbsp; These proposed requirements will not take effect until public comments have been assessed and a final rule is adopted by the Board.&nbsp; The proposed capital rule is available on the Board’s web site:&nbsp; <a href="http://www.federalreserve.gov/boarddocs/press/BoardActs/2000/20000317/attachment2.pdf" target="_top">www.federalreserve.gov/boarddocs/press/BoardActs/2000/20000317/attachment2.pdf</a>.&nbsp;&nbsp;<a href="#Footref3">Return to text</a>
+<p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../">SR letters</a> | <a href="./">2000</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

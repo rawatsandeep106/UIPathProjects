@@ -1,0 +1,87 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 06-4 on interagency advisory on the unsafe and unsound use of limitation of liability provisions in external audit engagement letters -- March 1, 2006</title>
+	<meta name="keywords" content=" ">
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 06-4<br>
+      March 1, 2006</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF SUPERVISION, APPROPRIATE SUPERVISORY STAFF AT EACH FEDERAL RESERVE BANK, AND BANKING ORGANIZATIONS SUPERVISED BY THE FEDERAL RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Interagency Advisory on the Unsafe and 
+   Unsound Use of Limitation of Liability Provisions in External Audit Engagement 
+   Letters</div>
+<p>The Federal Reserve and the other financial institutions regulatory agencies 
+   published on February&nbsp;9,&nbsp;2006, the attached Advisory to address 
+   safety and soundness concerns that may arise when financial institutions enter 
+   into external audit contracts (typically referred to as &quot;engagement letters&quot;) 
+   that limit the auditors' liability for audit services. The Advisory informs 
+   financial institutions that it is unsafe and unsound to enter into engagement 
+   letters for audits of financial statements, audits of internal control over 
+   financial reporting, or attestations on management's assessment of internal 
+   control over financial reporting which include provisions that (1)&nbsp;indemnify 
+   the external auditor against all claims made by third parties, (2)&nbsp;hold 
+   harmless or release the external auditor from liability for claims or potential 
+   claims that might be asserted by the client financial institution (other than 
+   claims for punitive damages), or (3)&nbsp;limit the remedies available to 
+   the client financial institution (other than punitive damages). </p>
+<p>The Advisory is effective for audit engagement letters executed on or after 
+   February&nbsp;9,&nbsp;2006. The Advisory does not apply to previously executed 
+   engagement letters. However, the agencies encourage any financial institution 
+   subject to a multi-year audit engagement letter containing unsafe and unsound 
+   limitation of liability provisions to seek to amend its engagement letter 
+   to be consistent with the Advisory for periods ending in 2007 or later.</p>
+<p>This letter and the attached guidance should be distributed to state member 
+   banks, bank holding companies, and foreign banking organizations supervised 
+   by the Federal Reserve as well as to supervisory and examination staff. Questions 
+   pertaining to this letter should be addressed to Terrill&nbsp;Garrison, Supervisory 
+   Financial Analyst, (202)&nbsp;452-2712 or Nina&nbsp;Nichols, Assistant Director, 
+   (202)&nbsp;452-2961.</p>
+<div class="officer">Richard Spillenkothen<br>
+   Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+   <dt class="nobreak">Attachment:</dt>
+   <dd class="srltr"><a href="SR0604a1.pdf">Interagency Advisory on the Unsafe 
+      and Unsound Use of Limitation of Liability Provisions in External Audit 
+      Engagement Letters<span class="pdf"> (916&nbsp;KB&nbsp;PDF)</span></a> 
+   </dd>
+</dl>
+<br clear="all">
+<br>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2006">2006</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: March 1, 2006</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

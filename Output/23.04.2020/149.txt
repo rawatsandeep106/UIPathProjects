@@ -1,0 +1,90 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 07-11 on the fair value option and the applicability of the market risk capital rule -- July 24, 2007</title>
+	<meta name="keywords" content=" ">
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 07-11<br>
+   July 24, 2007</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION
+   STAFF AT EACH FEDERAL RESERVE BANK AND EACH DOMESTIC AND FOREIGN BANKING ORGANIZATION SUPERVISED BY
+THE FEDERAL RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;The Fair Value Option and the Applicability of the Market Risk
+Capital Rule</div>
+<p>This SR Letter reminds banking organizations that reporting an amount of gross trading assets and
+   liabilities that equals 10&nbsp;percent or more of total assets, or $1&nbsp;billion or more, may subject
+   a banking organization to the market risk capital rule (<i>See 12&nbsp;CFR&nbsp;208, appendix E, for
+   state member banks and 12&nbsp;CFR&nbsp;225, appendix&nbsp;E, for bank holding 
+   companies</i>).<a href="#Footnote1" name="Footref1" title="Footnote 1"><sup>1</sup></a> The
+   market risk capital rule requires banking organizations subject to the rule to have in place adequate
+   risk management processes (including but not limited to Value-at-Risk model(s) approved by the Federal
+Reserve) and capital sufficient to support the market risk of their covered positions. </p>
+<p>A banking organization that has adopted Financial Accounting Standards Board Statement No.&nbsp;159, <i>The
+   Fair Value Option for Financial Assets and Financial Liabilities</i> 
+   (FAS&nbsp;159)<a href="#Footnote2" name="Footref2" title="Footnote 2"><sup>2</sup></a> and
+   applied this option to securities should determine whether any resulting designation of securities
+   as trading subjects the organization to the market risk capital rule. Banking organizations that
+   have exceeded or expect to exceed in the near future the minimum thresholds for the market risk
+   capital rule should contact their Reserve Bank to discuss their plans to address the rule’s requirements.
+   As is the case for all market risk rule determinations, Reserve Bank staff will coordinate with
+the Board to determine appropriate direction.</p>
+<p>Reserve Banks are asked to distribute this SR&nbsp;Letter to the domestic and foreign banking organizations
+   supervised by the Federal Reserve in their districts as well as to supervisory and examination staff.
+   Questions regarding this SR&nbsp;Letter may be directed to Christopher&nbsp;Laursen, Senior Supervisory
+   Financial Analyst, Market & Liquidity Risks, at (202)&nbsp;452-2478, in the Division of Banking Supervision
+   and Regulation.</p>
+<div class="officer">Roger T. Cole<br>
+   Director</div>
+<br clear="all">
+<br>
+<hr width="50%" align="left">
+<div class="ftnotes"> <b>Notes:</b> 
+  <ol>
+    <li><a name="Footnote1"></a>The market risk capital rule is currently under review and proposed changes
+       to this rule are set forth in the Federal Register Joint Notice of Proposed Rulemaking published
+       September&nbsp;25,&nbsp;2006, &quot;Risk-Based Capital Standards: Market Risk&quot; 
+       (71&nbsp;FR&nbsp;55958).&nbsp;&nbsp;<a href="#Footref1">Return&nbsp;to&nbsp;text</a></li>
+    <li><a name="Footnote2"></a>FAS 159 requires that securities to which the fair value option is applied
+       be reported as trading securities. For most banking organizations, FAS&nbsp;159 is effective on
+       January&nbsp;1,&nbsp;2008; however, early adoption is permitted under certain 
+       conditions.&nbsp;&nbsp;<a href="#Footref2">Return&nbsp;to&nbsp;text</a></li>
+  </ol>
+</div>
+<br clear="all">
+<br>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2007">2007</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: July 25, 2007</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

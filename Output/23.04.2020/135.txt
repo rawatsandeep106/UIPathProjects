@@ -1,0 +1,83 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 05-4 on interagency advisory on the confidentiality of nonpublic supervisory information -- February 28, 2005</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<p>&nbsp;</p>
+<p><a name="pagetop"></a> </p>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   
+  <div class="ltrheader"><b>SR 05-4<br>
+    February 28, 2005</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+  SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO DOMESTIC 
+  AND FOREIGN BANKING ORGANIZATIONS SUPERVISED BY THE 
+  FEDERAL RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Interagency Advisory on the Confidentiality of Nonpublic Supervisory Information</div>
+<!-- single space -->
+<p>The Board of Governors of the Federal Reserve System, 
+  Office of the Comptroller of the Currency, Federal 
+  Deposit Insurance Corporation, and Office of Thrift 
+  Supervision have issued the attached <i>Interagency 
+  Advisory on the Confidentiality of the Supervisory 
+  Rating and Other Nonpublic Supervisory Information</i>. 
+  This interagency advisory reminds banking organizations 
+  of the statutory prohibitions on the disclosure of 
+  supervisory ratings and other confidential supervisory 
+  information to third parties without the prior written 
+  approval of the appropriate federal banking agency. 
+</p>
+<p>Reserve Banks are asked to distribute this SR&nbsp;letter 
+  and the attached interagency advisory to state member 
+  banks, bank holding companies, Edge corporations, 
+  and foreign banking organizations supervised by the 
+  Federal Reserve. Questions pertaining to this letter 
+  should be directed to Katherine&nbsp;Wheatley, Associate 
+  General Counsel, Legal Division, at (202)&nbsp;452-3779, 
+  or Nancy&nbsp;Oakes, Counsel, Division of Banking 
+  Supervision and Regulation, at (202)&nbsp;452-2743. 
+</p>
+<div class="officer">Richard Spillenkothen<br>
+        Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+  <dt class="nobreak">Attachment:</dt>
+   <dd class="srltr"><a href="SR0504a1.pdf">Interagency Advisory on the Confidentiality 
+      of the Supervisory Rating and Other Nonpublic Supervisory Information<span class="pdf"> 
+      (307&nbsp;KB&nbsp;PDF)</span></a></dd>
+</dl>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2005">2005</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: February 21, 2006</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

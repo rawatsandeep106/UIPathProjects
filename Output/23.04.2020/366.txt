@@ -1,0 +1,437 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 98-9 (SUP) on assessment of information technology in the risk-focused frameworks for the supervision of community banks and large complex banking organizations -- April 20, 1998</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY bgcolor=ffffff>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=15% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border=0 align=left vspace=0 hspace=0></td>
+<td width=50%><font face=arial SIZE=-2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></td>
+<td width=15%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><font face=arial size=-2><b>DIVISION OF BANKING<br>SUPERVISION AND REGULATION<p></td>
+</tr>
+<tr>
+<td></td>
+<td><font size=-1 face=arial><b>SR 98-9 (SUP)<br>
+April 20, 1998<br>
+</td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%><font size=-1 face=arial>
+<b>TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE<BR>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+BANK AND TO EACH DOMESTIC AND FOREIGN BANKING ORGANIZATION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+SUPERVISED BY THE FEDERAL RESERVE</b><br>
+<br>
+<table width="80%">
+<tr>
+<td width="12%" valign="top" align="left"><font face="arial" size=-1><b>SUBJECT:</b></td>
+<td width=88% align=left><font face=arial size=-1><b>Assessment of Information Technology in the Risk-Focused Frameworks for the Supervision of Community Banks and Large Complex Banking Organizations
+</b></font></td>
+</tr>
+</table><br>
+<p>
+<font size=-1>
+<B>INTRODUCTION</B>
+<P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Federal Reserve recently introduced risk-focused frameworks for the supervision of community banks and large complex banking organizations, including foreign banking organizations.&nbsp; These frameworks incorporate a methodology to assess an organization's risks and business activities and to tailor supervisory activities to its risk profile.&nbsp; These frameworks aim to sharpen the focus of supervisory activities on areas that pose the greatest risk to the safety and soundness of banking organizations and on management processes to identify, measure, monitor, and control risks.<a href="#Footnote1" title="Footnote 1" name="Footref1"><sup>1</sup></a>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Federal Reserve has long recognized that the use of information technology can greatly affect a banking organization's financial condition and operating performance.<a href="#Footnote2" title="Footnote 2" name="Footref2"><sup>2</sup></a>&nbsp; With the increasing dependency of banking organizations on the use of information technology, the Federal Reserve expects an organization's management and board of directors to manage effectively the risks associated with information technology.&nbsp; Accordingly, in implementing the risk-focused supervision framework, examiners must consider the risks associated with information technology in their evaluations of an organization's significant business activities and assess the effectiveness of the risk management process that the organization applies to information technology.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+This SR Letter supplements existing guidance on the evaluation of banking organizations' risk management processes.&nbsp; The primary objectives are to:
+<p>
+<UL type="disc">
+<LI>Highlight the critical dependence of the financial services industry upon information technology and its potential effect on safety and soundness.</LI>
+<p>
+<LI>Reinforce the concept that the risk-focused supervisory process and related products (risk assessments, supervisory plans, and scope memoranda) for an organization must address the risks associated with its use of information technology.<a href="#Footnote3" title="Footnote 3" name="Footref3"><sup>3</sup></a></LI>
+<p>
+<LI>Provide a basic framework and a common vocabulary to evaluate the effectiveness of processes used to manage the risks associated with information technology.</LI>
+<p>
+<LI>Emphasize the Federal Reserve's commitment to continue to provide training to general safety and soundness examiners and information technology specialists that will strengthen their ability to assess the risks associated with information technology.</LI>
+</UL>
+<p>
+<br>
+<B>CHANGING ROLE OF INFORMATION TECHNOLOGY</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+As the automated processing of information has moved beyond centralized mainframe operations to encompass end-user computer and distributed processing systems, the use of information technology in general has expanded greatly.&nbsp; In the banking industry, information technology was once limited to automation of routine transactions and preparation of financial reports but is now used to automate all levels of a banking organization's operations and information processing.&nbsp; Some decision-making processes such as credit scoring and securities trading have been fully automated.&nbsp; New, complex financial products are possible largely because of valuation models that depend upon technology.&nbsp; Moreover, technological advances in communications and connectivity have served to minimize geographic constraints within the industry.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+While information technology enables banking organizations to carry out their activities more efficiently and effectively, information technology also can be a source of risk to the industry, as the Year 2000 problem forcefully illustrates.&nbsp; The operational concerns associated with information processing, traditionally the domain of the &quot;back office,&quot; have assumed critical importance during banking mergers and consolidations.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Banking organizations, recognizing the dependency of their operations and decision-making processes on information technology, have placed increased emphasis on the management of this important resource.&nbsp; In large banking organizations, the positions of the chief information officer and chief technology officer have become more visible in the top executive ranks of banking organizations.&nbsp; In addition, managers of activities that rely on end-user computing and distributed processing systems have been assigned more direct responsibility for information technology used in the conduct of their business.&nbsp; As a result, the management of the risks associated with information technology must be evaluated for each significant business activity as well as for the overall organization.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Notwithstanding the move towards decentralized management of information technology, large centralized mainframe computer systems are still an integral part of the information technology on which many large banking organizations rely.&nbsp; This includes systems critical to the global payments system and to the transfer and custody of securities.&nbsp; Similarly, with the continued growth of outsourcing, many third-party information technology service centers also perform a vital role in the banking industry.&nbsp; Therefore, the review of the effectiveness and reliability of the critical mainframe systems and third-party processors will continue to be an important part of the Federal Reserve's supervisory activities.
+<p>
+<br>
+<B>IMPLICATIONS FOR RISK-FOCUSED SUPERVISION</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The risk-focused supervisory process is evolving to adapt to the changing role of information technology, with a greater emphasis being placed on an evaluation of information technology and an assessment of its effect on an organization's safety and soundness.&nbsp; Accordingly, examiners should explicitly consider information technology when developing their risk assessments and supervisory plans.&nbsp; It is expected that examiners will exercise appropriate judgment in determining the level of review given the characteristics, size, and business activities of the organization.&nbsp; Moreover, to determine the scope of supervisory activities close coordination is needed between general safety and soundness examiners and information technology specialists during the risk assessment and planning phase of the examination, as well as during the on-site examination.&nbsp; In general, examiners should:
+<p>
+<OL>
+<OL>
+<LI>Develop a broad understanding of the organization's approach, strategy, and structure with regard to information technology.&nbsp; This requires a determination of the role and importance of information technology to the organization and any unique characteristics or issues.</LI>
+<p>
+<LI>Incorporate an analysis of information technology systems into risk assessments, supervisory plans, and scope memoranda.&nbsp; The analysis should include identification of critical information technology systems, related management responsibility, and the major technology components.<a href="#Footnote4" title="Footnote 4" name="Footref4"><sup>4</sup></a>&nbsp; An organization's information technology systems should be considered in relation to the size, activities, and complexity of the organization, as well as the degree of reliance on these systems.</LI>
+<p>
+<LI>Assess the organization's critical systems, that is, those that support its major business activities, and the degree of reliance those activities have on information technology systems.&nbsp; The level of review should be sufficient to determine that the systems are delivering the services necessary for the organization to conduct its business in a safe and sound manner.</LI>
+<p>
+<LI>Determine whether the board of directors and senior management are adequately identifying, measuring, monitoring, and controlling the significant risks associated with information technology for the overall organization and its major business activities.</LI>
+</OL>
+</OL>
+<P>
+<br>
+<B>FRAMEWORK FOR EVALUATING INFORMATION TECHNOLOGY</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In order to provide a common terminology and consistent approach for evaluating the adequacy of an organization's information technology, five information technology elements are introduced and defined below.&nbsp; These elements may be used to evaluate the information technology processes at the functional business level or for the organization as a whole.&nbsp; They may also be applied to a variety of information technology management structures:  centralized, decentralized, or outsourced.<a href="#Footnote5" title="Footnote 5" name="Footref5"><sup>5</sup></a> 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Although deficiencies in information technology appear to be most directly related to operational risk, information technology also can affect the other business risks (i.e., credit, market, liquidity, legal, and reputational) depending upon the specific circumstances.&nbsp; Examiners should view the information technology elements in an integrated manner with the overall business risks of the organization or business activity as a deficiency in any one of the elements could have a substantive adverse effect on the organization's or activity's business risks.&nbsp; Moreover, these elements do not replace or independently add to the business risks described in <a href="../1995/sr9551.htm">SR 95-51</a>.&nbsp; Rather, these elements should be assessed in relation to all business risks.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The elements are intended to be used as a flexible tool to facilitate consideration and discussion of the risks associated with information technology.&nbsp; Where an organization uses different terminology to describe information technology elements, examiners may use that terminology provided that the organization adequately addresses all elements.&nbsp; Regardless of the terminology employed, examiners should focus on those systems and issues that are considered critical to the organization.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The five information technology elements are:
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<B>Management Processes<a href="#Footnote6" title="Footnote 6" name="Footref6"><sup>6</sup></a>:</B>&nbsp; Management processes encompass planning, investment, development, execution, and staffing of information technology from a corporate-wide and business-specific perspective.&nbsp; Management processes over information technology are effective when they are adequately and appropriately aligned with, and supportive of, the organization's mission and business objectives.&nbsp; Management processes include strategic planning, management and reporting hierarchy, management succession, and regular independent review function.&nbsp; Examiners should determine if the information technology strategy for the business activity or organization is consistent with the organization's mission and business objectives and whether the information technology function has effective management processes to execute that strategy.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<B>Architecture<a href="#Footnote7" title="Footnote 7" name="Footref7"><sup>7</sup></a>:</B>&nbsp; Architecture refers to the underlying design of an automated information system and its individual components.&nbsp; The underlying design encompasses both physical and logical architecture, including operating environments, as well as the organization of data.&nbsp; The individual components refer to network communications, hardware, and software, which includes operating systems, communications software, database management systems, programming languages, and desktop software.&nbsp; Effective architecture meets current and long-term organizational objectives, addresses capacity requirements to ensure that systems allow users to easily enter data at both normal and peak processing times, and provides satisfactory solutions to problems that arise when information is stored and processed in two or more systems that cannot be connected electronically.&nbsp; In assessing the adequacy of information technology architecture, examiners should consider the hardware's capability to run the software, the compatibility and integration with other systems and sources of data, the ability to upgrade to higher levels of performance and capacity, and the adequacy of controls.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<B>Integrity:</B>&nbsp; Integrity refers to the reliability, accuracy, and completeness of information delivered to the end-user.&nbsp; An information technology system has an effective level of integrity when the resulting information flows are accurate and complete.&nbsp; Insufficient integrity in an organization's systems could adversely affect day-to-day reliability, processing performance, input and output accuracy, and ease of use of critical information.&nbsp; Examiners should review and consider whether the organization relies upon information system audits or independent application reviews to ensure the integrity of its systems.&nbsp; To assess the integrity of an organization's systems, examiners should review the reliability, accuracy, and completeness of information delivered.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<B>Security:</B>&nbsp; Security refers to the safety afforded to information assets and their data processing environments, using both physical and logical controls to achieve a level of protection commensurate with the value of the assets.&nbsp; Information technology has effective security when controls prevent unauthorized access, modification, destruction, or disclosure of information assets during their creation, transmission, processing, maintenance, or storage. Examiners should ensure that operating procedures and controls are commensurate with the potential for and risks associated with security breaches, which may be either physical or electronic, inadvertent or intentional, internal or external.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<B>Availability</B>:&nbsp; Availability refers to the delivery of information to end-users.&nbsp; Information technology has effective availability when information is consistently delivered on a timely basis in support of business and decision-making processes.&nbsp; In assessing the adequacy of availability, examiners should consider the capability of information technology to provide information to the end-users from either primary or secondary sources, as well as the ability of back-up systems, presented in contingency plans, to mitigate business disruption.&nbsp; Contingency plans should set out a process for an organization to restore or replace its information processing resources, reconstruct its information assets, and resume its business activity from disruption caused by human error or intervention, natural disaster, or infrastructure failure (including loss of utilities and communication lines and operational failure of hardware, software, and network communications).
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Attachment A provides a table with examples of situations where deficiencies in information technology elements potentially have a negative effect on the business risks of an organization.&nbsp; The table also provides possible action that an organization could take in these situations to mitigate its risks.&nbsp; The examples reflected in this table are representative and should not be viewed as an exhaustive list of the risks associated with information technology. 
+<p>
+<br>
+<B>COORDINATION AND TRAINING FOR EXAMINERS</B>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+While mainframe computer systems are still an integral part of the information technology for large organizations, information technology processes have become imbedded in the various business activities of a banking organization with the increased use of local area network and personal computers.&nbsp; In contrast, many community and regional banks continue to rely on third-party information technology service centers.&nbsp; Given this variability of information technology environments, the level of technical expertise needed for a particular examination will vary and should be identified in the planning phase of the examination.&nbsp; For example, a specialist in information technology or the particular business activity may be the most appropriate person to review information technology integrity, while general safety and soundness examiners may be better suited to review management processes related to information technology.&nbsp; Development of the overall supervisory approach for an organization requires continuous collaboration between general safety and soundness examiners and information technology specialists.&nbsp; Accordingly, a discussion of information technology should be integrated into the supervisory process and products.&nbsp; That is, examiners should consider and comment on the risks associated with information technology in developing an understanding of an organization, assessing an organization's risks, and preparing a scope memorandum.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The increasing role of information technology in the banking industry necessitates a broader understanding of technology on the part of examiners.&nbsp; The Federal Reserve has already developed and implemented a training course to strengthen examiners' ability to identify and to assess the risks associated with information technology from a safety and soundness perspective.<a href="#Footnote8" title="Footnote 8" name="Footref8"><sup>8</sup></a>&nbsp; Additional training programs will be offered to strengthen the skills of specialists to enable them to better address the evolving information technology environment.
+<p>
+<center>* &nbsp; &nbsp; * &nbsp; &nbsp; * &nbsp; &nbsp; *</center>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Reserve Banks are requested to forward a copy of this SR Letter to the state member banks, bank holding companies, and foreign banking organizations in their districts.&nbsp; A suggested transmittal letter is provided in Attachment B.&nbsp; Any questions on the guidance contained in this letter should be directed to Michael Martinson, Deputy Associate Director, at 202/452-3640 or Blaine Jones, Supervisory EDP Analyst, at 202/452-3759.
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<P>ATTACHMENTS TRANSMITTED ELECTRONICALLY BELOW
+<p>
+<P>Cross References:
+<p>
+<ul>
+<a href="../1997/sr9725.htm">SR 97-25</a><br>
+<a href="../1997/sr9724.htm">SR 97-24</a><br>
+<a href="../1995/sr9551.htm">SR 95-51</a><br>
+SR 95-45<br>
+</ul>
+<p>
+<br>
+<hr>
+<p>
+<b>Footnotes</b>
+<p>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;
+The types of risk may be categorized according to those presented in the guidelines for rating risk management (i.e., credit, market, liquidity, operational, legal, and reputational) or by categories defined by the institution or other supervisory agencies.  If the institution uses risk categories that differ from those defined by the supervisory agencies, those categories may be used if all relevant types of risks are captured.  Refer to <a href="../1995/sr9551.htm">SR 95-51</a>, "Rating the Adequacy of Risk Management Processes and Internal Controls at State Member Banks and Bank Holding Companies."&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+<p>
+<a name="Footnote2">2.</a>&nbsp;&nbsp;
+Information technology refers to a business resource that is the combination of computers (hardware and software), telecommunications, and information.&nbsp;&nbsp;<a href="#Footref2">Return to text</a>
+<p>
+<a name="Footnote3">3.</a>&nbsp;&nbsp;
+The supervisory products are described in <a href="../1997/sr9724.htm">SR 97-24</a> for large complex institutions and <a href="../1997/sr9725.htm">SR 97-25</a> for community banks.&nbsp;&nbsp;<a href="#Footref3">Return to text</a>
+<p>
+<a name="Footnote4">4.</a>&nbsp;&nbsp;
+These components include mainframe, local area network, and personal computers, as well as software applications.&nbsp;&nbsp;<a href="#Footref4">Return to text</a>
+<p>
+<a name="Footnote5">5.</a>&nbsp;&nbsp;
+When banking organizations outsource operations, they delegate a certain level of responsibility and authority to an outside party (depending on the contractual arrangements).  However, ultimate accountability remains with the banking organization.&nbsp;&nbsp;<a href="#Footref5">Return to text</a>
+<p>
+<a name="Footnote6">6.</a>&nbsp;&nbsp;
+Also referred to as "organization" or "strategic."&nbsp;&nbsp;<a href="#Footref6">Return to text</a>
+<p>
+<a name="Footnote7">7.</a>&nbsp;&nbsp;
+Sometimes referred to as "infrastructure."&nbsp;&nbsp;<a href="#Footref7">Return to text</a>
+<p>
+<a name="Footnote8">8.</a>&nbsp;&nbsp;
+The course is titled "Information Systems and Emerging Technology Risk Management" and will be offered through year-end 1999.&nbsp; Thereafter, elements of the course will be integrated into other examiner training courses.&nbsp;&nbsp;<a href="#Footref8">Return to text</a>
+<p>
+<br>
+<hr>
+<p>
+<br>
+<CENTER>
+ <B>Attachment A</B>
+
+<P></P>
+
+ <TABLE CELLSPACING=0 
+        CELLPADDING=3 
+        BORDER=1 
+        ALIGN=CENTER
+        SUMMARY="This table has examples of Information Technology 
+   	elements that Should be considered in assessing business 
+	risks of particular situations">
+
+  <CAPTION ALIGN=CENTER>
+    Examples of Information Technology Elements that Should be 
+    Considered<BR>in Assessing Business Risks of Particular 
+    Situations<BR>&nbsp;<BR>
+  </CAPTION>
+
+  <TR>
+   <TH SCOPE="COL" WIDTH="18%" ALIGN="LEFT">
+    <FONT FACE=HELV SIZE=-2>Situation</FONT>
+   </TH>
+   <TH SCOPE="COL" WIDTH="28%" ALIGN="LEFT">
+    <FONT FACE=HELV SIZE=-2>IT Elements to be Considered</FONT>
+   </TH>
+   <TH SCOPE="COL" WIDTH="34%" ALIGN="LEFT">
+    <FONT FACE=HELV SIZE=-2>Potential Effect on Business Risks</FONT>
+   </TH>
+   <TH SCOPE="COL" WIDTH="20%" ALIGN="LEFT">
+    <FONT FACE=HELV SIZE=-2>Risk Mitigants</FONT>
+   </TH>
+  </TR>
+
+  <TR>
+   <TD SCOPE="ROW" VALIGN="TOP">
+    <FONT FACE=HELV SIZE=-2>
+      A bank holding company expands very rapidly via acquisition 
+      into new product lines and geographic areas.</FONT>
+   </TD>
+   <TD VALIGN="TOP">
+    <FONT FACE=HELV SIZE=-2>
+     <B>Management Processes:</B>&nbsp; Lack of clear, cohesive 
+        strategies could result in dependence on different systems that 
+        are incompatible and fragmented.
+     <P>
+     <B>Integrity:</B>&nbsp; Unreliable information could be 
+        produced due to incompatible systems.
+     </P>
+     <P>
+     <B>Availability:</B>&nbsp; Critical information may not be 
+        available to management when needed.
+     </P>
+    </FONT>
+   </TD>
+   <TD VALIGN="TOP">
+    <FONT FACE=HELV SIZE=-2>
+     <B>Credit Risk:</B>&nbsp; Exposure may increase to less 
+        creditworthy borrowers.
+     <P>
+     <B>Liquidity Risk:</B>&nbsp; Depositors may withdraw funds or 
+        close accounts due to unreliable account information.
+     </P>
+     <P>
+     <B>Operational Risk:</B>&nbsp; Controls may be inadequate to 
+        address the increase in manual interventions to correct 
+        incompatibility problems between affiliates' systems, 
+        leading to a greater potential for fraudulent transactions.
+     </P>
+    </FONT>
+   </TD>
+   <TD VALIGN="TOP">
+    <FONT FACE=HELV SIZE=-2>
+     <UL><li>
+      Develop a well thought-out plan for integrating acquired 
+      systems, mapping data-flows and sources, and ensuring 
+      reliability of systems.
+     </li></UL>
+    </FONT>        
+   </TD>
+  </TR>
+
+  <TR>
+   <TD SCOPE="ROW" VALIGN="TOP">
+    <FONT FACE=HELV SIZE=-2>
+      A bank's consumer loan division inputs erroneous entries into 
+      the general ledger system.</FONT>
+   </TD>
+   <TD VALIGN="TOP">
+    <FONT FACE=HELV SIZE=-2>
+     <B>Integrity:</B>&nbsp; Billing errors and unwarranted late 
+        payment fees could occur due to the inaccurate loan 
+        information maintained by the system.</FONT>
+   </TD>
+   <TD VALIGN="TOP">
+    <FONT FACE=HELV SIZE=-2>
+     <B>Reputational Risk:</B>&nbsp; Knowledge of errors could 
+        become widespread resulting in adverse public opinion.
+     <P>
+     <B>Operational Risk:</B>&nbsp; Increased expenditures may be 
+        required to resolve accounting operations problems.
+     </P>
+     <P>
+     <B>Legal Risk:</B>&nbsp; Litigation could arise because of 
+        errors in customer accounts due to processing deficiencies.
+     </P>
+    </FONT>
+   </TD>
+   <TD VALIGN="TOP">
+    <FONT FACE=HELV SIZE=-2>
+     <UL>
+      <LI>
+       Improve policies and procedures related to input of 
+       accounting entries.
+      </LI>
+      <LI>
+       Ensure internal audit considers system aspects of 
+       accounting operations.
+      </LI>
+     </UL>
+    </FONT>
+   </TD>
+  </TR>
+
+  <TR>
+   <TD SCOPE="ROW" VALIGN="TOP">
+    <FONT FACE=HELV SIZE=-2>
+      Substantial turnover occurs in bank's wire transfer 
+      department.</FONT>
+   </TD>
+   <TD VALIGN="TOP">
+    <FONT FACE=HELV SIZE=-2>
+     <B>Security:</B>&nbsp; Security procedures could be 
+        compromised due to inadequate training and lack of 
+        qualified personnel.
+     <P>
+     <B>Integrity:</B>&nbsp; System may not be able to 
+        provided &quot;real time&quot; funds availability.
+    </FONT>
+   </TD>
+   <TD VALIGN="TOP">
+    <FONT FACE=HELV SIZE=-2>
+     <B>Operational Risk:</B>&nbsp; Financial losses could 
+        occur due to fraud or incorrectly sent wire transfers.
+     <P>
+     <B>Legal Risk:</B>&nbsp; Litigation could arise as a 
+        result of errors in customer accounts and fraudulent 
+        wire transfers.
+     </P>
+     <P>
+     <B>Reputational Risk:</B>&nbsp; Knowledge of fraudulent 
+        or erroneous wire operations could result in adverse 
+        public opinion.
+     </P>
+    </FONT>
+   </TD>
+   <TD VALIGN="TOP">
+    <FONT FACE=HELV SIZE=-2>
+     <UL>
+      <LI>
+       Increase and strengthen procedural and access controls 
+       for wire operations.
+      </LI>
+      <LI>
+       Implement security measures such as passwords and 
+       firewalls.
+      </LI>
+      <LI>
+       Develop and monitor appropriate audit trails.
+      </LI>
+      <LI>
+       Provide for adequate training program and staffing 
+       levels.
+      </LI>
+     </UL>
+    </FONT>
+   </TD>
+  </TR>
+ </TABLE></center>
+<p>
+<br>
+<hr>
+<p>
+<br>
+<center><B>Attachment B</B><br>
+Suggested Transmittal Letter to<br>
+the Chief Executive Officer of Each Domestic and Foreign Banking Organization<br>
+Supervised by the Federal Reserve</center>
+<p>
+<br>
+<table>
+<tr>
+<td valign=top><font size=-1 face=arial>Subject:&nbsp; </td>
+<td><font size=-1 face=arial>Assessment of a Banking Organization's Information Technology in the Risk-Focused Supervision Framework</td>
+</tr>
+</table>
+<p>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Federal Reserve has long recognized that the use of information technology can greatly affect a banking organization's financial condition and operating performance.&nbsp; Accordingly, Federal Reserve examiners consider the quality of an organization's information technology function in evaluating its management and operations.&nbsp; To assist examiners in their evaluations of this increasingly critical function within banking organizations, the Federal Reserve has developed additional guidance for the assessment of the risks associated with information technology.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The enclosed Supervisory Letter outlines the Federal Reserve's new guidance, which provides a basic framework and common vocabulary to be used by examiners in evaluating the effectiveness of an organization's ability to manage the risks associated with information technology.&nbsp; This guidance is in keeping with the risk-focused frameworks for the supervision of community banks and large complex banking organizations.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Any questions you may have on this guidance should be directed to [insert name and phone number] at this Reserve Bank.
+<p>
+<br>
+Enclosure
+<p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../">SR letters</a> | <a href="./">1998</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: April 25, 2016</b>
+</div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

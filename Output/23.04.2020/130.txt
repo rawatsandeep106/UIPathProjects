@@ -1,0 +1,114 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 05-19 on interagency guidance on Authentication in an Internet Banking Environment -- October 13, 2005</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 05-19<br>
+      October 13, 2005</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE 
+   SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK, AND TO BANKING 
+   ORGANIZATIONS SUPERVISED BY THE FEDERAL RESERVE </div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Interagency Guidance on Authentication 
+   in an Internet Banking Environment</div>
+<p>The Federal Financial Institutions Examination Council&nbsp;(FFIEC) has issued 
+   the attached guidance titled <i>Authentication in an Internet Banking Environment</i>. 
+   This guidance updates and replaces the FFIEC's <i>Authentication in an Electronic 
+   Banking Environment</i> issued in 2001 and specifically addresses the need 
+   for risk-based assessments, customer awareness, and security measures to reliably 
+   authenticate customers accessing financial institutions' Internet-based services. 
+   The guidance also emphasizes that the agencies consider single-factor authentication, 
+   if it is the only control mechanism, to be inadequate for high-risk transactions 
+   involving access to customer information or the movement of funds to other 
+   parties.</p>
+<p>This guidance applies to both retail and commercial customers and does not 
+   endorse any particular technology. Financial institutions should use this 
+   guidance when evaluating and implementing authentication systems and practices 
+   whether they are provided internally or by a technology service provider. 
+   Although this guidance is focused on the risks and risk management techniques 
+   associated with the Internet delivery channel, the principles are applicable 
+   to all forms of electronic banking activities. </p>
+<p>Consistent with the FFIEC's <i>Information Security Booklet</i> (December&nbsp;2002), 
+   which is incorporated in the <i>Information Technology Examination Handbook</i>, 
+   financial institutions should periodically:<br>
+</p>
+<ul class="indent">
+   <li>Ensure that their information security programs: 
+      <ul>
+         <li>Identify and assess the risks associated with the full range of 
+            Internet-based products and services, </li>
+         <li>Identify risk mitigation actions, including appropriate measures 
+            to verify and authenticate customers, and </li>
+         <li class="last">Measure and evaluate customer awareness efforts; </li>
+      </ul>
+   </li>
+   <li>Establish, evaluate, and adjust, as appropriate, their information 
+      security programs in light of any relevant changes in technology, the sensitivity 
+      of their customer information, and internal or external threats to information; 
+      and</li>
+   <li>Implement appropriate risk mitigation strategies.<br>
+   </li>
+</ul>
+<p>Examiners should begin to assess financial institutions' progress in meeting 
+   the expectations outlined in the guidance and thereafter monitor ongoing conformance 
+   as needed during the risk-focused examination process. Financial institutions 
+   will be expected to have achieved conformance with the guidance by year-end 
+   2006. Examiners should document situations where financial institutions have 
+   not achieved conformance with the guidance by that time. </p>
+<p>Federal Reserve Banks are asked to distribute this letter and the interagency 
+   guidance to banking organizations supervised by the Federal Reserve, as well 
+   as to their supervisory and examination staff. If you have any questions concerning 
+   this guidance, please contact Stacy&nbsp;Coleman, Assistant Director, Operational 
+   and IT Risk Section, at (202)&nbsp;452-2934 or Elton&nbsp;Hill, Senior Supervisory 
+   Financial Analyst, at (202)&nbsp;452-2514. </p>
+<div class="officer">Richard Spillenkothen<br>
+   Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+   <dt class="nobreak">Attachment:</dt>
+   <dd class="srltr"><a href="SR0519a1.pdf"><i>Authentication in an Internet 
+      Banking Environment</i><span class="pdf"> (1,073&nbsp;KB&nbsp;PDF)</span></a> 
+      <div class="smindent"><span class="ltrheadersm">Federal Financial Institutions 
+         Examination Council (FFIEC)</span></div>
+   </dd>
+   <dt class="nobreak">Supersedes:</dt>
+   <dd class="srltr">FFIEC Guidance on Authentication (SR&nbsp;01-20&nbsp;(SUP))</dd>
+</dl>
+
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2005">2005</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: February 21, 2006</b> </div>
+</div>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

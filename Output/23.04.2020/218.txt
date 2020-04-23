@@ -1,0 +1,1549 @@
+<!doctype html>
+<html lang="en" class="no-js">
+    <head>
+        <meta charset="utf-8"/>
+        <meta http-equiv="X-UA-Compatible" content="IE=edge"/>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, minimum-scale=1.0 maximum-scale=1.6, user-scalable=1"/>
+        <meta name="keywords" content="Board of Governors of the Federal Reserve System, Federal Reserve Board of Governors, Federal Reserve Board, Federal Reserve, &lt;p&gt;
+       Establishment of a &lt;em&gt;de novo&lt;/em&gt; branch, &lt;em&gt;de novo&lt;/em&gt; branch, &lt;em&gt;de novo&lt;/em&gt; branches, less than satisfactory condition, expansion, branches, state member banks, bank holding companies, branching, branching limits, branching criteria, branching eligibility criteria
+    &lt;/p&gt;" />
+        <meta name="description" content="The Federal Reserve Board of Governors in Washington DC." />
+        <meta property="og:type" content="article" /> 
+        <meta property="og:image"  content="/supervisionreg/srletters/Social_Default_Image.jpg" /> 
+        <meta name="twitter:card" content="summary" />
+        <meta name="twitter:image" content="/supervisionreg/srletters/Social_Default_Image.jpg" />
+        
+
+
+ 
+        <title>The Fed - Supervisory Letter SR 13-7 / CA 13-4 on         State Member Bank Branching Considerations  -- April 5, 2013</title>
+        
+    <link href="/css/bootstrap.css" rel="stylesheet" type="text/css">
+    <link href="/css/bluesteel-theme.css" rel="stylesheet" type="text/css">
+    <script src="/js/modernizr-latest.js" type="text/javascript"></script>
+    <script src="/js/grunticon.loader.js"></script>
+    <script>
+        grunticon(["/css/icons.data.svg.css", "/css/icons.data.png.css", "/css/icons.fallback.css"]);
+    </script>
+    <noscript>
+        <link href="/css/icons.fallback.css" rel="stylesheet">
+    </noscript>                
+    <script src="/js/angular.min.js" type="text/javascript"></script>
+    <script src="/js/app.js" type="text/javascript"></script>
+        
+    <!-- For Linear Gradients in IE9 or greater -->
+    <!--[if gte IE 9]>
+        <style type="text/css">
+          .gradient {
+             filter: none;
+          }
+        </style>
+      <![endif]-->
+
+
+ 
+    <script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+    <body>
+        <a href="#content" class="globalskip">Skip to main content</a>
+<nav class="nav-primary-mobile" id="nav-primary-mobile">
+</nav>
+<div class="t1_nav navbar navbar-default navbar-fixed-top" role="navigation">
+    <div class="t1_container clearfix">
+        <a id="logo" class="btn btn-default icon-FRB_logo-bw visible-xs-table-cell t1__btnlogo" href="/default.htm" role="button"><span class="sr-only">Back to Home</span>
+        </a>
+        <a href="/default.htm" id="banner" class="visible-xs-table-cell t1__banner" title="Link to Home Page" role="button">Board of Governors of the Federal Reserve System</a>
+        <ul class="nav navbar-nav visible-md visible-lg t1_toplinks">
+            <li class="navbar-text navbar-text__social">
+                <span class="navbar-link" tabindex="0">Stay Connected</span>
+                <ul class="nav navbar-nav t1_social">
+                    
+
+
+    
+                <li class="social__item"><a data-icon="facebook" href="https://www.facebook.com/federalreserve" class="noIcon"><div class="icon-facebook-color icon icon__sm"></div><span class='sr-only'>Link to Federal Reserve Facebook Page</span></a></li>
+            
+                <li class="social__item"><a data-icon="twitter" href="https://twitter.com/federalreserve" class="noIcon"><div class="icon-twitter-color icon icon__sm"></div><span class='sr-only'>Link to Federal Reserve Twitter Page</span></a></li>
+            
+                <li class="social__item"><a data-icon="youtube" href="https://www.youtube.com/federalreserve" class="noIcon"><div class="icon-youtube-color icon icon__sm"></div><span class='sr-only'>Link to Federal Reserve YouTube Page</span></a></li>
+            
+                <li class="social__item"><a data-icon="flickr" href="https://www.flickr.com/photos/federalreserve/" class="noIcon"><div class="icon-flickr-color icon icon__sm"></div><span class='sr-only'>Link to Federal Reserve Flickr Page</span></a></li>
+            
+                <li class="social__item"><a data-icon="linkedin" href="https://www.linkedin.com/company/federal-reserve-board" class="noIcon"><div class="icon-linkedin-color icon icon__sm"></div><span class='sr-only'>Federal Reserve LinkedIn Page</span></a></li>
+            
+                <li class="social__item"><a data-icon="rss" href="/feeds/feeds.htm" class="noIcon"><div class="icon-rss-color icon icon__sm"></div><span class='sr-only'>Subscribe to RSS</span></a></li>
+            
+                <li class="social__item"><a data-icon="email" href="/subscribe.htm" class="noIcon"><div class="icon-email-color icon icon__sm"></div><span class='sr-only'>Subscribe to Email</span></a></li>
+                    
+    
+ 
+ 
+                </ul>
+            </li>
+           
+                                <li class="navbar-text"><a class="navbar-link" href="/recentpostings.htm">Recent Postings</a></li>
+                        
+                    <li class="navbar-text"><a class="navbar-link" href="/newsevents/calendar.htm">Calendar</a></li>
+                
+                    <li class="navbar-text"><a class="navbar-link" href="/publications.htm">Publications</a></li>
+                
+                    <li class="navbar-text"><a class="navbar-link" href="/sitemap.htm">Site Map</a></li>
+                
+                                <li class="navbar-text"><a class="navbar-link" href="/azindex.htm">A-Z index</a></li>
+                        
+                                <li class="navbar-text"><a class="navbar-link" href="/careers.htm">Careers</a></li>
+                        
+                                <li class="navbar-text"><a class="navbar-link" href="/faqs.htm">FAQs</a></li>
+                        
+                    <li class="navbar-text"><a class="navbar-link" href="/videos.htm">Videos</a></li>
+                
+                    <li class="navbar-text"><a class="navbar-link" href="/aboutthefed/contact-us-topics.htm">Contact</a></li>
+                
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+        </ul>
+        <form class="nav navbar-form hidden-xs nav__search" role="search" action="//www.fedsearch.org/board_public/search" method="get">
+            <div class="form-group input-group input-group-sm">
+                <label for="t1search" class='sr-only'>Search</label>
+                <input id="t1search" class="nav__input form-control" name="text" placeholder="Search" type="text">
+                <span class="input-group-btn">
+                    <button type="submit" class="nav__button btn btn-default" id="headerTopLinksSearchFormSubmit" name="Search">
+                        <span class="sr-only">Submit Search Button</span>
+                        <span class="icon-magnifying-glass icon icon__xs icon--right"></span>
+                    </button>
+                </span>
+            </div>
+            <div class='nav__advanced'><a class="noIcon" href="//www.fedsearch.org/board_public">Advanced</a></div>
+        </form>        
+        <div class="btn-group visible-xs-table-cell visible-sm-table-cell t1__dropdown">
+            <span class="icon icon__md icon--right dropdown-toggle icon-options-nav" data-toggle="dropdown">
+                <span class="sr-only">Toggle Dropdown Menu</span>
+            </span>
+        </div>
+    </div>
+</div>
+<header class="jumbotron hidden-xs">
+    <a class="jumbotron__link" href="/default.htm" title="Link to Home Page">
+        <div class="container-fluid">
+            <h1 class="jumbotron__heading">Board of Governors of the Federal Reserve System</h1>
+            <p class="jumbotron__content"><em>The Federal Reserve, the central bank of the United States, provides the nation with a safe, flexible, and stable monetary and financial system.</em></p>
+        </div>
+    </a>
+</header>
+<div class="t2__offcanvas visible-xs-block">
+    <div class="navbar-header">
+        <button type="button" class="offcanvas__toggle icon-offcanvas-nav" data-toggle="offcanvas" data-target="#offcanvasT2Menu" data-canvas="body">
+            <span class="sr-only">Main Menu Toggle Button</span>
+        </button>
+        <span class="navbar-brand offcanvas__title">Sections</span>
+        <button type="button" class="offcanvas__search icon-search-nav" data-toggle="collapse" data-target="#navbar-collapse">
+            <span class="sr-only">Search Toggle Button</span>
+        </button>
+    </div>
+    <div class="navbar-collapse collapse mobile-form" id="navbar-collapse">
+        <form method="get" class="navbar-form" role="search" action="//www.fedsearch.org/board_public/search">
+            <div class="form-group input-group mobileSearch">
+                <label class="sr-only" for="t2search">Search</label>
+                <input id="t2search" name="text" class="form-control" placeholder="Search" type="text">
+                <span class="input-group-btn">
+                <span class="sr-only">Search Submit Button</span>
+                <button type="submit" class="btn btn-default">Submit</button>
+                </span>
+            </div>
+        </form>
+    </div>
+</div>
+<nav class="nav-primary navbar hidden-xs" id="nav-primary" role="navigation">
+    <ul class="nav navbar-nav" role="menubar">
+        
+ 
+<li role="menuitem" class="dropdown nav-about  dropdown--3Col">
+    <a href="/aboutthefed.htm" class="sr-only-focusable" aria-haspopup="true" id="aboutMenu">About<br />the Fed</a>
+    <ul aria-labelledby="aboutMenu" role="menu" class="dropdown-menu sub-nav-group navmenu-nav">
+        <li>
+             <div class="row">
+                <ul class="col-sm-4 list-unstyled">
+                    
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/structure-federal-reserve-system.htm">Structure of the Federal Reserve System</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/pf.htm">Purposes &amp; Functions</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/bios/board/default.htm">Board Members</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/advisorydefault.htm">Advisory Councils</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/federal-reserve-system.htm">Federal Reserve Banks</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/fract.htm">Federal Reserve Act</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/currency.htm">Currency</a>
+</li>
+
+</ul>
+<ul class="col-sm-4 list-unstyled">
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/boardmeetings/meetingdates.htm">Board Meetings</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/boardvotes.htm">Board Votes</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/diversityinclusion.htm">Diversity & Inclusion</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/careers.htm">Careers</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/procurement/about.htm">Do Business with the Board</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/k8.htm">Holidays Observed - K.8</a>
+</li>
+
+</ul>
+<ul class="col-sm-4 list-unstyled">
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/contact-us-topics.htm">Contact </a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/foia/about_foia.htm">Requesting Information (FOIA)</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/faqs.htm">FAQs</a>
+</li>
+
+
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/educational-tools/default.htm">Economic Education</a>
+</li>
+
+
+
+
+
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/fed-financial-statements.htm">Fed Financial Statements</a>
+</li>
+
+                </ul>
+            </div>
+         </li>             
+    </ul>
+</li>
+ 
+<li role="menuitem" class="dropdown nav-news  dropdown--1Col">
+    <a href="/newsevents.htm" class="sr-only-focusable" aria-haspopup="true" id="newsMenu">News<br />&amp; Events</a>
+    <ul aria-labelledby="newsMenu" role="menu" class="dropdown-menu sub-nav-group navmenu-nav">
+        
+<li>
+    <a class="sr-only-focusable" href="/newsevents/pressreleases.htm">Press Releases</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/newsevents/speeches.htm">Speeches</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/newsevents/testimony.htm">Testimony</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/newsevents/calendar.htm">Calendar</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/videos.htm">Videos
+</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/photogallery.htm">Photo Gallery
+</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/conferences.htm">Conferences</a>
+</li>
+
+    </ul>
+</li>
+ 
+<li role="menuitem" class="dropdown nav-monetary  dropdown--2Col">
+    <a href="/monetarypolicy.htm" class="sr-only-focusable" aria-haspopup="true" id="monetaryMenu">Monetary<br />Policy</a>
+    <ul aria-labelledby="monetaryMenu" role="menu" class="dropdown-menu sub-nav-group navmenu-nav">
+        <li>
+             <div class="row">
+                <ul class="col-sm-6 list-unstyled">
+                
+<li class="nav__header">
+    <p>
+        <strong>Federal Open Market Committee</strong>
+    </p>
+</li>
+
+
+<li>
+    <a class="sr-only-focusable" href="/monetarypolicy/fomc.htm">About the FOMC</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/monetarypolicy/fomccalendars.htm">Meeting calendars and information</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/monetarypolicy/fomc_historical.htm">Transcripts and other historical materials</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/monetarypolicy/fomc_projectionsfaqs.htm">FAQs</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Monetary Policy Principles and Practice</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/monetarypolicy/monetary-policy-principles-and-practice.htm">Notes</a>
+</li>
+
+
+</ul>
+<ul class="col-sm-6 list-unstyled">
+<li class="nav__header">
+    <p>
+        <strong>Policy Implementation</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/monetarypolicy/policy-normalization.htm">Policy Normalization</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/monetarypolicy/policytools.htm">Policy Tools</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Reports</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/monetarypolicy/mpr_default.htm">Monetary Policy Report</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/monetarypolicy/beige-book-default.htm">Beige Book</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/monetarypolicy/quarterly-balance-sheet-developments-report.htm">Quarterly Report on Federal Reserve Balance Sheet Developments</a>
+</li>
+
+
+
+<li class="nav__header">
+    <p>
+        <strong>Review of Monetary Policy Strategy, Tools, and Communications</strong>
+    </p>
+</li>
+
+
+<li>
+    <a class="sr-only-focusable" href="/monetarypolicy/review-of-monetary-policy-strategy-tools-and-communications.htm">Overview</a>
+</li>
+
+                </ul>
+            </div>
+         </li>             
+    </ul>
+</li>
+ 
+<li role="menuitem" class="dropdown nav-supervision  dropdown--fw">
+    <a href="/supervisionreg.htm"  class="sr-only-focusable" id="supervisionMenu" aria-haspopup="true">Supervision<br />&amp; Regulation</a>
+    <ul aria-labelledby="supervisionMenu" role="menu" class="dropdown-menu sub-nav-group navmenu-nav">
+        <li>
+            <div class="row">
+                <ul class="col-sm-3 col-nav list-unstyled">
+                    
+<li class="nav__header">
+    <p>
+        <strong>Institution Supervision</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/community-and-regional-financial-institutions.htm">Community & Regional Financial Institutions</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/large-financial-institutions.htm">Large Financial Institutions</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/foreign-banking-organizations.htm">Foreign Banking Organizations</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/financial-market-utility-supervision.htm">Financial Market Utilities</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/consumer-compliance.htm">Consumer Compliance</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Reports</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/publications/supervision-and-regulation-report.htm">Federal Reserve Supervision and Regulation Report</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+    <p>
+        <strong>Reporting Forms</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/apps/reportforms/default.aspx">All Reporting Forms</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/reporting-forms-whats-new.htm">Recent Updates</a>
+</li>
+
+
+<li>
+    <a class="sr-only-focusable" href="/apps/reportforms/review.aspx">Information collections under review</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/apps/reportforms/categoryindex.aspx?xTdTa+FaSlI=">Financial Statements</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/apps/reportforms/categoryindex.aspx?+PhkJwiBjbA=">Applications/structure change</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/apps/reportforms/categoryindex.aspx?1/RIXO/UduI=">Federal Financial Institutions Examination Council (FFIEC)</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/apps/reportforms/categoryindex.aspx?L877VwEj9Ss=">Municipal &amp; Government Securities</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+    <p>
+        <strong>Supervision &amp; Regulation Letters</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/srletters/srletters.htm">By Year</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/topics/topics.htm">By Topic</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Banking Applications &amp; Legal Developments</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/application-process.htm">Application Process</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/board-and-reserve-bank-actions.htm">Board & Reserve Bank Action</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/legal-developments.htm">Enforcement Actions & Legal Developments</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+    <p>
+        <strong>Regulatory Resources</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/reglisting.htm">Regulations</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/publications/supmanual.htm">Manuals</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/basel/basel-default.htm">Basel Regulatory Framework</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/volcker-rule.htm">Volcker Rule</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/training-and-assistance-landing.htm">Education, Training, and Assistance</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+    <p>
+        <strong>Banking &amp; Data Structure</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/apps/reportforms/insider.aspx">Beneficial Ownership reports</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/lbr/">Large Commercial Banks</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/iba/">U.S. Offices of Foreign Entities</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/fhc.htm">Financial Holding Companies</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/isb-default.htm">Interstate Branching</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/suds.htm">Securities Underwriting & Dealing Subsidiaries</a>
+</li>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/minority-depository-institutions.htm">Minority Depository Institutions</a>
+</li>
+
+                </ul>
+            </div>
+        </li>              
+    </ul>
+</li>
+ 
+<li role="menuitem" class="dropdown nav-payment  dropdown--fw">
+    <a href="/paymentsystems.htm"  class="sr-only-focusable" id="paymentMenu" aria-haspopup="true">Payment<br />Systems</a>
+    <ul aria-labelledby="paymentMenu" role="menu" class="dropdown-menu sub-nav-group navmenu-nav">
+        <li>
+            <div class="row">
+                <ul class="col-sm-3 col-nav list-unstyled">
+                    
+<li class="nav__header">
+    <p>
+        <strong>Regulations &amp; Statutes</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/regcc-about.htm">Regulation CC (Availability of Funds and Collection of Checks)</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/regii-about.htm">Regulation II (Debit Card Interchange Fees and Routing)</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/reghh-about.htm">Regulation HH (Financial Market Utilities)</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/other-regulations.htm">Other Regulations and Statutes</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+    <p>
+        <strong>Payment Policies</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/pfs_about.htm">Federal Reserve's Key Policies for the Provision of Financial Services</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/oo_about.htm">Overnight Overdrafts</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/psr_about.htm">Payment System Risk</a>
+</li>
+
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/telecomm.htm">Sponsorship for Priority Telecommunication Services</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+    <p>
+        <strong>Reserve Bank Payment Services &amp; Data</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/fedach_about.htm">Automated Clearinghouse Services</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/check_about.htm">Check Services</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/coin_about.htm">Currency and Coin Services</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/psr_data.htm">Daylight Overdrafts and Fees</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/fednow_about.htm">FedNow Service</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/fedfunds_about.htm">Fedwire Funds Services</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/fedsecs_about.htm">Fedwire Securities Services</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/fisagy_about.htm">Fiscal Agency Services</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/natl_about.htm">National Settlement Service</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+    <p>
+        <strong>Financial Market Utilities &amp; Infrastructures</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/over_about.htm">Supervision & Oversight of Financial Market Infrastructures</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/designated_fmu_about.htm">Designated Financial Market Utilities</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/int_standards.htm">International Standards for Financial Market Infrastructures</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+    <p>
+        <strong>Research, Committees, and Forums</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/payres_about.htm">Payment Research</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/fr-payments-study.htm">Federal Reserve Payments Study (FRPS)</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/pspa_committee.htm">Payments System Policy Advisory Committee</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/paymentsystems/forums.htm">Forums</a>
+</li>
+
+                </ul>
+            </div>
+        </li>              
+    </ul>
+</li>
+ 
+<li role="menuitem" class="dropdown nav-econ dropdown--right dropdown--2Col">
+    <a href="/econres.htm" class="sr-only-focusable" aria-haspopup="true" id="econMenu">Economic<br />Research</a>
+    <ul aria-labelledby="econMenu" role="menu" class="dropdown-menu sub-nav-group navmenu-nav">
+        <li>
+             <div class="row">
+                <ul class="col-sm-6 list-unstyled">
+                
+<li class="nav__header">
+    <p>
+        <strong>Working Papers and Notes</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/econres/feds/index.htm">Finance and Economics Discussion Series (FEDS)</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/econres/notes/feds-notes/default.htm">FEDS Notes</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/econres/ifdp/index.htm">International Finance Discussion Papers (IFDP)</a>
+</li>
+
+
+</ul>
+<ul class="col-sm-6 list-unstyled">
+<li>
+    <a class="sr-only-focusable" href="/econres/theeconomists.htm">Meet the Economists</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Models and Tools</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/econres/us-models-about.htm">FRB/US Model</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/econres/edo-models-about.htm">Estimated Dynamic Optimization (EDO) Model</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/econres/scfindex.htm">Survey of Consumer Finances (SCF)</a>
+</li>
+
+
+
+
+
+
+                </ul>
+            </div>
+         </li>             
+    </ul>
+</li>
+ 
+<li role="menuitem" class="dropdown nav-data dropdown--right dropdown--fw">
+    <a href="/data.htm"  class="sr-only-focusable" id="dataMenu" aria-haspopup="true">Data</a>
+    <ul aria-labelledby="dataMenu" role="menu" class="dropdown-menu sub-nav-group navmenu-nav">
+        <li>
+            <div class="row">
+                <ul class="col-sm-3 col-nav list-unstyled">
+                    
+
+<li class="nav__header">
+    <p>
+        <strong>Bank Assets and Liabilities</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/h3/current/default.htm">Aggregate Reserves of Depository Institutions and the Monetary Base - H.3</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/h8/current/default.htm">Assets and Liabilities of Commercial Banks in the U.S. - H.8</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/data/assetliab/current.htm">Assets and Liabilities of U.S. Branches and Agencies of Foreign Banks</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/chargeoff/">Charge-Off and Delinquency Rates on Loans and Leases at Commercial Banks</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/data/sfos/sfos.htm">Senior Financial Officer Survey</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/data/sloos.htm">Senior Loan Officer Opinion Survey on Bank Lending Practices</a>
+</li>
+
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+    <p>
+        <strong>Bank Structure Data</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/lbr/">Large Commercial Banks</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/minority-depository-institutions.htm">Minority Depository Institutions</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/iba/default.htm">Structure and Share Data for the U.S. Offices of Foreign Banks</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Business Finance</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/cp/">Commercial Paper</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/g20/current/g20.htm">Finance Companies - G.20</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/data/govsecure/current.htm">New Security Issues, State and Local Governments</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/data/corpsecure/current.htm">New Security Issues, U.S. Corporations</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Dealer Financing Terms</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/data/scoos.htm">Senior Credit Officer Opinion Survey on Dealer Financing Terms</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+    <p>
+        <strong>Exchange Rates and International Data</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/h10/current/">Foreign Exchange Rates - H.10/G.5</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/data/intlsumm/current.htm">International Summary Statistics</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/data/secholdtrans/current.htm">Securities Holdings and Transactions</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/data/statbanksus/current.htm">Statistics Reported by Banks and Other Financial Firms in the United States</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/iba/default.htm">Structure and Share Data for U.S. Offices of Foreign Banks</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Financial Accounts</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/z1/current/default.htm">Financial Accounts of the United States - Z.1</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+    <p>
+        <strong>Household Finance</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/g19/current/default.htm">Consumer Credit - G.19</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/housedebt/default.htm">Household Debt Service and Financial Obligations Ratios</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/data/mortoutstand/current.htm">Mortgage Debt Outstanding</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/econres/scfindex.htm">Survey of Consumer Finances (SCF)</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/consumerscommunities/shed.htm">Survey of Household Economics and Decisionmaking</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Industrial Activity</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/g17/current/default.htm">Industrial Production and Capacity Utilization - G.17</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Interest Rates</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/h15/">Selected Interest Rates - H.15</a>
+</li>
+</ul>
+<ul class="col-sm-3 list-unstyled col-nav">
+<li class="nav__header">
+    <p>
+        <strong>Micro Data Reference Manual (MDRM)</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/data/mdrm.htm">Micro and Macro Data Collections</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Money Stock and Reserve Balances</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/h41/">Factors Affecting Reserve Balances - H.4.1</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/releases/h6/current/default.htm">Money Stock Measures - H.6</a>
+</li>
+
+
+
+
+
+<li class="nav__header">
+    <p>
+        <strong>Other</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/data/yield-curve-models.htm">Yield Curve Models and Data</a>
+</li>
+
+                </ul>
+            </div>
+        </li>              
+    </ul>
+</li>
+ 
+<li role="menuitem" class="dropdown nav-consumer dropdown--right dropdown--4Col">
+    <a href="/consumerscommunities.htm" class="sr-only-focusable" aria-haspopup="true" id="consumerMenu">Consumers<br />&amp; Communities</a>
+    <ul aria-labelledby="consumerMenu" role="menu" class="dropdown-menu sub-nav-group navmenu-nav">
+        <li>
+            <div class="row">
+                <ul class="col-sm-3 list-unstyled">
+                    
+<li class="nav__header">
+    <p>
+        <strong>Regulations</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/consumerscommunities/cra_about.htm">Community Reinvestment Act (CRA)</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/reglisting.htm">All Regulations</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Supervision&nbsp;&amp; Enforcement</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/supervisionreg/caletters/caletters.htm">CA Letters</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/apps/enforcementactions/default.aspx">Enforcement Actions</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/consumerscommunities/independent-foreclosure-review.htm">Independent Foreclosure Review</a>
+</li>
+
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li class="nav__header">
+    <p>
+        <strong>Community Development</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/consumerscommunities/neighborhood-revitalization.htm">Housing and Neighborhood Revitalization</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/consumerscommunities/small-business-and-entrepreneurship.htm">Small Business and Entrepreneurship</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/consumerscommunities/workforce.htm">Employment and Workforce Development</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/consumerscommunities/cdf.htm">Community Development Finance</a>
+</li>
+
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+    <a class="sr-only-focusable" href="/conferences.htm">Conferences</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Research&nbsp;&amp; Analysis</strong>
+    </p>
+</li>
+
+
+
+<li>
+    <a class="sr-only-focusable" href="/consumerscommunities/shed.htm">Survey of Household Economics and Decisionmaking</a>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/consumerscommunities/community-development-publications.htm">Research Publications & Data Analysis</a>
+</li>
+
+</ul>
+<ul class="col-sm-3 list-unstyled">
+<li>
+    <a class="sr-only-focusable" href="/aboutthefed/cac.htm">Community Advisory Council</a>
+</li>
+
+<li class="nav__header">
+    <p>
+        <strong>Consumer Resources</strong>
+    </p>
+</li>
+
+<li>
+    <a class="sr-only-focusable" href="/consumerscommunities/foreclosure.htm">Mortgage and Foreclosure Resources</a>
+</li>
+
+
+
+
+<li>
+    <a class="sr-only-focusable" href="/consumerscommunities/comm-dev-system-map.htm">Federal Reserve Community Development Resources</a>
+</li>
+
+
+                </ul>
+            </div>
+        </li>             
+    </ul>
+</li>
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+    </ul>
+</nav>
+        <!-- BODY CONTENT -->
+        <div id="content" class="container  container__main banking-info-reg" role="main">
+            <!-- Page Header -->
+            <div class="row">
+                <div class="page-header">
+                    <!-- T3 NAV: Breadcrumbs -->
+                    <ol id="t3_nav" class="breadcrumb">
+                            <li class='breadcrumb__item'><a class="breadcrumb__link" href="/default.htm">Home</a></li>
+                                          <li class='breadcrumb__item'><a class="breadcrumb__link" href="/supervisionreg.htm">Supervision & Regulation</a></li>
+                                          
+                                          <li class='breadcrumb__item'><a class="breadcrumb__link" href="/supervisionreg/srletters/srletters.htm">Supervision and Regulation Letters</a></li>
+                                          
+                                          <li class='breadcrumb__item'><a class="breadcrumb__link" href="/supervisionreg/srletters/2013.htm">2013</a></li>
+                                          
+ 
+                                          
+ 
+                                          
+ 
+ 
+                                          
+ 
+ 
+                    </ol>
+                    <!-- Page Title/Share & Download Buttons -->
+                    <div class="header-group">
+                        <!-- Page Title -->
+                        <div id="page-title" class="page-title">
+                        
+                                <h2>Supervision and Regulation Letters</h2>
+                                		
+                        </div><!-- /  #page-title .btn-group .pull-left -->
+                        
+                        <!-- Share / Download Button -->
+                        <!-- Delete/Add class="hidden" to <div> below when display/hiding this option -->
+                        <div class="shareDL">
+                            <!-- InstanceBeginEditable name="ShareDLButton" -->
+                      <a href="#" class="btn shareDL__button dropdown-toggle" data-toggle="dropdown">
+                    <span class="icon icon__sm icon--centered icon-share-header"></span>
+                    <span class="shareDL__iconTitle">Share</span>
+                </a>
+
+                            <ul class="dropdown-menu shareDL__dropdown--header" role="menu">
+                              
+
+
+    
+            <li class='shareDL__item'>
+             
+                <a class="shareDL__link icon__link sr-only-focusable" href="https://twitter.com/share?url=https://www.federalreserve.gov/supervisionreg/srletters/sr1307.htm&text=SR 13-7 / CA 13-4&via=FederalReserve">
+                        <span class="icon icon__sm icon--centered icon-twitter-color"></span>
+                </a>
+            </li>
+            
+            <li class='shareDL__item'>
+             
+                <a class="shareDL__link icon__link sr-only-focusable" href="https://www.facebook.com/sharer.php?u=https://www.federalreserve.gov/supervisionreg/srletters/sr1307.htm&name=SR 13-7 / CA 13-4">
+                        <span class="icon icon__sm icon--centered icon-facebook-color"></span>
+                </a>
+            </li>
+            
+            <li class='shareDL__item'>
+             
+                <a class="shareDL__link icon__link sr-only-focusable" href="https://www.linkedin.com/shareArticle?url=https://www.federalreserve.gov/supervisionreg/srletters/sr1307.htm&title=SR 13-7 / CA 13-4&mini=true">
+                        <span class="icon icon__sm icon--centered icon-linkedin-color"></span>
+                </a>
+            </li>
+            
+            <li class='shareDL__item'>
+            
+                <a class="shareDL__link icon__link sr-only-focusable" href="mailto:?body=https://www.federalreserve.gov/supervisionreg/srletters/sr1307.htm&subject=SR 13-7 / CA 13-4">
+                        <span class="icon icon__sm icon--centered icon-email-color"></span>
+                </a>
+            </li>
+                    
+    
+ 
+ 
+                            </ul>
+                                                        
+                            <a class="btn shareDL__button" href="/supervisionreg/srletters/sr1307.pdf">
+                    <span class="icon icon__sm icon--centered icon-download-header"></span>
+                    <span class="shareDL__iconTitle">PDF</span>
+                </a>
+                            
+                            <a href="/feeds/bankinginfo-rss.xml" class="btn shareDL__button">
+                                <span class="icon icon__sm icon--centered icon-RSS"></span>
+                                <span class="shareDL__iconTitle">RSS</span>
+                            </a>
+                            <!-- InstanceEndEditable -->
+                        </div>
+                        <!--/ End Share / Download Button -->
+                    </div><!-- / .header-group .btn-group -->
+                </div><!-- / .page-header -->
+            </div><!-- / .row -->
+
+
+  
+
+            
+            
+            <!-- Content Area -->
+        <div class='row'>
+                
+                
+            <div class="col-xs-12 col-sm-4 col-md-3">
+              <div id="t4_nav" class="list-group t4_nav">
+                <!-- InstanceBeginEditable name="T4_Links" -->
+                <a href="/supervisionreg/topics/topics.htm" class="list-group-item" title="Supervisory Policy and Guidance Topics">By topic</a>
+                <!-- InstanceEndEditable --> 
+              </div>
+            </div>          
+            <!-- / End T4 Nav -->
+
+            <!-- Article Area -->
+            <div id="article" class="col-xs-12 col-md-9">             
+                <!-- HAVE CSS EXPERTS INCORPORATE THIS INTO STYLESHEET TO REMOVE THE DEFAULT BEHAVIOR OF THE <p> TAG SO THAT THE SUBJECT DOES NOT
+                WRAP TO A NEW LINE WITHIN THE H3-->
+                <style type="text/css">#title p{margin:0px;border:0px;padding:0px;display:inline;}</style>
+                <h3 id="title">SR 13-7 / CA 13-4: <p>State Member Bank Branching Considerations</p></h3>
+                
+                <div class="row padded-row sr-letter__letterhead">
+                	<div class="col-xs-12 col-sm-3">
+                		<span class="icon icon__xxl icon-frb-logo-black"></span>
+                	</div>
+                	<div class="col-xs-12 col-sm-5">
+                		BOARD OF GOVERNORS<br/>
+                		OF THE FEDERAL RESERVE SYSTEM<br/>
+                		WASHINGTON, D.C. 20551
+                	</div>
+                	<div class="col-xs-12 col-sm-4">
+                		<p>
+                		DIVISION OF BANKING<br/>
+                		SUPERVISION AND REGULATION
+                		</p>
+    		
+                        
+                        <p>DIVISION OF CONSUMER<br>AND COMMUNITY AFFAIRS</p>
+                            
+                		<strong>SR 13-7 / CA 13-4</strong><br/>
+                		<strong>April 5, 2013</strong>
+                		
+                		
+                	</div>
+                </div>
+                
+                
+                            
+                <div class="row padded-row">
+                    <div class="col-xs-12col-xs-12 col-md-12 col-sm-12"><strong><p>TO THE OFFICER IN CHARGE OF SUPERVISION AT EACH FEDERAL RESERVE BANK AND TO STATE MEMBER BANKS AND BANK HOLDING COMPANIES</p></strong></div>
+                </div>
+                
+                <div class="row padded-row sr-letter__subject">
+                	<div class="col-xs-12 col-sm-2">SUBJECT:</div>
+                	<div class="col-xs-12 col-sm-10"><p>State Member Bank Branching Considerations</p></div>
+                </div>
+                
+                <div class="row panel panel-default panel-padded">
+                	<p><strong>Applicability to Community Banking Organizations:</strong> This guidance applies to all state member banks and their parent bank holding companies, including community banking organizations, which are defined as institutions supervised by the Federal Reserve with total consolidated assets of $10 billion or less. &nbsp;&nbsp;&nbsp;</p>
+                </div>
+                
+                <div class="row">
+                	<p>The Federal Reserve is issuing this letter to clarify its policy concerning the application process for a state member bank in less-than-satisfactory condition for the establishment of a de novo branch.<a href="#fn1" title="footnote 1"><sup>1</sup></a><a id="f1" name="f1"> </a>&nbsp; This letter describes the circumstances under which a state member bank may be permitted to branch on a de novo basis if it or its parent bank holding company (collectively, a "banking organization") is in less-than-satisfactory condition.&nbsp; While this letter explains the criteria for the establishment of a de novo branch, a banking organization's proposal must be consistent with general safety-and-soundness standards and adhere to the Federal Reserve's application process.</p>
+
+<p>A state member bank in less-than-satisfactory condition, or which has a less-than-satisfactory record of consumer compliance or performance under the Community Reinvestment Act ("CRA"), generally should not pursue expansionary proposals and should focus on remediating identified supervisory issues. &nbsp;Expansionary transactions such as mergers and acquisitions require a significant amount of management's time and can distract an organization from restoring a bank holding company or state member bank to a safe-and-sound condition or establishing an effective consumer compliance program in a timely manner. &nbsp;However, the establishment of a limited number of de novo branches generally should not require a significant amount of time or distract management from continuing to address the organization's supervisory issues. &nbsp;Accordingly, the Federal Reserve is clarifying its criteria for expansionary proposals and will consider proposals involving the establishment of a limited number of de novo branches by state member banks that are in less-than-satisfactory condition or have a less-than-satisfactory consumer compliance record. &nbsp;A state member bank should be able to demonstrate that it can effectively plan and execute branch expansions; absent a history of successful de novo branching, the branching proposal should include an execution plan.&nbsp;</p>
+
+<div style=" margin-bottom: 1ex;"><strong>Definitions of Less-than-Satisfactory Condition</strong></div>
+
+<p>For purposes of this letter, "less-than-satisfactory condition" refers to a banking organization with any of the following factors:<a href="#fn2" title="footnote 2"><sup>2</sup></a><a id="f2" name="f2">&nbsp;</a></p>
+
+<ul type="disc">
+	<li style=" margin-bottom: 2ex;">A composite CAMELS supervisory rating of "3" for the state member bank at the most recent safety-and-soundness examination.</li>
+	<li style=" margin-bottom: 2ex;">A management component rating of "3" at the most recent safety-and-soundness examination of the state member bank, even if the composite CAMELS rating is "1" or "2."</li>
+	<li style=" margin-bottom: 2ex;">A composite consumer compliance rating for the state member bank of "3" at the most recent compliance examination or assessment.<a href="#fn3" title="footnote 3"><sup>3</sup></a><a id="f3" name="f3"> </a>&nbsp;</li>
+	<li style=" margin-bottom: 2ex;">A less than Satisfactory CRA rating at the most recent performance evaluation.</li>
+	<li style=" margin-bottom: 2ex;">A composite RFI rating of "3" at the most recent bank holding company inspection.<a href="#fn4" title="footnote 4"><sup>4</sup></a><a id="f4" name="f4"> </a></li>
+	<li style=" margin-bottom: 2ex;">A composite RFI rating of "1" or "2," &nbsp;but with a risk management or financial factors component rating of "3" at the most recent inspection.</li>
+</ul>
+
+<p>The Federal Reserve generally will discourage branching proposals for a banking organization with supervisory ratings that are more severe than those listed above.</p>
+
+<div style=" margin-bottom: 1ex;"><strong>De Novo Branching Criteria</strong></div>
+
+<p>In submitting a request to establish a de novo branch, a state member bank should be able to demonstrate that it meets the following criteria:</p>
+
+<ol start="1" type="1">
+	<li style=" margin-bottom: 2ex;"><em>Well-defined rationale for branching that will not materially increase risk.</em>&nbsp; Overall, the state member bank should provide a well-defined rationale in the proposal that the branch would not materially increase the bank's risk profile and would not exacerbate existing supervisory issues at the organization.&nbsp; Furthermore, the proposal must be consistent with the organization's ongoing business strategy and strategic plan as confirmed by the Reserve Bank's examination staff. &nbsp;</li>
+	<li style=" margin-bottom: 2ex;"><em>Satisfactory progress in remediating outstanding supervisory issues.&nbsp; </em>The state member bank should be proactively remediating any identified supervisory issues.&nbsp; Additionally, given that a banking organization in less-than-satisfactory condition often is under a supervisory action, the organization also should be in substantial compliance with the majority of the provisions of any such action.&nbsp; If a state member bank is permitted to branch under this policy and subsequently does not remediate outstanding issues prior to its next examination, the bank may be prohibited from branching further until it is in satisfactory condition.</li>
+	<li style=" margin-bottom: 2ex;"><em>Stable or improving risk management and financial factors at the organization.</em>&nbsp; A state member bank will be evaluated for stability in its financial performance metrics, comprised of capital, earnings, liquidity, and asset quality measures.&nbsp; Financial performance should be stable or improving, and analysis of financial indicators should demonstrate that the bank is not taking excessive risk (for instance, the state member bank's allowance for loan and lease losses should be adequately funded and its balance sheet should not reflect significant funding mismatches).&nbsp;
+	<p>The banking organization's risk management function should be rated satisfactory or clearly moving towards a satisfactory rating.&nbsp; While the organization's risk management framework may need some improvement, as evidenced by Matters Requiring Immediate Attention and/or Matters Requiring Attention cited in examination/inspection reports, the banking organization should be proactively addressing deficiencies, so that any branching activity would not impede the pace of progress in advancing to a satisfactory risk management rating.&nbsp; In all cases, the bank's Bank Secrecy Act/Anti-Money Laundering program needs to be considered satisfactory.</p>
+
+	<p>The Federal Reserve will also consider a state member bank's performance under the CRA in deciding on branch applications.&nbsp; A less-than-satisfactory CRA rating can impede a favorable action on an application. &nbsp;However, consideration may be given for a branch opening to address a particular weakness in the bank's CRA performance identified by examiners or for a branch opening in a low- or moderate-income or minority census tract, provided that the opening of the branch would address an unmet need for banking services.</p>
+
+	<p>For a state member bank with a less-than-satisfactory consumer compliance rating, the Federal Reserve will consider the nature and severity of the weakness(es) that led to its less-than-satisfactory rating, as well as whether the state member bank has received consecutive less than satisfactory consumer compliance ratings.&nbsp; In addition, the Federal Reserve will require examiner documentation indicating substantial and verified corrective action. &nbsp;</p>
+	</li>
+	<li style=" margin-bottom: 2ex;"><em>Strong or satisfactory capital at the banking organization.&nbsp; </em>A capital assessment will be based on the adequacy of the banking organization's consolidated capital position as well as the state member bank's capital component rating from its most recent examination. <a href="#fn5" title="footnote 5"><sup>5</sup></a><a id="f5" name="f5"> </a>&nbsp; In the case of a stale inspection or examination rating (for example, if the most recent onsite examination was conducted more than 12 months ago), examiners will be consulted regarding whether capital is strong or satisfactory, considering the organization's risk profile and ability to manage risks.&nbsp; In addition to assessing pre-transaction metrics, the organization's post-transaction capital level will need to remain satisfactory.</li>
+	<li style=" margin-bottom: 2ex;"><em>Acceptable component supervisory ratings.&nbsp; </em>Capital must be rated "2" or better and all other financial factors, with the exception of earnings, must be rated no more severely than "3."&nbsp; Given its lagging nature, the earnings component is the only factor that may be rated more severely than "3."&nbsp; While current earnings may be weak, the overall trend of the organization's supervisory rating for earnings needs to be stable or improving and should demonstrate that excessive risks will not threaten or weaken the sustainability of future earnings.</li>
+	<li style=" margin-bottom: 2ex;"><em>Branching limited to within, or contiguous to, the bank's existing market area.&nbsp; </em>Consistent with the intent of minimizing risk and absent other overriding factors, the branch proposal should reflect limited geographic expansion.&nbsp; Any geographic expansion should be either within or contiguous to the state member bank's existing market area.&nbsp;</li>
+</ol>
+
+<div style=" margin-bottom: 1ex;"><strong>Branching Limits</strong></div>
+
+<p>Absent an overriding supervisory objection, a state member bank that meets the criteria outlined above would be limited to de novo branch expansion of up to one percent of its total number of existing branches per quarter, with a maximum limit of 40 branches annually.&nbsp; In addition, a state member bank whose branch network is not large enough to meet the one percent test would be permitted to expand by at least one branch annually.<a href="#fn6" title="footnote 6"><sup>6</sup></a><a id="f6" name="f6"> </a>&nbsp; Also, if a state member bank meets the criteria above and is part of a multi-bank holding company, the state member bank would have its branching limitation calculated independently of its sister state member banks.</p>
+
+<p>Potential applicants should contact Reserve Bank applications staff prior to submitting an application. &nbsp;Any proposals will be reviewed in accordance with all applicable statutory factors and regulatory guidance, including those related to financial condition and future prospects, managerial resources, and convenience and needs of the community.</p>
+
+<p>Federal Reserve Banks should distribute this letter to the state member banks and bank holding companies in their districts and to appropriate supervisory staff.&nbsp; Questions regarding this guidance may be directed to the following Division of Banking Supervision and Regulation staff in the Domestic Banking Acquisitions and Activities section: &nbsp;Katie Cox, Manager, at (202) 452-2721 or Susan Motyka, Manager, at (202)&nbsp;452-5280; or the following Division of Consumer and Community Affairs staff in the Applications section: &nbsp;Melissa Vanouse, Manager, at (202) 452-3488, or Charles Fleet, Senior Supervisory Consumer Financial Services Analyst, at (202)-452-2776. &nbsp;In addition, questions may be sent via the Board's public website.<a href="#fn7" title="footnote 7"><sup>7</sup></a><a id="f7" name="f7">&nbsp;</a></p>
+                </div>
+                
+                <div class="row text-center">
+                    <div class="col-lg-12 col-md-12 col-sm-12 col-xs-12">
+            	    
+                        <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                            
+                        	<p class="text-center">
+                        		<em>signed by</em><br/>
+                        		Michael S. Gibson<br/>
+                        		Director<br/>
+                        		Division of Banking<br/>
+                        		Supervision and Regulation
+                        	</p>
+                    	</div>
+            	    
+                            <div class="col-lg-6 col-md-6 col-sm-6 col-xs-12">
+                                
+                        	<p class="text-center">
+                        		<em>signed by</em><br/>
+                        		Sandra F. Braunstein<br/>
+                        		Director<br/>
+                        		Division of Consumer<br/>
+                        		and Community Affairs
+                        	</p>
+                    	</div>
+                            
+                    </div>
+                </div>      
+                
+                
+                
+                            
+                <div class="row">
+                	<div class="col-xs-12  col-md-12">Cross References:</div>
+                	<div class="col-xs-12  col-md-12"><ul>
+      <li>
+        <a title="CA-80-15, Uniform Interagency Consumer Compliance Ratings System" target="_self"  href="/supervisionreg/srletters/sr1307a1_ca8015.pdf">CA letter 80-15</a>, “Uniform Interagency Consumer Compliance Ratings System”
+      </li>
+      <li>
+        <a href="/boarddocs/srletters/2004/sr0418.htm">SR letter 04-18</a>, “Bank Holding Company Rating System”
+      </li>
+      <li>
+        <a href="/boarddocs/srletters/1996/sr9638.htm">SR letter 96-38</a>, “Uniform Financial Institutions Rating System”
+      </li>
+    </ul></div>
+                </div>
+                
+                            
+                <div class="row">
+                    <h5 class="text-capitalize">Notes:</h5>
+                	<div class="footnotes"><ol>
+      <li>
+        <a id="fn1" name="fn1"> </a>Refer to 12 CFR 208.6 (Board's Regulation H, Establishment and maintenance of branches) and 12 CFR 262.3 (Board's Rules of Procedures, Applications).&#160; Approval may be warranted for proposals to replace existing branch(es) with a new branch or to complete a branch for which construction had commenced well before the bank was informed of a rating downgrade and such approvals may not necessarily count towards branching limits discussed below.&#160; This letter does not apply to proposals by state member banks to acquire existing branches from unaffiliated depository institutions or proposals to establish foreign branches.&#160;<a href="#f1">Return to text</a>
+      </li>
+      <li>
+        <a id="fn2" name="fn2"> </a>For information on the CAMELS rating system, refer to SR letter 96-38, "Uniform Financial Institutions Rating System," and for the RFI/C(D) rating system (commonly known as "RFI"), refer to SR letter 04-18, "Bank Holding Company Rating System."&#160;<a href="#f2">Return to text</a>
+      </li>
+      <li>
+        <a id="fn3" name="fn3"> </a>See the Community Reinvestment Act, 12 U.S.C. 2906(b)(2), and CA letter 80-15, "Uniform Interagency Consumer Compliance Ratings System."&#160;<a href="#f3">Return to text</a>
+      </li>
+      <li>
+        <a id="fn4" name="fn4"> </a>More specifically, this would be the "C" rating in the RFI/C (D) rating system.&#160;<a href="#f4">Return to text</a>
+      </li>
+      <li>
+        <a id="fn5" name="fn5"> </a>For the state member bank, the "C" component of the CAMELS rating would need to be "1" or "2."&#160;<a href="#f5">Return to text</a>
+      </li>
+      <li>
+        <a id="fn6" name="fn6"> </a>For example, if a state member bank has 50 branches, it would be allowed to open two branches during one year.&#160; A state member bank with 100 branches would be allowed to open one branch per quarter or four branches annually.&#160;&#160;<a href="#f6">Return to text</a>
+      </li>
+      <li>
+        <a id="fn7" name="fn7"> </a><a href="/apps/contactus/feedback.aspx">http://www.federalreserve.gov/apps/contactus/feedback.aspx</a>.&#160;&#160;<a href="#f7">Return to text</a>
+      </li>
+    </ol></div>
+                </div>
+                
+                
+            </div>
+        </div>
+            <!--/ End Content Area -->
+            
+            
+            
+            <a id="back-top" class="icon__backTop icon-backtop" href="#" title="Scroll To Top"><span class="sr-only">Back to Top</span></a>
+
+            <div class="row">
+                <div class="lastUpdate" id="lastUpdate">Last Update:
+                  
+                                September 05, 2014
+                              
+                </div>
+            </div>
+        </div><!-- / #content .container -->
+        <footer class="container footer">
+    <div class="row footer__content">
+        <div class="col-xs-12 col-sm-4">
+            <h6 class="footer__heading"><span class="text-uppercase">Board of Governors</span> <em>of the</em> <span class="text-uppercase">Federal Reserve System</span></h6>
+            <ul class="list-unstyled">
+                <li class='footer__listItem'><a class="footer__link" href="/aboutthefed.htm">About the Fed</a></li><li class='footer__listItem'><a class="footer__link" href="/newsevents.htm">News & Events</a></li><li class='footer__listItem'><a class="footer__link" href="/monetarypolicy.htm">Monetary Policy</a></li><li class='footer__listItem'><a class="footer__link" href="/supervisionreg.htm">Supervision & Regulation</a></li><li class='footer__listItem'><a class="footer__link" href="/paymentsystems.htm">Payment Systems</a></li><li class='footer__listItem'><a class="footer__link" href="/econres.htm">Economic Research</a></li><li class='footer__listItem'><a class="footer__link" href="/data.htm">Data</a></li><li class='footer__listItem'><a class="footer__link" href="/consumerscommunities.htm">Consumers & Communities</a></li><li class='footer__listItem'><a class="footer__link" href="/financial-stability.htm">Financial Stability</a></li> 
+            </ul>
+        </div>
+        <div class="col-xs-12 col-sm-4">
+            <h6 class="text-uppercase footer__heading">Tools and Information</h6>
+            <ul class="list-unstyled">
+                 <li class='footer__listItem'><a href="/aboutthefed/contact-us-topics.htm" class="footer__link">Contact</a></li>
+                <li class='footer__listItem'><a href="/publications.htm" class="footer__link">Publications</a></li>
+                <li class='footer__listItem'><a href="/foia/about_foia.htm" class="footer__link">Freedom of Information (FOIA)</a></li>
+                <li class='footer__listItem'><a href="https://oig.federalreserve.gov/" class="footer__link">Office of Inspector General</a></li>
+                <li class='footer__listItem'><a href="/publications/annual-report.htm" class="footer__link">Budget &amp; Performance</a> | <a href="/regreform/audit.htm" class="footer__link">Audit</a></li>
+                <li class='footer__listItem'><a href="/eeo.htm" class="footer__link">No FEAR Act</a></li>
+                <li class='footer__listItem'><a href="/espanol.htm" class="footer__link">Español</a></li>
+                <li class='footer__listItem'><a href="/website-linking-policies.htm" class="footer__link">Website Policies</a>  | <a href="/privacy.htm" class="footer__link">Privacy Program</a></li>
+                <li class='footer__listItem'><a href="/accessibility.htm" class="footer__link">Accessibility</a></li>
+            </ul>
+        </div>
+        <div class="col-xs-12 col-sm-4">
+            <div class="footer__social">
+                <h6 class="text-uppercase footer__heading footer__heading--social">Stay Connected</h6>
+                
+
+
+    
+                <a class="icon__md icon footer__btn icon-facebook-color" href="https://www.facebook.com/federalreserve"><span class='sr-only'>Link to Federal Reserve Facebook Page</span></a>
+            
+                <a class="icon__md icon footer__btn icon-twitter-color" href="https://twitter.com/federalreserve"><span class='sr-only'>Link to Federal Reserve Twitter Page</span></a>
+            
+                <a class="icon__md icon footer__btn icon-youtube-color" href="https://www.youtube.com/federalreserve"><span class='sr-only'>Link to Federal Reserve YouTube Page</span></a>
+            
+                <a class="icon__md icon footer__btn icon-flickr-color" href="https://www.flickr.com/photos/federalreserve/"><span class='sr-only'>Link to Federal Reserve Flickr Page</span></a>
+            
+                <a class="icon__md icon footer__btn icon-linkedin-color" href="https://www.linkedin.com/company/federal-reserve-board"><span class='sr-only'>Federal Reserve LinkedIn Page</span></a>
+            
+                <a class="icon__md icon footer__btn icon-rss-color" href="/feeds/feeds.htm"><span class='sr-only'>Subscribe to RSS</span></a>
+            
+                <a class="icon__md icon footer__btn icon-email-color" href="/subscribe.htm"><span class='sr-only'>Subscribe to Email</span></a>
+                    
+    
+ 
+ 
+            </div>
+            <a href="https://www.usa.gov/" target="_blank" title="Link to USA.gov">
+                <img class='footer__image' src="/images/USAGov%402x.png" alt="Link to USA.gov" />
+            </a>
+            <a href="/open/open.htm" target="_blank" title="Link to Open.gov">
+                <img class='footer__image' src="/images/OpenGov%402x.png" alt="Link to Open.gov" />
+            </a>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col-xs-12 footer__footer">
+            <p class="text-uppercase footer__text footer__text--left">Board of Governors <em class="text-lowercase">of the</em> Federal Reserve System</p>
+            <p class="footer__text footer__text--right">20th Street and Constitution Avenue N.W., Washington, DC 20551</p>
+        </div>
+    </div>
+</footer>
+
+
+                <script src="/js/jquery1.11.1.min.js" type="text/javascript"></script>
+                <script src="/js/bootstrap.min.js" type="text/javascript"></script>
+                <script src="/js/scripts.js" type="text/javascript"></script>
+                <script src="/js/modal.js" type="text/javascript"></script>
+                <script src="/js/sticky-tables.js" type="text/javascript"></script>
+                <script type="text/javascript" src="/js/slides/ekko-lightbox.min.js"></script>
+                <script src="/js/t4-nav-controller.js" type="text/javascript"></script>
+              
+<script type="text/javascript">
+    $(document).ready(function($) {
+        // delegate calls to data-toggle="lightbox"
+        $(document).delegate('*[data-toggle="lightbox"]:not([data-gallery="navigateTo"])', 'click', function(event) {
+            event.preventDefault();
+            $(this).ekkoLightbox();
+        });
+        $('a[data-click="false"]').click(function(e) {
+            e.preventDefault();
+            var target = $(this).data('target');
+            $(target).click();
+        });
+    });
+</script>          
+             
+
+
+        <!--<ul></ul>-->
+    <script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

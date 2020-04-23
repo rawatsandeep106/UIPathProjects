@@ -1,0 +1,270 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 00-14 (SUP) on interagency program for U.S. operations of foreign banks--October 23, 2000</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrs.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=25% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border=0 align=left vspace=0 hspace=0></td>
+<td align=center width=30%><em class=letterhead>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</em></td>
+<td width=25%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=letterhead>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</em></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=salutation>SR 00-14 (SUP)<br>
+October 23, 2000</em></td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%>
+<table cellpadding=0 cellspacing=0 width=80%>
+<tr>
+<td valign=top><em class="salutation">TO&nbsp;THE&nbsp;</em></td>
+<td><em class=salutation>OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY STAFF AT EACH FEDERAL RESERVE BANK AND TO FOREIGN BANKING ORGANIZATIONS WITH U.S. OPERATIONS SUPERVISED BY THE FEDERAL RESERVE</em></td>
+</tr>
+</table>
+<p>
+<table width="80%">
+<tr>
+<td width="13%" valign="top" align="left"><em class="salutation">SUBJECT:&nbsp;&nbsp;</em></td>
+<td width=87% align=left><b>Enhancements to the Interagency Program for Supervising the U.S. Operations of Foreign Banking Organizations
+</b></td>
+</tr>
+</table>
+<p>
+<B>Overview</B>
+<P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Interagency Program for Supervising the U.S. Operations of Foreign Banking
+Organizations (the FBO Supervision Program), which was established in March&nbsp;1995,
+applies to all foreign banking organizations with a banking presence in the United States.&nbsp;
+This presence can take the form of branches, agencies, Edge and Agreement corporations,
+commercial lending companies, and subsidiary banks.&nbsp; After more than five years of
+experience with the FBO Supervision Program, the Federal Reserve, in cooperation and
+coordination with the other federal and state banking authorities involved in supervising
+the U.S. operations of foreign banks, is taking a number of steps to enhance the program.&nbsp;
+These steps include updating and streamlining the Strength of Support Assessment (SOSA)
+process, informing FBOs and home country supervisors of foreign banks' SOSA rankings,
+and creating a new combined assessment rating for all of an FBO's U.S. branches, agencies,
+and commercial lending companies (i.e., a combined ROCA rating).<a href="#Footnote1" title="Footnote 1" name="Footref1"><sup>1</sup></a>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The principal changes to the FBO Supervision Program relate to the SOSA process.&nbsp;
+SOSA rankings, which reflect an assessment of an FBO's ability to provide financial,
+liquidity and management support to its U.S. operations, have been found by U.S.
+supervisors to be an effective and reliable tool in supervising the U.S. activities of foreign
+banks.&nbsp; These rankings are also used in connection with other U.S. regulatory matters
+requiring a supervisory view of a foreign banking organization.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+For these reasons, the Federal Reserve and other U.S. bank supervisory agencies have
+agreed to begin informing both the FBO's senior management and its home country
+supervisor of the foreign bank's SOSA ranking.&nbsp; This step should strengthen
+communications with bank management, as well as enhance information-sharing,
+collaboration and coordination between host (U.S.) and home country authorities in the
+supervision of multinational banking organizations.&nbsp; Providing SOSA rankings to home
+country supervisors will complement existing host-to-home country information-sharing
+arrangements.&nbsp; Since 1995, U.S. supervisors have been providing to home country
+authorities a composite rating that reflects a combined assessment of an FBO's banking
+and nonbanking activities in the United States (i.e., the Combined U.S. Operations Rating).&nbsp;
+Such host-to-home communications are important in helping home country supervisors carry
+out effective comprehensive, consolidated supervision of multinational banking organizations.&nbsp;
+<P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The principal enhancements to the FBO Supervision Program are outlined briefly below;
+details concerning these steps are set forth in the attached policy guidelines, which
+supersede previous guidance issued by this Division in SR&nbsp;letters 95-22 and 98-13.&nbsp;
+Reserve Banks will be provided with implementing procedures for  carrying out these
+program enhancements in the near future.
+<p>
+<B>FBO Supervision Program Enhancements</B>
+<P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The principal enhancements to the FBO Supervision Program are as follows:
+<p>
+<blockquote>
+<ul>
+<B><LI>More Frequent Updates of SOSA Rankings</B><br>
+The primary use of the SOSA, which is designed to reflect an FBO's ability to support its
+U.S. operations, is to provide input to the development and maintenance of a comprehensive
+supervisory strategy for the U.S. activities of a foreign bank.&nbsp; To ensure that the
+U.S. operations' supervisory strategy remains current and relevant, it is essential that an
+FBO's SOSA ranking be updated whenever necessary to reflect significant new
+information bearing on the banking organization's overall strength-of-support
+capability.&nbsp; While all FBOs will continue to be subject to, at a minimum, an annual
+SOSA review, an update should be performed whenever significant events occur that could
+have a material impact on an FBO's ability to maintain the safety and soundness of its U.S.
+operations.</li>
+<p>
+<B><LI>Streamlining SOSA Rankings</b><br>
+The five current SOSA ranking designations of &quot;A&quot; to &quot;E&quot; are being
+replaced by three designations of &quot;1&quot; to &quot;3,&quot; with &quot;1&quot;
+representing the lowest degree of supervisory concern and &quot;3&quot; the highest
+degree of concern.&nbsp; This change is being made because experience with the program
+has shown that FBOs with SOSA rankings of A and B generally have similar, positive or
+favorable characteristics, and thus have resulted in very similar supervisory
+strategies.&nbsp; At the other end of the scale, FBOs with &quot;D&quot; and
+&quot;E&quot; rankings, while somewhat differentiated by the severity of their problems,
+also warrant generally similar remedial supervisory strategies.&nbsp; These patterns have
+emerged even though supervisory strategies are individually tailored for all FBOs.&nbsp;
+As a result, the number of SOSA rankings is being streamlined (i.e., reduced from five to
+three) to more closely align FBO assessments with the supervisory strategies for their U.S.
+operations.
+<P>
+Until now, the SOSA process has allowed for the inclusion of an additional indicator (i.e.,
+an asterisk) to flag certain significant developments that were not otherwise captured as
+part of the basic SOSA analytical factors, but which could have a material impact on an
+FBO's ability to support its U.S. activities.&nbsp; These developments include a pending
+merger, an emerging and significant business line, or an operational control issue.&nbsp;
+The changes to the SOSA process set forth in the attachment incorporate these
+additional considerations more directly in the SOSA factors, thus eliminating the need for
+the asterisk.</li>
+<p>
+<B><LI>Sharing of SOSA Rankings with the Foreign Banking Organization's Senior Management and Home Country Supervisor </b><br>
+Given the role of SOSA rankings in supervising foreign banks' U.S. operations, going
+forward an FBO's SOSA ranking, and the rationale for the ranking, will be provided to the
+FBO's senior management and its home country supervisor.&nbsp; As mentioned previously,
+this step should strengthen communications with the FBO's senior management and
+enhance information sharing, collaboration and coordination between host and home
+country authorities in the supervision of multinational banking organizations.&nbsp;
+Procedures for advising each FBO and its home country supervisor of the FBO's SOSA
+ranking are described in the attached policy guidelines.</li>
+<p>
+<B><LI>Assignment of a Combined ROCA Rating for Branches and Agencies</b><br>
+U.S. bank supervisors will assign a "combined" ROCA rating for all of an FBO's U.S.
+branches, agencies, and commercial lending companies, in addition to ROCA ratings for the
+FBO's individual offices.&nbsp; The combined assessment of the FBO's U.S. branch,
+agency, and commercial lending company operations will in turn be factored into the FBO's
+overall Combined U.S. Operations Rating, which will continue to be a single composite
+rating that reflects the U.S. supervisors' collective assessment of all operations (i.e.,
+banking and nonbanking offices) of the FBO in the United States.</li>
+<p>
+<B><LI>Inclusion of an Institutional Overview</b><br>
+The SOSA will continue to be based on the factors originally established in the FBO
+Supervision Program.&nbsp; However, the underlying analysis, which supports the SOSA, is
+being expanded to include an &quot;Institutional Overview&quot; of the FBO that
+documents critical factors such as structure, business strategy and operations, funding and
+liquidity, and governance.&nbsp; With this change, the SOSA process for each FBO now will
+comprise two components:&nbsp; (a) an Institutional Overview; and (b) a SOSA ranking.&nbsp;
+Under the program, these components will continue to be supplemented by the background
+"Reviews of the Home Country Financial System" and "Home Country Accounting
+Practices."&nbsp; In addition, the Reserve Bank or other supervisory agency that is
+responsible for preparing the SOSA for the FBO will also have the responsibility to
+prepare the Institutional Overview.</li>
+<p>
+<B><LI>Modification of Period for Supervisory Input</b><br>
+Comment periods for input from fellow U.S. supervisors on drafts of FBO supervision
+program documents will be independently determined by the authors of the documents
+based upon the magnitude of any issues being addressed.&nbsp; However, in the case of an
+upgrade or downgrade of an FBO's SOSA, the author must designate a deadline for
+comments of no less than nine calendar days from the issuance of the notification of the
+proposed change in the SOSA.&nbsp; This should provide sufficient time for all interested
+supervisory parties to consider and review the important issues involved in the SOSA
+determination.</li>
+<p>
+<B><LI>Enhanced Supervisory Strategy Discussion </b><br>
+The "Supervisory Strategy" section of the SOSA is being moved to the "Supervisory
+Plan."&nbsp;  Going forward, the latter will include a fully developed supervisory strategy
+that specifies clear objectives and well-defined examination and other review activities
+for the FBO's entire U.S. operations.</li>
+<p>
+<B><LI>Applications and the SOSA Process</b><br>
+FBOs entering the United States will be subject to the SOSA process from the date that
+they are approved to establish their first U.S. banking presence.&nbsp; The application
+process for the first U.S. office should provide sufficient information about the FBO,
+including its system of home country supervision and accounting practices, to perform a
+SOSA review and determine an initial SOSA ranking.</li>
+<p>
+<b><LI>Individual SOSA Documents</b><br>
+Each FBO must have a discrete, individual document setting forth its SOSA ranking;
+multiple SOSAs should no longer be combined in a single document for a homogeneous
+group of FBOs.</li>
+</ul>
+</blockquote>
+<P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+These changes to the FBO Supervision Program, especially those related to SOSA
+rankings, have been discussed with the federal and state supervisory authorities
+participating in the program.&nbsp; The Reserve Banks' continued strong support of
+federal and state efforts to supervise the U.S. operations of FBOs in a coordinated and
+consistent fashion that is risk-focused, burden-sensitive and cost-effective is essential to
+the success of the United States as a host country supervisor.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Reserve Bank staff should distribute this SR&nbsp;letter to the U.S. offices and the head
+offices of FBOs with operations in the United States, and to the local offices of all
+federal and state bank supervisory authorities in their district.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Questions about this SR&nbsp;letter may be directed to
+Stephen&nbsp;M.&nbsp;Hoffman,&nbsp;Jr., Deputy Associate Director, FBO/Global Bank
+Supervision, at 202/452-5271 or Joel&nbsp;D.&nbsp;Shapiro, Manager, FBO Supervision
+Section, at 202/452-2056.
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+<a href="sr0014a1.pdf" target="_top">Attachment</a> <font color=gray>(107&nbsp;KB&nbsp;PDF)</font>
+<p>
+<br>
+<table>
+<tr>
+<td valign=top>Cross References:&nbsp;&nbsp;</td>
+<td>SR letters <a href="../1997/sr9724.htm" target="_top">97-24</a> and <a href="../1997/sr9725.htm" target="_top">97-25</a></td>
+</tr>
+<td valign=top>Supersedes:&nbsp;&nbsp;</td>
+<td>SR letters 95-22 and 98-13</td>
+</tr>
+</table>
+<p>
+<br>
+<hr width=50% align=left>
+<p>
+<b>Notes:</b>
+<p>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;
+SOSA rankings and ROCA ratings are supervisory tools used by U.S. supervisors to carry out their responsibilities for overseeing the U.S. activities of foreign banks.&nbsp; SOSA rankings reflect an assessment of a foreign bank's ability to provide support for its U.S. operations.&nbsp; The ROCA system represents a rating of the risk management, operational controls, compliance and asset quality of an FBO's U.S. activities.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+<p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../default.htm">SR letters</a> | <a href="default.htm">2000</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

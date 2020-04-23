@@ -1,0 +1,602 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 97-21 (SUP) on risk management and capital adequacy of exposures arising from secondary market credit activities -- July 11, 1997</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body bgcolor="#FFFFFF">
+<a name="pagetop"></a>
+<blockquote>
+<table border=0 width="600">
+<tr>
+<td>
+<table border=0 width="600">
+<tr>
+<td width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font size=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font size=3><b>SR 97-21 (SUP)<br>
+July 11, 1997<br></b></td>
+</tr></table>
+<b><br>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font size=3><b>Risk Management and Capital Adequacy of Exposures Arising from Secondary Market Credit Activities
+</b></font></td>
+</tr>
+</table><br>
+<font size=3><p>
+<b><u>Introduction and Overview</u></b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In recent years, some banking organizations have substantially increased
+their secondary market credit activities such as loan syndications, loan sales and
+participations, credit derivatives, and asset securitizations, as well as the provision of
+credit enhancements and liquidity facilities to such transactions.&nbsp; These activities can
+enhance both credit availability and bank profitability, but managing the risks of these
+activities poses increasing challenges.&nbsp; This is because the risks involved, while not
+new to banking, may be less obvious and more complex than the risks of traditional
+lending activities.&nbsp; Some secondary market credit activities involve credit, liquidity,
+operational, legal, and reputational risks in concentrations and forms that may not be
+fully recognized by bank management or adequately incorporated in an institution's
+risk management systems.&nbsp; In reviewing these activities, supervisors and examiners
+should assess whether banking organizations fully understand and adequately manage
+the full range of the risks involved in secondary market credit activities.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The heightened need for management attention to these risks is 
+underscored by reports from examiners, senior lending officer surveys, and
+discussions with trade and advisory groups that have indicated that competitive
+conditions over the past few years have encouraged an easing of credit terms and
+conditions in both commercial and consumer lending.&nbsp; In addition, indications are that
+some potential participants in loan syndications have felt it necessary to make
+complex credit decisions within a much shorter timeframe than has been customary. 
+Although the recent easing may not be imprudent, the incentives and pressures to
+lower credit standards have increased as competition has intensified and borrowers
+have experienced generally favorable business and economic conditions.&nbsp; Supervisors
+and bank management alike should remain alert to the possibility that loan
+performance could deteriorate if certain sectors of the economy experience problems. 
+The recent rise in consumer bankruptcies, credit card delinquencies, and credit
+charge-offs illustrates this concern.&nbsp; These types of developments could have
+significant implications for the risks associated with secondary market credit activities.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This letter identifies some of the important risks involved in several of the
+more common types of secondary market credit activities.&nbsp; It also provides guidance
+on sound practices and discusses special considerations supervisors should take into
+account in assessing the risk management systems for these activities.&nbsp;  A copy of
+this letter should be sent to each state member bank, bank holding company, Edge
+corporation, and U.S. branch or agency of a foreign bank.&nbsp; A suggest transmittal letter
+is attached.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A fundamental principle advanced by this guidance is that banking
+institutions should explicitly incorporate the full range of risks of their secondary market
+credit activities into their overall risk management systems.&nbsp; In particular, supervisors
+and examiners should determine whether institutions are recognizing the risks of
+secondary market credit activities by: 1) adequately identifying, quantifying, and
+monitoring these risks;  2)&nbsp;clearly communicating the extent and depth of these risks in
+reports to senior management and the board of directors and in regulatory reports; 3)
+conducting ongoing stress testing to identify potential losses and liquidity needs under
+adverse circumstances; and 4) setting adequate minimum internal standards for
+allowances or liabilities for losses, capital, and contingency funding.&nbsp; Incorporating
+secondary market credit activities into banking organizations' risk management
+systems and internal capital adequacy allocations is particularly important since the
+current regulatory capital rules do not fully capture the economic substance of the risk
+exposures arising from many of these activities.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Failure to understand adequately the risks inherent in secondary market
+credit activities and to incorporate them into risk management systems and internal
+capital allocations may constitute an unsafe and unsound banking practice.<br>
+<p>
+<b><u>Scope</u></b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This guidance applies to the secondary market credit activities conducted
+by state member banks, bank holding companies, Edge corporations and U.S. 
+branches and agencies of foreign banks.<a href="#Footnote1" title="Footnote 1" name="Footref1"><sup>1</sup></a>  For purposes of this guidance, secondary
+market credit activities include, but are not limited to, loan syndications, loan
+participations, loan sales and purchases, credit derivatives, asset securitization, and
+both implied and direct credit enhancements that may support these or the related
+activities of the institution, its affiliates, or third parties.&nbsp;  Asset securitization activities
+refer to issuance, underwriting, and servicing of asset-backed securities; provision of
+credit or liquidity enhancements to securitized transactions; and investment in asset-backed securities.&nbsp; This guidance builds on, supports, and is fully consistent with
+existing guidance on risk management issued by the Federal Reserve.<a href="#Footnote2" title="Footnote 2" name="Footref2"><sup>2</sup></a> <br>
+<p>
+<b><u>Background</u></b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Improvements in technology, greater standardization of lending products,
+and the use of credit enhancements have helped to increase dramatically the volume
+of loan syndications, loan sales, loan participations, asset securitizations, and credit
+guarantees undertaken by commercial banks, affiliates of bank holding companies,
+and some U.S. branches and agencies of foreign banks.&nbsp; In addition, the advent of
+credit derivatives permits banking organizations to trade credit risk, manage it in
+isolation from other types of risk, and maintain credit relationships while transferring
+the associated credit risk.&nbsp; These developments have improved the availability of credit
+to businesses and consumers, allowed management to better tailor the mix of credit
+risk within loan and securities portfolios, and helped to improve overall bank
+profitability.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the same time, however, certain credit and liquidity enhancements that
+banking organizations provide to facilitate various secondary market credit activities
+may make the evaluation of the risks of these activities less straightforward than the
+risks involved in traditional banking activities in which assets are held in their entirety
+on the balance sheet of the originating institution.&nbsp; These enhancements, or
+guarantees, generally manifest themselves as recourse provisions, securitization
+structures that entail credit-linked early amortization and collateral replacement events,
+and direct credit substitutes such as letters of credit and subordinated interests that, in
+effect, provide credit support to secondary market instruments and transactions.<a href="#Footnote3" title="Footnote 3" name="Footref3"><sup>3</sup></a> <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; The transactions that such enhancements are associated with tend to be
+complex and may expose institutions extending the enhancements to hidden
+obligations that may not become evident until the transactions deteriorate.&nbsp; In
+substance, such activities move the credit risk off the balance sheet by shifting risks
+associated with traditional on-balance-sheet assets into off-balance-sheet contingent
+liabilities.&nbsp; Given the potential complexity and, in some cases, the indirect nature of
+these enhancements, the actual credit risk exposure can be difficult to assess,
+especially in the context of traditional credit risk limit, measurement, and reporting
+systems.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Moreover, many secondary market credit activities involve new and
+compounded dimensions of reputational, liquidity, operational and legal risks that are
+not readily identifiable and may be difficult to control.&nbsp; For example, recourse
+provisions and certain asset-backed security structures can give rise to significant
+reputational and liquidity risk exposures and ongoing management of underlying
+collateral in securitization transactions can expose an institution to unique operating
+and legal risks.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Accordingly, for those institutions involved in providing credit
+enhancements in connection with loan sales and securitizations, and those involved in
+credit derivatives and loan syndications, supervisors and examiners should assess
+whether the institutions' systems and processes adequately identify, measure, monitor,
+and control  <b>all</b> of the risks involved in the secondary market credit activities.&nbsp; In
+particular, the risk management systems employed should include the identification,
+measurement, and monitoring of these risks as well as an appropriate methodology for
+the internal allocation of capital and reserves.&nbsp; The stress testing conducted within the
+risk measurement element of the management system should fully incorporate the risk
+exposures of these activities under various scenarios to identify their potential effect on
+an institution's liquidity, earnings, and capital adequacy.&nbsp; Moreover, management
+reports should adequately communicate to senior management and the board of
+directors the risks associated with these activities and the contingency plans that are
+in place to deal with adverse conditions.&nbsp; <br>
+<p>
+<b><u>Credit Risks in Secondary Market Credit Activities</u></b>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Institutions should be aware that the credit risk involved in many
+secondary market credit activities may not always be obvious.&nbsp; For certain types of
+loan sales and securitization transactions, a banking organization may actually be
+exposed to essentially the same credit risk as in traditional lending activities, even
+though a particular transaction may, superficially, appear to have isolated the
+institution from any risk exposure.&nbsp; In such cases, removal of an asset from the
+balance sheet may not result in a commensurate reduction in credit risk.&nbsp; Transactions
+that can give rise to such instances include loan sales with recourse,  credit
+derivatives, direct credit substitutes, such as letters of credit, and liquidity facilities
+extended to securitization programs, as well as certain asset securitization structures,
+such as the structure typically used to securitize credit card receivables.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><b>Loan Syndications</b></i> - Recently, the underwriting standards of some
+syndications have been relaxed through the easing or elimination of certain covenants
+or the use of interest-only arrangements.&nbsp; Bank management should continually review
+syndication underwriting standards and pricing practices to ensure that they remain
+consistent over time with the degree of risk associated with the activity and the
+potential for unexpected economic developments to affect adversely borrower
+creditworthiness.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In some cases, potential participants in loan syndications have felt it
+necessary to make decisions to commit to the syndication within a shorter period of
+time than is customary.&nbsp; Supervisors and examiners should determine whether
+syndicate participants are performing their own independent credit analysis of the
+syndicated credit and make sure they are not placing undue reliance on the analysis
+of the lead underwriter or commercial loan credit ratings.&nbsp; Banking organizations
+should not feel pressured to make an irrevocable commitment to participate in a
+syndication until such an analysis is complete.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><b>Credit Derivatives</b></i> - Credit derivatives are off-balance sheet financial
+instruments that are used by banking organizations to assume or mitigate the credit
+risk of loans and other assets.<a href="#Footnote4" title="Footnote 4" name="Footref4"><sup>4</sup></a>  Banking organizations are increasingly employing
+these instruments either as end-users, purchasing credit protection from--or providing
+credit protection to--third parties, or as dealers intermediating such protection.&nbsp; In
+reviewing credit derivatives, supervisors should consider the credit risk associated with
+the reference asset, as well as general market risk and the risk of the counterparty to
+the contract.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With respect to credit derivative transactions where banking organizations
+are mitigating their assets' credit risk, supervisors and examiners should carefully
+review those situations where the reference assets are not identical to the assets
+actually owned by the institutions.&nbsp; Supervisors should consider whether the reference
+asset is an appropriate proxy for the loan or other asset whose credit exposure the
+banking organizations intend to offset. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<i><b>Recourse Obligations and Direct Credit Substitutes</b></i> - Partial, first loss
+recourse obligations retained when selling assets, and the extension of partial credit
+enhancements (e.g., 10 percent letters of credit) can be a source of concentrated
+credit risk by exposing institutions to the full amount of expected losses on the
+protected assets.&nbsp; For instance, the credit risk associated with whole loans or pools of
+assets that are sold to secondary market investors can often be concentrated within
+the partial, first loss recourse obligations retained by banking organizations selling and
+securitizing the assets.&nbsp; In these situations, even though institutions may have reduced
+their exposure to catastrophic loss on the assets sold, they generally retain the same
+credit risk exposure as if they continued to hold the assets on their balance sheets.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In addition to recourse obligations, institutions assume concentrated
+credit risk through the extension of partial direct credit substitutes such as through the
+purchase of subordinated interests and extension of letters of credit.&nbsp;  For example,
+banking organizations that sponsor certain asset-backed commercial paper programs,
+or so-called &quot;remote origination&quot; conduits, can be exposed to high degrees of credit
+risk even though it may seem that their notional exposure is minimal.&nbsp; Such a remote
+origination conduit lends directly to corporate customers referred to it by the
+sponsoring banking organization that used to lend directly to these same borrowers. 
+The conduit funds this lending activity by issuing commercial paper that, in turn, is
+guaranteed by the sponsoring banking organization.&nbsp; The net result is that the
+sponsoring institution has much the same credit risk exposure through this guarantee
+as if it had made the loans directly and held them on its books.&nbsp; However, such credit
+extension is an off-balance-sheet transaction and the associated risks may not be fully
+reflected in the institution's risk management system. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Furthermore, banking organizations that extend liquidity facilities to
+securitized transactions, particularly asset-backed commercial paper programs, may be
+exposed to high degrees of credit risk which may be subtly embedded within the
+facilities' provisions.&nbsp; Liquidity facilities are commitments to extend short-term credit to
+cover temporary shortfalls in cash flow.&nbsp; While all commitments embody some degree
+of credit risk, certain commitments extended to asset-backed commercial paper
+programs in order to provide liquidity may subject the extending institution to the credit
+risk of the underlying asset pool, often trade receivables, or of a specific company
+using the program for funding.&nbsp; Often the stated purpose of such liquidity facilities is to
+provide funds to the program to retire maturing commercial paper when a mismatch
+occurs in the maturities of the underlying receivables and the commercial paper, or
+when a disruption occurs in the commercial paper market.&nbsp; However, depending upon
+the provisions of the facility--such as whether the facility covers dilution of the
+underlying receivable pool--credit risk can be shifted from the program's explicit credit
+enhancements to the liquidity facility.<a href="#Footnote5" title="Footnote 5" name="Footref5"><sup>5</sup></a>  Such provisions may enable certain programs
+to fund riskier assets and yet maintain the credit rating on the program's commercial
+paper without increasing the program's credit enhancement levels.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<b><i>Asset Securitization Structures</b></i> - The structure of various securitization
+transactions can also result in an institution retaining the underlying credit risk in a sold
+pool of assets.&nbsp; Examples of this contingent credit risk retention include credit card
+securitizations where the securitizing organization explicitly sells the credit card
+receivables to a master trust, but, in substance, retains the majority of the economic
+risk of loss associated with the assets because of the credit protection provided to
+investors by the excess yield, spread accounts, and structural provisions of the
+securitization.&nbsp; Excess yield provides the first level of credit protection that can be
+drawn upon to cover cash shortfalls between the principal and coupon owed to
+investors and the investors' pro rata share of the master trust's net cash flows.&nbsp; The
+excess yield is equal to the difference between the overall yield on the underlying
+credit card portfolio and the master trust's operating expenses.<a href="#Footnote6" title="Footnote 6" name="Footref6"><sup>6</sup></a>  The second level of
+credit protection is provided by the spread account, which is essentially a reserve
+funded initially from the excess yield.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In addition, the structural provisions of credit card securitizations
+generally provide credit protection to investors through the triggering of early
+amortization events.&nbsp; Such an event usually is triggered when the underlying pool of
+credit card receivables deteriorates beyond a certain point and requires that the
+outstanding credit card securities begin amortizing early in order to pay off investors
+before the prior credit enhancements are exhausted.&nbsp;  As the early amortization
+accelerates the redemption of principal (paydown) on the security, the credit card
+accounts that were assigned to the master credit card trust return to the securitizing
+institution more quickly than had originally been anticipated, thus, exposing the
+institution to liquidity pressures and any further credit losses on the returned accounts. <br>
+<p>
+<b><u>Reputational Risks</u></b>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The secondary market credit activities of many institutions may also
+expose them to significant reputational risks.&nbsp; Loan syndication underwriting may
+present significant reputational risk exposure to lead underwriters because syndicate
+participants may seek to hold the lead underwriter responsible for actual or perceived
+inadequacies in the loan's underwriting even though participants are responsible for
+conducting an independent due diligence evaluation of the credit.&nbsp; Such risk may be
+compounded by the rapid growth of new investors in this market, usually nonbanks
+that may not have previously endured a downturn in the loan market.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;There is the potential that pressure may be brought to bear on the lead
+participant to repurchase portions of the syndication if the credit deteriorates in order
+to protect its reputation in the market even though the syndication was sold without
+recourse.&nbsp; In addition, the deterioration of the syndicated credit also exposes the lead
+organization to possible litigation, as well as increased operational and credit risk. 
+One way to mitigate reputational risk with respect to syndications is for banking
+organizations to know their customers and to determine whether syndication
+customers are in a position to conduct their own evaluation of the credit risks involved
+in the transaction. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Asset securitization programs also can be a source of increasing
+reputational risk.&nbsp; Often, banking organizations sponsoring the issuance of asset-backed securities act as servicer, administrator, or liquidity provider in the
+securitization transaction.&nbsp; It is imperative that these institutions are aware of the
+potential losses and risk exposure associated with reputational risk.&nbsp; The securitization
+of assets whose performance has deteriorated may result in a negative market
+reaction that could increase the spreads on an institution's subsequent issuances.&nbsp; In
+order to avoid a possible increase in their funding costs, institutions have supported
+their securitization transactions by improving the performance of the securitized asset
+pool.&nbsp; This has been accomplished, for example, by selling discounted receivables or
+adding higher quality assets to the securitized asset pool.&nbsp; Thus, an institution's
+voluntary support of its securitization in order to protect its reputation can adversely
+affect the sponsoring/issuing organization's earnings and capital. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;These and other methods of improving the credit quality of securitized
+asset pools have been used recently by banking organizations providing voluntary
+support to their securitizations, especially for credit card master trusts.&nbsp; Such actions
+generally are taken to avoid either a rating downgrade or an early amortization of the
+outstanding asset-backed securities.<br>
+<p>
+<b><u>Liquidity Risks</u></b>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The existence of recourse provisions in asset sales, the extension of
+liquidity facilities to securitization programs, and the early amortization triggers of
+certain asset securitization transactions can involve significant liquidity risk to
+institutions engaged in these secondary market credit activities.&nbsp; Institutions should
+ensure that their liquidity contingency plans fully incorporate the potential risk posed by
+their secondary market credit activities.&nbsp; With the issuance of new asset-backed
+securities, the issuing banking organization should determine the potential effect on its
+liquidity at the inception of each transaction and throughout the life of the securities in
+order to better ascertain its future funding needs.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An institution's contingency plans should take into consideration the need
+to obtain replacement funding, and specify the possible alternative funding sources, in
+the event of the amortization of outstanding asset-backed securities.&nbsp; This is
+particularly important for securitizations with revolving receivables, such as credit
+cards, where an early amortization of the asset-backed securities could unexpectedly
+return the outstanding balances of the securitized accounts to the issuing institution's
+balance sheet.&nbsp; It should be recognized that an early amortization of a banking
+organization's asset-backed securities could impede its ability to fund itself--either
+through re-issuance or other borrowings--since the institution's reputation with
+investors and lenders may be adversely affected.&nbsp; <br>
+<p>
+<b><u>Incorporating the Risks of Secondary Market Credit Activities</u><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<u>Into Risk Management</u></b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisors should verify that an institution incorporates in its overall risk
+management system the risks involved in its secondary market credit activities.&nbsp; The
+system should entail: 1) inclusion of risk exposures in reports to the institution's senior
+management and board to ensure proper management oversight; 2) adoption of
+appropriate policies, procedures, and guidelines to manage the risks involved; 
+3) appropriate measurement and monitoring of risks; and 4) assurance of appropriate
+internal controls to verify the integrity of the management process with respect to
+these activities.&nbsp; The formality and sophistication with which the risks of these activities
+are incorporated into an institution's risk management system should be
+commensurate with the nature and volume of its secondary market credit activities. 
+Institutions with significant activities in this area are expected to have more elaborate
+and formal approaches to manage the risk of their secondary market credit activities.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Both the board of directors and senior management are responsible for
+ensuring that they fully understand the degree to which the organization is exposed to
+the credit, market, liquidity, operational, legal, and reputational risks involved in the
+institution's secondary market credit activities.&nbsp; They are also responsible for ensuring
+that the formality and sophistication of the techniques used to manage these risks are
+commensurate with the level of the organization's activities.&nbsp; The board should
+approve all significant polices relating to the management of risk arising from
+secondary market credit activities and should ensure that the risk exposures are fully
+incorporated in board reports and risk management reviews.&nbsp;  <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior management is responsible for ensuring that the risks arising from
+secondary market credit activities are adequately managed on both a short-term and
+long-run basis.&nbsp; Management should ensure that there are adequate policies and
+procedures in place for incorporating the risk of these activities into the overall risk
+management process of the institution.&nbsp; Such policies should ensure that the economic
+substance of the risk exposures generated by these activities is fully recognized and
+appropriately managed.&nbsp; In addition, banking organizations involved in securitization
+activities should have appropriate policies, procedures, and controls with respect to
+underwriting asset-backed securities; funding the possible return of revolving
+receivables (e.g., credit card receivables and home equity lines); and establishing
+limits on exposures to individual institutions, types of collateral, and geographic and
+industrial concentrations.&nbsp; Lead banking organizations in loan syndications should have
+policies and procedures in place that address whether or in what situations portions of
+syndications may be repurchased.&nbsp; Furthermore, banking organizations participating in
+a loan syndication should not place undue reliance on the credit analysis performed by
+the lead organization.&nbsp; Rather, the participant should have clearly defined policies and
+procedures to ensure that it performs its own due diligence in analyzing the risks
+inherent in the transaction.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;An institution's management information and risk measurement systems
+should fully incorporate the risks involved in its secondary market credit activities. 
+Banking organizations must be able to identify credit exposures from all secondary
+market credit activities, and be able to measure, quantify, and control those exposures
+on a fully consolidated basis.&nbsp; The economic substance of the credit exposures of
+secondary market credit activities should be fully incorporated into the institution's
+efforts to quantify its credit risk, including efforts to establish more formal grading of
+credits to allow for statistical estimation of loss probability distributions.&nbsp; Secondary
+market credit activities should also be included in any aggregations of credit risk by
+borrower, industry, or economic sector.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;It is particularly important that an institution's information systems can
+identify and segregate those credit exposures arising from the institution's loan sale
+and securitization activities.&nbsp; Such exposures include the sold portions of participations
+and syndications; exposures arising from the extension of credit enhancement and
+liquidity facilities; the effects of an early amortization event; and the investment in
+asset-backed securities.&nbsp; The management reports should provide the board and
+senior management with timely and sufficient information to monitor the institution's
+exposure limits and overall risk profile.<br>
+<p>
+<b><u>Stress Testing</u></b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The use of stress testing, including combinations of market events that
+could affect a banking organization's credit exposures and securization activities, is
+another important element of risk management.&nbsp; Such testing involves identifying
+possible events or changes in market behavior that could have unfavorable effects on
+the institution and assessing the organization's ability to withstand them.&nbsp; Stress
+testing should not only consider the probability of adverse events, but also likely &quot;worst
+case&quot; scenarios.&nbsp; Such an analysis should be done on a consolidated basis and
+consider, for instance, the effect of higher than expected levels of delinquencies and
+defaults as well as the consequences of early amortization events with respect to
+credit card securities that could raise concerns regarding the institution's capital
+adequacy and its liquidity and funding capabilities.&nbsp; Stress test analyses should also
+include contingency plans regarding the actions management might take given certain
+situations.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;One of management's most important responsibilities is establishing and
+maintaining an effective system of internal controls that, among other things, enforces
+the official lines of authority and the appropriate separation of duties in managing the
+risks of the institution.&nbsp; These internal controls must be suitable for the type and level
+of risks given the nature and scope of the institution's activities.&nbsp; Moreover, these
+internal controls should provide reasonable assurance of reliable financial reporting (in
+published financial reports and regulatory reports), including adequate allowances or
+liabilities for expected losses.<br>
+<p>
+<b><u>Capital Adequacy</u></b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As with all risk-bearing activities, institutions should fully support the risk
+exposures of their secondary market credit activities with adequate capital.&nbsp; Banking
+organizations should ensure that their capital positions are sufficiently strong to
+support <b>all</b> of the risks associated with these activities on a fully consolidated basis
+and should maintain adequate capital in all affiliated entities engaged in these
+activities.&nbsp; The Federal Reserve's risk-based capital guidelines establish <i>minimum</i>
+capital ratios, and those banking organizations exposed to a high or above average
+degrees of risk are, therefore, expected to operate significantly above the minimum
+capital standards.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The current regulatory capital rules do not fully incorporate the economic
+substance of the risk exposures involved in many secondary market credit activities. 
+Therefore, when evaluating capital adequacy, supervisors should ensure that banking
+organizations that sell assets with recourse, assume or mitigate credit risk through the
+use of credit derivatives, and provide direct credit substitutes and liquidity facilities to
+securitization programs, are accurately identifying and measuring these exposures and
+maintaining capital at aggregate levels sufficient to support the associated credit,
+market, liquidity, reputational, operational, and legal risks. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Supervisors and examiners should review the substance of secondary
+market transactions when assessing underlying risk exposures.&nbsp; For example, partial,
+first loss direct credit substitutes providing credit protection to a securitization
+transaction can, in substance, involve much the same credit risk as that involved in
+holding the entire asset pool on the institution's balance sheet.&nbsp; However, under
+current rules, regulatory capital is explicitly required only against the amount of the
+direct credit substitute, which can be significantly different from the amount of capital
+that the institution should maintain against the concentrated credit risk in the
+guarantee.&nbsp;  Supervisors and examiners should ensure that banking organizations
+have implemented reasonable methods for allocating capital against the economic
+substance of credit exposures arising from early amortization events and liquidity
+facilities associated with securitized transactions since such facilities are usually
+structured as short-term commitments in order to avoid a risk-based capital
+requirement, even though the inherent credit risk may be approaching that of a
+guarantee.<a href="#Footnote7" title="Footnote 7" name="Footref7"><sup>7</sup></a>  <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If, in the supervisor's judgment, an institution's capital level is not
+sufficient to provide protection against potential losses from such credit exposures, this
+deficiency should be reflected in the banking organization's CAMELS or BOPEC
+ratings. Furthermore, supervisors and examiners should discuss the capital deficiency
+with the institution's management and, if necessary, its board of directors.&nbsp; Such an
+institution will be expected to develop and implement a plan for strengthening the
+organization's overall capital adequacy to levels deemed appropriate given all the risks
+to which it is exposed.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please forward this letter to each state member bank, bank holding
+company, Edge corporation and U.S. branch or agency of a foreign bank located in
+your District--a suggested transmittal letter is attached.&nbsp; If you have any questions,
+please contact Roger Cole, Deputy Associate Director (202/452-2618), Tom Boemio,
+Supervisory Financial Analyst, (202/452-2982) or Jim Embersit, Manager, (202/452-5249).<br>
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+ATTACHMENT TRANSMITTED ELECTRONICALLY BELOW<br>
+<p>
+<br>
+<hr>
+<p>
+<br>
+Attachment<br>
+<p>
+<p>
+<center>SUGGESTED TRANSMITTAL LETTER TO EACH STATE MEMBER<br>
+BANK, BANK HOLDING COMPANY, EDGE CORPORATION AND U.S. BRANCH<br>
+AND AGENCY OF A FOREIGN BANK TO COMMUNICATE GUIDANCE ON RISK<br>
+MANAGEMENT AND CAPITAL ADEQUACY OF EXPOSURES ARISING FROM<br>
+SECONDARY MARKET CREDIT ACTIVITIES</center>
+<p>
+<br>
+TO THE CHIEF EXECUTIVE<br>
+<p>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Attached is a supervisory letter regarding the risk management and
+capital adequacy of secondary market credit activities such as loan syndications, loan
+sales and participations, asset securitizations, and the provision of credit and liquidity
+enhancements to such transactions.&nbsp; The guidance set forth in this letter highlights the
+concern that the risks associated with certain activities, particularly securitized
+transactions, may be less obvious and more complex than the risks of traditional
+lending activities.&nbsp; Moreover, some secondary market credit activities involve credit,
+liquidity, operational, legal and reputational risks in concentrations and forms that may
+not be fully recognized or incorporated in internal risk management systems.&nbsp; The
+extent of these exposures may not be entirely evident until transactions deteriorate.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The supervisory guidance notes that institutions should incorporate all of
+the risks arising from their secondary market credit activities into their consolidated risk
+management systems.&nbsp; The sophistication with which the risks of these activities are
+incorporated into an institution's risk management system should be commensurate
+with the nature and volume of its secondary market credit activities.&nbsp; In addition, the
+guidance indicates that banking organizations involved in secondary market credit
+activities should maintain adequate capital against the associated exposures and
+should have implemented reasonable methods for allocating capital internally. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have any questions about this guidance, please contact (Insert
+name of appropriate Reserve Bank staff.)  <br>
+<p>
+<br>
+Attachment<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<p>
+
+<hr>
+<p>
+<b>Footnotes</b>
+<p>
+<a name="Footnote1">1.</a>&nbsp; 
+This guidance applies to U.S. branches and agencies of foreign banks with recognition that appropriate adaptations may be necessary to reflect that: 1) those offices are an integral part of a foreign bank, which should be managing its risks on a consolidated basis and recognizing possible obstacles to cash movements among branches, and 2) the foreign bank is subject to overall supervision by its home country authorities.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+
+            <p> <a name="Footnote2">2.</a>&nbsp; For a more detailed discussion of risk management, 
+               refer to <a href="../1995/sr9551.htm">SR letter 95-51</a>, &quot;Rating 
+               the Adequacy of Risk Management Processes and Internal Controls 
+               at State Member Banks and Bank Holding Companies;&quot; SR letter 
+               95-17, &quot;Evaluating the Risk Management and Internal Controls 
+               of Securities and Derivative Contracts Used in Nontrading Activities;&quot; 
+               <a href="../1993/sr9369.htm">SR letter 93-69</a>, &quot;Risk Management 
+               and Internal Controls for Trading Activities of Banking Organizations;&quot; 
+               and <a href="../1990/sr9016.htm">SR letter 90-16</a>, &quot;Implementation 
+               of Examination Guidelines for the Review of Asset Securitization 
+               Activities.&quot;&nbsp;&nbsp;<a href="#Footref2">Return to text</a> 
+            <p>
+<a name="Footnote3">3.</a>&nbsp; 
+Examiners should also review SR letter 96-30, "Risk-Based Capital Treatment for Spread Accounts that Provide Credit Enhancement for Securitized Receivables.&quot;  In addition, banking organizations have retained the risk of loss, i.e., recourse, on sales and securitizations of assets when, in accordance with generally accepted accounting principles, they record on their balance sheets interest-only strip receivables or other assets that serve as credit enhancements.&nbsp; For more information, see Statement of Financial Accounting Standard No. 125, &quot;Accounting for Transfers and Servicing of Financial Assets and Extinguishments of Liabilities&quot; and the instructions to the Reports of Income and Condition.&nbsp;&nbsp;<a href="#Footref3">Return to text</a>
+
+<p>
+<a name="Footnote4">4.</a>&nbsp; 
+See SR letter 96-17, "Supervisory Guidance for Credit Derivatives," for a discussion of supervisory issues regarding credit derivatives, including the risk-based capital treatment of credit derivatives held in the banking book.&nbsp; SR letter 97-18, &quot;Application of Market Risk Capital Requirements to Credit Derivatives,&quot; provides guidance on the risk-based capital treatment of credit derivatives held in the trading book.&nbsp;&nbsp;<a href="#Footref4">Return to text</a>
+
+<p>
+<a name="Footnote5">5.</a>&nbsp; 
+Dilution essentially occurs when the receivables in the underlying asset pool--prior to collection--are no longer viable financial obligations of the customer.&nbsp; For example, dilution can arise from returns of consumer goods or unsold merchandise by retailers to manufacturers or distributors.&nbsp;&nbsp;<a href="#Footref5">Return to text</a>
+
+<p>
+<a name="Footnote6">6.</a>&nbsp; 
+The monthly excess yield is the difference between the overall yield on the underlying credit card portfolio and the master trust's operating expenses.&nbsp; It is calculated by subtracting from the gross portfolio yield the (1) coupon paid to investors, (2) charge-offs for that month, and (3) servicing fee, usually 200 basis points paid to the banking organization sponsoring the securitization.&nbsp;&nbsp;<a href="#Footref6">Return to text</a>
+
+<p>
+<a name="Footnote7">7.</a>&nbsp; For further guidance on distinguishing, for risk-based capital purposes, whether a facility is a short-term commitment or a direct credit substitute, refer to SR letter 92-11, &quot;Asset-Backed Commercial Paper Programs.&quot;&nbsp;  Essentially, facilities that provide liquidity, but which also provide credit protection to secondary market investors, are to be treated as direct credit substitutes for purposes of risk-based capital.&nbsp;&nbsp;<a href="#Footref7">Return to text</a>
+
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<a href="../">SR letters</a> | <a href="./">1997</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+   <b>Last update: April 25, 2016</b> </div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

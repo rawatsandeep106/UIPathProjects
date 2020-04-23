@@ -1,0 +1,385 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 91-17 (FIS) on application and supervision standards for de novo state member banks -- July 22, 1991</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF"><A NAME="pagetop"></A>
+<blockquote>
+<table border=0 width="600">
+<TR>
+<TD>
+<table border=0 width="600">
+<TR>
+<TD width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font SIZE=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><Div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font SIZE=3><b>SR 91-17 (FIS)<br>
+July 22, 1991<br></b></td>
+</tr></table>
+<b><br>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font SIZE=3><b>Application and Supervision Standards for De Novo State Member Banks
+</b></font></td>
+</tr>
+</table><br>
+<font SIZE=3><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SR 88-10 was issued on April 19, 1988 to establish
+application and supervision standards for de novo state member
+banks.&nbsp;&nbsp;Attached are measures that are being adopted to
+strengthen further our application and supervisory efforts
+regarding de novos and converted banks.&nbsp;&nbsp;This letter supersedes
+SR 88-10 and becomes effective immediately.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Should you have any questions, please contact Jack
+Jennings (202-452-3053) or Cheryl Taylor (202-452-2536) regarding
+supervisory issues; or John Russell (202-452-2466) or Beverly
+Evans (202-452-2573) regarding applications matters.<br>
+<p>
+<p>
+<p>
+<p>
+<center>Richard Spillenkothen
+<br>
+Deputy Associate Director</center>
+
+<br>
+<p>
+<p>
+<p>
+<p>
+<table width="600" lines=0>
+<tr>
+<td valign=top width=15%>Cross&nbsp;References:&nbsp;&nbsp;
+</td>
+<td width=85%>AD 87-20&nbsp;(FIS)&nbsp;(7/8/87)<br>
+SR 88-8&nbsp;(STR)&nbsp;(FIS)&nbsp;(3/18/88)<br>
+SR 88-8(a)&nbsp;(STR)&nbsp;(FIS)&nbsp;(3/18/88)<br>
+</td>
+</tr>
+<tr>
+<td>Supersedes:
+</td>
+<td>SR 88-10&nbsp;(STR)&nbsp;(FIS)&nbsp;(4/19/88)<br>
+</td>
+</tr>
+</table>
+<p>
+<p>
+ENCLOSURES ELECTRONICALLY TRANSMITTED BELOW<br>
+<p>
+<br>
+<hr>
+<p>
+<br>
+<b>Application and Supervision Standards for De Novo State Member Banks</b><br>
+<p>
+<b>Definitions</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For purposes of this policy a de novo bank is defined
+as a state member bank that has been in operation for five years
+or less.&nbsp;&nbsp;This policy also extends to commercial banks that have
+been in existence for less than five years and subsequently
+convert to membership.&nbsp;&nbsp;Thrifts, Edge Act Companies and
+industrial banks that are converting to membership, irrespective
+of their length of existence, are subject to the de novo policy
+because they have not demonstrated operating stability as a
+commercial bank.&nbsp;&nbsp;These institutions will hereafter be referred
+to as converted banks for purposes of this policy.&nbsp;&nbsp;The policy is
+being extended to de novo banks through the fifth year of
+existence because experience indicates that pronounced problems
+often surface during the fourth and fifth years of operations for
+new banks.&nbsp;&nbsp;These problems are frequently the result of
+inexperienced management, management and director changes,
+director dissension or lack of involvement and poor lending
+practices during the early years.&nbsp;&nbsp;<br>
+<p>
+<p>
+<b>De Novo Bank Subsidiaries of Bank Holding Companies with Assets Greater than $1 Billion</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;De novo state member bank subsidiaries of holding
+companies are subject to this policy.&nbsp;&nbsp;However, the de novo
+examination frequency guidelines may be waived for de novo
+subsidiaries of large bank holding companies (consolidated assets
+greater than $1 billion) if, in the opinion of the Reserve Bank,
+the parent company and its subsidiary banks are in satisfactory
+condition, and the parent is considered to be a source of
+strength to the bank subsidiaries.&nbsp;&nbsp;Notwithstanding, such
+subsidiary state member banks would be expected to maintain
+capital in conformance with the de novo policy guideline.<br>
+ <b><br>
+<p>
+Notice of Application to FDIC</b>&nbsp;&nbsp;&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In accordance with existing procedures, the Reserve
+Bank should notify the FDIC when it receives membership
+applications for de novo banks and thereby allow the FDIC the
+opportunity to provide material comments that could affect the
+Board's consideration of the application.&nbsp;&nbsp;The appropriate
+Regional Office of the FDIC should be sent one copy of the de
+novo bank membership application at the time of filing in final
+form.&nbsp;&nbsp;In addition, the Reserve Bank should provide a copy of
+letters received from the FDIC to the applicant if the letter is
+adverse in nature or presents material information not already
+clearly in the record.<br>
+<p>
+<p>
+ <b>Capital Standards</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Initial capital in a de novo state member bank should
+be reasonable in relation to State law, its location, business
+plan and competitive environment.&nbsp;&nbsp;At a minimum, however, a de
+novo bank must maintain a tangible Tier 1 leverage ratio of 9
+percent for the first three years of operations.&nbsp;&nbsp;(The 9 percent
+Tier 1 leverage ratio, which excludes loan loss reserves, is
+generally consistent with the former 10 percent primary capital
+guideline, which included loan loss reserves.)&nbsp;&nbsp;The applicant
+must provide projections of asset growth and earnings performance
+that reasonably support the bank's ability to maintain this ratio
+without reliance on additional capital injections.&nbsp;&nbsp;This policy
+also applies to newly converted commercial banks through the
+third year of existence and generally to other types of
+institutions that become Federal Reserve members (e.g.,
+industrial banks, thrift, and Edge Act Companies) for a three
+year period beginning from the date following consummation.&nbsp;&nbsp;Any
+exceptions to this policy for converted banks should be discussed
+with Board staff.&nbsp;&nbsp;Even though a 9 percent tangible leverage
+ratio is not required after year three, de novo banks are
+expected to maintain capital ratios commensurate with ongoing
+safety and soundness concerns and, generally, well in excess of
+regulatory minimums. <br>
+<p>
+<p>
+ <b>Outside Directors</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; Directors with prior banking experience provide a de
+novo institution with additional managerial strength.
+Accordingly,  the board of directors of a de novo bank normally
+should include at least two outside directors with prior banking-related experience.&nbsp;&nbsp;This recommendation also applies to de novo
+state member bank subsidiaries of large holding companies.&nbsp;&nbsp;In
+such cases the outside directors for the bank could be drawn from
+the parent company management or board.&nbsp;&nbsp;This guideline may be
+waived if, in the opinion of the Reserve Bank, it will be
+difficult to find outside directors with prior banking
+experience, as may be the case for institutions located in rural
+areas.<br>
+<p>
+<b>Qualifications and Notification Requirements of Senior Management Officials and Directors</b>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In accordance with procedures enumerated in SR-88-8
+(STR) (3/18/88), each proposed director of a de novo bank is
+subject to a &quot;name check&quot;.&nbsp;&nbsp;In addition, pursuant to Section 914
+of FIRREA which amended Regulation Y, any insured depository
+institution that has been in operation for less than two years
+shall notify the Reserve Bank at least 30 days before the
+proposed addition of any individual to the board of directors or
+the employment, promotion or transfer of any individual as a
+senior executive officer.&nbsp;&nbsp;The Reserve Bank must state either a
+&quot;no objection&quot; or &quot;disapproval&quot; of the individual by the end of
+the 30-day period beginning on the date the notification is
+accepted.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In those instances where there is a conflict between
+the System's need to verify an official's qualifications and a
+request that a present employer not be contacted, appropriate and
+reasonable steps should be taken to satisfy the System's need to
+know.&nbsp;&nbsp;Although Reserve Banks have delegated authority to make
+these decisions, they are encouraged to consult with Board staff
+when necessary.&nbsp;&nbsp;If it is decided that information is available
+through alternative means, it may not be necessary to contact
+present employers.&nbsp;&nbsp;In those cases where it is deemed necessary
+to contact present employers, the applicant should be given
+notice of the decision before the contact is made.<br>
+<p>
+ <b>Meeting with the Board of Directors</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Reserve Banks should advise applicants of all
+membership requirements when an application is initially filed.
+In addition, prior to approval, Reserve Bank staff should meet
+with the full board of directors to discuss applicable statutes,
+regulations, policies, and supervisory procedures and to become
+better acquainted with the organizers.&nbsp;&nbsp;After an application is
+approved, but before the bank is opened, the Reserve Bank should
+meet with the directorate to reiterate the System's expectations
+for newly formed institutions.&nbsp;&nbsp;The Reserve Bank should again
+apprise the directors of their individual and group
+responsibilities, particularly as they apply to Regulation O and
+Sections 23A and 23B of the Federal Reserve Act.&nbsp;&nbsp;Directors
+should also be made aware of their fiduciary responsibilities and
+the need for adherence to sound operating policies, including the
+written policies reviewed and found satisfactory by Reserve Bank
+staff.<br>
+<p>
+<p>
+ <b>Approval Letters</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;With the passage of FIRREA, a cease and desist order
+can be issued and civil money penalties can be assessed for
+noncompliance with written conditions that are incorporated in an
+approval order or letter which grants membership to a bank.&nbsp;&nbsp;
+Accordingly, conditions imposed are to be incorporated in the
+approval letter.&nbsp;&nbsp;It should be stressed to the organizers and
+directors that conditions imposed during the application process
+are legally binding and subject to enforcement.<br>
+<p>
+<b>Cash Flows to a BHC Parent</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under the current small one bank holding company
+policy, de novo banks are restricted from providing funds for
+servicing the parent's debt until the bank receives two
+consecutive CAMEL ratings of &quot;1&quot; or &quot;2&quot;, based on full scope
+examinations, and, in the judgment of the Reserve Bank, can be
+expected to continue operating on a sound basis.&nbsp;&nbsp;An exception to
+this prohibition is tax payments that are made in accordance with
+the Board's policy under Regulation Y.&nbsp;&nbsp;Consequently, if debt is
+included in a small bank holding company's formation application
+(debt to equity ratio is not to exceed 1:1), the applicant must
+clearly indicate how this debt will be serviced from sources
+other than the de novo bank, such as contributions from
+principals.<br>
+<p>
+<b>Written Policies</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In the application process organizers of de novo banks
+are required to submit copies of the proposed bank's business
+plan, Community Reinvestment Act policy, investment policy,
+asset/liability management policy, and loan policy (including the
+percentage of the loan account allocated to commercial,
+installment, real estate and agricultural loans).&nbsp;&nbsp;It is
+recommended that these policies be reviewed by the Reserve Bank
+supervision or other appropriate staff prior to accepting the
+application.&nbsp;&nbsp;Likewise, any employment agreements, compensation
+packages and management fee arrangements should also be reviewed
+to determine their consistency with applicable policies.<br>
+<p>
+<b>Examination Frequency</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Reserve Bank should conduct a limited-scope
+examination at the end of the de novo bank or converted bank's
+first quarter of operation.&nbsp;&nbsp;The examiner should review, at a
+minimum:&nbsp;&nbsp;the minutes of board of directors' meetings; management
+information and control systems; the loan portfolio, including
+underwriting standards, concentrations, transactions with insiders,
+etc.; the sources of the bank's deposits; and compliance with
+reporting requirements on large currency transactions.&nbsp;&nbsp;Also, the
+examiner should review major expenditures, including salaries,
+compensation packages and other related benefits; compare operating
+results for consistency with projections in the application; and
+determine whether the business and operating plans are consistent
+with those presented in the application and whether they need
+modification.&nbsp;&nbsp;Upon completion of the limited-scope 
+examination, a written report should be submitted to the board of directors 
+and to the Board (Attn:&nbsp;&nbsp;BS&amp;R Clearing Unit for transmittal 
+to...).&nbsp;&nbsp;A CAMEL rating would normally not be assigned after this initial
+examination.&nbsp;&nbsp;In order to better assess the condition of the bank
+and the parent bank holding company in the context of the
+application, it is suggested that Reserve Bank application staff
+also participate in the initial examination when possible.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;After the bank has been in operation for a further six-month period, the Reserve Bank should conduct a full-scope
+examination.&nbsp;&nbsp;At six-month intervals, thereafter, full-scope
+examinations should be conducted until the bank receives two
+consecutive CAMEL composite ratings of &quot;1&quot; or &quot;2&quot; and, in the
+judgment of the Reserve Bank, can be expected to continue operating
+on a sound basis.&nbsp;&nbsp;However, when a bank's composite rating declines
+to a CAMEL &quot;3&quot; (after two consecutive composite ratings of &quot;2&quot; or
+better) at anytime during the first five years of operation, the
+Reserve Bank should, thereafter, conduct a full-scope examination
+at six-month intervals until the composite rating improves to a &quot;2&quot;
+or better for two consecutive examinations.&nbsp;&nbsp;When the bank has
+received two consecutive CAMEL composite ratings of two or better
+and Reserve Bank staff is of the opinion that the bank will
+continue to operate on a sound basis, the standard examination
+schedule may be followed.<br>
+<p>
+<b>Surveillance Tracking System</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As part of the monitoring process, the Reserve Bank
+should establish appropriate programs for tracking the financial
+performance of a de novo and converted state member bank for the
+first five years of operation.&nbsp;&nbsp;One feature of the tracking system
+should include the comparison of the bank's quarterly results with
+the projections in the application.&nbsp;&nbsp;In addition, an ongoing
+reporting system should be required from approval to actual opening
+date to track any non-financial occurrences in the interim such as
+additions to or deletions from the board of directors or changes
+made to written policies reviewed and found acceptable by Reserve
+Bank staff.<br>
+<p>
+<b>Other Considerations</b><br>
+<p>
+Diversification of the Directorate<br>
+<p>
+<ul>
+<li>Experience has shown that when a bank's directorate is
+composed of persons with a variety of professional expertise,
+overall managerial guidance is strengthened.&nbsp;&nbsp;Accordingly,
+diversification of the board of directors should be strongly
+encouraged.&nbsp;&nbsp;<br>
+</ul>
+<p>
+Annual Outside Audits<br>
+<p>
+<ul>
+<li>De novos and converted banks should be strongly encouraged to
+have annual outside audits for at least the first five years
+of operation. <br>
+</ul>
+<p>
+Supervisory Action<br>
+<ul>
+<li>Given the rapid deterioration experienced by some de novo
+banks, a timely supervisory response to address problem areas
+is particularly important.&nbsp;&nbsp;When weaknesses are first
+detected, prompt supervisory action should be taken by the
+Reserve Bank.&nbsp;&nbsp;If these weaknesses aren't immediately
+corrected, or if they could lead to serious problems, formal
+enforcement action should be initiated.&nbsp;&nbsp; <br>
+</ul>
+<p>
+<b>Processing</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Board staff requests that de novos and converted banks be
+identified on summary form F.R. 1418 and on the cover of the
+examination report.&nbsp;&nbsp;Quarterly surveillance data on such banks are
+to be submitted to the applicable District Review Analysts at the
+Board.<br>
+<p>
+
+
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<A HREF="../">SR letters</A> | <a href="./">1991</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<A HREF="/">Home</A> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

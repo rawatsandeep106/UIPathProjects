@@ -1,0 +1,158 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 04-3 on debt elimination scams -- January 28, 2004</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 04-3<br>
+			January&nbsp;28,&nbsp;2004</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+   SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION 
+   STAFF AT EACH FEDERAL RESERVE BANK AND DOMESTIC AND 
+   FOREIGN BANKING ORGANIZATIONS SUPERVISED BY THE FEDERAL 
+   RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Debt Elimination Scams</div>
+<p>Board staff has become aware of various illegal schemes 
+   being offered to the public that purport to eliminate 
+   outstanding debt through the use of specially prepared 
+   documents. The organizers of these schemes concoct 
+   specious legal documents based on the borrower's 
+   debt, which are then presented to the borrower's 
+   bank, mortgage company, finance company, or other 
+   lending institution in an attempt to satisfy the 
+   debt.<a href="#Footnote1" name="Footref1" title="Footnote 1"><sup>1</sup></a> 
+   The scams are reminiscent of the tax protesters' 
+   tax evasion schemes seen throughout the 1990s. </p>
+<p>The purported legal documents used in the current 
+   scams include fake financial instruments that claim 
+   to eliminate the borrower's debt obligation.<a href="#Footnote2" name="Footref2" title="Footnote 2"><sup>2</sup></a> 
+   The instruments usually question the authenticity 
+   of financial obligations, and often refer to a specific 
+   government agency (such as the Federal&nbsp;Reserve) 
+   in an attempt to support their claims. Some of the 
+   literature seen by Board staff questions the legitimacy 
+   of the Federal&nbsp;Reserve and the validity of United&nbsp;States 
+   currency. The literature may selectively cite from 
+   passages of government publications, statements by 
+   politicians, constitutional provisions, court decisions, 
+   various statutes, and private newsletters to support 
+   claims and to ultimately conclude that a specific 
+   government agency sanctions these debt elimination 
+   programs. For example, some of the documents specifically 
+   refer to the elimination of debt through the use 
+   of a &quot;Federal&nbsp;Reserve approved&quot; procedure.</p>
+<p>Debt elimination programs that claim Federal&nbsp;Reserve 
+   approval or acquiescence and the satisfaction of 
+   legitimate debts through the presentation of suspicious 
+   documents are totally bogus. The Federal&nbsp;Reserve 
+   does not approve and is in no way involved in any 
+   program aimed at eliminating anyone's debt obligations. 
+</p>
+<p>These schemes are proliferating on the Internet, 
+   and the organizers are charging borrowers substantial 
+   up-front&nbsp;fees and commissions based on the total 
+   amount of debt that can be forgiven.<a href="#Footnote3" name="Footref3" title="Footnote 3"><sup>3</sup></a> 
+   Members of the public are being harmed as borrowers 
+   generally pay significant amounts of money without 
+   eliminating or reducing their overall debt obligations 
+   - which of course is not in fact possible through 
+   any of these programs. Also, the cessation of legitimate 
+   loan payments increases the risk of a foreclosure 
+   or other legal action being taken against the borrower, 
+   and in addition could negatively affect a borrower's 
+   credit rating. Financial institutions may find that 
+   the use of the specious documents complicates the 
+   collection process, and may at&nbsp;least temporarily 
+   prevent any final action against the consumer. </p>
+<p>Examiners and banking organizations should be cognizant 
+   of these scams, and the public should avoid becoming 
+   involved with them. Bank holding companies and state 
+   member banks should modify their policies and procedures 
+   as needed to ensure that staff involved in any way 
+   in a lending function is able to identify and respond 
+   appropriately to these current schemes. If an institution 
+   supervised by the Federal&nbsp;Reserve is presented 
+   with fraudulent documents as described in this SR&nbsp;letter, 
+   the institution is expected to file a Suspicious 
+   Activity Report&nbsp;(SAR) in accordance with the 
+   Board's suspicious activity reporting rules. The 
+   banking organization must also retain the written 
+   materials associated with the purported debt elimination 
+   scheme as supporting documentation to the SAR, as 
+   required by the Board's SAR rules.<a href="#Footnote4" name="Footref4" title="Footnote 4"><sup>4</sup></a>&nbsp; 
+</p>
+<p>Reserve Banks are asked to distribute this SR&nbsp;letter 
+   to domestic and foreign banking organizations supervised 
+   by the Federal&nbsp;Reserve in their districts. Questions 
+   regarding apparent fraudulent debt elimination schemes 
+   can be directed to Leonard&nbsp;Zawistowski, Senior 
+   Special Investigator, at (202)&nbsp;452-6488.</p>
+<div class="officer">Richard Spillenkothen<br>
+   Director</div>
+<br clear="all">
+<br>
+<hr width="50%" align="left">
+<div class="ftnotes"> <b>Notes:</b> 
+   <ol>
+      <li><a name="Footnote1"></a>Lending institutions 
+         and insurance companies offer various products 
+         or include various terms in loan documents 
+         that have the effect of paying off loans (or 
+         deferring loan payments for certain periods 
+         of time) in the event, for example, of a borrower's 
+         death, loss of employment, or other significant 
+         personal life changes. These are legitimate 
+         products and should not be confused with the 
+         false promises to eliminate a borrower's debt 
+         upon the presentation of fraudulent documents 
+         that are the subject of this alert.&nbsp;&nbsp;<a href="#Footref1">Return&nbsp;to&nbsp;text</a></li>
+      <li><a name="Footnote2"></a>The documents have 
+         variously been titled:&nbsp; Declaration of 
+         Voidance, Bond for Discharge of Debt, and Redemption 
+         Certificate.&nbsp;&nbsp;<a href="#Footref2">Return&nbsp;to&nbsp;text</a></li>
+      <li><a name="Footnote3"></a>Federal Reserve staff 
+         has seen advertised up-front fees as high as 
+         $2,500. Some programs also require the up-front 
+         payment of an amount equal to 15&nbsp;percent 
+         of a borrower's total debt obligations.&nbsp;&nbsp;<a href="#Footref3">Return&nbsp;to&nbsp;text</a></li>
+      <li><a name="Footnote4"></a>Refer to 12&nbsp;CFR&nbsp;208.62. 
+         The SAR rules can be found on the web at: 
+	    <a href="http://edocket.access.gpo.gov/cfr_2003/pdf/12cfr208.62.pdf">http://edocket.access.gpo.gov/cfr_2003/pdf/12cfr208.62.pdf</a>.&nbsp;&nbsp;<a href="#Footref4">Return&nbsp;to&nbsp;text</a></li>
+   </ol>
+</div>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2004">2004</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: November 5, 2008</b> </div>
+</div>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

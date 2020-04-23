@@ -1,0 +1,294 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 98-18 (SUP) on lending standards for commercial loans -- June 23, 1998</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY bgcolor=ffffff>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=15% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border=0 align=left vspace=0 hspace=0></td>
+<td width=50%><font face=arial SIZE=-2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></td>
+<td width=15%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><font face=arial size=-2><b>DIVISION OF BANKING<br>SUPERVISION AND REGULATION<p></td>
+</tr>
+<tr>
+<td></td>
+<td><font size=-1 face=arial><b>SR 98-18 (SUP)<br>
+June 23, 1998<br>
+</td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%><font size=-1 face=arial>
+<b>TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESERVE BANK AND TO EACH DOMESTIC AND FOREIGN<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;BANKING ORGANIZATION SUPERVISED BY THE FEDERAL RESERVE</b><br>
+<br>
+<table width="80%">
+<tr>
+<td width="12%" valign="top" align="left"><font face="arial" size=-1><b>SUBJECT:</b></td>
+<td width=88% align=left><font face="Times New Roman" size=3><b>Lending Standards for Commercial Loans
+</b></font></td>
+</tr>
+</table><br>
+<p>
+<font size=3 face="Times New Roman">
+<U>Summary</U>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+A careful review of asset quality, credit standards, and lending practices has long been a major focal point of on-site supervisory examinations conducted by the Federal Reserve.&nbsp; Over the past several years, surveys of bankers and supervisors, as well as comments and anecdotal indications from examiners, bankers and industry groups, have confirmed that banks have been easing their lending terms and standards, largely because of intense competition to attract customers.&nbsp; This easing has occurred during a period of strong economic growth and stable market conditions.&nbsp; If carried too far, such easing can undermine a bank's financial health, especially if the economy weakens or the extraordinary recent performance of business profits and cash flows does not persist.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In response to ongoing concerns within the industry and the supervisory community, Federal Reserve supervision staff recently undertook an intensive study of lending terms and standards.&nbsp; This study, involving several hundred loans from across the country and many of the Federal Reserve's most experienced examiners, compared loans made in late 1995 with loans made in late 1997.&nbsp; The study concludes that intense competition for loan customers has led to significant easing of pricing and some non-price terms, but that, on balance, the overall quality of loans being made has in general not changed significantly over the period, due in large measure to favorable economic conditions.&nbsp; 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Notwithstanding the level of credit risk in loan portfolios today, the degree to which terms and some standards appear to have eased, and the continuing indications of intense competition for lending business, suggest that this is a critical time for banks to maintain their lending discipline, and indeed to continue to enhance their controls and practices where they can.&nbsp; As part of the credit risk management process, banks should consider the potential impact of a wide range of borrower default rates and losses on the institution, especially on loans with more relaxed terms.&nbsp; Banks should resist any tendency to assume in evaluating credits that the unusually favorable economic environment of the last few years will continue indefinitely.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In this context, it is important that examiners continue to focus on the strength of the credit risk management process, with somewhat greater scrutiny to certain areas that may warrant heightened supervisory attention.&nbsp; It is also important that examiners emphasize sound practices that promote and maintain discipline in the lending process.&nbsp; As always, examiners should discuss matters of concern with the institution and include them in their reports of examination, even if cited practices and problem loans have not yet reached harmful or criticized levels.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+This SR letter and attachment summarize the findings of this study and provide guidance to examiners on certain specific areas of lending practice that supervisors should review during on-site examinations and as part of the ongoing supervision process.&nbsp; These areas include:
+<p>
+<UL>
+<UL type=disc>
+<LI>the use of formal forward-looking analysis in the loan approval process, </LI>
+<LI>appropriate pricing of loans to the risk they entail, and </LI>
+<LI>potential concentrations of credit risk arising from lending to real estate investment trusts (REITs).</LI>
+</UL>
+</UL>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+This SR letter also describes certain sound lending practices, based in part on elements of the credit underwriting and loan administration programs observed during the Loan Quality Assessment Project.&nbsp; These sound practices address formal credit policies, formal credit staff approval of transactions, loan approval documents, the use of forward-looking tools in the approval process, internal credit risk ratings systems, and management and lender information systems.&nbsp; 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The guidance set forth in this letter does not constitute a regulation, nor does it seek to establish new regulatory requirements.&nbsp; The guidance and sound practices set forth in this letter are designed to assist examiners in assessing the quality of the credit risk management process, and to inform the industry of some of the factors examiners will consider and evaluate during on-site examinations.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In addition to assessing these matters during examinations, supervisory personnel and examiners may also wish to discuss the results of this study with loan portfolio managers at institutions where a full credit review is being performed.&nbsp; Bankers should be made aware of the potential for deterioration in the loan portfolio if lending discipline is not maintained, whether from inadequate assessment or communication of lending risks, incomplete adherence to prudent lending standards that reflect the risk appetite of the board of directors, or both.&nbsp; 
+<p>
+<U>Background</U>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Although supervisors have been on the alert for the emergence and possible effects of lax lending practices, the aggregate statistics for the banking industry show problem business loans to be at historically favorable levels.&nbsp; Similarly, the results of the normal supervisory process are not indicating any unusual amount of underwriting weaknesses, nor is it apparent that the credit risk in loan portfolios has materially changed.&nbsp; Nonetheless, it is important that bankers maintain sound lending practices and that they adhere to their own internal policies and procedures.&nbsp; 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Nearly three years ago, the Federal Reserve issued a supervisory letter (<a href="../1995/sr9536.htm">SR 95-36</a>) that urged examiners and bankers to maintain prudent lending standards and that alerted them to underwriting practices that could be or could become unsound.&nbsp; It also directed examiners to discuss these matters with bank management during examinations and to cite shortcomings in their reports.&nbsp; At that time, however, the industry was emerging from conditions in the early 1990s, when many institutions had significantly tightened lending terms and standards and may have contributed to the so-called &quot;credit crunch.&quot;  Consequently, it was more difficult at that time to determine whether much of the cited easing of standards was appropriate, in view of previously excessively tight standards at some banks, or whether the softening was, even then, reaching inappropriate levels.&nbsp; Subsequent industry performance and examination findings suggest the former, although that experience reflects the benefit of robust economic conditions.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+More recent comments and indications have raised new questions about the appropriateness of continued easing, and whether banks are exercising adequate care in making some credit decisions.&nbsp; Throughout recent years, the Federal Reserve has emphasized the value of and need for forward-looking supervisory practices and the importance of risk-focused examinations.&nbsp; As part of this emphasis, we have underscored the need for banks to have sound lending policies, as well as internal control procedures to ensure that these policies are followed and that business practices do not succumb to the competitive pressures to take excessive risks during the upswing of a business cycle.&nbsp; In particular, evaluations of bank asset quality and underwriting practices -- whether done by bankers or bank supervisors -- should consider the strength of a loan or portfolio not only under current or favorable conditions, but also under stressful circumstances, including periods of possible economic adversity.&nbsp; 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The lending decision is properly that of the banker and of bank boards of directors, not that of the bank supervisor.&nbsp; However, in fulfilling their roles, bank directors and senior managers have the obligation to monitor lending practices and to ensure that their policies are enforced and that lending practices more generally remain within the overall ability of the institution to manage.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+For their part, examiners should evaluate whether adequate internal oversight exists and whether bank management has timely and accurate information.&nbsp; As always, examiners should also discuss matters of concern with the institution and include them in their reports of examination, even if cited practices and problem loans have not yet reached harmful or criticized levels.&nbsp; Such cautionary remarks help to alert bank management to potential or emerging sources of concern and may help to deter future problems.&nbsp; Of course, any practices that extend beyond prudent bounds should be corrected promptly.&nbsp; 
+<p>
+<U>Loan Quality Assessment Project</U>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Continuing expressions of concern that easing had gone beyond prudent bounds led Federal Reserve supervision staff to undertake an intensive review of lending standards at a sample of large institutions and evaluate the changes in lending practices by reviewing the actual loans being made as well as the approval process at each institution.&nbsp; The Loan Quality Assessment Project involved teams of senior examiners from throughout the Federal Reserve System, and was designed to link changes in lending terms and standards to the overall credit quality of bank loans made in the second half of 1997 as compared to loans made in the second half of 1995.&nbsp; This intensive review was undertaken to achieve three goals: to provide an objective, measurable benchmark for lending terms and practices;  to identify the nature and magnitude of any easing trend in underwriting standards over the past two years; and to determine whether any identified easing of standards is cause for supervisory concern.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Although there are some important limitations to its findings, this review provides some useful insight into bank lending practices.&nbsp; Consistent with what others have found, the review identified noteworthy and measurable easing in bank lending terms and, to some extent, standards over the past two years.&nbsp; On balance, however, it appears that the overall quality of loans may not have deteriorated significantly to this point, attributable in large measure to the salutary effects of a robust economy.&nbsp; A supervisory staff report summarizing the project findings is attached.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<I>Since there is no indication that these competitive pressures to ease terms are subsiding, supervisory experience strongly suggests that this is a critical time for banks to maintain their lending discipline, and indeed to continue to enhance their controls and practices where they can.</I>&nbsp; In particular, institutions should not rely unduly on the benign experiences of the past several years in assessing the underlying risks of current and future borrowers. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+These findings have important implications for the supervisory process, particularly at institutions where a full credit review is being performed.&nbsp; Examiners should devote appropriate  attention to three areas of lending activity that may reflect the current state of credit discipline at an institution, namely, the use of formal forward-looking analysis in the loan approval process, appropriate pricing of loans to the risks they represent, and lending to real estate investment trusts (REITs).&nbsp; More generally, examiners should assess whether policies and procedures adequately embody sound practice with respect to formal credit policies, formal credit staff approval of transactions, loan approval documents, the use of forward-looking tools in the approval process, internal credit risk ratings systems, and management and lender information systems.&nbsp; These areas and sound practices are described below.
+<p>
+<U>Areas for Increased Supervisory Attention</U>
+<p>
+1.&nbsp; <I>Use of formal forward-looking analysis in the loan approval process</I><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The attached supervisory staff report notes that formal projections of a borrower's future performance were present in only 20 to 30 percent of the loan approval documents reviewed, and that formal analysis of alternative or &quot;downside&quot; scenarios was even less common.&nbsp; Although the frequency might have been different had different loan samples been drawn, discussions with bankers and examiners suggest that this is broadly representative of current bank practice.&nbsp; As a result, approval decisions may be more often keyed to the borrower's current financial performance and to informal, individualized judgments as to whether that performance is adequate to cover potential downside risk.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+After several years of favorable economic conditions, banks should guard against complacency and, in particular, the temptation to base expectations of a borrower's future financial performance almost exclusively on that borrower's recent performance.&nbsp; In making lending decisions, and in evaluating their loan portfolio, banks should give sufficient consideration to the potential for negative events or developments that might limit the ability of borrowers to fulfill their loan obligations.&nbsp; Unforeseen changes in interest rates, sales revenue, and operating expenses can have material and adverse effects on the ability of many borrowers to meet their obligations.&nbsp; In prior decades, inadequate attention to these possibilities during the underwriting process contributed significantly to asset quality problems in the banking system.&nbsp; Recent turmoil in several Asian countries provides a useful reminder that conditions can quickly change. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Examiners should evaluate the frequency and adequacy with which institutions conduct forward-looking analysis of borrower financial performance as one consideration in assessing an institution's credit risk management process.&nbsp; Formal use of forward-looking financial analysis in the loan approval process, and financial projections in particular, can be important in guarding against such complacency, especially at a time when financial institutions are competing intensely to attract borrowers.&nbsp; Such projections, if they include less favorable scenarios for the key determinants of the borrower's financial performance, can help to contain undue optimism and assure that management and other approving authorities within the organization are presented in a formal way with a robust analysis of the risks associated with each credit.&nbsp; They also provide credit staff and other risk management personnel with information important to assuring adherence to the bank's lending standards and overall appetite for loan risk.
+<p>
+2.&nbsp; <I>Pricing to risk</I><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Many recent reports about the degree of easing prominently cite significant decreases in loan spreads, and the findings of the Loan Quality Assessment Project are consistent with these reports.&nbsp; Although most larger institutions incorporate some form of profitability analysis into loan approval documents, some may be tempted to ignore or minimize the effect of price concessions, particularly when such concessions appear to be essential to retaining business customers.&nbsp; Examiners should review loan pricing policies and practices to assess whether the institution may be unduly weighting the short-term benefit of retaining or attracting new customers while giving insufficient consideration to potential longer-term consequences.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Profitability analysis is often oriented to the overall banking relationship of the customer, covering both credit and non-credit products, typically with reference to some minimum acceptable rate of return on capital or assets employed.&nbsp; Nonetheless, institutions in their pricing policies should give due consideration to the possibility that the borrower might chose not to continue to purchase its non-credit products from the bank at some point in the future, so that an inadequately priced loan might remain part of the bank's portfolio while non-credit revenues diminish, especially if the borrower's financial performance itself begins to deteriorate.&nbsp; 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In addition, regardless of the manner in which profitability is analyzed, banks should incorporate into the pricing decision the appropriate risk of loss on the loans being considered.&nbsp; Although loan pricing may be adequate to provide for an overall relationship rate of return that is acceptable to the bank, institutions should understand the profitability of loans as a stand-alone product in order to gauge properly the significance of price concessions.
+<p>
+3.&nbsp; <I>Lending to real estate investment trusts (REITs)</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Several of the institutions reviewed as part of the Loan Quality Assessment Project had experienced rapid growth in exposure to real estate investment trusts over the past year, with the growth in each case amounting to hundreds of millions of dollars.&nbsp; These loans are typically large, syndicated, and unsecured.&nbsp; Although bankers and others have emphasized that REITs currently have strong equity positions and a ready ability to raise funds in public financial markets, loans to REITs remain fundamentally a form of real estate exposure.&nbsp; Therefore, lenders should consider the ability of REIT borrowers to maintain their financial strength and liquidity in the event of a widespread downturn in commercial property markets.&nbsp; Acquisitions of new properties by REITs have been cited as an important force in escalating commercial property values, which in turn tends to increase the net worth of the REITs themselves. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+To this point, there appear to be no substantial safety and soundness issues with regard to loans currently being extended to REITs.&nbsp; Nonetheless, they have become an important concentration of credit risk at some banking organizations.&nbsp; In this setting, examiners should remain informed about developments in a banking organization's loans to REITs and, in particular, should note the degree to which its REIT loans are contributing to a material concentration of credit risk within the loan portfolio.&nbsp; Assessing whether a concentration exists may be complex, depending on the characteristics and holdings of the REITs to which an institution lends, and may involve consideration of the institution's direct commercial real estate lending as well as its loans to REITs.&nbsp; Examiners should discuss with the institution the specific characteristics of its REIT borrowers, and similarities between these borrowers and other loans in the institution's portfolio, as one means to determine whether a material concentration of credit risk has developed.
+<p>
+<U>Sound Practices in Loan Standards and Approval</U>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In addition to those areas for which additional supervisory attention appears to be warranted, certain sound practices in lending can help to maintain strong credit discipline and assure that a bank's decision to take risk in lending is well-informed, balanced, and prudent.&nbsp; Several sound practices that are particularly important are described below.&nbsp; These and others are also discussed in the attached supervisory staff report summarizing the Loan Quality Assessment Project's findings.
+<p>
+1.&nbsp; <I>Formal credit policies</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Federal Reserve and other supervisory authorities have long stressed the importance of formal written credit policies in a sound credit risk management process.&nbsp; Such policies can provide crucial discipline to a bank's lending process, especially when the institution's standards are under assault due to intense competition for loans.&nbsp; They can serve to communicate formally a bank's appetite for credit risk in a manner that will support sound lending decisions, while focusing appropriate attention on loans being considered that diverge from approved standards.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In developing and refining loan policies, some institutions specify &quot;guidance minimums&quot; for financial performance ratios applying to certain types of loans or borrowers (e.g., commercial real estate).&nbsp; Such guidance makes explicit that loans not meeting certain financial tests (based on current performance, projected future performance, or both) should in general not be made, or alternatively should only be made under clearly specified situations.&nbsp; Institutions using this approach most effectively tend to avoid specifying standards for broad ranges of lending situations and instead focus on those areas of lending most vulnerable to excessive optimism, or where the institution expects loan volume to grow most significantly.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Formal policies can also provide lending discipline by stating clearly the type of covenants to be imposed for specific loan types.&nbsp; When designed and enforced properly, financial covenants can help significantly to reduce credit losses by communicating clear thresholds for financial performance and potentially triggering corrective or protective action at an early stage.&nbsp; In nearly half of the loans reviewed for the Loan Quality Assessment Project, however, loan approval documents did not describe the key financial covenants even when discussions with the banks made clear that significant covenants were indeed present.&nbsp; When questioned further on this subject, most banks indicated that they have a &quot;common practice&quot; of imposing certain types of covenants on various types of loans that is well-known to lenders and others at the institution (but not articulated in written loan policies), so that describing the actual covenants in the loan approval document would be redundant.&nbsp; However, management and other approving authorities within a bank then receive no formal positive indication that &quot;common practice&quot; controls have been imposed, and no indication of the level of financial performance that the covenants require of the borrower.&nbsp; As such, management and other approving authorities may be inadequately informed as to the risks and controls associated with the loan under consideration.&nbsp; In contrast, loan policies can create a clear expectation that all key covenants should be described in loan approval documents, that certain covenant types be applied to all loans meeting certain criteria, and that explicit approval of an exception to these policies is necessary if such covenant requirements are to be waived. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Some institutions have introduced credit scoring techniques in their small business lending in an effort to improve credit discipline while allowing heavier reliance on statistical analysis rather than detailed and costly analysis of individual loans.&nbsp; Institutions should take care to make balanced and careful use of credit scoring technology for small business lending, and in particular should avoid utilizing this technology for loans or credit relationships that are large or complex enough to warrant a formal and individualized credit analysis.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In formalizing their lending standards and practices, banks are not precluded from making loans that do not meet all written standards.&nbsp; Exceptions to policies, though, should be approved and monitored by management.&nbsp; Formal reporting that describes exceptions to loan policies, by type of exception and organizational unit, can be extremely valuable for informing management and directors of the number and nature of material deviations from the policies that they have designed and approved.
+<p>
+2.&nbsp; <i>Formal credit staff approval of transactions</I><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Credit discipline is also enhanced by the involvement of experienced credit professionals in the approval process who are independent of line lending functions.&nbsp; Such staff can play a vital role in ensuring adherence to formal policies and that individual loan approvals are consistent with the overall risk appetite of the institution.&nbsp; These independent credit professionals can be most valuable if they have the authority to reject a loan that does not meet the institution's credit standards, or alternatively, if they must concur with a loan before it can be approved.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Providing credit staff with independent approval authority over lending decisions, rather than with a more traditional requirement for &quot;consultation&quot; between the lending function and credit staff, allows credit staff to influence outcomes on a broad and  ongoing basis.&nbsp; This influence, and indeed the ability of credit staff to reinforce lending discipline, is clearly enhanced by early involvement of credit staff in negotiations with borrowers;  a more traditional approach might be only to involve credit staff once the loan proposal is well developed, allowing credit staff the opportunity to have only minor influence on the outcome of negotiations except in extreme cases.&nbsp; Maintaining a proper balance of lending and control functions calls for a degree of partnership between line lenders and credit staff, but also requires that the independence of credit staff not be compromised by conflicting compensation policies or reporting structures.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Independent credit staff can also support sound lending practice by maintaining complete and centralized credit files that contain all key documents relevant to each loan, including complete loan approval packages.&nbsp; Such files assure that decisions are well documented and avoid undue reliance on the files maintained by individual loan officers.
+<p>
+3.&nbsp; <i>Loan approval documents</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Banks can help ensure a careful loan approval decision by requiring thorough and standardized loan approval documents.&nbsp; Thoroughness can be enhanced by requiring <I>formal</I> analysis of the borrower's financial condition, key characteristics and trends in the borrower's industry, information on collateral and its valuation, financial analysis of entities providing support or guarantees, and formal forward-looking analysis appropriate to the size and type of loan being considered.&nbsp; Incorporating such elements into standardized formats, and requiring that analysis and supporting commentary be complete and in adequate depth, allows approving authorities access to all relevant information on the risk profile of the borrower.&nbsp; Loan approval documents should also include all material details on the proposed loan agreement itself, including key financial covenants.&nbsp; Standardization of formats, and to some extent content, can be useful in assuring that all relevant information is provided to management and other approving authorities, and in a manner that is understandable.&nbsp; Standard formats also draw attention to cases in which certain key information is not presented.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+One area of particular interest in this regard is analysis and commentary on participations in syndicated loans.&nbsp; While it may be tempting to rely on the analysis and documentation provided by the agent bank to the transaction, it has been longstanding Federal Reserve policy that participating institutions should conduct their own analysis of the borrower and the transactions, particularly if the risk appetite or portfolio characteristics of the agent differs from that of the participating bank.
+<p>
+4.&nbsp; <i>Use of forward-looking tools in the approval process</I><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+As discussed earlier, formal presentation of financial projections or other forms of forward-looking analysis of the borrower are important in making explicit the conditions required for a loan to perform, and in communicating the vulnerabilities of the transaction to those responsible for approving loans.&nbsp; They also provide a useful benchmark against which banks can assess the borrower's future performance.&nbsp; Detailed analysis of industry performance and trends can be a useful supplement to such analysis, and in some circumstances may serve to some extent as a substitute for detailed projections for the borrower.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Such projections have the most value in maintaining credit discipline when, rather than only describing the single &quot;most likely&quot; scenario for future events, they characterize the kind of negative events that might impair the performance of the loan in the future.&nbsp; This analysis of such alternative scenarios, or &quot;stress testing,&quot; should generally focus on the key determinants of performance for the borrower and the loan, such as the level of interest rates, the rate of sales or revenue growth, or the rate at which expense reductions can be realized.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Although it may be tempting to avoid analyzing detailed projections for smaller borrowers, such as middle market firms, these customers may collectively represent a significant portion of the institution's loan portfolio.&nbsp; As such, applying formal forward-looking analysis even on a basic level assists the institution in identifying and managing the overall risk of its lending activities.
+<p>
+5.&nbsp; <i>Risk rating system</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Many larger institutions utilize an internal risk rating system to describe the credit risk of each loan, with some grades representing low risk (i.e., low risk of loss) and others representing higher risk.&nbsp; Assigning a risk grade to each loan during the approval process is a useful means to identify the overall level of risk associated with the loan, so long as the risk rating structure and assignment procedures provide a meaningful and consistent indication of the risk of a loan.&nbsp; Risk rating analysis can also provide a valuable reference point for assessing the appropriate degree of trade-off among various loan terms and characteristics and, in particular, in determining appropriate loan pricing.&nbsp; 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+To best perform this role, the risk ratings structure should meaningfully differentiate the degree of credit risk in loans, and should be supported by independent analysis or review of the risk ratings being assigned to loans both at inception and periodically over the life of the loan.<sup><a href="#Footnote1" title="Footnote 1" name="Footref1">1</a></sup>&nbsp; The criteria used in assigning a rating should be clear, explicit, and applied consistently both throughout the institution and over time.&nbsp; Although many elements of the decision to assign a risk rating to a given loan are inherently judgmental, banks can make these elements both more explicit and more consistent by articulating assignment criteria that describe both quantitative and qualitative considerations.&nbsp; Consistency can be aided in some cases by explicitly identifying individual internal risk grades as corresponding with well-known external standards, such as the ratings scales produced by Standard and Poor's or Moody's.&nbsp; Adequate training of lenders and review personnel, together with diligent oversight by management is also important to maximizing the value of a risk ratings process.&nbsp; In particular, institutions should monitor and evaluate the actual default or loss experience of loans in each risk grade as one means to assess the consistency and reliability of the ratings being assigned.
+<p>
+6.&nbsp; <i>Management and lender information</i><br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Management information systems that support the loan approval process should clearly indicate the composition of the bank's current portfolio and/or exposure, to allow for consideration of whether a proposed new loan -- regardless of its own merits -- might affect this composition sufficiently to be inconsistent with the bank's risk appetite.&nbsp; In particular, institutions active in commercial real estate lending should know the nature and magnitude of aggregate exposure within relevant subclasses, such as by the type of property being financed (i.e., office, residential, retail).
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In addition to portfolio information, banks should be encouraged to acquire or develop information systems that provide ready access for lenders and credit analysts to information sources that can support and enhance the financial analysis of proposed loans.&nbsp; Depending on the nature of a bank's borrowers, appropriate information sources may include industry financial data, economic data and forecasts, and other analytical tools such as bankruptcy scoring and default probability models.
+<p>
+<br>
+<center>*          *          *          *</center>
+<p>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+This SR letter and the attached supervisory staff report summarizing the results of the Loan Quality Assessment Project should be disseminated to the domestic and foreign banking organizations supervised by the Federal Reserve.&nbsp; We believe that these institutions will benefit from this analysis of current credit standards, identification of areas for heightened supervisory attention, and guidance regarding sound credit underwriting practices.&nbsp; To this end, a suggested transmittal letter is attached for your use.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+For further information on the Loan Quality Assessment Project, contact William Treacy, Supervisory Financial Analyst, at 202-452-3859.
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+<table>
+<tr>
+<td valign=top><font size=3 face="Times New Roman">Attachments:&nbsp;&nbsp;</td>
+<td><font size=3 face="Times New Roman"><a href="#transmittal"><I>Suggested Transmittal Letter</a><br>
+<a href="sr9818a2.pdf" target="_top">Summary of Findings, 1998 Loan Quality Assessment Project (153&nbsp;KB&nbsp;PDF)</i></a></td>
+</tr>
+</table>
+<p>
+<br>
+<hr width=50% align=left>
+<p>
+<b>Footnotes</b>
+<p>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;
+As described in the December 1993 Interagency Policy Statement on the Allowance for Loan and Lease Losses, internal risk rating systems and/or supporting documentation should also be sufficient to enable examiners to reconcile the totals for the various internal risk ratings under the institution’s system to the federal banking agencies’ categories for those loans graded below "Pass" in the credit grading framework used by the agencies (i.e., pass, special mention, substandard, doubtful, and loss).&nbsp; The guidance contained in this SR letter complements this earlier guidance by addressing internal credit grading systems as they relate to "pass" credits.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+<p>
+<br>
+<a name="transmittal"></a>
+<hr>
+<p>
+<br>
+<center>Suggested Transmittal Letter to<br>
+the Chief Executive Officer of Each Domestic and Foreign Banking Organization<br>
+Supervised by the Federal Reserve</center>
+<p>
+<br>
+Subject:&nbsp; Lending Standards for Commercial Loans
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Federal Reserve, in response to concerns raised both within the industry and in the supervisory community, recently undertook an intensive study of lending terms and standards.&nbsp; This study, involving several hundred loans from across the country and many of the Federal Reserve's most experienced examiners, compared loans made in late 1995 with loans made in late 1997.&nbsp; The study concludes that intense competition for loan customers has led to significant easing of pricing and some non-price terms, but that, on balance, the overall quality of loans being made has in general not changed significantly over the period, due in large measure to favorable economic conditions.&nbsp; 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+To assist examiners in their evaluations of the quality of credit risk management processes within banking organizations, the Federal Reserve has developed additional guidance that reflects the benefit of this study.&nbsp; The enclosed Supervisory Letter outlines the Federal Reserve's new guidance, describing the indications of easing in bank lending, the Loan Quality Assessment Project itself, issues identified by the project as warranting increased supervisory attention, and certain sound practices in loan underwriting and approval processes that contribute to maintaining an institution's loan quality.&nbsp; This guidance is in keeping with the risk-focused frameworks for the supervision of community banks and large complex banking organizations. 
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Enclosed with the Supervisory Letter is a supervisory staff report entitled &quot;The Significance of Recent Changes in Bank Lending Standards:  Evidence from the Loan Quality Assessment Project,&quot; describing the project's findings in more detail.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Any questions you may have on this guidance should be directed to [insert name and phone number] at this Reserve Bank. 
+<p>
+<br>
+<center>Sincerely,
+<p>
+<br>
+[Insert name]</center>
+<p>
+Enclosure
+<p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../">SR letters</a> | <a href="./">1998</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: January 15, 2002</b>
+</div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

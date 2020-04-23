@@ -1,0 +1,121 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 01-8 (SUP) on complex wholesale borrowings -- April 5, 2001</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrs.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=25% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" alt="Federal Reserve Board seal" border=0 align=left vspace=0 hspace=0></td>
+<td align=center width=50%><em class=letterhead>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</em></td>
+<td width=15%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=letterhead>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</em></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=salutation>SR 01-8 (SUP)<br>
+April 5, 2001</em></td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%>
+<table cellpadding=0 cellspacing=0 width=80%>
+<tr>
+<td valign=top><em class="salutation">TO&nbsp;THE&nbsp;</em></td>
+<td><em class=salutation>OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK AND TO EACH BANKING ORGANIZATION SUPERVISED BY THE FEDERAL RESERVE</em></td>
+</tr>
+</table>
+<p>
+<table width="80%">
+<tr>
+<td width="13%" valign="top" align="left"><em class="salutation">SUBJECT:&nbsp;&nbsp;</em></td>
+<td width=87% align=left><b>Supervisory Guidance on Complex Wholesale Borrowings
+</b></td>
+</tr>
+</table>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Over the past several years, commercial banks have become increasingly reliant on wholesale borrowings obtained from a number of financial intermediaries, including Federal Home Loan Banks, other commercial banks, and securities firms.&nbsp; These borrowings frequently have attractive features and pricing, and can, if properly assessed and prudently managed, enhance a bank's funding options and assist in controlling interest rate and liquidity risks.&nbsp; Among the reasons banks use these types of borrowings is that the initial cost of funds is low when compared to other liabilities with similar maturities.&nbsp; At the same time, however, certain wholesale borrowings have become more complex, and some structures include various types of embedded options.<a href="#Footnote1" title="Footnote 1" name="Footref1"><sup>1</sup></a>&nbsp; If not thoroughly assessed and prudently managed, these more complex funding instruments have the potential over time to significantly increase a bank's sensitivity to
+market and liquidity risks.&nbsp; Maturity mismatches or the embedded options themselves can, in some circumstances, adversely affect a bank's financial condition, especially when the terms and conditions of the borrowings are misunderstood.<p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The growing use of wholesale borrowings, in combination with the risks associated with the complex structures of some of these borrowings, makes it increasingly important for bank supervisors to assess the risks and risk management processes associated with these sources of funds.&nbsp; This letter provides additional supervisory guidance for the review of complex wholesale borrowings that supplements and expands upon existing general guidance on bank funding and borrowings.<a href="#Footnote2" title="Footnote 2" name="Footref2"><sup>2</sup></a></p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+In addition to the sound practice guidance regarding bank liability management and funding in general, supervisors should take the following steps, as appropriate, when assessing a bank with material amounts of wholesale borrowings:
+<blockquote>
+<ol>
+<li>A review of the bank's borrowing contracts for embedded options or other features that may affect the bank's liquidity and sensitivity to market risks.&nbsp; In addition, examiners should review the collateral agreements for fees, collateral maintenance requirements, including triggers for increases in collateral, and other features that may affect the bank's liquidity and earnings.</li>
+<p>
+<LI>An assessment of bank's management processes for identifying and monitoring the risks of the various terms of each borrowing contract, including penalties and option features over the expected life of the contract.&nbsp; Examiners should review for evidence that bank management or an independent third party completed stress tests before the bank entered into the borrowing agreement as well as periodically thereafter.&nbsp; If the bank relies upon independent third party testing, examiners should verify that management reviewed and accepted the underlying assumptions and test results.&nbsp; In any case, management should not rely solely on the wholesaler's stress test results.&nbsp; Also, the stress tests employed should cover a reasonable range of contractual triggers and external events, such as interest rate changes that may result in the exercise of embedded options or the bank's termination of the agreement, which may entail prepayment penalties.&nbsp; In general, stress test results should depict the potential impact of these variables on the individual borrowing facility, as well as on the overall earnings and liquidity position of the bank.</LI>
+<p>
+<LI>An evaluation of management processes for controlling risks, including interest rate risks arising from the borrowings, as well as liquidity risks.&nbsp; Proper controls include contingent funding plans in the event that borrowings or lines are terminated prior to the original expected maturity, and hedges or other plans for minimizing the adverse affects resulting from penalties or interest rate changes and other triggers for embedded options.</LI>
+<p>
+<LI>A determination as to whether the asset/liability management committee or board of directors, as appropriate, is fully informed of the risks and ramifications of complex wholesale borrowing agreements prior to engaging in the transactions as well as on an ongoing basis.</LI>
+<p>
+<LI>A determination as to whether funding strategies regarding wholesale borrowings, especially those with optionality, are consistent with both the portfolio objectives of the bank and the level of sophistication of the bank's risk management.&nbsp; Banks without the technical knowledge and risk management systems sufficient to adequately identify, assess, monitor, and control the risks of complex wholesale borrowings should not use this funding.</LI>
+</ol>
+</blockquote>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Reliance on wholesale borrowings is consistent with safe and sound banking when management understands the risks of these activities and has systems and procedures in place to properly monitor and control the risks.&nbsp; Supervisors and examiners should take appropriate follow-up steps with respect to institutions that utilize complex funding instruments without an adequate understanding of the risks or without proper risk management systems and controls.&nbsp; Examiners should also seek corrective action when funding mechanisms or strategies are inconsistent with prudent funding needs and objectives.</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Reserve Banks are asked to forward this SR letter to all banking organizations supervised by the Federal Reserve.&nbsp; Should you have any questions, call Molly&nbsp;S.&nbsp;Wassom, Associate Director (202/452-2305), James&nbsp;A.&nbsp;Embersit, Assistant Director (202/452-5249), or Richard&nbsp;C.&nbsp;Watkins, Supervisory Financial Analyst (202/452-3421).
+<p>
+<br /></p>
+<P ALIGN="CENTER">Richard Spillenkothen<br>
+Director</p>
+<p>
+<br>
+<hr width=50% align=left>
+<p>
+<b>Notes:</b>
+</p>
+<p>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;
+Wholesale borrowings with embedded options may have variable interest payments or average lives or redemption values that are dependent on external measures such as reference rates, indexes, or formulas.&nbsp; Embedded options include putable, callable, convertible, and variable rate advances with caps, floors, collars, step-ups, or amortizing features.&nbsp; In addition, these types of borrowings may contain prepayment penalties.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+</p>
+<p>
+<a name="Footnote2">2.</a>&nbsp;&nbsp;
+General supervisory guidance for reviewing bank borrowings is available through a variety of sources, including the <a href="http://www.federalreserve.gov/boarddocs/supmanual/default.htm#cbem" target="_top">Commercial Bank Examination Manual</a> sections on Borrowed Funds, Asset/Liability Management, and Interest-Rate Risk Management, and the <a href="http://www.federalreserve.gov/boarddocs/supmanual/default.htm#trading" target="_top">Trading and Capital Markets Activities Manual</a> sections on Liquidity Risk and Interest-Rate Risk Management.&nbsp; In general, this guidance calls for supervisors to analyze the purpose, effectiveness, concentration exposure, and stability of borrowings, and to assess bank management’s understanding of liquidity and interest-rate risks associated with borrowing and funding strategies.&nbsp; Where appropriate, examiners should review the provisions of each significant borrowing agreement between the bank and the wholesale institution, determine the assets collateralizing the borrowing, and identify potential risks presented by the agreement.&nbsp;&nbsp;<a href="#Footref2">Return to text</a>
+</p>
+<p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../">SR letters</a> | <a href="../2001">2001</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

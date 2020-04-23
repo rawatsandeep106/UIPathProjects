@@ -1,0 +1,96 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 04-12 on supervision of state-chartered banks -- June 30, 2004</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 04-12<br>
+      June 30, 2004</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+   SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION 
+   STAFF AT EACH FEDERAL RESERVE BANK</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Supervision 
+   of State-Chartered Banks</div>
+<p>The supervisory staffs of the Federal Reserve Board, 
+   the Federal Deposit Insurance Corporation, and the 
+   Conference of State Bank Supervisors have developed 
+   the attached recommended practices to assist in continued 
+   implementation of the principles and goals of the 
+   Nationwide State and Federal Supervisory Agreement 
+   adopted in&nbsp;1996 and to enhance the overall state-federal 
+   coordinated supervision of state-chartered banks.</p>
+<p>The Nationwide State and Federal Supervisory Agreement 
+   established a series of principles to promote coordination 
+   in the supervision of interstate banks. Developments 
+   since the adoption of the Agreement continue to underscore 
+   the importance of effective supervisory coordination. 
+   The State Federal Working Group, an interagency group 
+   of state bank commissioners and senior officials 
+   from the FDIC and the Federal Reserve, has developed 
+   these recommended practices to reiterate and reaffirm 
+   a common sense approach for collaboration. The practices 
+   incorporate successful procedures and techniques 
+   used by the Federal Reserve in working collaboratively 
+   with the states in supervising state-chartered banking 
+   organizations. As such this document reinforces the 
+   longstanding commitment of federal and state agencies 
+   to provide efficient, effective and seamless oversight 
+   of state banks of all sizes, including those institutions 
+   that operate in more than one state. These principles 
+   are equally applicable and important with respect 
+   to communication and coordination of the supervision 
+   of state-chartered banks operating within a single 
+   state.</p>
+<p>Reserve Banks are asked 
+   to distribute this SR letter and the Recommended 
+   Practices for the Seamless Supervision of State-Chartered 
+   Banks to their supervisory and examination staff. 
+   Questions may be directed to Richard&nbsp;Watkins, 
+   Manager, Community Banking Organizations, at (202)&nbsp;452-3421, 
+   or Molly&nbsp;Wassom, Associate Director, Community 
+   and Regional Banking Organizations, at (202)&nbsp;452-2305.</p>
+<div class="officer">Richard Spillenkothen<br>
+   Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+   <dt class="nobreak">Attachment:</dt>
+   <dd class="srltr"><a href="SR0412a1.pdf">State Federal Working Group Recommended 
+      Practices for the Seamless Supervision of State-Chartered Banks<span class="pdf"> 
+      (382&nbsp;KB&nbsp;PDF)</span></a></dd>
+</dl>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2004">2004</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: February 21, 2006</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

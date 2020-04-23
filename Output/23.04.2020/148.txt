@@ -1,0 +1,88 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 07-10 on interagency BSA/AML enforcement policy statement -- July 19, 2007</title>
+	<meta name="keywords" content=" ">
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 07-10<br>
+   July 19, 2007</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATION
+   STAFF AT EACH FEDERAL RESERVE BANK AND EACH DOMESTIC AND FOREIGN BANKING ORGANIZATION SUPERVISED BY
+THE FEDERAL RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Interagency BSA/AML Enforcement Policy Statement</div>
+<p>The Federal Reserve and the other federal financial regulatory agencies&nbsp;(agencies) have issued an
+   interagency policy on the application of section&nbsp;8(s) of the Federal Deposit Insurance Act. This provision
+   generally requires each federal banking agency to issue an order to cease and desist when a supervised
+   institution is in violation of the requirement to establish and maintain a Bank Secrecy Act/anti-money
+   laundering&nbsp;(BSA/AML) compliance program. The policy statement is attached.</p>
+<p>The policy has been issued to promote a consistent approach for agency enforcement of BSA/AML requirements
+   and to make those standards more transparent to the industry. The policy does not require banks to
+   take any steps and does not require examiners to follow different procedures from those currently
+   set forth in the <em>FFIEC BSA/AML Examination Manual</em>.  Rather, the policy sets forth the agencies’ legal
+   interpretation of the statute, and describes circumstances under which they must take action under
+section&nbsp;8(s).</p>
+<p>While the Federal Reserve has not previously released enforcement guidelines under section&nbsp;8(s),
+   the new policy does not dictate any significant changes in the Federal Reserve’s current approach
+   to enforcement for BSA/AML compliance violations. As under the current approach, the Federal Reserve
+   will continue in each case to carefully consider the facts and circumstances to determine the appropriate
+   supervisory and enforcement response.  </p>
+<p>The policy statement makes clear that, in addition to the circumstances where the agencies will issue
+   a cease and desist order in compliance with section&nbsp;8(s), they may take other actions as appropriate
+   for other types of BSA/AML program concerns or for violations of other BSA requirements. The policy
+   statement also does not address the independent authority of the U.S. Department of the Treasury’s
+   Financial Crimes Enforcement Network&nbsp;(FinCEN) to take enforcement action for violations of the
+   BSA. </p>
+<p>Reserve Banks are asked to distribute this SR&nbsp;letter to supervisory staff and to the supervised
+   domestic and foreign banking organizations in their Districts. Questions may be addressed to Rich&nbsp;Ashton,
+   Deputy General Counsel, (202)&nbsp;452-3750 or Stephen&nbsp;H.&nbsp;Meyer, Assistant General Counsel,
+   (202)&nbsp;452-2522, Legal Division, or to Nina&nbsp;Nichols, Assistant Director, (202)&nbsp;452-2961,
+   or Gail&nbsp;K.&nbsp;Jensen, Special Counsel, (202)&nbsp;452-3841, Division of Banking Supervision
+   and Regulation.</p>
+<div class="officer">Roger T. Cole<br>
+   Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+  <dt class="nobreak">Attachment:</dt>
+  <dd class="srltr"><a href="/newsevents/press/bcreg/bcreg20070719a1.pdf">Interagency
+        Statement on Enforcement of Bank Secrecy Act/Anti-Money Laundering Requirements<span class="pdf"> (411&nbsp;KB&nbsp;PDF)</span></a>
+   </dd>
+</dl>
+<br clear="all">
+<br>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2007">2007</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: July 19, 2007</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

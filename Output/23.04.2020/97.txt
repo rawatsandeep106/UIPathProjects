@@ -1,0 +1,146 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 02-10 on Derivative Contracts Hedging Trust Preferred Stock -- March 28, 2002</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrs.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=25% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border=0 align=left vspace=0 hspace=0></td>
+<td align=center width=30%><em class=letterhead>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</em></td>
+<td width=25%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=letterhead>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</em></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=salutation>SR 02-10<br>
+March 28, 2002</em></td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%>
+<table cellpadding=0 cellspacing=0>
+<tr>
+<td valign=top><em class=salutation>TO&nbsp;THE&nbsp;</em></td>
+<td><em class=salutation>OFFICER IN CHARGE OF SUPERVISION <BR>AT EACH FEDERAL RESERVE BANK</em></td>
+</tr>
+</table>
+<p>
+<table width=80%>
+<tr>
+<td width=13% valign=top align=left><em class=salutation>SUBJECT:&nbsp;&nbsp;</em></td>
+<td width=87% align=left><b>Derivative Contracts Hedging Trust Preferred Stock</b></td>
+</tr>
+</table>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   Federal Reserve staff has become aware that in recent weeks bank holding companies 
+   seeking to hedge the interest rate risk on their issues of trust preferred stock have 
+   been offered derivative contracts with terms that have the effect of contravening the 
+   strict conditions for the inclusion of the trust preferred stock in tier&nbsp;1 
+   capital.<A HREF="#Footnote1" name="Footref1"><SUP>1</SUP></A>&nbsp; The terms in 
+   question take effect when the bank holding company defers dividend payments on the 
+   trust preferred stock subject to the hedge.&nbsp; When such a deferral event occurs, 
+   the contracts provide that the derivative counterparty will defer on a cumulative basis 
+   its swap payments due to the banking organization while the bank holding company 
+   continues to make payments to the derivative counterparty.&nbsp; The Federal Reserve 
+   has supervisory concerns where the contract terms for deferral on swap payments are not 
+   symmetrical and require the banking organization to make payments to the swap 
+   counterparty without receiving payments from the counterparty.&nbsp; Contracts 
+   structured in this manner undermine the loss-absorbing capacity of the hedged trust 
+   preferred stock and, consequently, its eligibility for Tier&nbsp;1 capital.</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   In order for trust preferred stock to be included in Tier&nbsp;1 capital, the issuing 
+   bank holding company must have the ability to defer payments for at least twenty 
+   consecutive quarters without giving rise to an event of default.&nbsp; Such a 
+   deferral feature, which typically is cumulative in trust preferred stock, is essential 
+   in a Tier&nbsp;1 instrument because it allows the issuer to conserve its cash resources 
+   at a time when its financial condition is deteriorating.&nbsp; Where an issue of trust 
+   preferred stock is hedged by a swap with asymmetrical deferral terms as described 
+   above, however, the cash resources conserved through deferral would be paid out to the 
+   swap counterparty.&nbsp; This outflow of cash would not be offset by receipt of 
+   payments in from the counterparty.&nbsp; Thus, such a contract defeats the 
+   cash-conserving purpose of the deferral mechanism on the trust preferred stock and 
+   undermines the instrument's loss-absorbing capacity.</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   Trust preferred stock issues that are covered by an interest rate derivative contract 
+   with asymmetrical terms such as those described above are not includable in 
+   Tier&nbsp;1 capital.&nbsp; When a banking organization hedges trust preferred stock 
+   through an interest rate swap with a deferral feature, the deferral terms on the swap 
+   must be symmetrical for both the organization and its counterparty and must not have 
+   the effect of draining the organization's resources in a time of stress.&nbsp; A 
+   &quot;plain vanilla&quot; swap where neither the banking organization nor its 
+   counterparty may defer payments generally is an acceptable instrument for hedging the 
+   interest rate risk on trust preferred stock included in Tier&nbsp;1.</P>
+
+<P>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+   Reserve Banks are asked to forward this SR&nbsp;letter to banking organizations 
+   subject to Federal Reserve supervision.&nbsp; Any banking organization that has hedged 
+   trust preferred stock with an interest rate derivative contract that is asymmetrical 
+   with regard to deferral terms should immediately contact its Reserve Bank.&nbsp; Any 
+   questions on this SR&nbsp;letter may be directed to Norah&nbsp;Barger, Deputy Associate 
+   Director, at (202)&nbsp;452-2402, or John&nbsp;Connolly, Supervisory Financial 
+   Analyst, at (202)&nbsp;452-3621.</P>
+
+<P>&nbsp;</P>
+
+<P ALIGN="CENTER">Stephen C. Schemering<BR>Deputy Director</P>
+
+<P>&nbsp;</P>
+
+<P><HR width=50% align=left></P>
+<BR>
+<P><B>Note:</B></P>
+<OL>
+<LI><P><A NAME="Footnote1"></A>
+   The conditions set forth in the Board’s October&nbsp;21, 1996 release authorizing the 
+   inclusion of trust preferred stock in tier&nbsp;1 capital include a condition that 
+   distributions to investors in trust preferred stock be deferrable for a minimum 
+   five-year deferral period.&nbsp;&nbsp;<A 
+   HREF="#Footref1">Return&nbsp;to&nbsp;text</A></P>
+</LI>
+</OL>
+
+<p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../">SR letters</a> | <a href="../2002">2002</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: March 29, 2002</b>
+</div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+

@@ -1,0 +1,112 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 99-26 (SUP) on interagency guidance on high loan-to-value residential real estate lending--October 12, 1999</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY bgcolor=ffffff>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=15% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border=0 align=left vspace=0 hspace=0></td>
+<td width=50%><font face=arial SIZE=-2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></td>
+<td width=15%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><font face=arial size=-2><b>DIVISION OF BANKING<br>SUPERVISION AND REGULATION<p></td>
+</tr>
+<tr>
+<td></td>
+<td><font size=-1 face=arial><b>SR 99-26 (SUP)<br>
+October 12, 1999<br>
+</td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%><font size=-1 face=arial>
+<b>TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;SUPERVISORY AND EXAMINATION STAFF AT EACH FEDERAL<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;RESERVE BANK AND TO STATE MEMBER BANKS WITHIN THE DISTRICT</b><br>
+<br>
+<table width="80%">
+<tr>
+<td width="12%" valign="top" align="left"><font face="arial" size=-1><b>SUBJECT:</b></td>
+<td width=88% align=left><font face="times new roman" size=3><b>Interagency Guidance on High Loan-To-Value Residential Real Estate Lending
+</b></font></td>
+</tr>
+</table><br>
+<p>
+<font size=3 face="times new roman">
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Federal Reserve, along with the other federal banking agencies, recently issued additional guidance on high loan-to-value (LTV) residential real estate loans.&nbsp; The press release and interagency statement, which are attached, clarify the agencies' real estate lending guidelines, adopted in 1992, with respect to residential real estate loans.<a href="#Footnote1" title="Footnote 1" name="Footref1"><sup>1</sup></a>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Federal Reserve previously issued guidance on home equity lending and high LTV residential loans in May&nbsp;1995.&nbsp; This new interagency statement builds on that earlier guidance and provides further discussion of the risks that high LTV loans may pose to banks.&nbsp; The interagency statement also provides clarification of two of the exemptions from the standards, including (i) the &quot;abundance of caution&quot; exemption and (ii) the exemption regarding loans sold promptly without recourse.&nbsp; This SR&nbsp;letter supercedes SR&nbsp;letter&nbsp;95-31.
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Reserve Banks are asked to distributed the attached statement and press release to state member banks in their districts.&nbsp; Questions pertaining to this interagency statement should be directed to Norah&nbsp;Barger, Assistant Director, at (202)&nbsp;452-2402 or Virginia&nbsp;Gibbs, Senior Supervisory Financial Analyst, at (202)&nbsp;452-2521.
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+Attachments
+<p>
+<ul>
+<a href="/Boarddocs/Press/General/1999/19991012/default.htm" target="_top">Press Release</a>
+<p>
+<a href="sr9926a2.pdf" target="_top">Interagency Statement (22&nbsp;KB&nbsp;PDF)</a>
+</ul>
+<p>
+<br>
+Cross Reference: SR 93-1,
+<a href="../1993/sr9311.htm" target="_top">SR 93-11</a>,
+and <a href="../1993/sr9333.htm" target="_top">SR 93-33</a>
+<p>
+Superseded:&nbsp;&nbsp;SR 95-31
+<p>
+<br>
+<hr width=50% align=left>
+<p>
+<b>Notes:</b>
+<p>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;
+Refer to SR 93-1, <a href="../1993/sr9311.htm" target="_top">SR 93-11</a>, and <a href="../1993/sr9333.htm" target="_top">SR 93-33</a>.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+
+<p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../">SR letters</a> | <a href="./">1999</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: April 25, 2016</b>
+</div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

@@ -1,0 +1,156 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 94-49 (IB) on deposits held in foreign branches of U.S. banks -- September 2, 1994</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF"><a name="pagetop"></a>
+<blockquote>
+<table border=0 width="600">
+<TR>
+<TD>
+<table border=0 width="600">
+<TR>
+<TD width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font SIZE=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><Div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font SIZE=3><b>SR 94-49 (IB)<br>
+September 2, 1994<br></b></td>
+</tr></table>
+<b><br>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font SIZE=3><b>Deposits Held in Foreign Branches of U.S. Banks
+</b></font></td>
+</tr>
+</table><br>
+<font SIZE=3><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under prior Federal Reserve policy, U.S. banks have been
+discouraged from soliciting deposits in their foreign branches from
+U.S. residents, unless the deposit was for an international
+purpose.&nbsp;&nbsp;The policy was formally communicated to member banks
+through letters from previous Federal Reserve chairmen in 1969 and
+1975 and through published Federal Reserve Regulation D Rulings and
+Opinions. It also was included in letters of approval for
+establishing foreign branches pursuant to Regulation K.&nbsp;&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In connection with a recent application by a U.S. bank to
+establish a foreign branch, the Board reviewed this policy in light
+of the regulatory and financial changes that have occurred since
+the policy guidance was issued.&nbsp;&nbsp;The Board determined that the
+reasons for this policy are no longer valid and decided to delete
+the relevant language from foreign branch approval letters and to
+rescind those portions of opinion letters pursuant to Regulation D
+that refer to these policies.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;U.S. banks with foreign branches are expected, however,
+to have adequate policies to inform their U.S. customers with
+deposit accounts in their foreign branches that such deposits are
+not insured by the FDIC; that, in a liquidation, foreign branch
+deposits have lesser preference than domestic deposits; and that
+such deposits are subject to cross-border risks.&nbsp;&nbsp;The Reserve Banks
+should make certain that such policies are reviewed by examiners
+during the examination of State member banks.&nbsp;&nbsp;Although there are
+no prohibitions against it, because of Regulation D restrictions,
+as a functional matter, deposits of U.S. residents in foreign
+branches of U.S. banks would be expected to be in a denomination of
+$100 thousand or more.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Member banks with foreign operations (i.e. all member
+banks that file FFIEC 031) should be informed of this action.
+Attached is a suggested draft letter to such member banks.&nbsp;&nbsp;The
+Office of the Comptroller of the Currency and the Federal Deposit
+Insurance Corporation also have been notified of the change in
+Board policy.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have any questions, please call Michael Martinson
+at (202)&nbsp;452-3640 or Betsy Cross at (202)&nbsp;452-2574.&nbsp;&nbsp;<br>
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<br>
+<p>
+<p>
+<p>
+ATTACHMENT TRANSMITTED ELECTRONICALLY BELOW<br>
+<p>
+<hr>
+<p>
+<b>[SUGGESTED LETTER TO THE CHIEF EXECUTIVE OFFICER OF EACH MEMBER
+BANK IN YOUR DISTRICT THAT HAS A FOREIGN BRANCH]</b><br>
+<p>
+<b>Subject:</b>&nbsp;&nbsp;Deposits Held in Foreign Branches of U.S. Banks<br>
+<p>
+Dear _____________________:<br>
+<p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Under prior Federal Reserve policy, U.S. banks have been
+discouraged from soliciting deposits in their foreign branches from
+U.S. residents, unless the deposit was for an international
+purpose.&nbsp;&nbsp;The policy was formally communicated to member banks
+through letters from previous Federal Reserve chairmen in 1969 and
+1975 and through published Federal Reserve Regulation D Rulings and
+Opinions.&nbsp;&nbsp;It also was included in letters of approval for
+establishing foreign branches pursuant to Regulation K.&nbsp;&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In connection with a related matter, the Board reviewed
+this policy in light of the regulatory and financial changes that
+have occurred since the policy guidance was issued.&nbsp;&nbsp;The Board
+determined that the reasons for this policy are no longer valid and
+decided to delete the relevant language from foreign branch
+approval letters and to rescind those portions of opinion letters
+pursuant to Regulation D that refer to these policies.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A member bank with foreign branches established pursuant
+to Regulation K is expected, however, to have adequate policies to
+inform its U.S. customers with deposit accounts in the bank's
+foreign branches that such deposits are not insured by the FDIC;
+that, in a liquidation, foreign branch deposits have lesser
+preference than domestic deposits; and that such deposits are
+subject to cross-border risks.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Should you or your staff have any questions regarding
+this matter, please contact __________________ at this Reserve
+Bank.&nbsp;&nbsp;<br>
+<p>
+<p>
+<p>
+<p>
+
+
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<A HREF="../">SR letters</A> | <a href="./">1994</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<A HREF="/">Home</A> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

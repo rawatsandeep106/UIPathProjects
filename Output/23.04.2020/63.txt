@@ -1,0 +1,1949 @@
+	
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta content="Percussion CM System" name="generator"/>
+<meta name="perc_linkback" id="perc_linkback" content="FmBmYGJgeAdheAFmYGdheAZgZGN4E21jYG1m"/>																		<meta http-equiv="Content-Type" content="text/html; charset=UTF-8" />
+<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+			<meta http-equiv="X-UA-Compatible" content="IE=edge" />
+			<meta name="viewport" content="width=device-width, initial-scale=1.0"/>
+																																		<meta name="rx-contenttype" content="occIssuance" />
+			<meta name="rx-contentid" content="53575" />
+			<meta name="occ-site" content="OCCGov" />
+			<meta name="dc.agency" content="Office of the Comptroller of the Currency"/>   
+						
+						            	            	            	            					  
+																				
+																											
+																											
+														
+															<meta name="issuance.type" content="Bulletin" />																																									<meta name="issuance.id" content="2014-37" />
+																																																							<meta name="dc.audience" content="Bankers,OCC Examiners" />
+				        			 <meta name="content.owner" content="OCC Examiners" />
+            						<meta name="dc.language" content="en-US" />
+												<meta name="dc.coverage" content="USA" />
+						<meta name="date.posted" content="2014-08-04" />
+						<meta name="dc.date" content="2014-08-04" />
+									<meta name="date.archived" content="" />
+									<meta http-equiv="Expires" scheme="weekday, month date, year hour:minutes a.m./p.m." content="Sunday, May 1, 2016 10:09 AM" />
+						
+			                                                            
+		
+			<meta name="dc.subject" content="Equal Credit Opportunity Act (Reg B), Fair Credit Reporting/Fair & Accurate Credit Trans, Fair Debt Collection Practices Act, Privacy of Consumer Financial Information, Section 5(a) of the FTC Act (Reg AA)" />
+			<meta name="keywords" content="Consumer Debt Sales, Consumer Protection, FDCPA, ECOA, UDAP, Equal Credit Opportunity Act (Reg B), Fair Credit Reporting/Fair & Accurate Credit Trans, Fair Debt Collection Practices Act, Privacy of Consumer Financial Information, Section 5(a) of the FTC Act (Reg AA)" />
+																															<meta name="dc.description" content="The OCC released guidance on consumer protection requirements and safe and sound banking practices regarding consumer debt-sale arrangements with third parties (e.g., debt buyers) that intend to pursue collection." />
+																																<meta name="description" content="The OCC released guidance on consumer protection requirements and safe and sound banking practices regarding consumer debt-sale arrangements with third parties (e.g., debt buyers) that intend to pursue collection." />
+				<!-- Seach engines expect a meta tag named 'description', not the Dublin Core 'dc.description', so OCC needs both -->
+			 							<meta name="risk.category" content="none" />								
+<meta name="wtta.number" content="na" />
+
+<meta name="wtta.submitter" content="not applicable" />	
+
+																																								<meta name="dc.title" content="Consumer Debt Sales: Risk Management Guidance" />
+			
+	
+									<title>Consumer Debt Sales: Risk Management Guidance  | OCC</title>
+<link href="/css/import.css" rel="stylesheet" media="screen"/>
+<link href="/css/print.css" rel="stylesheet" type="text/css" media="print" />
+
+<script src="/scripts/jquery.min.js"></script>
+<script src="/scripts/responsive.js?1"></script>
+<script src="/scripts/508.js"></script> 
+<script src="/scripts/printer-friendly.js"></script>
+<script src="/scripts/jquery-ui-1.10.0.custom.js"></script>
+<script src="/scripts/exit_notice.js"></script>
+<!-- We participate in the US government's analytics program. See the data at analytics.usa.gov. -->
+<script async src="https://dap.digitalgov.gov/Universal-Federated-Analytics-Min.js?agency=OCC" id="_fed_an_ua_tag"></script>
+<script src="/scripts/google-analytics.js"></script>
+<link rel="icon" href="/images/occ-seal.gif">
+	
+ 
+												</head>
+<body id="nav-news-issuanceson">
+	
+  <a class="usa-skipnav" href="#main-content" tabindex="1">Skip to main content</a>	
+
+<span id="back-to-top" title="Return to top of page"><a href="#top" tabindex="0" aria-label="Return to top of page" role="link"><span></span><!--TOP--></a></span>
+
+		<!--googleoff: all-->
+		   
+
+	
+	 						
+
+	
+		
+<section id="header-utility">
+<div class="header-utility-wrpr">
+<ul>
+<li class="careers"><a href="https://careers.occ.gov/index.html" target="_blank" rel="noopener noreferrer">Careers</a></li>
+
+<li class="arrow" id="QuickAccessNav"><a href="javascript:void(0);" aria-haspopup="true">Quick Access</a>
+<div id="utility-dropdown" aria-label="submenu">
+<ul class="head-ut-qa-col1" role="menu">
+<li class="header">Most Requested</li>
+
+<li><a href="/topics/supervision-and-examination/bsa/index-bsa.html">Bank Secrecy Act (BSA)</a></li>
+
+<li><a href="/about/connect-with-us/contact-the-occ/index-contact-the-occ.html">Contact Us</a></li>
+
+<li><a href="/topics/consumers-and-communities/cra/index-cra.html">Community Reinvestment Act (CRA)</a></li>
+
+<li><a href="/publications-and-resources/publications/comptrollers-handbook/index-comptrollers-handbook.html">Comptroller's Handbook</a></li>
+
+<li><a href="https://apps.occ.gov/CAAS_CATS/">Corporate Application Search</a></li>
+
+<li><a href="https://apps.occ.gov/EASearch">Enforcement Action Search</a></li>
+
+<li><a href="/topics/charters-and-licensing/financial-institution-lists/index-financial-institution-lists.html">Financial Institution Lists</a></li>
+
+<li><a href="/news-events/newsroom/index.html">Newsroom</a></li>
+
+<li><a href="/news-issuances/bulletins/2013/bulletin-2013-29.html">Third-Party Relationships: Risk Management Guidance</a></li>
+
+<li class="arrow" id="QuickAccessNav"></li>
+</ul>
+
+<ul class="head-ut-qa-col2" role="menu">
+<li class="header">More OCC Websites</li>
+
+<li style=" list-style: none;">
+<div class="more_occ_wrapper">
+<ul>
+<li class="quickaccess_dropdown"><a href="https://www.banknet.gov/home/" target="_blank" rel="noopener noreferrer" tabindex="-1"><img alt="" src="/images/c-clamp-images/quickaccess_banknet.png" /></a> <span tabindex="-1" role="menuitem"> </span><a class="quickaccess_text" target="_blank" rel="noopener noreferrer" href="https://www.banknet.gov/home/" tabindex="-1">BankNet.gov<br />
+Find resources for bankers.</a></li>
+
+<li class="quickaccess_dropdown"><a href="https://www.helpwithmybank.gov/index.html" tabindex="-1" target="_blank" rel="noopener noreferrer"  ><img alt="" src="/images/c-clamp-images/quickaccess_helpwith.png" /></a> <span tabindex="-1" role="menuitem"> </span><a class="quickaccess_text" href="https://www.helpwithmybank.gov/index.html" tabindex="-1" target="_blank" rel="noopener noreferrer"  >HelpWithMyBank.gov<br />
+Get answers to banking questions.</a></li>
+
+<li class="quickaccess_dropdown"><a href="https://careers.occ.gov/index.html" target="_blank" rel="noopener noreferrer" tabindex="-1"><img alt="" src="/images/c-clamp-images/quickaccess_search.png" /></a><span tabindex="-1" role="menuitem"> </span><a class="quickaccess_text" href="https://careers.occ.gov/index.html" target="_blank" rel="noopener noreferrer"  >Careers.occ.gov<br />
+Join one of the best places to work.</a></li>
+</ul>
+</div>
+</li>
+</ul>
+</div>
+</li>
+
+<li class="last search" id="SearchNav"><a href="javascript:void(0);" aria-haspopup="true">Search</a>
+<div id="utility-dropdown-search" aria-label="submenu">
+<div class="head-ut-wrpr">
+<ul class="head-ut-search">
+<li>
+<form action="javascript:void(0)"><!-- RL 09272018 --><label class="hide" for="p">What are you searching for in OCC.gov, type in text</label> <input type="text" size="25" name="p" id="p" placeholder="What are you looking for?" /><input type="submit" value="Submit" name="Submit" aria-label="Search" onclick="submitSearch('p')" /></form>
+</li>
+</ul>
+
+<ul class="head-ut-search-col1" role="menu">
+<li class="header">Top Searches</li>
+
+<li><a href="/about/who-we-are/comptroller/bio-comptroller-joseph-otting.html" role="menuitem">Comptroller Otting</a></li>
+
+<li><a href="/about/what-we-do/annual-report/index.html">Annual Report</a></li>
+
+<li><a href="/topics/laws-and-regulations/enforcement-actions/index-enforcement-actions.html" role="menuitem">Enforcement Actions</a></li>
+
+<li><a href="https://careers.occ.gov/index.html" role="menuitem" target="_blank" rel="noopener noreferrer">Jobs</a></li>
+
+<li><a href="/publications-and-resources/publications/comptrollers-handbook/index-comptrollers-handbook.html" role="menuitem">Comptroller's Handbook</a></li>
+</ul>
+
+<ul class="head-ut-search-col2" role="menu">
+<li class="header">More Search Tools</li>
+
+<li class="short"><a href="/publications-and-resources/tools/occ-financial-institution-search/index-occ-financial-institution-search.html" class="pure-button" role="button">Institution Search</a></li>
+
+<li class="long"><a href="/publications-and-resources/tools/cats/index-cats.html" class="pure-button" role="button">Central Application Tracking System (CATS)</a></li>
+
+<li class="short"><a class="pure-button" href="https://apps.occ.gov/crasearch/default.aspx" role="button">CRA Evaluation Search</a></li>
+
+<li class="long"><a class="pure-button" href="http://apps.occ.gov/CAAS_CATS" role="button">Corporate Application Search (CAS)</a></li>
+
+<li class="short"><a class="pure-button" href="http://apps.occ.gov/EnforcementActions" role="button">Enforcement Actions Search</a></li>
+
+<li class="long"><a href="/news-events/newsroom/news-issuances-by-year/ots-issuances/index-ots-issuances.html" class="pure-button" role="button">Office of Thrift Supervision Archive Search</a></li>
+</ul>
+</div>
+</div>
+</li>
+</ul>
+</div>
+</section>
+
+  
+
+<div id="masthead">
+		<!-- begin Header Wrapper -->
+		<section id="occ-header-prim-wrpr">
+			<div class="occ-header-secd-wrpr">
+				<div class="site-header-togglers mobile-menu" style="display: none;"><em title="Click on Main Menu to expand/collapse" class="icon-list" id="mainMenu"></em><div class="mark hide"></div></div>
+				
+	
+		<!-- begin Header BankNet Logo -->
+<div class="occ-logo-wrpr"><a href="/index.html" class="occ-logo" title="Office of the Comptroller of the Currency">Office of the Comptroller of the Currency</a></div>
+
+<!-- end HeaderBankNet Logo --><!-- begin Header Search and Utility Box -->
+<div class="bn-header-search-utility-wrpr aria-hidden">
+<div class="header-title noPrint"></div>
+
+<div class="site-header-togglers mobile-search" style=" display: none;"><em title="Toggle Search" class="icon-search" id="toggleSearch">&#160;</em></div>
+
+<div class="occ-header-search-box noPrint" id="header-sitemap">
+<div class="search-box-wrpr">
+<form action="javascript:void(0)" id="MainSearch" name="MainSearch"><!-- RL 09272018 --><label class="hide" for="q">Search OCC Website</label> <input type="text" class="input-box-stay" size="25" name="q" id="q" placeholder="Search" tabindex="-1" /><input type="submit" class="sitewide" value="Go" name="Submit" tabindex="-1" onclick="submitSearch('q')" /></form>
+</div>
+</div>
+</div>
+
+<!-- end Header Search and Utility Box -->
+  														<nav>
+				<div id="top-bar-wrpr"> 
+					
+					<ul>
+																																																						  																				<li id="megamenu-about" class="about-on"><a id="about-header" href="javascript:void(0)" aria-haspopup="true" title="About">About</a>
+								<div id="megamenu-dropdown-about" aria-label="submenu">
+																	<div>
+										<div class="blue-more-btn clearfix"><a href="/about/index-about.html" >About Overview</a></div>
+									</div>
+
+																							
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/about/who-we-are/index-who-we-are.html" role="menuitem" ><span class="col-header">Who We Are<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																	            	<li><a href="/about/who-we-are/comptroller/bio-comptroller-joseph-otting.html" role="menuitem" >Comptroller</a></li>
+																				            	<li><a href="/about/who-we-are/leadership/index-leadership.html" role="menuitem" >Leadership</a></li>
+																				            	<li><a href="/about/who-we-are/organizations/index-organization.html" role="menuitem" >Organization</a></li>
+																				            	<li><a href="/about/who-we-are/locations/index-locations.html" role="menuitem" >Locations</a></li>
+																				            	<li><a href="/about/who-we-are/history/index-history.html" role="menuitem" >History</a></li>
+																				            	<li><a href="https://careers.occ.gov/index.html" role="menuitem"  target='_blank' rel='noopener noreferrer'>Careers at OCC</a></li>
+													</ul>
+				
+	
+
+																		
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/about/what-we-do/index-what-we-do.html" role="menuitem" ><span class="col-header">What We Do<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																	            	<li><a href="/about/what-we-do/annual-report/index.html" role="menuitem" >Annual Report</a></li>
+																				            	<li><a href="/about/what-we-do/key-data-and-statistics/index-occ-and-federal-banking-system-at-a-glance.html" role="menuitem" >Key Data & Statistics</a></li>
+																				            	<li><a href="/publications-and-resources/publications/banker-education/files/occ-strategic-plan-fy-2019-2023.html" role="menuitem" >Strategic Plan</a></li>
+													</ul>
+				
+	
+
+																		
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/about/connect-with-us/index-connect-with-us.html" role="menuitem" ><span class="col-header">Connect With Us<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																	            	<li><a href="/about/connect-with-us/contact-the-occ/index-contact-the-occ.html" role="menuitem" >Contact the OCC</a></li>
+																				            	<li><a href="/about/who-we-are/locations/index-locations.html" role="menuitem" >District & Field Offices</a></li>
+																				            	<li><a href="/news-events/media-resources/index-media-resources.html" role="menuitem" >Media Resources</a></li>
+																				            	<li><a href="/about/connect-with-us/doing-business-with-the-occ/index-doing-business-with-the-occ.html" role="menuitem" >Doing Business With the OCC</a></li>
+																				            	<li><a href="/about/connect-with-us/foia/index-foia.html" role="menuitem" >Freedom of Information Act (FOIA)</a></li>
+																				            	<li><a href="/about/connect-with-us/occ-outreach/index-occ-outreach.html" role="menuitem" >OCC Outreach</a></li>
+																				            	<li><a href="/about/connect-with-us/public-comments/index-public-comments.html" role="menuitem" >Public Comments</a></li>
+																				            	<li><a href="/publications-and-resources/information-for/occ-alumni/index-information-for-occ-alumni.html" role="menuitem" >OCC Alumni</a></li>
+																				            	<li><a href="/about/connect-with-us/whistleblower-protections/index-whistleblower-protection-and-prohibited-personnel-practices.html" role="menuitem" >Whistleblower Protections</a></li>
+													</ul>
+				
+	
+
+																																																																				<p class="col-wrpr"></p>
+								</div> 
+							</li>
+																																																																								  																				<li id="megamenu-news" class="news-on"><a id="news-header" href="javascript:void(0)" aria-haspopup="true" title="News & Events">News & Events</a>
+								<div id="megamenu-dropdown-news" aria-label="submenu">
+																	<div>
+										<div class="blue-more-btn clearfix"><a href="/news-events/index-news-events.html" >News & Events Overview</a></div>
+									</div>
+
+																							
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/news-events/newsroom/index.html" role="menuitem" ><span class="col-header">Newsroom<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																							            	<li><a href="/news-events/newsroom/index.html?nr=News Release" role="menuitem"  target=_top>News Releases</a></li>
+																										            	<li><a href="/news-events/newsroom/index.html?nr=Bulletin" role="menuitem"  target=_top>Bulletins</a></li>
+																										            	<li><a href="/news-events/newsroom/index.html?nr=Alert" role="menuitem"  target=_top>Alerts</a></li>
+																										            	<li><a href="/news-events/newsroom/index.html?nr=Speech" role="menuitem"  target=_top>Speeches</a></li>
+																										            	<li><a href="/news-events/newsroom/index.html?nr=Congressional Testimony" role="menuitem"  target=_top>Congressional Testimonies</a></li>
+																										            	<li><a href="/news-events/newsroom/index.html?nr=Advisory Letter" role="menuitem"  target=_top>Advisory Letters</a></li>
+																				            	<li><a href="/news-events/newsroom/news-issuances-by-year/index-news-and-issuances-by-year.html" role="menuitem" >News & Issuances By Year</a></li>
+													</ul>
+				
+	
+
+																		
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/news-events/events/index-events.html" role="menuitem" ><span class="col-header">Events<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+										</ul>
+				
+	
+
+																		
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/news-events/media-resources/index-media-resources.html" role="menuitem" ><span class="col-header">Media Resources<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+										</ul>
+				
+	
+
+																		
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/news-events/news-and-events-archive/index-news-and-issuance-archive.html" role="menuitem" ><span class="col-header">News & Issuance Archive<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																	            	<li><a href="/news-events/news-and-events-archive/consumer-advisories/index-consumer-advisories.html" role="menuitem" >Consumer Advisories</a></li>
+																				            	<li><a href="/news-events/news-and-events-archive/public-service-announcements/index-public-service-announcements.html" role="menuitem" >Public Service Announcements</a></li>
+																				            	<li><a href="/news-events/news-and-events-archive/rescinded-issuances/index-rescinded-issuances.html" role="menuitem" >Rescinded Issuances</a></li>
+													</ul>
+				
+	
+
+												<p class="col-wrpr"></p>
+								</div> 
+							</li>
+																																																																								  																				<li id="megamenu-pubs" class="pubs-on"><a id="pubs-header" href="javascript:void(0)" aria-haspopup="true" title="Publications & Resources">Publications & Resources</a>
+								<div id="megamenu-dropdown-pubs" aria-label="submenu">
+																	<div>
+										<div class="blue-more-btn clearfix"><a href="/publications-and-resources/index-publications-and-resources.html" >Publications & Resources Overview</a></div>
+									</div>
+
+																							
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/publications-and-resources/publications/index-publications.html" role="menuitem" ><span class="col-header">Publications<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																	            	<li><a href="/publications-and-resources/publications/comptrollers-handbook/index-comptrollers-handbook.html" role="menuitem" >Comptroller's Handbook</a></li>
+																				            	<li><a href="/publications-and-resources/publications/comptrollers-licensing-manual/index-comptrollers-licensing-manual.html" role="menuitem" >Comptroller's Licensing Manual</a></li>
+																				            	<li><a href="/publications-and-resources/publications/mortgage-metrics-reports/index-mortgage-metrics-reports.html" role="menuitem" >Mortgage Metrics Report</a></li>
+																				            	<li><a href="/publications-and-resources/publications/semiannual-risk-perspective/index-semiannual-risk-perspective.html" role="menuitem" >Semiannual Risk Perspective</a></li>
+																				            	<li><a href="/publications-and-resources/publications/index-publications.html" role="menuitem" >All Publications</a></li>
+																																																																																																																																																																																																																																																																																																																																																																																																																																					</ul>
+				
+	
+
+																		
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/publications-and-resources/tools/index-tools.html" role="menuitem" ><span class="col-header">Tools<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																							            	<li><a href="https://www.banknet.gov/home/entrance/" role="menuitem" >BankNet</a></li>
+																										            	<li><a href="https://apps.occ.gov/CAAS_CATS/" role="menuitem"  target='_blank' rel='noopener noreferrer'>Corporate Applications Search (CAS)</a></li>
+																										            	<li><a href="/publications-and-resources/tools/occ-financial-institution-search/index-occ-financial-institution-search.html" role="menuitem" >OCC Financial Institution Search</a></li>
+																										            	<li><a href="/publications-and-resources/tools/index-tools.html" role="menuitem" >All Tools</a></li>
+																																																																																																																																					</ul>
+				
+	
+
+																		
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/publications-and-resources/forms/index-forms.html" role="menuitem" ><span class="col-header">Forms<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																							            	<li><a href="/publications-and-resources/forms/dodd-frank-act-stress-test/index-dodd-frank-act-stress-test.html" role="menuitem" >Dodd-Frank Act Stress Test</a></li>
+																										            	<li><a href="/publications-and-resources/publications/comptrollers-licensing-manual/files/licensing-filing-forms.html" role="menuitem" >Licensing Filing Forms</a></li>
+																										            	<li><a href="/publications-and-resources/forms/sar-program/index-sar-program.html" role="menuitem" >Suspicious Activity Report (SAR) Program</a></li>
+																										            	<li><a href="/publications-and-resources/forms/index-forms.html" role="menuitem" >All Forms</a></li>
+													</ul>
+				
+	
+
+																		
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/publications-and-resources/information-for/index-information-for.html" role="menuitem" ><span class="col-header">Information For...<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																	            	<li><a href="/publications-and-resources/information-for/bankers/index-information-for-bankers.html" role="menuitem" >Bankers</a></li>
+																				            	<li><a href="https://www.helpwithmybank.gov/index.html" role="menuitem" >Bank Customers</a></li>
+																				            	<li><a href="/news-events/media-resources/index-media-resources.html" role="menuitem" >Media Representatives</a></li>
+																				            	<li><a href="https://careers.occ.gov/index.html" role="menuitem" >Job Seekers</a></li>
+																				            	<li><a href="/publications-and-resources/information-for/occ-alumni/index-information-for-occ-alumni.html" role="menuitem" >OCC Alumni</a></li>
+													</ul>
+				
+	
+
+												<p class="col-wrpr"></p>
+								</div> 
+							</li>
+																																																																								  																				<li id="megamenu-topics" class="topics-on"><a id="topics-header" href="javascript:void(0)" aria-haspopup="true" title="Topics">Topics</a>
+								<div id="megamenu-dropdown-topics" aria-label="submenu">
+																	<div>
+										<div class="blue-more-btn clearfix"><a href="/topics/index-topics.html" >Topics Overview</a></div>
+									</div>
+
+																							
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/topics/supervision-and-examination/index-supervision-and-examination.html" role="menuitem" ><span class="col-header">Supervision & Examination<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																	            	<li><a href="/topics/supervision-and-examination/bank-management/index-bank-management.html" role="menuitem" >Bank Management</a></li>
+																				            	<li><a href="/topics/supervision-and-examination/bank-operations/index-bank-operations.html" role="menuitem" >Bank Operations</a></li>
+																				            	<li><a href="/topics/supervision-and-examination/bsa/index-bsa.html" role="menuitem" >Bank Secrecy Act (BSA)</a></li>
+																				            	<li><a href="/topics/supervision-and-examination/capital/index-capital.html" role="menuitem" >Capital</a></li>
+																				            	<li><a href="/topics/supervision-and-examination/capital-markets/index-capital-markets.html" role="menuitem" >Capital Markets</a></li>
+																				            	<li><a href="/topics/consumers-and-communities/cra/index-cra.html" role="menuitem" >Community Reinvestment Act (CRA)</a></li>
+																				            	<li><a href="/topics/supervision-and-examination/consumer-compliance/index-consumer-compliance.html" role="menuitem" >Consumer Compliance</a></li>
+																				            	<li><a href="/topics/supervision-and-examination/credit/index-credit.html" role="menuitem" >Credit</a></li>
+																				            	<li><a href="/topics/supervision-and-examination/dispute-resolution/index-dispute-resolution.html" role="menuitem" >Dispute Resolution</a></li>
+																				            	<li><a href="/about/who-we-are/organizations/economics-department/index-economics-department.html" role="menuitem" >Economics</a></li>
+																				            	<li><a href="/topics/supervision-and-examination/examinations/index-examinations.html" role="menuitem" >Examinations</a></li>
+																				            	<li><a href="/topics/supervision-and-examination/international-banking/index-international-banking.html" role="menuitem" >International Banking</a></li>
+																				            	<li><a href="/topics/supervision-and-examination/responsible-innovation/index-responsible-innovation.html" role="menuitem" >Responsible Innovation</a></li>
+													</ul>
+				
+	
+
+																		
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/topics/laws-and-regulations/index-laws-and-regulations.html" role="menuitem" ><span class="col-header">Laws & Regulations<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																	            	<li><a href="/topics/laws-and-regulations/occ-regulations/index-occ-regulations.html" role="menuitem" >OCC Regulations</a></li>
+																				            	<li><a href="/topics/laws-and-regulations/enforcement-actions/index-enforcement-actions.html" role="menuitem" >Enforcement Actions</a></li>
+																				            	<li><a href="/topics/laws-and-regulations/interpretations-and-precedents/index-interpretations-and-precedents.html" role="menuitem" >Interpretations & Precedents</a></li>
+																				            	<li><a href="/topics/laws-and-regulations/legislation-of-interest/index-legislation-of-interest.html" role="menuitem" >Legislation of Interest</a></li>
+																				            	<li><a href="/topics/laws-and-regulations/litigation/index-litigation.html" role="menuitem" >Litigation</a></li>
+													</ul>
+				
+	
+
+																		
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/topics/charters-and-licensing/index-charters-licensing.html" role="menuitem" ><span class="col-header">Charters & Licensing<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																	            	<li><a href="/publications-and-resources/publications/comptrollers-licensing-manual/index-comptrollers-licensing-manual.html" role="menuitem" >Comptroller's Licensing Manual</a></li>
+																				            	<li><a href="/topics/charters-and-licensing/financial-institution-lists/index-financial-institution-lists.html" role="menuitem" >Financial Institution Lists</a></li>
+																				            	<li><a href="https://apps.occ.gov/CAAS_CATS/" role="menuitem" >Corporate Application Search (CAS)</a></li>
+																				            	<li><a href="/topics/charters-and-licensing/weekly-bulletin/index-weekly-bulletin.html" role="menuitem" >Weekly Bulletin</a></li>
+																				            	<li><a href="/topics/charters-and-licensing/interpretations-and-actions/index-interpretations-and-actions.html" role="menuitem" >Interpretations & Actions</a></li>
+																				            	<li><a href="/publications-and-resources/publications/comptrollers-licensing-manual/files/licensing-filing-forms.html" role="menuitem" >Licensing Filing Forms</a></li>
+																				            	<li><a href="/topics/charters-and-licensing/public-comment/index-public-comments-on-applications.html" role="menuitem" >Public Comments on Applications</a></li>
+													</ul>
+				
+	
+
+																		
+    			
+				<ul role="menu">
+			<li class="col-header-line"><a href="/topics/consumers-and-communities/index-consumers-and-communities.html" role="menuitem" ><span class="col-header">Consumers & Communities<img src="/images/c-clamp-images/top-bar-arrow.png" alt="blue circular arrow" role="presentation"></span></a></li>
+			
+																	            	<li><a href="/topics/consumers-and-communities/community-affairs/index-community-affairs.html" role="menuitem" >Community Affairs</a></li>
+																				            	<li><a href="/topics/consumers-and-communities/cra/index-cra.html" role="menuitem" >Community Reinvestment Act (CRA)</a></li>
+																				            	<li><a href="/topics/consumers-and-communities/consumer-protection/index-consumer-protection.html" role="menuitem" >Consumer Protection</a></li>
+																				            	<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/financial-literacy/index-financial-literacy-resource-directory.html" role="menuitem" >Financial Literacy</a></li>
+																				            	<li><a href="/topics/consumers-and-communities/minority-outreach/index-minority-outreach.html" role="menuitem" >Minority Outreach</a></li>
+																				            	<li><a href="/topics/consumers-and-communities/public-bank-information/index-public-bank-information.html" role="menuitem" >Public Bank Information</a></li>
+													</ul>
+				
+	
+
+												<p class="col-wrpr"></p>
+								</div> 
+							</li>
+																																																																																																								
+									
+									
+					</ul>
+				
+				</div> 
+				</nav>
+							</div>
+		<!-- end Header Wrapper -->
+		</section>
+</div>
+
+
+
+		<!--googleon: all-->
+			<!-- start-template: occPgNewsRelease -->
+
+	<section class="occ-grid1-1">
+<div class="occ-grid12-12 issuance-wrpr clearfix">
+		<!-- Breadcrumbs begins -->
+			<!-- Start breadcrumbs -->
+
+
+
+
+
+     <div id="breadcrumbs">
+			<ul>
+				     		 
+			
+    		    		    		<li class="first"><a href="/index.html">Home</a></li>	
+    		    		    					                                                                                		    		 
+																
+    		    		    			<li><a href="/news-events/index-news-events.html">News & Events</a></li>
+						                                                                		    		 
+						
+    		    		    			<li><a href="/news-events/newsroom/index.html">Newsroom</a></li>
+						                                                        			</ul>
+		</div>
+
+<!-- End breadcrumbs -->		<!-- Breadcrumbs ends -->
+			   <main id="main-content" class="main-content" tabindex="-1">
+<p><span class="category">OCC Bulletin&nbsp;2014-37</span><span class="vert-line">|</span> <span class="date">August 4, 2014</span></p>
+<h1>Consumer Debt Sales:&nbsp;Risk Management Guidance </h1>
+	<div class="share-icons">
+		<p>Share This Page:</p>
+			<ul>
+			   <li class="share-icons-print"><a href="#" role="button" onclick="printFriendly('.occ-grid1-1')"><img src="/images/c-clamp-images/share-print.svg" width="74" height="30" alt="Print this page"></a></li>
+				<!-- Go to www.addthis.com/dashboard to customize your tools -->
+				<script async src="//s7.addthis.com/js/300/addthis_widget.js#pubid=ra-596692da41aadb2c"></script>
+				<script type="text/javascript">
+                    var addthis_share = addthis_share || {}
+                    addthis_share = {
+                    	passthrough : {
+                    		twitter: {
+                    			via: "usocc"
+                    		}
+                    	}
+                    }
+                    </script>
+				<li class="addthis_inline_share_toolbox_bgp1"></li>
+			</ul>
+		</div>	
+
+	   		
+					<!-- begin Top Right Column -->
+	
+	<div class="occ-grid3-12 issuance-rtcol-top last"><h4>To</h4><p>Chief Executive Officers of All National Banks and Federal Savings Associations, Federal Branches and Agencies, Department and Division Heads, All Examining Personnel, and Other Interested Parties</p> </div>
+	 		<div class="occ-grid9-12 ctcol issuance-ct">	
+		<!-- Issuance body begins -->
+		
+<h3>Summary</h3>
+
+<p>This bulletin provides guidance from the Office of the Comptroller of the Currency (OCC) to national banks and federal savings associations (collectively, banks) on the application of consumer protection requirements and safe and sound banking practices to consumer debt-sale arrangements with third parties (e.g., debt buyers) that intend to pursue collection of the underlying obligations. This bulletin is a statement of policy intended to advise banks about the OCCâ€™s supervisory expectations for structuring debt-sale arrangements in a manner that is consistent with safety and soundness and promotes fair treatment of customers.</p>
+
+<h3>Highlights</h3>
+
+<p>The guidance describes the OCCâ€™s expectations for banks that engage in debt-sale arrangements, including</p>
+
+<ul>
+<li>ensuring that appropriate internal policies and procedures have been developed and implemented to govern debt-sale arrangements consistently across the bank.</li>
+
+<li>performing appropriate due diligence when selecting debt buyers.</li>
+
+<li>ensuring that debt-sale arrangements with debt buyers cover all important considerations.</li>
+
+<li>providing accurate and comprehensive information regarding each debt sold, at the time of sale.</li>
+
+<li>ensuring compliance by the bank with applicable consumer protection laws and regulations.</li>
+
+<li>implementing appropriate oversight of debt-sale arrangements.</li>
+</ul>
+
+<div class="note">
+<h3>Note for Community Banks</h3>
+
+<p>This guidance is applicable to all OCC-supervised banks.</p>
+</div>
+
+<h3>Background</h3>
+
+<p>Lending is the primary method by which banks meet the credit needs of their customers. A risk inherent in lending is that some debt will not be repaid. Pursuant to the Uniform Retail Classification and Account Management Policy guidelines, banks are generally required to charge off certain consumer debt when the debt is 180 days past due, and in some instances, earlier than 180 days past due.<a href="#ftn1"><sup>1</sup></a> The majority of debt that banks charge off and sell to debt buyers is credit card debt, but banks also sell to debt buyers other delinquent debts, such as auto, home-equity, mortgage, and student loans.</p>
+
+<p>Although banks charge off severely delinquent accounts, the underlying debt obligations may remain legally valid and consumers can remain obligated to repay the debts. Banks may pursue collection of delinquent accounts by (1) handling the collections internally, (2) using third parties as agents in collecting the debt, or (3) selling the debt to debt buyers for a fee. This guidance focuses on the third category of bank practice for fully charged-off debt.<a href="#ftn2"><sup>2</sup></a></p>
+
+<p>Most debt-sale arrangements involve banks selling debt outright to debt buyers. Banks may price debt based on a small percentage of the outstanding contractual account balances. Typically, debt buyers obtain the right to collect the full amount of the debts. Debt buyers may collect the debts or employ a network of agents to do so. Notably, some banks and debt buyers agree to contractual â€œforward-flowâ€ arrangements, in which the banks continue to sell accounts to the debt buyers on an ongoing basis.</p>
+
+<p>The OCC recognizes that banks can benefit from debt-sale arrangements by turning nonperforming assets into immediate cash proceeds and reducing the use of internal resources to collect delinquent accounts. In connection with charged-off loans, banks have a responsibility to their shareholders to recover losses.<a href="#ftn3"><sup>3</sup></a> Still, banks must be cognizant of the significant risks associated with debt-sale arrangements, including operational, compliance, reputation, and strategic risks. Accordingly, banks that engage in debt sales should do so in a safe and sound manner and in compliance with applicable lawsâ€”including consumer protection lawsâ€”taking into consideration relevant guidance.</p>
+
+<p>The OCC has focused on issues related to debt sales for several years and has highlighted the risks associated with this type of activity on a number of occasions. Beginning in 2011, the OCC conducted a review of debt collection and sales activities across the large banks it regulates. Through this work, the OCC identified a number of best practices that OCC large bank examiners have incorporated into their supervision of debt sales activities. In July 2013, the OCC provided a copy of this best practices document to the Senate Subcommittee on Financial Institutions and Consumer Protection. In an accompanying statement, the OCC announced that the agency was using these best practices and insights gained from its on-site supervisory activities to inform the development of policy guidance applicable to a broader range of financial institutions. Since that time, the OCC has received comments and input from a wide variety of interested parties, including financial institutions, debt buyers and collectors, consumer and community advocates, and other governmental entities. The OCC has considered carefully all of this input in formulating the following guidance, which is applicable to all OCC-supervised institutions.<a href="#ftn4"><sup>4</sup></a></p>
+
+<h3>Risks Associated With Sale of Debt to Debt Buyers</h3>
+
+<p>Selling debt to a debt buyer can significantly increase a bankâ€™s risk profile, particularly in the areas of operational, reputation, compliance, and strategic risks. Increased risk most often arises from poor planning and oversight by the bank, and from inferior performance or service on the part of the debt buyer, and may result in legal costs or loss of business.</p>
+
+<p><strong>Operational risk. </strong>Operational risk is the risk of loss to earnings or capital from inadequate or failed internal processes, people, and systems or from external events. Banks face increased operational risk when they sell debt to debt buyers. Inadequate systems and controls can place the bank at risk for providing inaccurate information regarding the characteristics of accounts, including balances and length of time that the balance has been overdue. In addition, banks should be cognizant of the potential for fraud, human error, and system failures when selling debt to debt buyers.</p>
+
+<p><strong>Reputation risk.</strong> Reputation risk is the risk to a bankâ€™s earnings or capital arising from negative public opinion. Banks should be keenly aware that debt buyers pursue collection from former or current bank customers. Even though a bank may have sold consumersâ€™ debt to a debt buyer, the debt buyerâ€™s behavior can affect the bankâ€™s reputation if consumers continue to view themselves as bank customers. Moreover, abusive practices by debt purchasers, and other inappropriate debt-buyer tactics (including those that cause violations of law), are receiving significant levels of negative news media coverage and public scrutiny.<a href="#ftn5"><sup>5</sup></a> When banks sell debt to debt buyers that engage in practices perceived to be unfair or detrimental to customers, banks can lose community support and business.</p>
+
+<p><strong>Compliance risk.</strong> Compliance risk is the risk to earnings or capital arising from violations of laws, rules, or regulations, or from nonconformance with internal policies and procedures or ethical standards. This risk exists when banks do not appropriately assess a debt buyerâ€™s collection practices for compliance, or when the debt buyer's operations are inconsistent with law, ethical standards, or the bank's policies and procedures. The potential for serious or frequent violations or noncompliance exists when the bankâ€™s oversight program does not include appropriate audit and control features, particularly when the debt buyer implements new collection strategies or expands existing ones. Compliance risk increases when privacy of consumer and customer records is not adequately protected, such as when confidential consumer data are released before a sale of the data, or when conflicts of interest between a bank and debt buyers are not appropriately managed, such as when the debt buyers pursue questionable collection tactics.</p>
+
+<p><strong>Strategic risk. </strong>Strategic risk is the risk to earnings or capital arising from adverse business decisions or improper implementation of those decisions. Strategic risk arises when a bank makes business decisions that are incompatible with the bank's strategic goals or that do not provide an adequate return on investment. Strategic risk increases when bank management introduces new business decisions without performing adequate due diligence reviews or without implementing an appropriate risk management infrastructure to oversee the activity. Strategic risk also increases when management does not have adequate expertise and experience to properly carry out decisions. Decisions to sell debt to debt buyers must be carefully analyzed to ensure consistency with the bankâ€™s strategic goals. Selling debt to debt buyers without first performing appropriate due diligence, or without taking steps to implement an appropriate risk management structure, including having capable management and staff in place to carry out debt sales, increases the bankâ€™s strategic risks.</p>
+
+<h3>Supervisory Concerns With Debt-Sale Arrangements</h3>
+
+<p>Debt-sale arrangements can pose considerable risk to banks that do not conduct appropriate due diligence to assess and manage those risks. Through its supervisory process, the OCC has identified instances in which banks agreed to sell debt to debt buyers without full understanding of the debt buyersâ€™ collection practices. Banks should know what resources debt buyers use to manage and pursue collections and consider the debt buyersâ€™ past performance with consumer protection laws and regulations.</p>
+
+<p>The OCC has identified situations in which banks inappropriately transferred customer information to debt buyers. In these instances, banks gave debt buyers access to customer files so they could assess credit quality before the debt sale, without the banks first making proper customer disclosures, which was inconsistent with the banksâ€™ internal privacy policies and applicable laws and regulations. The OCC also has identified instances in which banks, debt buyers, or both had inadequate controls in place to protect the transfer of customer information. In addition, the OCC has identified debt-sale arrangements between banks and debt buyers that lacked confidentiality and information security provisions. Debt-sale arrangements between banks and debt buyers should clearly specify each partyâ€™s duties and obligations regarding confidential customer information, and should include provisions requiring debt buyers to comply with applicable laws and consumer protections.</p>
+
+<p>Through its supervisory process, the OCC also has identified issues related to the adequacy of customer account information transferred from banks to debt buyers, including situations in which the transferred customer files lack information as basic as account numbers or customer payment histories. In these circumstances, because the debt buyers pursue collection without complete and accurate customer information, the debt buyers may employ inappropriate collection tactics or engage in conduct that is prohibited based on the facts of a particular case (e.g., pursue collection on a debt that was previously discharged in bankruptcy or after the applicable statute of limitations).</p>
+
+<p>Lastly, the OCC has found that some banks may lack appropriate internal oversight of debt-sale arrangements to minimize exposure to potential risks. For example, some banks have not developed and implemented bank-wide policies and procedures to ensure that debt-sale arrangements are governed consistently across their organizations.</p>
+
+<h3>Supervisory Expectations of Debt Sales</h3>
+
+<p>The OCC expects banks to structure debt-sale arrangements in a prudent and safe and sound manner to promote the fair treatment of customers. OCC examinations assess management oversight of debt-sale arrangements and focus on compliance with applicable consumer protection statutes and potential safety and soundness issues. The OCC takes appropriate supervisory action to address any unsafe or unsound banking practices associated with debt sales, to prevent harm to consumers, and to ensure compliance with applicable laws.</p>
+
+<p>OCC-supervised banks are expected to adopt appropriate practices in connection with debt sales. The OCC considers the following practices to be consistent with safety and soundness.</p>
+
+<ul>
+<li><strong>Ensure appropriate internal policies and procedures are developed and implemented to govern debt-sale arrangements consistently across the bank. </strong>Policies and procedures should
+
+<ul>
+<li>identify the persons or offices within the bank responsible for all debt sales across the bank. The establishment of an oversight committee by the bank should also be considered.</li>
+
+<li>require that a financial analysis be completed detailing why selling debt is more beneficial than other options that might be available to the bank, such as managing the debt collection internally or employing debt collectors.</li>
+
+<li>assess how debt sales align with the bankâ€™s business strategy and risk profile.</li>
+
+<li>include ongoing monitoring and analysis of repurchase requests from debt buyers to improve the bankâ€™s account review process before each debt sale.</li>
+
+<li>require involvement of appropriate bank personnel in the debt-sale approval process to ensure all risks are fully considered (e.g., compliance, risk management, information technology, credit, legal, collections, audit, and information security).</li>
+
+<li>identify types of accounts that should not be sold and specify quality control standards for debt that is sold, with an emphasis on ensuring the accuracy of account balance information.</li>
+
+<li>ensure that debt-sale arrangements with debt buyers clearly delineate the responsibilities of the parties involved.</li>
+
+<li>require the provision of detailed and accurate information to debt buyers at the time of sale (to enable them to pursue collections in compliance with applicable laws and consumer protection requirements).</li>
+
+<li>ensure that customers receive timely notification from the bank that the debt has been sold, the dollar amount of the debt transferred, and the name and address of the debt buyer.</li>
+
+<li>ensure that credit bureau reporting is up-to-date and accurately reflects the sale or transfer of the debt to the debt buyer.</li>
+
+<li>specify internal bank documentation retention and quality control standards.</li>
+
+<li>ensure that the bankâ€™s management information systems can generate timely, accurate, and comprehensive reports for bank management that detail debt sales across lines of business, sales prices, repurchase volumes, losses incurred, and customer complaints.</li>
+
+<li>address internal review standards to ensure debt sales comply with the bankâ€™s own policies and procedures.</li>
+</ul>
+</li>
+
+<li>
+<p><strong>Perform appropriate due diligence when selecting a debt buyer.</strong> <a href="#ftn6"><sup>6</sup></a> Debt buyers pursue collection from former or current bank customers, so banks should fully understand the debt buyersâ€™ collection practices, including the resources that debt buyers or their agents use to manage and pursue collection. Banks should perform appropriate due diligence before entering into debt-sale arrangements with debt buyers. For example, banks should assess the potential debt buyersâ€™ background, experience, and past performance, including consumer complaints about the debt buyers, and assess steps taken by debt buyers to investigate and resolve the complaints. Before entering into any arrangements with debt buyers, banks should review all pertinent information (including audited financial statements) to confirm that debt buyers are financially sound and appropriately licensed and insured. In addition, before entering into debt-sale arrangements, banks should determine what repurchase and litigation reserves should be established given the size and type of debt sales contemplated.</p>
+
+<p>Before a bank enters into a contract with a debt buyer, the debt buyer should be able to demonstrate that it maintains tight control over its network of debt buyers and that it conducts activities in a manner that will not harm the bankâ€™s reputation. In particular, a debt buyerâ€™s staff should be appropriately trained to ensure that it follows applicable consumer protection laws and treats customers fairly throughout the collection process. In addition, banks contemplating entering into a relationship with debt buyers should first assess the debt buyerâ€™s record of compliance with consumer protection laws and regulations. Banks should conduct this level of due diligence before entering into new relationships with debt buyers, and periodically when forward-flow contractual arrangements are in place. Banks should reserve the right to terminate such relationships when appropriate. This means banks should develop and implement controls and processes to ensure risks are properly measured, monitored, and controlled, and develop and implement appropriate performance review systems.</p>
+</li>
+
+<li>
+<p><strong>Ensure debt-sale arrangements with debt buyers cover all important considerations.</strong> The structure of the arrangements between the banks and the debt buyers depends on the written contracts between the parties. The contracts should reflect clear, consistent terminology. To the extent that more than one business line at the bank sells debt, banks, if appropriate, should use standard language for all business linesâ€™ debt-sale arrangements. Regardless of the structure of the arrangements, the duties and obligations of the parties, particularly provisions for confidentiality and information security, should be clearly delineated in the contracts, as should responsibility for compliance with applicable consumer protection laws. This includes a termination plan to ensure that customer information is returned to the bank or destroyed in accordance with the debt-sale arrangement. In addition, banks should include minimum-service-level agreements in debt-sale arrangements to promote fair and consistent treatment of customers, applicable whether debt buyers conduct the collection activities or employ other collection agents.</p>
+
+<p>Banks should ensure that the debt-sale arrangements address the extent to which the debt buyers can resell debt. Each time account information changes hands, risk increases that key information will be lost or corrupted, calling into question the legal validity and ownership of the underlying debt. Moreover, resales of debt increase the possibility that subsequent purchasers will pursue collection efforts against the wrong individual, seek to collect the wrong amount, or both. Therefore, in drafting debt-sale arrangements, banks should address whether subsequent resales of former bank debt would be permitted. If so, debt-sale arrangements should obligate the initial debt buyer to conduct thorough due diligence on the proposed purchaser and to pass on all account information and documentation in its possession to a subsequent buyer.</p>
+
+<p>Banks should ensure that contracts with debt buyers address the volume of accounts (both in terms of the total dollar amount and percentage of debt sold, as well as aggregate numbers of accounts) and the reasons why the debt buyer can litigate. Debt-sale arrangements should address the debt buyersâ€™ obligations to engage in ongoing efforts to maintain the accuracy of the information provided by banks. Lastly, where applicable, banks should ensure that contracts do not include compensation provisions that incent debt buyers to act aggressively or improperly.</p>
+</li>
+
+<li>
+<p><strong>Provide accurate and comprehensive information regarding each debt sold, at the time of sale.</strong> Banks should ensure that their debt buyers have accurate and complete information necessary to enable them to pursue collections in compliance with applicable laws and consumer protections. Banks that engage in debt sales should have a strong risk management culture, including a quality control function that evaluates all proposed debt sales before they occur. This may involve the use of â€œdata scrubsâ€ and transactional sampling to ensure that account data are complete and accurate before accounts are transferred to the buyer.</p>
+
+<p>For each account, the bank should provide the debt buyer with copies of underlying account documents, and the related account information, as applicable and in compliance with record retention requirements, including the following:</p>
+
+<ul>
+<li>A copy of the signed contract or other documents that provide evidence of the relevant consumerâ€™s liability for the debt in question.</li>
+
+<li>Copies of all, or the last 12 (whichever is fewer), account statements.</li>
+
+<li>All account numbers used by the bank (and, if appropriate, its predecessors) to identify the debt at issue.</li>
+
+<li>An itemized account of all amounts claimed to be owed in connection with the debt to be sold, including loan principal, interest, and all fees.</li>
+
+<li>The name of the issuing bank and, if appropriate, the store or brand name.</li>
+
+<li>The date, source, and amount of the debtorâ€™s last payment and the dates of default and amount owed.</li>
+
+<li>Information about all unresolved disputes and fraud claims made by the debtor. Information about collection efforts (both internal and third-party efforts, such as by law firms) made through the date of sale.</li>
+
+<li>The debtorâ€™s name, address, and Social Security number.</li>
+</ul>
+</li>
+
+<li><strong>Certain types of debt are not appropriate for sale.</strong> Debt clearly not appropriate for sale, because it likely fails to meet the basic requirements to be an ongoing legal debt, includes the following:
+
+<ul>
+<li>Debt that has been otherwise settled or is in process of settlement.</li>
+
+<li>Debt of deceased account holders.</li>
+
+<li>Debt of borrowers that have sought or are seeking bankruptcy protection.</li>
+
+<li>Debt of account holders currently in litigation with the institution.</li>
+
+<li>Debt incurred as a result of fraudulent activity.</li>
+
+<li>Accounts lacking clear evidence of ownership.</li>
+</ul>
+
+<p>In addition, banks should refrain from the sale of certain additional types of debt because the sales of these types of accounts may pose greater potential compliance and reputational risk. These include:</p>
+
+<ul>
+<li>Accounts eligible for Servicemembers Civil Relief Act protections.</li>
+
+<li>Accounts of minors.</li>
+
+<li>Accounts in disaster areas.</li>
+
+<li>Accounts close to the statute of limitations.</li>
+</ul>
+
+<p>If banks are required to repurchase accounts from debt buyers after sales are completed, the banksâ€™ quality control personnel should evaluate why the accounts were returned and determine whether additional quality controls need to be implemented. If necessary, banks should complete look-back reviews to determine whether they or the debt buyers engaged in practices that hurt consumers.</p>
+</li>
+
+<li>
+<p><strong>Comply with applicable laws and regulations.</strong> Banks should implement effective compliance risk management systems, including processes and procedures to appropriately manage risks in connection with debt-sale arrangements. Examiners review banksâ€™ debt-sale arrangements for compliance with applicable consumer protection statutes and regulations. In particular, banks should ensure that all parties involved in the debt-sale arrangement have strong controls in place to ensure that sensitive customer information is appropriately protected.</p>
+
+<p>Federal laws and regulations applicable to debt sales include the following:</p>
+
+<ul>
+<li><strong>Fair Debt Collection Practices Act (FDCPA).</strong> The FDCPA applies to debts incurred primarily for the consumerâ€™s personal, family, or household purposes, and is designed to (1) eliminate abusive practices in the collection of consumer debts, (2) promote fair debt collection, and (3) provide consumers with an avenue for disputing and obtaining validation of debt information in order to ensure the informationâ€™s accuracy.<a href="#ftn7"><sup>7</sup></a><sup> </sup>Under the FDCPA, â€œdebt collectorâ€ is defined broadly to generally encompass debt buyers working on behalf of original creditors, including banks.<a href="#ftn8"><sup>8</sup></a></li>
+
+<li><strong>Fair Credit Reporting Act (FCRA).</strong> The FCRA, which is implemented by Regulation V, regulates the collection, dissemination, and use of consumer information, including consumer credit information.<a href="#ftn9"><sup>9</sup></a><sup> </sup>The FCRA and Regulation V require that furnishers of information to consumer reporting agencies (e.g., creditors such as banks and debt buyers) follow reasonable policies and procedures in connection with the accuracy and integrity of consumer credit information they report to the consumer reporting system. If consumer information is furnished to credit reporting agencies, banks and debt buyers have affirmative duties to (1) provide complete and accurate information to the credit reporting agencies, (2) investigate disputed information from consumers, and (3) inform consumers about negative information that has been or will be placed in their credit reports.</li>
+
+<li><strong>Gramm-Leach-Bliley Act (GLBA). </strong>Certain provisions of the GLBA and Regulation P, which implements the GLBA,<a href="#ftn10"><sup>10</sup></a><sup> </sup>require banks to provide consumers with privacy notices at the time the consumer relationships are established and annually thereafter. The privacy notice must disclose (1) the information collected about the consumer, (2) where that information is shared, (3) how that information is used, and (4) how that information is protected. In addition, this law imposes limitations on banksâ€™ sharing of nonpublic personal information with debt buyers.</li>
+
+<li><strong>Equal Credit Opportunity Act (ECOA).</strong> The ECOA and its implementing regulation, Regulation B,<a href="#ftn11"><sup>11</sup></a><sup> </sup>prohibit discrimination in any aspect of a credit transaction on a â€œprohibited basisâ€; i.e., because of a customerâ€™s (1) race, (2) color, (3) religion, (4) national origin, (5) sex, (6) marital status, (7) age (provided the customer has the capacity to contract), (8) receipt of public assistance income, or (9) exercise in good faith of any right under the Consumer Credit Protection Act or any state law under which an exemption has been granted by the Consumer Financial Protection Bureau (CFPB). The prohibition against discrimination in any aspect of a credit transaction on a prohibited basis includes collection procedures.<a href="#ftn12"><sup>12</sup></a></li>
+
+<li><strong>Federal Trade Commission Act (FTC Act).</strong> Section 5 of the FTC Act prohibits unfair or deceptive acts or practices (UDAP) in or affecting commerce.<a href="#ftn13"><sup>13</sup></a> Acts or practices may be found to be unfair when or if (1) they cause or are likely to cause substantial injury to consumers, (2) the injury cannot be reasonably avoided by consumers, and (3) the injury is not outweighed by countervailing benefits to consumers or to competition. Public policy may also be considered in determining whether acts or practices are unfair. Acts or practices may be found to be deceptive if (1) there is a representation, omission, act, or practice that misleads or is likely to mislead a consumer, (2) the act or practice would be deceptive from the perspective of a reasonable consumer, and (3) the misleading representation, omission, act, or practice is material.</li>
+</ul>
+</li>
+
+<li><strong>Implement appropriate oversight of the debt-sale arrangement. </strong>The bankâ€™s oversight responsibilities will vary depending on the structure of the arrangement between the bank and the debt buyer. Regardless of the structure of the arrangement, the bankâ€™s appropriate oversight of the debt-sale arrangement is important to minimize the bankâ€™s exposure to potential reputation damage and supervisory action. In addition to monitoring the implementation of the sales contract, particularly when the bank is engaged in a forward-flow arrangement with a debt buyer, the bank should consider, as applicable, (1) reviewing the debt-buyerâ€™s annual financial statements to ensure ongoing financial strength, (2) remaining alert for any relevant adverse information about the debt-buyerâ€™s principals, and (3) monitoring the bankâ€™s complaints for any potential adverse treatment of consumers by the debt buyer. In addition, the bankâ€™s ongoing due diligence should be focused on the volume of, and reasons for, repurchases by the bank. The bankâ€™s audit program should periodically evaluate its compliance with its debt-sale policies and procedures. Results of all oversight activities should be reported periodically to the bankâ€™s board of directors or designated committee, including identified weaknesses, which should be documented and properly addressed.</li>
+</ul>
+
+<p>Examiners determine whether bank management has established controls and implemented a rigorous analytical process to identify, measure, monitor, and manage the risks associated with debt sales. If examiners find unsafe or unsound practices or practices that fail to comply with applicable laws or regulations, the OCC will take appropriate supervisory action, including enforcement actions, when warranted. When the OCC becomes aware of concerns with nonbank debt buyers, the agency refers those issues to the CFPB, which has jurisdiction over these entities.</p>
+
+<h3>Further Information</h3>
+
+<p>Direct questions to Kathryn Gouldie, Retail Credit Expertâ€“Large Bank Supervision, at (202) 649-6210; Kimberly Hebb, Director for Compliance Policy, at (202) 649-5470; Kenneth Lennon, Assistant Director for Community and Consumer Law, at (202) 649-6350; or Robert Piepergerdes, Director for Retail Credit Risk, at (202) 649-6220.</p>
+
+<p>&#160;</p>
+
+<p>John C. Lyons Jr.<br />
+Senior Deputy Comptroller and Chief National Bank Examiner</p>
+
+<p>&#160;</p>
+
+<div class="footnote">
+<p><a id="ftn1" name="ftn1"> </a><sup>1</sup> For closed-end credit, loans should be charged off when a loss is identified but generally not later than 120 days past due. Such open-end loans as credit card accounts must be charged off at 180 days past due. See OCC Bulletin 2000-20, â€œ<a href="/news-issuances/bulletins/2000/bulletin-2000-20.html">Uniform Retail Credit Classification and Account Management Policy: Policy Implementation</a>â€ (June 20, 2000).</p>
+
+<p><a id="ftn2" name="ftn2"> </a><sup>2</sup> This guidance applies to all outright legal sales of charged-off debt by banks. This guidance does not apply when a bank has a residual interest in the debt that is sold (e.g., the bank continues to receive income from the debt, or the bank receives a percentage of any recovery by the debt buyer).</p>
+
+<p><a id="ftn3" name="ftn3"> </a><sup>3</sup> For the purposes of the Federal Financial Institutions Examination Councilâ€™s (FFIEC) Consolidated Reports of Condition and Income (also known as call reports), accounting for cash proceeds received, including timing of any revenue or recoveries recorded, and debt-sale arrangement terms such as representations and warranties, should follow generally accepted accounting principles and the FFIECâ€™s â€œInstructions for the Preparation of Consolidated Reports of Condition and Income.â€</p>
+
+<p><a id="ftn4" name="ftn4"> </a><sup>4</sup> This guidance does not create any new legal rights against a bank that sells debt, either for a consumer whose debt is sold or for any other third party.</p>
+
+<p><a id="ftn5" name="ftn5"> </a><sup>5</sup> See â€œThe Structure and Practices of the Debt Buying Industryâ€ (Federal Trade Commission, January 2013).</p>
+
+<p><a id="ftn6" name="ftn6"> </a><sup>6</sup> Banks should follow the guidance for assessing and managing risk associated with third-party relationships that is detailed in OCC Bulletin 2013-29, â€œ<a href="/news-issuances/bulletins/2013/bulletin-2013-29.html">Third-Party Relationships: Risk Management Guidance</a>â€ (October 30, 2013).</p>
+
+<p><a id="ftn7" name="ftn7"> </a><sup>7</sup> See 15 USC 1692.</p>
+
+<p><a id="ftn8" name="ftn8"> </a><sup>8</sup> An institution is not considered a debt collector under the FDCPA if the institution collects its own debts under its own name, or for debts that it originated and then sold but continues to service (e.g., a mortgage loan).</p>
+
+<p><a id="ftn9" name="ftn9"> </a><sup>9</sup> See FCRA at 15 USC 1681-1681x and Regulation V at 12 CFR 1022-1022.140.</p>
+
+<p><a id="ftn10" name="ftn10"> </a><sup>10</sup> For the general provisions of GLBA that govern disclosure of nonpublic personal information, see 15 USC 6801-6809. See also Regulation P, which implements the provisions of GLBA pertaining to privacy of consumer financial information, at 12 CFR 1016.</p>
+
+<p><a id="ftn11" name="ftn11"> </a><sup>11</sup> See ECOA at 15 USC 1691-1691f and Regulation B at 12 CFR 1002.</p>
+
+<p><a id="ftn12" name="ftn12"> </a><sup>12</sup> See 12 CFR 1002.2(m) (â€œCredit transaction means every aspect of an applicantâ€™s dealing with a creditor regarding an application for credit or an existing extension of credit (including, but not limited to, information requirements; investigation procedures; standards of creditworthiness; terms of credit; furnishing of credit information; revocation, alteration, or termination of credit; and <em>collection procedures</em>â€).</p>
+
+<p><a id="ftn14" name="ftn14"> </a><sup>13 </sup>See 15 USC 45(a). The OCC enforces the FTC Actâ€™s prohibition against UDAP pursuant to its authority in the Federal Deposit Insurance Act. See 12 USC 1818(b).</p>
+</div>
+	<!-- Issuance body ends-->
+	</div>
+	<!-- begin Bottom Right Column -->
+	
+		 </main>
+	<!-- end Bottom Right Column -->
+	
+					<div class="topics">
+		<ul class="title">
+			<li>Topic(s):</li>   
+		</ul> 
+		<ul class="links">
+									<li><a href="/news-events/newsroom/index.html?topic=Equal%20Credit%20Opportunity%20Act%20(Reg%20B)" class="topic-link">Equal Credit Opportunity Act (Reg B)</a></li>
+									<li><a href="/news-events/newsroom/index.html?topic=Fair%20Credit%20Reporting/Fair%20&%20Accurate%20Credit%20Trans" class="topic-link">Fair Credit Reporting/Fair & Accurate Credit Trans</a></li>
+									<li><a href="/news-events/newsroom/index.html?topic=Fair%20Debt%20Collection%20Practices%20Act" class="topic-link">Fair Debt Collection Practices Act</a></li>
+									<li><a href="/news-events/newsroom/index.html?topic=Privacy%20of%20Consumer%20Financial%20Information" class="topic-link">Privacy of Consumer Financial Information</a></li>
+									<li><a href="/news-events/newsroom/index.html?topic=Section%205(a)%20of%20the%20FTC%20Act%20(Reg%20AA)" class="topic-link">Section 5(a) of the FTC Act (Reg AA)</a></li>
+	 		</ul> 
+	</div>
+	
+    	
+</div>
+</section>
+<!-- end Content wrapper -->
+
+
+     	<!--googleoff: all-->
+		   <!-- begin Footer Row -->
+<footer>
+	
+	
+		
+<section class="occ-grid1-1 footer-row1">
+<div class="occ-grid12-12 footer-row1-wrpr">
+<div class="occ-grid6-12">
+<div class="footer-occ-logo"><a href="/index.html"><img alt="" src="/images/c-clamp-images/footer-occ-logo.png" /></a></div>
+</div>
+
+<div class="occ-grid6-12 last"><!--
+<div class="footer-subscribe">
+
+<form action="javascript:void(0)" method="post">
+<h4>Get updates</h4>
+
+<label for="subscribe" class="hide">Subscribe to OCC Email</label> <input type="text" size="25" name="00000" id="subscribe" placeholder="Enter your email" aria-label="Subscribe to OCC Email" /><input type="submit" value="Subscribe" name="Submit" aria-label="Subscribe" onclick="emailStorage('subscribe')" /></form>
+</div>--></div>
+</div>
+</section>
+
+  
+	
+		
+<section class="occ-grid1-1 footer-row2">
+<div class="occ-grid12-12 footer-row2-wrpr">
+<h4>Our websites</h4>
+
+<ul>
+<li><span class="footer-logo"><a href="https://www.banknet.gov/home/" target="_blank" rel="noopener noreferrer"   ><img alt="" src="/images/c-clamp-images/footer-banknet.png" /></a></span><span class="footer-logo-website"><a href="https://www.banknet.gov/home/" target="_blank" rel="noopener noreferrer"   >BankNet.gov</a></span><span class="footer-logo-text">Find resources for bankers.</span></li>
+
+<li><span class="footer-logo"><a href="https://www.helpwithmybank.gov/index.html" target="_blank" rel="noopener noreferrer"><img alt="" src="/images/c-clamp-images/footer-helpwithmybank.png" /> </a></span><span class="footer-logo-website"><a href="https://www.helpwithmybank.gov/index.html" target="_blank" rel="noopener noreferrer">HelpWithMyBank.gov</a></span><span class="footer-logo-text">Get answers to banking questions.</span></li>
+
+<li><span class="footer-logo"> <a href="https://careers.occ.gov/index.html" target="_blank" rel="noopener noreferrer"><img alt="" src="/images/c-clamp-images/footer-search.png" /></a></span><span class="footer-logo-website"> <a href="https://careers.occ.gov/index.html" target="_blank" rel="noopener noreferrer">Careers.occ.gov</a></span> <span class="footer-logo-text">Join one of the best places to work.</span></li>
+
+<li class="last"><span class="footer-logo"><a href="/index.html"><img alt="" src="/images/c-clamp-images/footer-occ.png" /></a></span><span class="footer-logo-website"> <a href="/index.html">OCC.gov</a></span> <span class="footer-logo-text">Visit the official website of the OCC.</span></li>
+</ul>
+</div>
+</section>
+
+  	<section class="occ-grid1-1 footer-row3">
+		<div class="occ-grid12-12 footer-row3-wrpr">
+			<div class="footer-socialmedia">
+				 
+	
+		
+<ul>
+<li><a href="https://www.facebook.com/pages/Washington-DC/US-Comptroller-of-the-Currency/213254918823" target="_blank" rel="noopener noreferrer" onclick="return ExitNotice()"><img alt="" src="/images/c-clamp-images/footer-facebook.png" /></a></li>
+
+<li><a href="https://twitter.com/usocc" target="_blank" rel="noopener noreferrer" onclick="return ExitNotice()"><img alt="" src="/images/c-clamp-images/footer-twitter.png" /></a></li>
+
+<li><a href="https://www.linkedin.com/company/office-of-the-comptroller-of-the-currency" target="_blank" rel="noopener noreferrer" onclick="return ExitNotice()"><img alt="" src="/images/c-clamp-images/footer-linkedin.png" /></a></li>
+
+<li><a href="http://www.youtube.com/user/OCCChannel#p/c/2BAA3C3A20C2630E" target="_blank" rel="noopener noreferrer" onclick="return ExitNotice()"><img alt="" src="/images/c-clamp-images/footer-youtube.png" /></a></li>
+
+<li class="last"><a href="/rss/index-rss.html"><img alt="" src="/images/c-clamp-images/footer-rss.png" /></a></li>
+</ul>
+
+
+
+  			
+			</div>
+			<div class="footer-links">
+				<ul><li>
+<a href="/about/policies/web-privacy-policy.html">Privacy</a>
+</li><li>
+ <a href="https://home.treasury.gov/footer/no-fear-act" target="_blank" rel="noopener noreferrer">No Fear Act</a>
+</li><li>
+ <a href="https://www.usa.gov/" target="_blank" rel="noopener noreferrer">USA.gov</a>
+</li><li>
+<a href="/about/policies/accessibility.html">Accessibility</a>
+</li><li>
+ <a href="https://home.treasury.gov" target="_blank" rel="noopener noreferrer">U.S. Treasury</a>
+</li><li>
+<a href="/about/connect-with-us/foia/index-foia.html">FOIA</a>
+</li><li>
+<a href="/about/connect-with-us/whistleblower-protections/index-whistleblower-protection-and-prohibited-personnel-practices.html">Whistleblower Protection</a>
+</li><li>
+<a href="/about/connect-with-us/contact-the-occ/index-contact-the-occ.html">Contact</a>
+</li></ul>			</div>
+		</div>
+	</section>
+</footer>
+<!-- end Footer Row -->
+
+	
+		<!-- Email subscription storage EH 20190320 -->
+	<script type="text/javascript">
+		var emailInput = "https://www.occ.gov/publications-and-resources/tools/occ-email-updates/index-occ-email-updates.html" + "?";
+		function emailStorage (emailId, nameId, list) {
+                        let listVal = list ? list : ""
+                        let email = $("#" + emailId).val();
+                        let name = nameId ? $("#" + nameId).val() : "";
+			emailInput += "email=" + email + "&name=" + name + "&list=" + listVal + "#sub_anchor";
+			window.location.href = emailInput;
+		}
+	</script>
+
+<!-- Controls Sticky Nav  -  removed Sticky from Beta Website -->
+<script>
+window.onscroll = function () { myFunction() };
+var masthead = document.getElementById("masthead");
+var sticky = masthead.offsetTop;
+var windowsize = Math.max($(window).width(), window.innerWidth);
+var lastScrollTop = 0; //RL 08092019
+function myFunction() {
+	if (windowsize < 1000) {
+	var stCon = $('html,body');
+	if (navigator.userAgent.match(/(iPod|iPhone|iPad)/)) 
+	{ stCon = $('body') }
+	else  { stCon = $('html,body') }
+
+	var st = stCon.scrollTop();
+        if ((st > lastScrollTop) && !(navigator.userAgent.match(/(iPod|iPhone|iPad)/)) ){
+		document.getElementById("masthead").style.top = "-84px";
+	}
+	else if(st == lastScrollTop)
+	{
+	//do nothing
+	//In IE this is an important condition because there seems to be some instances where the last scrollTop is equal to the new one
+	}
+	else {
+	 	document.getElementById("masthead").style.top = "0";
+	}
+	lastScrollTop = st;
+	}
+}
+</script>
+	<script>
+		(function () {
+			var headers = document.querySelectorAll('h1,h2,h3,h4,h5,h6');
+			for (var i = 0; i < headers.length; i++) {
+				headers[i].setAttribute('data-content', headers[i].innerHTML);
+			}
+		})();
+	</script>
+
+	<!-- Controls Back to Top -->
+	<script>
+		$(document).ready(function () {
+			$("#back-to-top").hide();
+			$(function () {
+				$(window).scroll(function () {
+					if ($(window).scrollTop() > 200) {
+						$("#back-to-top").fadeIn(900);
+					}
+					else {
+						$("#back-to-top").fadeOut(900);
+					}
+				});
+				//back to top 
+				$("#back-to-top").click(function () {
+					$('body,html').animate({ scrollTop: 0 }, 1000);
+					return false;
+				});
+			});
+
+			$(function () {
+				var quickaccessVisible = false;
+				var searchNavVisible = false;
+				var desksearchVisible = false;
+				var megamenuAboutVisible = false;
+				var megamenuNewsVisible = false;
+				var megamenuPubsVisible = false;
+				var megamenuTopicsVisible = false;
+
+				$("#QuickAccessNav").click(function () {
+					if (quickaccessVisible) {
+						$("#utility-dropdown").css({ 'display': 'none' });
+						quickaccessVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					$("#utility-dropdown").css({ 'display': 'block' });
+					quickaccessVisible = true;
+
+					if ($("#utility-dropdown-search").css('display') == 'block') {
+						$("#utility-dropdown-search").css({ 'display': 'none' });
+						searchNavVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					event.stopPropagation();
+				});
+
+				$("#SearchNav").click(function () {
+					if (searchNavVisible) {
+						$("#utility-dropdown-search").css({ 'display': 'none' });
+						searchNavVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					$("#utility-dropdown-search").css({ 'display': 'block' });
+                                         $("#headerSearchInput").focus(); //EH 20190416
+					searchNavVisible = true;
+					if ($("#utility-dropdown").css('display') == 'block') {
+						$("#utility-dropdown").css({ 'display': 'none' });
+						quickaccessVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					event.stopPropagation();
+				});
+
+				$("#deskSearchNav").click(function () {
+					if (desksearchVisible) {
+						$("#desksearch-dropdown").css({ 'display': 'none' });
+						desksearchVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					$("#desksearch-dropdown").css({ 'display': 'block' });
+					desksearchVisible = true;
+					event.stopPropagation();
+
+                                        if (megamenuAboutVisible) {
+						$("#megamenu-dropdown-about").css({ 'display': 'none' });
+						megamenuAboutVisible = false;
+						$("#about-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuNewsVisible) {
+						$("#megamenu-dropdown-news").css({ 'display': 'none' });
+						megamenuNewsVisible = false;
+						$("#news-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuPubsVisible) {
+						$("#megamenu-dropdown-pubs").css({ 'display': 'none' });
+						megamenuPubsVisible = false;
+						$("#pubs-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuTopicsVisible) {
+						$("#megamenu-dropdown-topics").css({ 'display': 'none' });
+						megamenuTopicsVisible = false;
+						$("#topics-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+				});
+
+				$("#megamenu-about").click(function () {
+					if (megamenuAboutVisible) {
+						$("#megamenu-dropdown-about").css({ 'display': 'none' });
+						megamenuAboutVisible = false;
+						$("#about-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					$("#megamenu-dropdown-about").css({ 'display': 'block' });
+					$("#about-header").css({ 'border-bottom': '10px solid #FDB81E' });
+					megamenuAboutVisible = true;
+					
+                                        if (desksearchVisible) {
+						$("#desksearch-dropdown").css({ 'display': 'none' });
+						desksearchVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuNewsVisible) {
+						$("#megamenu-dropdown-news").css({ 'display': 'none' });
+						megamenuNewsVisible = false;
+						$("#news-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuPubsVisible) {
+						$("#megamenu-dropdown-pubs").css({ 'display': 'none' });
+						megamenuPubsVisible = false;
+						$("#pubs-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuTopicsVisible) {
+						$("#megamenu-dropdown-topics").css({ 'display': 'none' });
+						megamenuTopicsVisible = false;
+						$("#topics-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					event.stopPropagation();
+				});
+
+				$("#megamenu-news").click(function () {
+					if (megamenuNewsVisible) {
+						$("#megamenu-dropdown-news").css({ 'display': 'none' });
+						megamenuNewsVisible = false;
+						$("#news-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					$("#megamenu-dropdown-news").css({ 'display': 'block' });
+					$("#news-header").css({ 'border-bottom': '10px solid #FDB81E' });
+					megamenuNewsVisible = true;
+
+                                        if (desksearchVisible) {
+						$("#desksearch-dropdown").css({ 'display': 'none' });
+						desksearchVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuAboutVisible) {
+						$("#megamenu-dropdown-about").css({ 'display': 'none' });
+						megamenuAboutVisible = false;
+						$("#about-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuPubsVisible) {
+						$("#megamenu-dropdown-pubs").css({ 'display': 'none' });
+						megamenuPubsVisible = false;
+						$("#pubs-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuTopicsVisible) {
+						$("#megamenu-dropdown-topics").css({ 'display': 'none' });
+						megamenuTopicsVisible = false;
+						$("#topics-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					event.stopPropagation();
+				});
+
+				$("#megamenu-pubs").click(function () {
+					if (megamenuPubsVisible) {
+						$("#megamenu-dropdown-pubs").css({ 'display': 'none' });
+						megamenuPubsVisible = false;
+						$("#pubs-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					$("#megamenu-dropdown-pubs").css({ 'display': 'block' });
+					$("#pubs-header").css({ 'border-bottom': '10px solid #FDB81E' });
+					megamenuPubsVisible = true;
+
+                                        if (desksearchVisible) {
+						$("#desksearch-dropdown").css({ 'display': 'none' });
+						desksearchVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuNewsVisible) {
+						$("#megamenu-dropdown-news").css({ 'display': 'none' });
+						megamenuNewsVisible = false;
+						$("#news-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuAboutVisible) {
+						$("#megamenu-dropdown-about").css({ 'display': 'none' });
+						megamenuAboutVisible = false;
+						$("#about-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuTopicsVisible) {
+						$("#megamenu-dropdown-topics").css({ 'display': 'none' });
+						megamenuTopicsVisible = false;
+						$("#topics-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					event.stopPropagation();
+				});
+
+				$("#megamenu-topics").click(function () {
+					if (megamenuTopicsVisible) {
+						$("#megamenu-dropdown-topics").css({ 'display': 'none' });
+						megamenuTopicsVisible = false;
+						$("#topics-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					$("#megamenu-dropdown-topics").css({ 'display': 'block' });
+					$("#topics-header").css({ 'border-bottom': '10px solid #FDB81E' });
+					megamenuTopicsVisible = true;
+
+                                        if (desksearchVisible) {
+						$("#desksearch-dropdown").css({ 'display': 'none' });
+						desksearchVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuNewsVisible) {
+						$("#megamenu-dropdown-news").css({ 'display': 'none' });
+						megamenuNewsVisible = false;
+						$("#news-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuPubsVisible) {
+						$("#megamenu-dropdown-pubs").css({ 'display': 'none' });
+						megamenuPubsVisible = false;
+						$("#pubs-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					if (megamenuAboutVisible) {
+						$("#megamenu-dropdown-about").css({ 'display': 'none' });
+						megamenuAboutVisible = false;
+						$("#about-header").css({ 'border-bottom': '' });
+						event.stopPropagation();
+						return;
+					}
+					event.stopPropagation();
+				});
+
+				$(document).click(function () {
+					if ($("#utility-dropdown").css('display') == 'block') {
+						$("#utility-dropdown").hide();
+						quickaccessVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					if ($("#utility-dropdown-search").css('display') == 'block') {
+						$("#utility-dropdown-search").hide();
+						searchNavVisible = false;
+						event.stopPropagation();
+						return;
+					}
+				});
+
+				$(document).click(function () {
+					if ($("#megamenu-dropdown-about").css('display') == 'block') {
+						$("#megamenu-dropdown-about").hide();
+						$("#about-header").css({ 'border-bottom': '' });
+						megamenuAboutVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					if ($("#megamenu-dropdown-news").css('display') == 'block') {
+						$("#megamenu-dropdown-news").hide();
+						$("#news-header").css({ 'border-bottom': '' });
+						megamenuNewsVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					if ($("#megamenu-dropdown-pubs").css('display') == 'block') {
+						$("#megamenu-dropdown-pubs").hide();
+						$("#pubs-header").css({ 'border-bottom': '' });
+						megamenuPubsVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					if ($("#megamenu-dropdown-topics").css('display') == 'block') {
+						$("#megamenu-dropdown-topics").hide();
+						$("#topics-header").css({ 'border-bottom': '' });
+						megamenuTopicsVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					if ($("#desksearch-dropdown").css('display') == 'block') {
+						$("#desksearch-dropdown").hide();
+						quickaccessVisible = false;
+						event.stopPropagation();
+						return;
+					}
+					event.stopPropagation();
+				});
+
+
+				$(window).keyup(function (e) {
+					var code = (e.keyCode ? e.keyCode : e.which);
+					if (code == 27) {
+						if (quickaccessVisible) {
+							$("#utility-dropdown").hide();
+							quickaccessVisible = false;
+							$("#QuickAccessNav").focus();
+							event.stopPropagation();
+							return;
+						}
+						if (searchNavVisible) {
+							$("#utility-dropdown-search").hide();
+							searchNavVisible = false;
+							$("#SearchNav").focus();
+							event.stopPropagation();
+							return;
+						}
+						if (megamenuAboutVisible) {
+							$("#megamenu-dropdown-about").hide();
+							megamenuAboutVisible = false;
+							$("#megamenu-dropdown-about").focus();
+							event.stopPropagation();
+							return;
+						}
+						if (megamenuNewsVisible) {
+							$("#megamenu-dropdown-news").hide();
+							megamenuNewsVisible = false;
+							$("#megamenu-dropdown-news").focus();
+							event.stopPropagation();
+							return;
+						}
+						if (megamenuPubsVisible) {
+							$("#megamenu-dropdown-pubs").hide();
+							megamenuPubsVisible = false;
+							$("#megamenu-dropdown-pubs").focus();
+							event.stopPropagation();
+							return;
+						}
+						if (megamenuTopicsVisible) {
+							$("#megamenu-dropdown-topics").hide();
+							megamenuTopicsVisible = false;
+							$("#megamenu-dropdown-topics").focus();
+							event.stopPropagation();
+							return;
+						}
+					}
+				});
+
+				$('#utility-dropdown-search, #utility-dropdown').click(function (e) {
+					e.stopPropagation();
+				});
+
+			});
+		});
+
+		var addthis_config =
+			{
+				ui_tabindex: 0
+			}
+	</script>	
+  	<script>
+/*<![CDATA[*/
+(function() {
+var sz = document.createElement('script'); sz.type = 'text/javascript'; sz.async = true;
+sz.src = '//siteimproveanalytics.com/js/siteanalyze_50215.js';
+var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(sz, s);
+})();
+/*]]>*/
+</script>
+		
+
+    	    	    
+			
+
+
+	<!-- /////// begin Responsive Menu ////////// -->
+	
+    <div id="sitemap">
+  <ul class="side-header-nav">
+    <li><strong class="header-text">Menu</strong></li>
+  </ul>
+																																						<ul class="topic-level1">
+				<li><a href="/about/index-about.html">About</a>
+								        							        								        							        								        							        								        							                   			                           																			<ul class="topic-level2">
+						        				        				        				        																	<li><a href="/about/who-we-are/index-who-we-are.html">Who We Are</a>
+						        				        								        				        								        				        								        				        								        				        								        				        																<ul class="topic-level3">
+					            				            				            				            																		<li><a href="/about/who-we-are/comptroller/bio-comptroller-joseph-otting.html">Comptroller</a>
+						</li>
+																			            				            				            				            																		<li><a href="/about/who-we-are/leadership/index-leadership.html">Leadership</a>
+						</li>
+																			            				            				            				            																		<li><a href="/about/who-we-are/organizations/index-organization.html">Organization</a>
+							        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/about/who-we-are/organizations/bank-supervision-policy/index-bank-supervision-policy.html">Bank Supervision Policy</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/organizations/chief-counsels-office/index-chief-counsels-office.html">Chief Counsel's Office</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/organizations/chief-operating-officer/index-chief-operating-officer.html">Chief Operating Officer</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/organizations/economics-department/index-economics-department.html">Economics Department</a>
+								        							        								        							        								        							        																<ul class="topic-level5">
+					            				            				            				            																				
+									<li><a href="/about/who-we-are/organizations/economics-department/meet-the-research-economists/index-meet-our-research-economists.html">Meet Our Research Economists</a></li>
+																	            				            				            				            																				
+									<li><a href="/about/who-we-are/organizations/economics-department/risk-analysis/index-risk-analysis.html">Risk Analysis</a></li>
+																	            				            				            				            																				
+									<li><a href="/about/who-we-are/organizations/economics-department/economic-and-policy-analysis/index-economic-and-policy-analysis.html">Economic and Policy Analysis</a></li>
+																					</ul>
+											</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/organizations/large-bank-supervision/index-large-bank-supervision.html">Large Bank Supervision</a>
+								        							        																<ul class="topic-level5">
+					            				            				            				            																				
+									<li><a href="/about/who-we-are/organizations/large-bank-supervision/international-banking-supervision/index-international-banking-supervision.html">International Banking Supervision</a></li>
+																					</ul>
+											</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/organizations/midsize-and-community-bank-supervision/index-midsize-and-community-bank-supervision.html">Midsize and Community Bank Supervision</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/organizations/office-of-enterprise-governance-and-the-ombudsman/index-office-of-enterprise-governance-and-the-ombudsman.html">Office of Enterprise Governance and the Ombudsman</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/organizations/office-of-enterprise-risk-management/index-office-of-enterprise-risk-management.html">Office of Enterprise Risk Management</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/organizations/office-of-innovation/index-office-of-innovation.html">Office of Innovation</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/organizations/office-of-management-cfo/index-office-of-management-cfo.html">Office of Management/CFO</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/organizations/office-of-minority-and-women-inclusion/index-office-of-minority-women-and-inclusion.html">Office of Minority Women and Inclusion</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/organizations/office-of-public-affairs/index-office-of-public-affairs.html">Office of Public Affairs</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/about/who-we-are/locations/index-locations.html">Locations</a>
+							        			           								        			           								        			           								        			           								        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/about/who-we-are/locations/central-district/index-central-district.html">Central District</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/locations/large-bank-supervision/index-large-bank-supervision-locations.html">Large Bank Supervision Locations</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/locations/midsize-bank-supervision/index-midsize-bank-supervision.html">Midsize Bank Supervision Locations</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/locations/northeastern-district/index-northeastern-district.html">Northeastern District</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/locations/southern-district/index-southern-district.html">Southern District</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/locations/western-district/index-western-district.html">Western District</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/about/who-we-are/history/index-history.html">History</a>
+							        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/about/who-we-are/history/founding-occ-national-bank-system/index-founding-occ-national-banking-system.html">Founding of the OCC & the National Banking System</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/history/hugh-mcculloch-first-comptroller/index-hugh-mcculloch-the-first-comptroller.html">Hugh McCulloch: OCC's First Comptroller</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/history/1863-1865/index-occ-history-1863-1865.html">1863-1865</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/history/1866-1913/index-occ-history-1866-1913.html">1866-1913</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/history/1914-1935/index-occ-history-1914-1935.html">1914-1935</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/history/1936-1966/index-occ-history-1936-1966.html">1936-1966</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/history/1967-2007/index-occ-history-1967-2007.html">1967-2007</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/history/2008-present/index-occ-history-2008-present.html">2008-Present</a>
+						</li>
+																		        				        				        				        																	<li><a href="/about/who-we-are/history/previous-comptrollers/index-previous-comptrollers.html">Previous Comptrollers</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="https://careers.occ.gov/index.html">Careers at OCC</a>
+						</li>
+																							</ul>
+											</li>
+															        				        				        				        																	<li><a href="/about/what-we-do/index-what-we-do.html">What We Do</a>
+						        				        								        				        								        				        																<ul class="topic-level3">
+					            				            				            				            																		<li><a href="/about/what-we-do/annual-report/index.html">Annual Report</a>
+						</li>
+																			            				            				            				            																		<li><a href="/about/what-we-do/key-data-and-statistics/index-occ-and-federal-banking-system-at-a-glance.html">Key Data & Statistics</a>
+						</li>
+																			            				            				            				            																		<li><a href="/publications-and-resources/publications/banker-education/files/occ-strategic-plan-fy-2019-2023.html">Strategic Plan</a>
+						</li>
+																							</ul>
+											</li>
+															        				        				        				        																	<li><a href="/about/connect-with-us/index-connect-with-us.html">Connect With Us</a>
+						        				        								        				        								        				        								        				        								        				        								        				        								        				        								        				        								        				        																<ul class="topic-level3">
+					            				            				            				            																		<li><a href="/about/connect-with-us/contact-the-occ/index-contact-the-occ.html">Contact the OCC</a>
+						</li>
+																			            				            				            				            																		<li><a href="/about/who-we-are/locations/index-locations.html">District & Field Offices</a>
+						</li>
+																			            				            				            				            																		<li><a href="/news-events/media-resources/index-media-resources.html">Media Resources</a>
+						</li>
+																			            				            				            				            																		<li><a href="/about/connect-with-us/doing-business-with-the-occ/index-doing-business-with-the-occ.html">Doing Business With the OCC</a>
+						</li>
+																			            				            				            				            																		<li><a href="/about/connect-with-us/foia/index-foia.html">Freedom of Information Act (FOIA)</a>
+						</li>
+																			            				            				            				            																		<li><a href="/about/connect-with-us/occ-outreach/index-occ-outreach.html">OCC Outreach</a>
+						</li>
+																			            				            				            				            																		<li><a href="/about/connect-with-us/public-comments/index-public-comments.html">Public Comments</a>
+						</li>
+																			            				            				            				            																		<li><a href="/publications-and-resources/information-for/occ-alumni/index-information-for-occ-alumni.html">OCC Alumni</a>
+						</li>
+																			            				            				            				            																		<li><a href="/about/connect-with-us/whistleblower-protections/index-whistleblower-protection-and-prohibited-personnel-practices.html">Whistleblower Protections</a>
+						</li>
+																							</ul>
+											</li>
+															        				        				        					        				        					        				        					        				        					        				        				        																	<li><a href="/about/policies/index-policies.html">Policies</a>
+						</li>
+																				</ul>
+												</li>
+			</ul>
+																																								<ul class="topic-level1">
+				<li><a href="/news-events/index-news-events.html">News & Events</a>
+								        							        								        							        								        							        								        							        																	<ul class="topic-level2">
+						        				        				        				        																	<li><a href="/news-events/newsroom/index.html">Newsroom</a>
+						        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				        																<ul class="topic-level3">
+					            				            				            					            				            				            																		<li><a href="/news-events/newsroom/index.html?nr=News Release">News Releases</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/news-events/newsroom/index.html?nr=Bulletin">Bulletins</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/news-events/newsroom/index.html?nr=Alert">Alerts</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/news-events/newsroom/index.html?nr=Speech">Speeches</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/news-events/newsroom/index.html?nr=Congressional Testimony">Congressional Testimonies</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/news-events/newsroom/index.html?nr=Advisory Letter">Advisory Letters</a>
+						</li>
+																			            				            				            				            																		<li><a href="/news-events/newsroom/news-issuances-by-year/index-news-and-issuances-by-year.html">News & Issuances By Year</a>
+							        			                      			                           										        			                      			                           										        			                      			                           										        			                      			                           										        			                      			                           										        			                      			                           										        			                      			                           																		<ul class="topic-level4">
+					        				        				        					        				        					        				        				        																	<li><a href="/news-events/newsroom/news-issuances-by-year/news-releases/index-news-releases.html">News Releases</a>
+								        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        																										</li>
+																		        				        				        					        				        					        				        				        																	<li><a href="/news-events/newsroom/news-issuances-by-year/bulletins/index-bulletins.html">Bulletins</a>
+								        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        																										</li>
+																		        				        				        					        				        					        				        				        																	<li><a href="/news-events/newsroom/news-issuances-by-year/alerts/index-alerts.html">Alerts</a>
+								        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        																										</li>
+																		        				        				        					        				        					        				        				        																	<li><a href="/news-events/newsroom/news-issuances-by-year/speeches/index-speeches.html">Speeches</a>
+								        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        																										</li>
+																		        				        				        					        				        					        				        				        																	<li><a href="/news-events/newsroom/news-issuances-by-year/congressional-testimony/index-congressional-testimony-.html">Congressional Testimony</a>
+								        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        																										</li>
+																		        				        				        					        				        					        				        				        																	<li><a href="/news-events/newsroom/news-issuances-by-year/advisory-letters/index-advisory-letters.html">Advisory Letters</a>
+								        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        															        							                   			        																										</li>
+																		        				        				        					        				        					        				        				        																	<li><a href="/news-events/newsroom/news-issuances-by-year/ots-issuances/index-ots-issuances.html">OTS Issuances</a>
+						</li>
+																						</ul>
+											</li>
+																							</ul>
+											</li>
+															        				        				        				        																	<li><a href="/news-events/events/index-events.html">Events</a>
+						</li>
+															        				        				        				        																	<li><a href="/news-events/media-resources/index-media-resources.html">Media Resources</a>
+						</li>
+															        				        				        				        																	<li><a href="/news-events/news-and-events-archive/index-news-and-issuance-archive.html">News & Issuance Archive</a>
+						        				        								        				        								        				        																<ul class="topic-level3">
+					            				            				            				            																		<li><a href="/news-events/news-and-events-archive/consumer-advisories/index-consumer-advisories.html">Consumer Advisories</a>
+						</li>
+																			            				            				            				            																		<li><a href="/news-events/news-and-events-archive/public-service-announcements/index-public-service-announcements.html">Public Service Announcements</a>
+						</li>
+																			            				            				            				            																		<li><a href="/news-events/news-and-events-archive/rescinded-issuances/index-rescinded-issuances.html">Rescinded Issuances</a>
+						</li>
+																							</ul>
+											</li>
+																				</ul>
+												</li>
+			</ul>
+																																								<ul class="topic-level1">
+				<li><a href="/publications-and-resources/index-publications-and-resources.html">Publications & Resources</a>
+								        							        								        							        								        							        								        							        																	<ul class="topic-level2">
+						        				        				        				        																	<li><a href="/publications-and-resources/publications/index-publications.html">Publications</a>
+						        				        								        				        								        				        								        				        								        				        								        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           																		<ul class="topic-level3">
+					            				            				            				            																		<li><a href="/publications-and-resources/publications/comptrollers-handbook/index-comptrollers-handbook.html">Comptroller's Handbook</a>
+						</li>
+																			            				            				            				            																		<li><a href="/publications-and-resources/publications/comptrollers-licensing-manual/index-comptrollers-licensing-manual.html">Comptroller's Licensing Manual</a>
+						</li>
+																			            				            				            				            																		<li><a href="/publications-and-resources/publications/mortgage-metrics-reports/index-mortgage-metrics-reports.html">Mortgage Metrics Report</a>
+						</li>
+																			            				            				            				            																		<li><a href="/publications-and-resources/publications/semiannual-risk-perspective/index-semiannual-risk-perspective.html">Semiannual Risk Perspective</a>
+						</li>
+																			            				            				            				            																		<li><a href="/publications-and-resources/publications/index-publications.html">All Publications</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/about-the-occ-pubs/index-about-the-occ.html">About the OCC</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/annual-report/index-annual-report.html">Annual Report</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/banker-education/index-banker-education.html">Banker Education</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/charters-and-licensing-pubs/index-charters-and-licensing.html">Charters and Licensing</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/community-affairs/index-community-affairs-publications.html">Community Affairs Publications</a>
+							        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/publications-and-resources/publications/community-affairs/index-community-affairs-publications.html">Community Developments Investments</a>
+								        							        								        							        								        							        								        							        								        							        								        							        								        							        								        							        								        							        																<ul class="topic-level5">
+					            				            				            				            																				
+									<li><a href="/publications-and-resources/publications/community-affairs/community-developments-investments/feb-2013/index-cdi-feb-2013.html">Community Developments Investments (February 2013)</a></li>
+																	            				            				            				            																				
+									<li><a href="/publications-and-resources/publications/community-affairs/community-developments-investments/mar-2017/index-cdi-mar-2017.html">Community Developments Investments (March 2017)</a></li>
+																	            				            				            				            																				
+									<li><a href="/publications-and-resources/publications/community-affairs/community-developments-investments/jun-2016/index-cdi-jun-2016.html">Community Developments Investments (June 2016)</a></li>
+																	            				            				            				            																				
+									<li><a href="/publications-and-resources/publications/community-affairs/community-developments-investments/jul-2015/index-cdi-jul-2015.html">Community Developments Investments (July 2015)</a></li>
+																	            				            				            				            																				
+									<li><a href="/publications-and-resources/publications/community-affairs/community-developments-investments/sep-2016/index-cdi-sep-2016.html">Community Developments Investments (September 2016)</a></li>
+																	            				            				            				            																				
+									<li><a href="/publications-and-resources/publications/community-affairs/community-developments-investments/may-2018/index-cdi-may-2018.html">CDI May 2018</a></li>
+																	            				            				            				            																				
+									<li><a href="/publications-and-resources/publications/community-affairs/community-developments-investments/feb-2018/index-cdi-feb-2018.html">Community Developments Investments (February 2018)</a></li>
+																	            				            				            				            																				
+									<li><a href="/publications-and-resources/publications/community-affairs/community-developments-investments/nov-2013/index-cdi-nov-2013.html">Community Developments Investments (November 2013)</a></li>
+																	            				            				            				            																				
+									<li><a href="/publications-and-resources/publications/community-affairs/community-developments-investments/nov-2018/index-cdi-nov-2018.html">Community Developments Investments (November 2018)</a></li>
+																					</ul>
+											</li>
+																						</ul>
+											</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/consumers-and-communities-pubs/index-consumers-and-communities-publications.html">Consumers and Communities Publications</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/consumer-protection-pubs/index-consumer-protection.html">Consumer Protection Publications</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/economic-and-banking-industry-analysis-pubs/index-economic-and-banking-industry-analysis.html">Economic and Banking Industry Analysis</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/economics-working-papers/index-economics-working-papers.html">Economics Working Papers</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/guidance-on-advanced-approaches/index-guidance-on-advanced-approaches.html">Guidance on Advanced Approaches</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/laws-and-regulations-pubs/index-laws-and-regulations-publications.html">Laws and Regulations Publications</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/omwi-publications/index-omwi-publications.html">Office of Minority and Women Inclusion (OMWI) Publications</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/quarterly-journal/index-quarterly-journal.html">Quarterly Journal</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/quarterly-report-on-bank-trading-and-derivatives-activities/index-quarterly-report-on-bank-trading-and-derivatives-activities.html">Quarterly Report on Bank Trading and Derivatives Activities</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/shared-national-credit-report/index-shared-national-credit-report.html">Shared National Credit Report</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/survey-of-credit-underwriting-practices/index-survey-of-credit-underwriting-practices.html">Survey of Credit Underwriting Practices</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/supervision-and-examinations-pubs/index-supervision-and-examinations.html">Supervision and Examinations</a>
+						</li>
+																							</ul>
+											</li>
+															        				        				        				        																	<li><a href="/publications-and-resources/tools/index-tools.html">Tools</a>
+						        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           																		<ul class="topic-level3">
+					            				            				            					            				            				            																		<li><a href="https://www.banknet.gov/home/entrance/">BankNet</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="https://apps.occ.gov/CAAS_CATS/">Corporate Applications Search (CAS)</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/tools/occ-financial-institution-search/index-occ-financial-institution-search.html">OCC Financial Institution Search</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/tools/index-tools.html">All Tools</a>
+						</li>
+																			            				            				            					            				            					            				            				            																		<li><a href="/publications-and-resources/tools/aprwin/index-aprwin.html">APRWIN</a>
+						</li>
+																			            				            				            					            				            					            				            				            																		<li><a href="/publications-and-resources/tools/apywin/index-apywin.html">APYWIN</a>
+						</li>
+																			            				            				            					            				            					            				            				            																		<li><a href="/publications-and-resources/tools/cats/index-cats.html">CATS</a>
+						</li>
+																			            				            				            					            				            					            				            				            																		<li><a href="/publications-and-resources/tools/occ-email-updates/index-occ-email-updates.html">OCC Email Updates</a>
+						</li>
+																							</ul>
+											</li>
+															        				        				        				        																	<li><a href="/publications-and-resources/forms/index-forms.html">Forms</a>
+						        				                   			                           										        				                   			                           										        				                   			                           										        				                   			                           																		<ul class="topic-level3">
+					            				            				            					            				            				            																		<li><a href="/publications-and-resources/forms/dodd-frank-act-stress-test/index-dodd-frank-act-stress-test.html">Dodd-Frank Act Stress Test</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/publications/comptrollers-licensing-manual/files/licensing-filing-forms.html">Licensing Filing Forms</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/forms/sar-program/index-sar-program.html">Suspicious Activity Report (SAR) Program</a>
+						</li>
+																			            				            				            					            				            				            																		<li><a href="/publications-and-resources/forms/index-forms.html">All Forms</a>
+						</li>
+																							</ul>
+											</li>
+															        				        				        				        																	<li><a href="/publications-and-resources/information-for/index-information-for.html">Information For...</a>
+						        				        								        				        								        				        								        				        								        				        																<ul class="topic-level3">
+					            				            				            				            																		<li><a href="/publications-and-resources/information-for/bankers/index-information-for-bankers.html">Bankers</a>
+							        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/publications-and-resources/information-for/bankers/community-bank-director-workshops/index-community-bank-director-workshops.html">Community Bank Director Workshops</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="https://www.helpwithmybank.gov/index.html">Bank Customers</a>
+						</li>
+																			            				            				            				            																		<li><a href="/news-events/media-resources/index-media-resources.html">Media Representatives</a>
+						</li>
+																			            				            				            				            																		<li><a href="https://careers.occ.gov/index.html">Job Seekers</a>
+						</li>
+																			            				            				            				            																		<li><a href="/publications-and-resources/information-for/occ-alumni/index-information-for-occ-alumni.html">OCC Alumni</a>
+						</li>
+																							</ul>
+											</li>
+																				</ul>
+												</li>
+			</ul>
+																																								<ul class="topic-level1">
+				<li><a href="/topics/index-topics.html">Topics</a>
+								        							        								        							        								        							        								        							        																	<ul class="topic-level2">
+						        				        				        				        																	<li><a href="/topics/supervision-and-examination/index-supervision-and-examination.html">Supervision & Examination</a>
+						        				        								        				        								        				        								        				        								        				        								        				        								        				        								        				        								        				        								        				        								        				        								        				        								        				        																<ul class="topic-level3">
+					            				            				            				            																		<li><a href="/topics/supervision-and-examination/bank-management/index-bank-management.html">Bank Management</a>
+							        			           								        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/topics/supervision-and-examination/bank-management/community-banks/index-community-banks.html">Community Banks</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bank-management/minority-depository-institutions/index-minority-depository-institutions.html">Minority Depository Institutions</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bank-management/mutual-savings-associations/index-mutual-savings-associations.html">Mutual Savings Associations</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/topics/supervision-and-examination/bank-operations/index-bank-operations.html">Bank Operations</a>
+							        			           								        			           								        			           								        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/topics/supervision-and-examination/bank-operations/accounting/index-accounting.html">Accounting</a>
+								        							        								        							        																<ul class="topic-level5">
+					            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/bank-operations/accounting/alll/index-alll.html">Allowances for Loan and Lease Losses (ALLL)</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/bank-operations/accounting/current-expected-credit-losses/index-current-expected-credit-losses.html">Current Expected Credit Losses (CECL) Methodology</a></li>
+																					</ul>
+											</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bank-operations/bit/index-bit.html">Bank Information Technology (BIT)</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bank-operations/financial-crime/index-financial-crime.html">Financial Crime</a>
+								        							        								        							        								        							        								        							        								        							        																<ul class="topic-level5">
+					            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/bank-operations/financial-crime/counterfeit-or-stolen-instruments/index-counterfeit-or-stolen-instruments.html">Counterfeit or Stolen Instruments</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/bank-operations/financial-crime/identity-theft/index-identity-theft.html">Identity Theft</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/bank-operations/financial-crime/money-laundering/index-money-laundering.html">Money Laundering</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/bank-operations/financial-crime/suspicious-activity-reports/index-suspicious-activity-reports.html">Suspicious Activity Reports (SAR)</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/bank-operations/financial-crime/unauthorized-banking/index-unauthorized-banking.html">Unauthorized Banking</a></li>
+																					</ul>
+											</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bank-operations/major-disaster-news-center/occs-major-disaster-news-center.html">Major Disaster News Center</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bank-operations/covid-19-information/convid-19-info-index.html">COVID-19 (Coronavirus)</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/topics/supervision-and-examination/bsa/index-bsa.html">Bank Secrecy Act (BSA)</a>
+							        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/topics/supervision-and-examination/bsa/bsa-aml-examinations/index-bsa-aml-examinations.html">BSA/AML Examinations</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bsa/bsa-ofac-enforcement/index-bsa-and-ofac-enforcement.html">BSA & OFAC Enforcement</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bsa/bsa-related-regulations/index-bsa-and-related-regulations.html">BSA & Related Regulations</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bsa/bsa-law-enforcement-tools-resources/index-bsa-law-enforcement-tools-and-resources.html">BSA Law Enforcement Tools & Resources</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bsa/bsa-aml-bulletins-fincen-advisories-related-basel/index-bsa-aml-bulletins-fincen-advisories-related-basel.html">BSA/AML Bulletins, FinCEN Advisories, & Related BASEL Information</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bsa/counter-terrorist-financing/index-counter-terrorist-financing.html">Counter-Terrorist Financing</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bank-operations/financial-crime/money-laundering/index-money-laundering.html">Money Laundering</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bank-operations/financial-crime/suspicious-activity-reports/index-suspicious-activity-reports.html">Suspicious Activity Reports (SAR)</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/bsa/links-to-other-orgs-bsa-info/index-links-to-other-organizations-bsa-info.html">Links to Other Organizationsâ€™ BSA Information</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/topics/supervision-and-examination/capital/index-capital.html">Capital</a>
+						</li>
+																			            				            				            				            																		<li><a href="/topics/supervision-and-examination/capital-markets/index-capital-markets.html">Capital Markets</a>
+							        			           								        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/topics/supervision-and-examination/capital-markets/asset-management/index-asset-management.html">Asset Management</a>
+								        							        								        							        								        							        								        							        								        							        								        							        								        							        								        							        								        							        																<ul class="topic-level5">
+					            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/asset-management/collective-investment-funds/index-collective-investment-funds.html">Collective Investment Funds</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/asset-management/conflicts-of-interest/index-conflicts-of-interest.html">Conflicts of Interest</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/asset-management/corporate-trust/index-corporate-trust.html">Corporate Trust</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/asset-management/custody-services/index-custody-services.html">Custody Services</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/asset-management/employee-benefits-and-retirement-plan-services/index-employee-benefits-and-retirement-plan-services.html">Employee Benefits and Retirement Plan Services</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/asset-management/glba-reg-r-retail-nondeposit-investment-sales/index-glbra-reg-r-and-rndips.html">GLBA/Reg R/Retail Nondeposit Investment Sales</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/asset-management/personal-fiduciary-services/index-personal-fiduciary-services.html">Personal Fiduciary Services</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/asset-management/investment-management-services/index-investment-management-services.html">Traditional and Alternative Investment Management Services</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/asset-management/trust-operations/index-trust-operations.html">Trust Operations</a></li>
+																					</ul>
+											</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/capital-markets/balance-sheet-management/index-balance-sheet-management.html">Balance Sheet Management</a>
+								        							        								        							        								        							        								        							        																<ul class="topic-level5">
+					            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/balance-sheet-management/boli/index-boli.html">Bank-owned Life Insurance (BOLI)</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/balance-sheet-management/interest-rate-risk/index-interest-rate-risk.html">Interest Rate Risk</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/balance-sheet-management/investment-securities/index-investment-securities.html">Investment Securities</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/balance-sheet-management/liquidity/index-liquidity.html">Liquidity</a></li>
+																					</ul>
+											</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/capital-markets/financial-markets/index-financial-markets.html">Financial Markets</a>
+								        							        								        							        								        							        								        							        																<ul class="topic-level5">
+					            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/financial-markets/counterparty-risk/index-counterparty-risk.html">Counterparty Risk</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/financial-markets/derivatives/index-derivatives.html">Derivatives</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/financial-markets/securitization/index-securitization.html">Securitization</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/capital-markets/financial-markets/trading-volcker-rule/index-trading-volcker-rule.html">Trading/Volcker Rule</a></li>
+																					</ul>
+											</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/topics/consumers-and-communities/cra/index-cra.html">Community Reinvestment Act (CRA)</a>
+						</li>
+																			            				            				            				            																		<li><a href="/topics/supervision-and-examination/consumer-compliance/index-consumer-compliance.html">Consumer Compliance</a>
+						</li>
+																			            				            				            				            																		<li><a href="/topics/supervision-and-examination/credit/index-credit.html">Credit</a>
+							        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/topics/supervision-and-examination/credit/commercial-credit/index-commercial-credit.html">Commercial Credit</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/credit/retail-credit/index-retail-credit.html">Retail Credit</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/topics/supervision-and-examination/dispute-resolution/index-dispute-resolution.html">Dispute Resolution</a>
+							        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/topics/supervision-and-examination/dispute-resolution/bank-appeals/index-bank-appeals.html">Bank Appeals</a>
+								        							        																<ul class="topic-level5">
+					            				            				            				            																				
+									<li><a href="/topics/supervision-and-examination/dispute-resolution/bank-appeals/summaries/bank-appeals-summaries.html">Bank Appeal Summaries</a></li>
+																					</ul>
+											</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/dispute-resolution/consumer-complaints/index-consumer-complaints.html">Consumer Complaints</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/about/who-we-are/organizations/economics-department/index-economics-department.html">Economics</a>
+						</li>
+																			            				            				            				            																		<li><a href="/topics/supervision-and-examination/examinations/index-examinations.html">Examinations</a>
+							        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/topics/supervision-and-examination/examinations/assessments-and-fees/index-assessments-and-fees.html">Assessments & Fees</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/examinations/examinations-overview/index-examinations-overview.html">Examinations Overview</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/topics/supervision-and-examination/international-banking/index-international-banking.html">International Banking</a>
+							        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/about/who-we-are/organizations/large-bank-supervision/international-banking-supervision/index-international-banking-supervision.html">International Banking Supervision</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/supervision-and-examination/international-banking/international-outreach/index-international-outreach.html">International Outreach</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/topics/supervision-and-examination/responsible-innovation/index-responsible-innovation.html">Responsible Innovation</a>
+						</li>
+																							</ul>
+											</li>
+															        				        				        				        																	<li><a href="/topics/laws-and-regulations/index-laws-and-regulations.html">Laws & Regulations</a>
+						        				        								        				        								        				        								        				        								        				        																<ul class="topic-level3">
+					            				            				            				            																		<li><a href="/topics/laws-and-regulations/occ-regulations/index-occ-regulations.html">OCC Regulations</a>
+							        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/topics/laws-and-regulations/occ-regulations/final-issuances/index-final-issuances.html">Final Issuances</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/laws-and-regulations/occ-regulations/proposed-issuances/index-proposed-issuances.html">Proposed Issuances</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/topics/laws-and-regulations/enforcement-actions/index-enforcement-actions.html">Enforcement Actions</a>
+							        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/topics/laws-and-regulations/enforcement-actions/enforcement-action-types/index-enforcement-action-types.html">Enforcement Action Types</a>
+						</li>
+																		        				        				        				        																	<li><a href="http://apps.occ.gov/EnforcementActions">Enforcement Actions Search Tool</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/topics/laws-and-regulations/interpretations-and-precedents/index-interpretations-and-precedents.html">Interpretations & Precedents</a>
+							        			           								        			           								        			           								        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/news-events/newsroom/index.html?nr=Advisory Letter">Advisory Letters</a>
+						</li>
+																		        				        				        				        																	<li><a href="/news-events/newsroom/index.html?nr=Bulletin">Bulletins</a>
+						</li>
+																		        				        				        				        																	<li><a href="/publications-and-resources/publications/comptrollers-licensing-manual/index-comptrollers-licensing-manual.html">Comptroller's Licensing Manual</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/charters-and-licensing/interpretations-and-actions/index-interpretations-and-actions.html">Interpretations and Actions</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/laws-and-regulations/interpretations-and-precedents/legal-opinions-re-thrift-savings-associations/index-legal-opinions-re-thrift-savings-associations.html">Legal Opinions Regarding Federal Savings Associations</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/topics/laws-and-regulations/legislation-of-interest/index-legislation-of-interest.html">Legislation of Interest</a>
+						</li>
+																			            				            				            				            																		<li><a href="/topics/laws-and-regulations/litigation/index-litigation.html">Litigation</a>
+						</li>
+																							</ul>
+											</li>
+															        				        				        				        																	<li><a href="/topics/charters-and-licensing/index-charters-licensing.html">Charters & Licensing</a>
+						        				        								        				        								        				        								        				        								        				        								        				        								        				        																<ul class="topic-level3">
+					            				            				            				            																		<li><a href="/publications-and-resources/publications/comptrollers-licensing-manual/index-comptrollers-licensing-manual.html">Comptroller's Licensing Manual</a>
+						</li>
+																			            				            				            				            																		<li><a href="/topics/charters-and-licensing/financial-institution-lists/index-financial-institution-lists.html">Financial Institution Lists</a>
+						</li>
+																			            				            				            				            																		<li><a href="https://apps.occ.gov/CAAS_CATS/">Corporate Application Search (CAS)</a>
+						</li>
+																			            				            				            				            																		<li><a href="/topics/charters-and-licensing/weekly-bulletin/index-weekly-bulletin.html">Weekly Bulletin</a>
+						</li>
+																			            				            				            				            																		<li><a href="/topics/charters-and-licensing/interpretations-and-actions/index-interpretations-and-actions.html">Interpretations & Actions</a>
+						</li>
+																			            				            				            				            																		<li><a href="/publications-and-resources/publications/comptrollers-licensing-manual/files/licensing-filing-forms.html">Licensing Filing Forms</a>
+						</li>
+																			            				            				            				            																		<li><a href="/topics/charters-and-licensing/public-comment/index-public-comments-on-applications.html">Public Comments on Applications</a>
+						</li>
+																							</ul>
+											</li>
+															        				        				        				        																	<li><a href="/topics/consumers-and-communities/index-consumers-and-communities.html">Consumers & Communities</a>
+						        				        								        				        								        				        								        				        								        				        								        				        																<ul class="topic-level3">
+					            				            				            				            																		<li><a href="/topics/consumers-and-communities/community-affairs/index-community-affairs.html">Community Affairs</a>
+							        			           								        			           								        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/topics/consumers-and-communities/community-affairs/community-affairs-outreach/index-community-affairs-outreach.html">Community Affairs Outreach</a>
+						</li>
+																		        				        				        				        																	<li><a href="/publications-and-resources/publications/community-affairs/index-community-affairs-publications.html">Publications</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/index-resource-directories.html">Resource Directories</a>
+								        							        								        							        								        							        								        							        								        							        								        							        								        							        								        							        								        							        								        							        																<ul class="topic-level5">
+					            				            				            				            																				
+									<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/banking-underbanked/index-banking-the-underbanked-resource-directory.html">Banking the Underbanked</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/cdfi-and-cd-bank/index-cdfi-and-cd-bank-resource-directory.html">CDFI and CD Banking</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/financial-literacy/index-financial-literacy-resource-directory.html">Financial Literacy</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/multifamily-rental/index-multifamily-rental-resource-directory.html">Multifamily Rental</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/native-american-banking/index-native-american-banking-resource-directory.html">Native American Banking</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/neighborhood-stabilization-revitalization/index-neighborhood-stabilization-revitalization-resource-directory.html">Neighborhood Stabilization and Revitalization</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/public-welfare-investments/index-public-welfare-investments-resource-directory.html">Public Welfare Investments</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/rural-economic-development/index-rural-economic-development-resource-directory.html">Rural Economic Development</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/small-business/index-small-business-resource-directory.html">Small Business</a></li>
+																	            				            				            				            																				
+									<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/tax-credits/index-tax-credits-resource-directory.html">Tax Credits</a></li>
+																					</ul>
+											</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/community-affairs/videos/index-community-affairs-videos.html">Videos</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/topics/consumers-and-communities/cra/index-cra.html">Community Reinvestment Act (CRA)</a>
+						</li>
+																			            				            				            				            																		<li><a href="/topics/consumers-and-communities/consumer-protection/index-consumer-protection.html">Consumer Protection</a>
+							        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           								        			           																<ul class="topic-level4">
+					        				        				        				        																	<li><a href="/topics/consumers-and-communities/consumer-protection/credit-cards-debit-cards-and-gift-cards/index-credit-cards-debit-cards-gift-cards.html">Credit Cards, Debit Cards, And Gift Cards</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/consumer-protection/credit-reporting/index-credit-reporting.html">Credit Reporting</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/consumer-protection/depository-services/index-depository-services.html">Depository Services</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/consumer-protection/fair-lending/index-fair-lending.html">Fair Lending</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/consumer-protection/flood-disaster-protection/index-flood-disaster-protection.html">Flood Disaster Protection</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/consumer-protection/foreclosure-prevention/index-foreclosure-prevention.html">Foreclosure Prevention</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/consumer-protection/fraud-resources/index-fraud-resources.html">Fraud Resources</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/consumer-protection/mortgages/index-mortgages.html">Mortgages</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/consumer-protection/payday-lending/index-payday-lending.html">Payday Lending</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/consumer-protection/privacy/index-privacy.html">Privacy</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/consumer-protection/servicemembers-civil-relief-act/index-servicemembers-civil-relief-act.html">Servicemembers' Civil Relief Act</a>
+						</li>
+																		        				        				        				        																	<li><a href="/topics/consumers-and-communities/consumer-protection/truth-in-lending/index-truth-in-lending.html">Truth In Lending</a>
+						</li>
+																						</ul>
+											</li>
+																			            				            				            				            																		<li><a href="/topics/consumers-and-communities/community-affairs/resource-directories/financial-literacy/index-financial-literacy-resource-directory.html">Financial Literacy</a>
+						</li>
+																			            				            				            				            																		<li><a href="/topics/consumers-and-communities/minority-outreach/index-minority-outreach.html">Minority Outreach</a>
+						</li>
+																			            				            				            				            																		<li><a href="/topics/consumers-and-communities/public-bank-information/index-public-bank-information.html">Public Bank Information</a>
+						</li>
+																							</ul>
+											</li>
+																				</ul>
+												</li>
+			</ul>
+																																																								
+</div>
+<!-- /////// end Responsive Menu ////////// -->
+    	
+ 
+    	
+	<!--googleon: all-->
+
+														
+</body>
+</html>
+

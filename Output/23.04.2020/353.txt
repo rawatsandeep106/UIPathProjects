@@ -1,0 +1,201 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 97-25 (SUP) on risk-focused framework for the supervision of community banks -- October 1, 1997</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF">
+<a name="pagetop"></a>
+<blockquote>
+<table border=0 width="600">
+<TR>
+<TD>
+<table border=0 width="600">
+<TR>
+<TD width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font SIZE=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><Div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font SIZE=3><b>SR 97-25 (SUP)<br>
+October 1, 1997<br></b></td>
+</tr></table>
+<b><br>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font SIZE=3><b>Risk-Focused Framework for the Supervision of Community Banks
+</b></font></td>
+</tr>
+</table><br>
+<font SIZE=3><p>
+<b>Introduction</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On October 1, 1997, the Federal Reserve will begin implementing a risk-
+focused framework for the supervision of community banks.&nbsp; This letter outlines this
+framework and accompanies a handbook that provides more detail.<a href="#Footnote1" title="Footnote 1" name="Footref1"><sup>1</sup></a>&nbsp; Reserve Banks should provide copies of this handbook to appropriate staff and to senior officials of the state banking
+departments in their districts.&nbsp; Guidance on the risk-focused supervision framework for large
+complex institutions will be issued in a separate SR-letter.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The risk-focused supervision framework for community banks, as outlined in
+the handbook, reflects the results of a joint effort by the Federal Reserve and FDIC to develop
+a common examination process.&nbsp; The process targets activities with the highest levels of risk at
+each institution, provides a tiered approach to examination procedures, and enhances
+examiners' abilities to diagnose emerging problems.&nbsp; Implementation of this process will
+provide greater consistency in examinations conducted by the Federal Reserve and the FDIC
+and is expected to result in examinations that are more efficient and effective and less
+burdensome on institutions.<br>
+<p>
+<br>
+<b>Framework</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The risk-focused supervision framework relies heavily on the exercise of
+examiner judgment in determining the scope of the examination during the planning process. 
+This allows examiners to tailor the procedures that are performed on-site to the bank's risk
+profile.&nbsp; A scope memorandum is to be prepared that contains an assessment of the bank's
+risks and a description of the examination activities to be performed.&nbsp; In preparing the scope
+memorandum, examiners are encouraged to contact the bank in order to learn about any
+changes in management, policies, or strategic direction.&nbsp; New products or markets the bank
+has entered should also be identified.&nbsp; A sample scope memorandum is included in the attached
+handbook.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The joint Federal Reserve and FDIC risk-focused supervision framework
+includes examination procedure modules covering most areas reviewed at community banks. 
+These have been developed to assist examiners in their analyses and their decision-making
+process.&nbsp; The procedure modules are organized according to the bank's business activities and
+risk management processes and reflect best practice guidance and a broader process-oriented
+review of the bank's risks.<br>
+<p>
+<br>
+<b>Examination Modules</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examination procedures are to be tailored to the characteristics of each bank,
+keeping in mind size, complexity, and risk profile.&nbsp; The procedures examiners select to
+perform from each module should be focused on developing appropriate documentation to
+assess adequately management's ability to identify, measure, monitor, and control risks.&nbsp; The
+examination procedure modules, set forth below, have been designated as primary and
+supplemental.&nbsp; Normally, the primary modules would be used at each examination, while the
+supplemental modules would be used when warranted by the bank's activity.&nbsp; Loan references
+also have been developed for use at banks that engage in specialized lending activities.<br>
+<p>
+<center>
+<table>
+<tr>
+<td colspan=2><U><b>Primary Examination Procedure Modules</b></U><br></td>
+</tr>
+<tr>
+<td>Capital Adequacy</td>
+<td>Earnings Analysis</td>
+</tr>
+<tr>
+<td>Loan Portfolio Management<a href="#Footnote2" title="Footnote 2" name="Footref2"><sup>2</sup></a></td>
+<td>Liquidity Analysis</td>
+</tr>
+<tr>
+<td>Securities Analysis</td>
+<td>Other Assets and Liabilities</td>
+</tr>
+<tr>
+<td>Management and Internal Control Evaluation<br>&nbsp;</td>
+</tr>
+<tr>
+<td colspan=2><U><b>Supplemental Examination Procedure Modules</b></U></td>
+</tr>
+<tr>
+<td>Electronic Funds Transfer</td>
+<td>International Banking</td>
+</tr>
+<tr>
+<td>Mortgage Banking</td>
+<td>Electronic Banking</td>
+</tr>
+<tr>
+<td>Related Organizations</td>
+<td>Credit Card Merchant Processing</td>
+</tr>
+</table>
+</center>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The examination procedure modules have been automated for use on virtually
+all laptop computers currently in field use through a standalone software program called
+"Elvis."  Elvis provides a documentation vehicle for work performed on an examination, as
+well as electronic access to the Federal Reserve's and FDIC's bank examination manuals and
+an automated Report of Examination.&nbsp; Both the FDIC and Federal Reserve will be using the 
+examination procedure modules in their automated format.&nbsp; These modules replace the Federal
+Reserve's existing Work Documentation Program.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Elvis software and the documentation for the automated examination
+modules have been provided, under separate cover, to staff at each Reserve Bank previously
+designated as contact for handling the implementation of Elvis.<br>
+<p>
+<br>
+<b>Implementation Efforts</b><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The implementation of this common examination process by the Federal
+Reserve and the FDIC represents a significant advancement toward achieving a more
+consistent, risk-focused approach to examining state-chartered banks.&nbsp; The examination
+procedure modules were presented to the Conference of State Bank Supervisors at their annual
+meeting in May of this year.&nbsp; Since that time, examiners from each of the fifty states have
+been trained in the use of these modules, and a number of state banking departments will begin
+using them at examinations this year.&nbsp; As you know, extensive training has been provided to
+Federal Reserve examiners, and the program has been field-tested by a number of Reserve
+Banks over the last nine months.&nbsp; The Federal Reserve and the FDIC intend to issue joint
+updates to the examination procedure modules on a quarterly basis.<br>
+<p>
+<center>* * *</center>
+<p>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Questions or comments concerning the risk-focused supervision framework for
+community banks should be directed to Norah Barger, Assistant Director, (202/452-2402),
+Robert Walker, Senior Supervisory Financial Analyst, (202/452-3429), or Thomas Keady,
+Manager, (202/728-5885).&nbsp; Questions concerning the Elvis program should be directed to
+David Elkes, Supervisory Financial Analyst, (202/452-5218).<br>
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+<a href="sr9725a1.pdf" target="_top">Attachment (203&nbsp;KB&nbsp;PDF)</a>
+<p>
+<br>
+<hr>
+<p>
+<B>Footnotes</B>
+<P>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;A draft of this handbook was distributed to attendees at the June 1997 examiner conference in Dallas.&nbsp; The current version of the handbook will be put on the FEDWEB.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+<p>
+<a name="Footnote2">2.</a>&nbsp;&nbsp;Includes Loan References for ten specialized lending areas.&nbsp;&nbsp;<a href="#Footref2">Return to text</a>
+<p>
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<A HREF="../">SR letters</A> | <a href="./">1997</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<A HREF="/">Home</A> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: January 15, 2002</b>
+</div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

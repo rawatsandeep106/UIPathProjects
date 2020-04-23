@@ -1,0 +1,72 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 07-6 on Working with Mortgage Borrowers -- April 17, 2007</title>
+	<meta name="keywords" content=" ">
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+	<br>
+  <div class="ltrheadersm">DIVISION OF CONSUMER<br>
+    AND COMMUNITY AFFAIRS</div>
+	<br>
+   <div class="ltrheader"><b>SR 07-6 / CA 07-1<br>
+      April 17, 2007</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+  SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATIONS STAFF AT EACH FEDERAL RESERVE BANK AND BANKING ORGANIZATIONS SUPERVISED 
+  BY THE FEDERAL RESERVE</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Working with Mortgage Borrowers</div>
+
+<p>On April 17, 2007, the Federal Reserve and the other federal financial institutions regulatory agencies issued the attached staff guidance to encourage supervised institutions to work constructively with homeowners who are financially unable to continue meeting their mortgage payments.  Prudent workout arrangements that are consistent with safe and sound lending practices are generally in the long-term best interest of both the financial institution and the borrower.</p>
+
+<p>Federal Reserve Banks are asked to distribute this letter and the accompanying statement to state member banks and bank holding companies and their non-bank subsidiaries, as well as to supervisory and examination staff.  If you have any questions concerning the safety and soundness aspects of this guidance, please contact Brian&nbsp;Valenti at (202)&nbsp;452-3575, Virginia&nbsp;Gibbs at (202)&nbsp;452-2521, or Sabeth&nbsp;Siddique at (202)&nbsp;452-3861 in the Board’s Division of Banking Supervision and Regulation.  For questions related to Community Reinvestment Act consideration and other consumer compliance issues, please contact Phyllis&nbsp;Harwell at (202)&nbsp;452-3658 and Anjanette&nbsp;Kichline at (202)&nbsp;785-6054 in the Board’s Division of Consumer and Community Affairs.</p>
+
+<div class="officers">
+	<div class="officer1"><span style="font-size:80%"><i>signed by</i></span><br><br>Roger T. Cole<br>Director<br>Division of Banking Supervision and Regulation</div>
+	<div class="officer2"><span style="font-size:80%"><i>signed by</i></span><br><br>Sandra F. Braunstein<br>Director<br>Division of Consumer and Community Affairs</div>
+</div>
+<br clear="all">
+<br>
+Attachment:&nbsp; <a href="SR0706a1.pdf">Statement on Working with Mortgage Borrowers <span class="pdf">(26&nbsp;KB&nbsp;PDF)</span></a>
+      <div class="indent"><span class="ltrheadersm">Board of Governors of the Federal Reserve System<br>
+		Federal Deposit Insurance Corporation<br>
+		National Credit Union Administration<br>Office of the Comptroller of the Currency<br>
+		Office of Thrift Supervision
+	</span></div>
+
+<br clear="all">
+<br>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2007">2007</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: April 18, 2007</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

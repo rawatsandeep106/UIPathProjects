@@ -1,0 +1,94 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 05-2 on amended examiner borrowing rules -- February 3, 2005</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+  <div class="ltrheader"><b>SR 05-2<br>
+    February 3, 2005</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF SUPERVISION <br>
+                              AT EACH FEDERAL RESERVE BANK</div>				
+<div class="subject">SUBJECT:&nbsp;&nbsp;Amended Examiner Borrowing Rules</div>
+<!-- single space -->
+<p>The Director of the Division of Banking Supervision 
+  and Regulation and the Board's General Counsel, acting 
+  under authority delegated by the Board, have approved 
+  changes to the System examiners' borrowing rules as 
+  a result of the Preserving Independence of Financial 
+  Institution Examinations&nbsp;Act of 2003. The Act, 
+  among other things, liberalized examiner borrowing 
+  restrictions by providing narrow exceptions that enable 
+  bank examiners to obtain credit cards and certain 
+  home mortgage loans from a broader range of lenders. 
+</p>
+<p>Under the Act, a Reserve Bank examiner may now accept 
+  a credit card or a loan secured by a mortgage on the 
+  examiner's principal residence from an institution 
+  supervised by the Federal Reserve, as long as the 
+  examiner meets the financial requirements to obtain 
+  such credit or loan and the terms of the credit or 
+  loan are not more favorable than terms generally offered 
+  to other borrowers. However, even though an examiner 
+  can now obtain such a mortgage, Federal Reserve policy 
+  will continue to restrict examiners from examining 
+  entities from which they have home mortgage loans.</p>
+<p>Changes have been made to the Federal Reserve Administration 
+  Manual&nbsp;(FRAM) to reflect the new exceptions (attached). 
+  Similar changes will be made in due&nbsp;course to 
+  the Reserve Banks' Code of Conduct&nbsp;(Code). Reserve 
+  Banks should continue to periodically monitor borrowing 
+  relationships to provide adequate oversight over potential 
+  conflicts of interest as well as the perception of 
+  any conflict of interest. </p>
+<p>The Reserve Banks are encouraged to review current 
+  examiner files and request that the Board revise &quot;restricted&quot; 
+  examiner letters as appropriate. If you have any questions 
+  concerning revisions to the policy, please contact 
+  Jamie&nbsp;Lenoci, Supervisory Financial Analyst at 
+  (202)&nbsp;452-2288.</p>
+<div class="officer">Richard Spillenkothen<br>
+        Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+  <dt class="nobreak">Attachment:</dt>
+   <dd class="srltr"><a href="SR0502a1.pdf">Examination Personnel &#150; Investment 
+      Policy, Borrowing Prohibitions, Recusal from Examinations and Inspections<span class="pdf"> 
+      (2,878&nbsp;KB&nbsp;PDF)</span></a></dd>
+</dl>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2005">2005</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+    <b>Last update: February 21, 2006</b> </div>
+</div>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

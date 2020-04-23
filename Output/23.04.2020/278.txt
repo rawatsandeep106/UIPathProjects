@@ -1,0 +1,96 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 90-16 (FIS) on implementation of examination guidelines for the review of asset securitization activities -- May 25, 1990</title>
+	<meta name="keywords" content=" ">
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+   <!--
+   <style type="text/css">
+		.nobreak {
+		white-space : nowrap;
+		}
+	</style>
+   -->
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 90-16 (FIS)<br>May 25, 1990</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+  SUPERVISION<br>
+  AT EACH FEDERAL RESERVE BANK</div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Implementation of Examination Guidelines for the Review of Asset Securitization Activities </div>
+<p>Banking organizations have long been involved with asset-backed <span class="nobreak">securities (ABS),</span> both as 
+	investors in such securities and as major participants in the securitization process.  In recent years they have 
+   stepped up their involvement by increasing their participation in the long-established market for securities backed by 
+   residential mortgage loans and by expanding their securitizing activities to other types of assets, including credit 
+   card receivables, automobile loans, boat loans, commercial real estate loans, student loans, nonperforming loans, and 
+lease receivables.</p>
+<p>It is appropriate for banking organizations to engage in securitization activities and to invest in ABS, if they do so 
+	in a prudent manner.  Nonetheless, these activities can significantly affect their overall risk exposure.  It is, thus, 
+   of great importance, particularly given the growth and expansion of such activities, for examiners to be fully 
+   informed on the fundamentals of the securitization process, on the various risks that securitization and investing in 
+   ABS can create for banking organizations, and on procedures that should be followed in examining banks and inspecting 
+   bank holding companies in order to effectively assess their exposure to risk and management of that exposure.</p> 
+<p>In order to provide examiners with the information and guidance they need on asset securitization, a task force of 
+	System supervisory staff from the Reserve Banks and the Board was established.  The Task Force developed materials on 
+   the mechanics of securitization and related accounting issues, as well as a set of examination guidelines. These draft 
+   materials were distributed to you last September.  This letter transmits the final version of the examination guidelines 
+   and educational background material for asset securitization.  Attached are <span class="nobreak">1) the</span> 
+   Examination Guidelines, <span class="nobreak">2) An</span> Introduction to Asset Securitization &#150; 
+   <span class="nobreak">Volume 1,</span> and <span class="nobreak">3) Accounting</span> Issues Relating to Asset 
+   Securitization &#150; <span class="nobreak">Volume 2.</span></p>  
+<p>Reserve Banks are instructed to implement the examination guidelines and procedures as of 
+	<span class="nobreak">July 1, 1990.</span></p>
+<p>Should you have any questions, contact <span class="nobreak">Roger Cole</span> 
+	<span class="nobreak">(202-452-2618),</span> <span class="nobreak">Gerald Edwards</span> 
+   <span class="nobreak">(202-452-2741),</span> or <span class="nobreak">Thomas Boemio</span> 
+   <span class="nobreak">(202-452-2982).</span></p>
+<div class="officer">Frederick M. Struble<br>Associate Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+  <dt class="nobreak">Attachments:</dt>
+  <dd class="srltr"><a href="SR9016a1.pdf">Examination Guidelines for Asset 
+  		Securitization<span class="pdf"> (1,210&nbsp;KB&nbsp;PDF)</span></a>
+  		<br><br>
+  		<a href="SR9016a2.pdf">An Introduction to Asset Securitization &#150; 
+      <span class="nobreak">Volume 1</span><span class="pdf"> (3,156&nbsp;KB&nbsp;PDF)</span></a>
+  		<br><br>
+  		<a href="SR9016a3.pdf">Accounting Issues Relating to Asset Securitization 
+      &#150; <span class="nobreak">Volume 2</span><span class="pdf"> (1,839&nbsp;KB&nbsp;PDF)</span></a></dd>
+</dl>
+<br clear="all">
+<br>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../1990">1990</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: April 18, 2008</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

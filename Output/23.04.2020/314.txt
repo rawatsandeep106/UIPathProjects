@@ -1,0 +1,156 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 94-40 (FIS) on citizenship policy and requirements for Federal Reserve examiners -- June 22, 1994</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF"><a name="pagetop"></a>
+<blockquote>
+<table border=0 width="600">
+<TR>
+<TD>
+<table border=0 width="600">
+<TR>
+<TD width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font SIZE=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><Div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font SIZE=3><b>SR 94-40 (FIS)<br>
+June 22, 1994</b></td>
+</tr></table>
+<b><br>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font SIZE=3><b>Citizenship Policy and Requirements For Federal Reserve Examiners
+</b></font></td>
+</tr>
+</table><br>
+<font SIZE=3><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;This letter clarifies the Board's policy with regard to
+noncitizens as it pertains to the hiring of Federal Reserve
+examiners<a href="#Footnote1" title="Footnote 1" name="Footref1"><SUP>1</SUP></a>, in accordance with the Board's revised Rules Regarding
+Equal Opportunity.<a href="#Footnote2" title="Footnote 2" name="Footref2"><SUP>2</SUP></a>  As you know, for some time the Division of
+Banking Supervision and Regulation, as a matter of policy, had
+extended a flat prohibition on the hiring of noncitizens as Federal
+Reserve examiners at Reserve Banks because of the special nature of
+the supervisory function, the need to ensure confidentiality of
+information, and the delegated nature of the function.&nbsp;&nbsp;The Board's
+current Rule with regard to examiners provides certain limited
+exceptions to the requirement for United States citizenship.
+Conditions under which individuals who are not citizens of the
+United States may be considered for employment as Federal Reserve
+examiners are outlined below.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Generally speaking, Reserve Banks have been given
+greater latitude to hire as examiners noncitizens who are <i>intending
+U.S. citizenship</i>.&nbsp;&nbsp;The rules have been revised to provide some
+additional flexibility for the hiring of noncitizens, while
+maintaining important safeguards to ensure that information
+integrity and data security are maintained as they relate to U.S.
+banking organizations and related entities.&nbsp;&nbsp;
+The Board considers the examiner position to be a &quot;sensitive
+position&quot; as defined in 12 C.F.R. Section 268.304(a)(4).<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For those noncitizen examiner candidates that a
+Reserve Bank wishes the Board to consider and approve, the Reserve
+Bank should ensure the following:<br>
+<p>
+<ol>
+<li>The individual is an immigrant, i.e., holds a permanent
+resident visa/Green Card, and is legally qualified to
+become a U.S. citizen under the U.S. immigration laws; <br>
+<p>
+<li>The individual states in writing his/her intention to
+become a U.S. citizen; <br>
+<p>
+<li>The individual has taken whatever steps he or she is
+permitted to take under applicable law to become a U.S.
+citizen within the timeframe prescribed by law; and <br>
+<p>
+<li>The individual has agreed in writing that his/her
+statement of intention to become a U.S. citizen is a
+condition of employment for that position such that if
+he/she receives examiner credentials and later fails to
+take all the steps necessary to become a U.S. citizen
+within the timeframe prescribed by law, his/her
+employment with the Supervision and Regulation
+Department at the Reserve Bank shall cease. <br>
+</ol>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;To ensure consistency and compliance with the
+conditions outlined under this policy, Reserve Banks may be asked to
+periodically report to the Board the citizenship status of those
+noncitizen employees who have been approved by the Board as
+examiners.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Board's Legal Division has requested that I
+remind you that it is generally illegal for a Reserve Bank to
+discriminate against noncitizens on the basis of national origin.
+On the other hand, it is illegal to employ noncitizens who are not
+authorized to work at a Reserve Bank if they do not possess the
+proper visa.&nbsp;&nbsp;However, under federal law and the Board's Rules, it
+is permissible to require that a Federal Reserve examiner be a U.S.
+citizen, or hold a permanent residence visa/Green Card and be an
+intending citizen.&nbsp;&nbsp;Federal law further states that a Reserve Bank
+may prefer to hire or recruit as an examiner an individual who is a
+U.S. citizen over another individual who is a noncitizen (immigrant
+or nonimmigrant) if the two individuals are equally qualified.<a href="#Footnote3" title="Footnote 3" name="Footref3"><SUP>3</SUP></a><br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A copy of the Board's Rule (Section 268.304,
+Employment of Noncitizens) is attached for your information.&nbsp;&nbsp;Should
+you have any questions regarding the application of this policy
+please contact Cynthia Rotruck at (202)&nbsp;452-3633.&nbsp;&nbsp; <br>
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+
+<br>
+<p>
+ATTACHMENT MAY BE OBTAINED FROM FEDERAL RESERVE BANK<br>
+<p>
+<p>
+
+<hr>
+<P>
+<B>Footnotes</B>
+<P>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;The term &quot;examiner&quot; is defined to mean any employee appointed by the Board as an examiner or assistant examiner.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+<P>
+<a name="Footnote2">2.</a>&nbsp;&nbsp;Rules Regarding Equal Opportunity, Employment of Noncitizens, 12 C.F.R. Section 268.304 (d) (revised effective May 6, 1994).&nbsp;&nbsp;<a href="#Footref2">Return to text</a>
+<P>
+<a name="Footnote3">3.</a>&nbsp;&nbsp;<I>See </I>8 U.S.C. Sections  1324b(a)(a)(A), 1324a(h)(3)(B), 1324b(a)(3) and 1324b(a)(4).&nbsp;&nbsp;<a href="#Footref3">Return to text</a>
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<A HREF="../">SR letters</A> | <a href="./">1994</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<A HREF="/">Home</A> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

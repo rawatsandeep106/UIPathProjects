@@ -1,0 +1,181 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 96-28 (SUP) on subchapter S election for federal income taxes -- November 7, 1996</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF"><a name="pagetop"></a>
+<blockquote>
+<table border=0 width="600">
+<TR>
+<TD>
+<table border=0 width="600">
+<TR>
+<TD width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font SIZE=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><Div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font SIZE=3><b>SR 96-28 (SUP)<br>
+November 7, 1996<br></b></td>
+</tr></table>
+<br>
+<font SIZE=3><div align="left"><b>TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font SIZE=3><b>Subchapter S Election for Federal Income Taxes
+</b></font></td>
+</tr>
+</table><br>
+<font SIZE=3><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On October 29, 1996, the Federal Financial Institutions Examination
+Council (&quot;FFIEC&quot;) sent a bulletin to all insured banks and thrifts regarding the
+impact of changes made to the Internal Revenue Code by the recently enacted
+Small Business Job Protection Act of 1996.&nbsp;&nbsp;With these changes, some banking
+and thrift organizations may be able to elect Subchapter S corporation status under
+the Code and generally receive pass-through tax treatment for federal income tax
+purposes if certain criteria are met.&nbsp;&nbsp;A copy of the bulletin is attached.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The bulletin states no formal application is required to be filed with the
+federal bank and thrift regulatory agencies merely as a result of an election by a
+bank, thrift, or parent holding company to become a Subchapter S corporation.
+However, if an institution takes certain steps to meet the criteria to qualify for this
+tax status, particularly the limitations on the number and types of shareholders,
+these steps may require applications or notices to the agencies.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The bulletin also indicates that any distributions made by the Subchapter S banking organization to its shareholders, including distributions
+intended to cover a shareholder's personal tax liability for the shareholder's
+proportionate share of the taxable income of the institution, will continue to be
+regarded as dividends for federal regulatory purposes.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please send a copy of the attached bulletin to the bank holding
+companies in your District.&nbsp;&nbsp;A sample transmittal letter is attached for your
+convenience.&nbsp;&nbsp;Any questions regarding this bulletin should be directed to Molly S.
+Wassom at (202)&nbsp;452-2305, Pat A. Robinson, (202)&nbsp;452-3005, or John M. Frech,
+(202)&nbsp;452-2275.<br>
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center><br>
+<p>
+<br>
+ATTACHMENT TRANSMITTED ELECTRONICALLY BELOW<br>
+<p>
+<table>
+<tr>
+<td valign=top>Cross Reference:
+<td>Section 2070 of the Bank Holding Company Supervision Manual </a><br>
+</table>
+<p>
+<br>
+<hr>
+<p>
+<div align=right>FIL-91-96<br>
+October 29, 1996</div><br>
+<p>
+<center>INCOME TAXES</center>
+<p>
+<table>
+<tr>
+<td valign=top>TO:
+<td>CHIEF EXECUTIVE OFFICER
+<p>
+<tr>
+<td valign=top>SUBJECT:
+<td><b>Subchapter S Election for Federal Income Taxes</b>
+</table>
+<p>
+Under changes made to the Internal Revenue Code by the recently enacted Small Business Job Protection Act of 1996, financial institutions, including banks, thrifts, and their parent holding companies, will be able to elect Subchapter S corporation status under the Code and generally receive pass-through tax treatment for federal income tax purposes if certain criteria are met.
+<p>
+No formal application is required to be filed with the federal bank and thrift regulatory agencies merely as a result of the election by a bank, thrift or parent holding company to become a Subchapter S corporation.  However, certain steps taken by an institution or its shareholders to meet the criteria to qualify for Subchapter S status, particularly the limitations on the number and types of shareholders, may require applications or notices to the agencies.  These submissions may include filings under the Change in Bank Control Act, the Bank Merger Act, the Bank Holding Company Act, the Savings and Loan Holding Company Act, or statutes governing reductions or retirements of capital stock by banks and thrifts.  In some instances, filings with the agencies under the federal securities laws also may be necessary.
+<p>
+Financial institutions and their shareholders should understand that distributions by a Subchapter S corporation, including distributions intended to cover a shareholder's personal tax liability for the shareholder's proportionate share of the taxable income of the institution, are dividends for federal regulatory purposes, including the prompt corrective action statue and its implementing regulations.  Therefore, such distributions to shareholders may be restricted in amount or prohibited in some instances.
+<p>
+Finally, the agencies understand that the Internal Revenue Service has yet to resolve certain tax issues relating to the application of the Subchapter S election by financial institutions.  Accordingly, institutions are encouraged to undertake a careful review of these issues prior to making a Subchapter S election, and should obtain appropriate legal, accounting, and tax advice.
+<p>
+For further information, please contact your primary federal regulator.
+<p>
+<ul>
+<li>At the Federal Reserve Board:&nbsp;&nbsp;Molly S. Wassom, Assistant Director, Division of Banking Supervision and Regulation, (202) 452-2305, or Pat A. Robinson, Senior Attorney, Legal Division, (202) 452-3005.
+<p>
+<li>At the Federal Deposit Insurance Corporation:&nbsp;&nbsp;For application issues, contact your Division of Supervision Regional Office.  For other issues, contact Robert F. Storch, Chief, Accounting Section, Division of Supervision, (202) 898-8906, or Sandy Comenetz, Counsel, Legal Division, (202) 898-3582.
+<p>
+<li>At the Office of the Comptroller of the Currency:&nbsp;&nbsp;For application issues, contact the Licensing Manager at your District Office.  For other issues, contact the Chief National Bank Examiner's Office, (202) 874-5180.
+<p>
+<li>At the Office of Thrift Supervision:&nbsp;&nbsp;For application issues, contact Applications Management at your Regional Office.  For other issues, contact Frances C. Augello, Senior Attorney, Business Transactions Division, (202) 906-6151, or Christine A. Smith, Analyst, Supervision Policy, (202) 906-5740.
+</ul>
+<p>
+<br>
+<center>Joe M. Cleaver<br>
+Executive Secretary</center>
+<p>
+Distribution:&nbsp;&nbsp;Insured Banks, Insured Savings Associations, and Holding Companies
+<p>
+<hr>
+<p>
+Suggested Transmittal Letter to Bank Holding Companies <br>
+<p>
+[To the Chief Executive Officer of the<br>
+&nbsp;&nbsp;&nbsp;&nbsp;Bank Holding Company]<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;On October 29, 1996, the Federal Financial Institutions Examination Council
+(&quot;FFIEC&quot;) sent a bulletin to all insured banks and thrifts regarding the impact of
+recent changes made to the Internal Revenue Code by the recently enacted Small
+Business Job Protection Act of 1996.&nbsp;&nbsp;With these changes, some banking and
+thrift organizations may be able to elect Subchapter S corporation status under the
+Code and generally receive pass-through tax treatment for federal income tax
+purposes if certain criteria are met.&nbsp;&nbsp;A copy of the bulletin is attached.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The bulletin, states that no formal application is required to be filed with the
+federal bank and thrift regulatory agencies merely as a result of an election by a
+bank, thrift, or parent holding company to become a Subchapter S corporation.
+However, if an institution takes certain steps to meet the criteria to qualify for this
+tax status, particularly the limitations on the number and types of shareholders,
+these steps may require applications or notices to the agencies.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The bulletin also indicates that any distributions made by the Subchapter S
+banking organization to its shareholders, including distributions intended to cover a
+shareholder's personal tax liability for the shareholder's proportionate share of the
+taxable income of the institution, will continue to be regarded as dividends for
+federal regulatory purposes.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If there are any questions regarding the attached bulletin, please
+call..............(Reserve Bank staff member) at ........................, or Molly S.
+Wassom, Assistant Director, Board of Governors, Division of Banking Supervision
+and Regulation, (202)&nbsp;452-2305, or Pat A. Robinson, Senior Attorney, Board of
+Governors, Legal Division, (202)&nbsp;452-3005.<br>
+<p>
+<center>Sincerely,</center>
+
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<A HREF="../">SR letters</A> | <a href="./">1996</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<A HREF="/">Home</A> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

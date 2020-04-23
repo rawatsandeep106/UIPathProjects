@@ -1,0 +1,145 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 07-1 on interagency guidance on Concentrations in Commercial Real Estate -- January 4, 2007</title>
+	<meta name="keywords" content=" ">
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+	<script language="JavaScript" src="/exit_new.js"></script>
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 07-1<br>
+      January 4, 2007</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+   AT EACH FEDERAL RESERVE BANK </div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Interagency Guidance on Concentrations 
+   in Commercial Real Estate</div>
+<p>On December 6, 2006, the Federal Reserve and the other federal banking regulatory 
+   agencies issued interagency guidance on <i>Concentrations in Commercial Real 
+   Estate Lending, Sound Risk Management Practices</i>.<a href="#Footnote1" name="Footref1" title="Footnote 1"><sup>1</sup></a>&nbsp; 
+   Attachment&nbsp;1 provides the <i>Federal Register</i> notice of the guidance.<a href="#Footnote2" name="Footref2" title="Footnote 2"><sup>2</sup></a>&nbsp;
+   Attachment&nbsp;2 provides the interagency guidance. The guidance is applicable 
+   to state member banks and broadly applicable to bank holding companies and 
+   their non-bank subsidiaries. </p>
+<div class="SectionHeader">Background</div>
+<p>Over the past several years, the agencies have observed that commercial real 
+   estate lending&nbsp;(CRE) concentrations have been rising at many institutions, 
+   especially small-to-medium-sized institutions. While most institutions' underwriting 
+   practices are sound, the agencies have observed that some institutions' risk 
+   management practices and capital levels have not evolved with the level and 
+   nature of their CRE concentrations. Therefore, the agencies issued the guidance 
+   to remind institutions that strong risk management practices and appropriate 
+   levels of capital are important elements of a sound CRE lending program, especially 
+   when an institution has a CRE concentration or a CRE lending strategy leading 
+   to a concentration.</p>
+<div class="SectionHeader">Purpose</div>
+<p>The guidance provides a principle-based discussion of supervisory expectations 
+   for sound risk management practices and evaluation of capital adequacy. As 
+   such, the guidance is not intended to be implemented through a &quot;one-size-fits-all&quot; 
+   supervisory approach. Rather, examiners are expected to exercise judgment 
+   when evaluating the appropriateness of an institution's risk management practices 
+   and capital levels relative to the size and complexity of its CRE portfolio 
+   and level and nature of CRE concentration risk.</p>
+<div class="SectionHeader">Scope</div>
+<p>The guidance applies to concentrations in CRE loans sensitive to the cyclicality 
+   of CRE markets. For purposes of this guidance, CRE loans include loans where 
+   repayment is dependent on the rental income or the sale or refinancing of 
+   the real estate held as collateral. The guidance does not apply to loans where 
+   real estate is taken as a secondary source of repayment or through an abundance 
+   of caution.</p>
+<p>The guidance notes that risk characteristics vary among CRE loans secured 
+   by different property types. A manageable level of CRE concentration risk 
+   will vary depending on the portfolio risk characteristics, the quality of 
+   risk management processes, and the level of capital. Therefore, the guidance 
+   does not establish a CRE concentration limit that applies to all institutions. 
+   Rather, the guidance encourages institutions to perform ongoing risk assessments 
+   to identify and monitor CRE concentrations. These risk assessments will be 
+   an important consideration in an examiner's review of an institution's CRE 
+   lending activity and concentration risk. </p>
+<p>The guidance provides numerical indicators as supervisory screening criteria 
+   to identify institutions that may have CRE concentrations that warrant greater 
+   supervisory scrutiny. The screening criteria should serve as a starting point 
+   for a dialogue between the supervisory staff and an institution's management 
+   about the level and nature of the institution's CRE concentration risk.</p>
+<p>The supervisory screening criteria are not intended to be viewed as a &quot;safe 
+   harbor&quot; if other risk indicators are present. For example, institutions 
+   experiencing recent, significant growth in CRE lending may receive closer 
+   supervisory review than other institutions regardless of their level of CRE 
+   concentration. Similarly, institutions with CRE levels below the screening 
+   criteria but with high risk profiles may also be subject to closer supervisory 
+   review.</p>
+<div class="SectionHeader">Implementation</div>
+<p>The guidance is effective as of December&nbsp;12,&nbsp;2006, the date of issuance 
+   in the <i>Federal&nbsp;Register</i>. However, institutions needing to improve 
+   their risk management processes may be granted some flexibility on the timeframe 
+   for complying with the guidance. This timeframe should be commensurate with 
+   the level and nature of CRE concentration risk, the quality of the institution's 
+   existing risk management practices, and its levels of capital. To ensure consistent 
+   and appropriate application of this guidance, the Federal&nbsp;Reserve is 
+   developing training materials for examiners addressing the guidance. These 
+   training materials will include FAQs and updates to examination manuals and 
+   training course materials. <br>
+   <br>
+   Reserve Banks are asked to distribute this SR&nbsp;letter to state member 
+   banks and bank holding companies in their districts, as well as to their supervisory 
+   and examination staff and the state banking departments in their districts. 
+   Questions may be addressed to the following contacts in the Board's Division 
+   of Banking Supervision and Regulation: Sabeth&nbsp;Siddique, Assistant&nbsp;Director, 
+   Credit Risk, (202)&nbsp;452-3861, Denise&nbsp;Dittrich, Supervisory Financial 
+   Analyst, (202)&nbsp;452-2783, or Virginia&nbsp;Gibbs, Senior Supervisory Financial 
+   Analyst, (202)&nbsp;452-2521.</p>
+<div class="officer">Roger T. Cole<br>
+   Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+   <dt class="nobreak">Attachments:</dt>
+   <dd class="srltr"> 
+      <ol class="noindent">
+         <li><a href="http://edocket.access.gpo.gov/2006/pdf/06-9630.pdf"><i>Federal Register</i> Notice<span class="pdf"> (84&nbsp;KB&nbsp;PDF)</span></a> </li>
+         <li class="last"><a href="SR0701a2.pdf">Concentrations in Commercial Real Estate Lending, Sound Risk Management Practices<span class="pdf"> (530&nbsp;KB&nbsp;PDF)</span></a></li>
+      </ol>
+   </dd>
+</dl>
+<hr width="50%" align="left">
+<div class="ftnotes"> <b>Notes:</b> 
+  <ol>
+      <li><a name="Footnote1"></a>The Office of Thrift Supervision issued similar guidance for thrift institutions.&nbsp;&nbsp;<a href="#Footref1">Return&nbsp;to&nbsp;text</a></li>
+      <li><a name="Footnote2"></a><u>See</u> 71&nbsp;FR&nbsp;74580 (December&nbsp;12,&nbsp;2006).&nbsp;&nbsp;<a href="#Footref2">Return&nbsp;to&nbsp;text</a></li>
+  </ol>
+</div>
+<br clear="all">
+<br>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2007">2007</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: <!-- #BeginDate format:Am1 -->November 9, 2010<!-- #EndDate --></b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

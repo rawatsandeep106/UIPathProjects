@@ -1,0 +1,130 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 93-40 (FIS) on Department of the Treasury interpretation regarding allocation of securities to customer accounts in hold-in-custody repurchase transactions -- July 13, 1993</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF"><A NAME="pagetop"></A>
+<blockquote>
+<table border=0 width="600">
+<TR>
+<TD>
+<table border=0 width="600">
+<TR>
+<TD width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font SIZE=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><Div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font SIZE=3><b>SR 93-40 (FIS)<br>
+July 13, 1993<br></b></td>
+</tr></table>
+<b><br>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font SIZE=3><b>Department of the Treasury Interpretation Regarding Allocation of Securities to Customer Accounts in Hold-in-Custody Repurchase Transactions
+</b></font></td>
+</tr>
+</table><br>
+<font SIZE=3><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Bureau of Public Debt of the Department of the
+Treasury (the &quot;Bureau&quot;) recently issued the attached interpretive
+letter concerning the required timing of the allocation of
+securities to customer accounts (repurchase agreement collateral)
+in hold-in-custody repurchase transactions.&nbsp;&nbsp;The Bureau has
+requested that all examiners conducting examinations of
+government securities broker, dealer, and/or custodial activities
+of financial institutions subject to Federal Reserve System
+supervision be advised about this matter.&nbsp;&nbsp;Accordingly, please
+see that the appropriate examination staff at your Reserve Bank
+receive a copy of this communication.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Even though the Bureau's interpretive letter is
+publicly available, it has asked that we send the interpretive
+letter to all banking organizations supervised by the Federal
+Reserve.&nbsp;&nbsp;To this end, we request that you send a copy of the
+attached Bureau letter to all state member banks and to the U.S.
+branches and agencies of foreign banks and Edge or Agreement
+corporations that you supervise in your District.&nbsp;&nbsp;A suggested
+letter is also attached.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Any questions concerning the attached Bureau letter may
+be directed to Ms. Susan Meyers of the Division's Securities
+Regulation Section at (202)&nbsp;452-2781.<br>
+<p>
+<p>
+<p>
+<center>Stephen C. Schemering<br>
+Deputy Director</center><br>
+<p>
+ATTACHMENT:&nbsp;&nbsp;Suggested draft letter electronically transmitted below<br>
+<p>
+OTHER ATTACHMENT MAY BE OBTAINED FROM FEDERAL RESERVE BANK<br>
+<p>
+<hr>
+<p>
+<b><center>Suggested Letter</b></center>
+
+<br>
+<p>
+<p>
+<p>
+<p>
+<p>
+Dear _________________:<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The Bureau of Public Debt of the Department of the
+Treasury (the &quot;Bureau&quot;) recently issued the attached interpretive
+letter concerning the required timing of the allocation of
+securities to customer accounts (repurchase agreement collateral)
+in hold-in-custody repurchase transactions.&nbsp;&nbsp;<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;At the request of the Bureau, the Federal Reserve is
+forwarding that agency's interpretive letter to you.&nbsp;&nbsp;In the
+event you have any questions regarding this matter, please
+contact the Bureau directly at (202)&nbsp;219-3632.<br>
+<p>
+<center>Sincerely,</center>
+
+<br>
+<p>
+<p>
+<p>
+<p>
+<p>
+Attachment<p>
+
+
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<A HREF="../">SR letters</A> | <a href="./">1993</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<A HREF="/">Home</A> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

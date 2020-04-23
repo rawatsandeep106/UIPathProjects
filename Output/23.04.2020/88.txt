@@ -1,0 +1,140 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 01-13 (SUP) on supervisory guidance relating to a change to permissible securities activities of state member banks -- May 14, 2001</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrs.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY>
+<a name="pagetop"></a>
+<table width=100%>
+<tr>
+<td width=10% rowspan=3></td>
+<td valign=top width=25% rowspan=3><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border=0 align=left vspace=0 hspace=0></td>
+<td align=center width=30%><em class=letterhead>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</em></td>
+<td width=25%></td>
+<td width=10% rowspan=3></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=letterhead>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</em></td>
+</tr>
+<tr>
+<td></td>
+<td><em class=salutation>SR 01-13 (SUP)<br>
+May 14, 2001</em></td>
+</tr>
+</table>
+<p>
+<table width=100%>
+<tr>
+<td width=10%></td>
+<td width=80%>
+<table cellpadding=0 cellspacing=0 width=80%>
+<tr>
+<td valign=top><em class="salutation">TO&nbsp;THE&nbsp;</em></td>
+<td><em class=salutation>OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE SUPERVISORY AND EXAMINATIONS STAFF AT EACH FEDERAL RESERVE BANK AND TO EACH DOMESTIC BANKING ORGANIZATION SUPERVISED BY THE FEDERAL RESERVE</em></td>
+</tr>
+</table>
+<p>
+<table width="80%">
+<tr>
+<td width="13%" valign="top" align="left"><em class="salutation">SUBJECT:&nbsp;&nbsp;</em></td>
+<td width=87% align=left><b>Supervisory guidance relating to a change to permissible securities activities of state member banks
+</b></td>
+</tr>
+</table>
+<p><br /></p>
+<p><B>Background</B></p>
+<P>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The Gramm-Leach-Bliley Act (GLBA) repealed the Glass-Steagall Act and made the following change to the permissible securities underwriting, dealing, and investment activities of state member banks.&nbsp; Effective March&nbsp;13,&nbsp;2000, the GLBA authorized well-capitalized state member banks to underwrite, deal in, and invest in municipal revenue bonds, without limitation as to the level of these activities that may be conducted relative to the bank's capital (capital limitations).&nbsp; Prior to this amendment, banks could underwrite, deal in, and invest in, without capital limitation, only general obligation municipal bonds backed by the full faith and credit of an issuer with general powers of taxation.&nbsp; This letter addresses issues and questions that have been raised by examiners and other supervisory personnel regarding this change to the permissible securities activities of state member banks.</p>
+<p>
+<B>Municipal Bond Underwriting, Dealing, and Investment Activities</B></p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The authority of state member banks to purchase, sell, underwrite, and hold investment securities, including municipal securities, parallels that of national banks, provided that a state member bank is authorized to engage in these activities by applicable state law.<a href="#Footnote1" title="Footnote 1" name="Footref1"><sup>1</sup></a>&nbsp; Prior to the GLBA amendment, a state member bank could deal in, underwrite or purchase for its own account, without capital limitation, only general obligation (GO) municipal bonds.&nbsp; In other words, GO municipal bonds qualify as Type I investment securities (those in which investment is not limited by amount) under 12&nbsp;CFR&nbsp;1.2(i), the Office of the Comptroller of the Currency's <I>Investment Securities Regulation</I>, which implements 12&nbsp;U.S.C.&nbsp;24&nbsp;(Seventh).</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Prior to the GLBA amendment, a state member bank could not underwrite or deal in municipal revenue bonds, which are different from municipal GO bonds.&nbsp; Unlike municipal GO bonds, which are backed by the full faith and credit of an issuer with general powers of taxation, municipal revenue bonds are payable only from specifically identified sources of revenue, such as the operation of the financed project, grants, and excise or other specific taxes.<a href="#Footnote2" title="Footnote 2" name="Footref2"><sup>2</sup></a>&nbsp; However, a state member bank could purchase municipal revenue bonds for its own account, subject to limitations based on capital.&nbsp; Municipal revenue bonds qualified as Type&nbsp;III investment securities under the OCC's <I>Investment Securities Regulation</I>.<a href="#Footnote3" title="Footnote 3" name="Footref3"><sup>3</sup></a></p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+As a result of the GLBA amendment, municipal revenue bonds are now the equivalent of Type&nbsp;I securities for well-capitalized state member banks.<a href="#Footnote4" title="Footnote 4" name="Footref4"><sup>4</sup></a>&nbsp; Therefore, a well-capitalized state member bank may now deal in, underwrite, or purchase for its own account municipal revenue bonds without capital limitation.<a href="#Footnote5" title="Footnote 5" name="Footref5"><sup>5</sup></a></p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The new municipal revenue bond authority calls for heightened awareness by banks, examiners, and supervisory staff of the particular risks of municipal revenue bond underwriting, dealing, and investment activities.<a href="#Footnote6" title="Footnote 6" name="Footref6"><sup>6</sup></a>&nbsp; It is the responsibility of the senior management of a state member bank to ensure that the bank conducts municipal securities underwriting, dealing, and investment activities in a safe and sound manner, in compliance with applicable laws and regulations.&nbsp; Sound risk management practices are critical, especially if this line of business is expanded to include the newly authorized powers.&nbsp; Written policies and procedures governing municipal securities activities should be maintained by state member banks engaged in these activities and made available to examiners upon request.</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Prudent municipal securities investment involves considering and adopting risk management policies, including appropriate limitations, concerning the interest rate, liquidity, price, credit, market, and legal risks in light of the bank's appetite and tolerance for risk.&nbsp; Historically, municipal revenue bonds have had higher default rates than municipal GO bonds, and certain industrial development revenue bonds have risks that are more akin to those of corporate bonds.&nbsp; Therefore, in instances where bondholders are relying on a specific project or private sector obligation for repayment, banks should engage in a credit analysis to identify and evaluate the source of repayment prior to purchase, using their normal credit standards.&nbsp; Banks must also perform periodic credit analyses of those securities that remain in the bank's investment portfolio.&nbsp; Prudent banking practices require that management adopt appropriate limits on exposure to individual credits
+and on credits relying on a similar source for repayment in order to ensure adequate risk diversification. Furthermore, examiners and other supervisory staff should be aware of the extent to which state laws place further restrictions on these activities, but should defer to state banking regulators on questions of legal authority under state laws and regulation.</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+For underwriting and dealing activities, the nature and extent of due diligence should be commensurate with the degree of risk posed by, and the complexity of, the proposed activity.&nbsp; Bank dealer activities should be conducted subject to the types of prudential limitations described above, but should also be formulated in light of the reputational risk that may accompany underwriting and dealing activities.&nbsp; Senior management and the board of directors should establish credit quality and position risk guidelines, including concentration risk.</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+A bank serving as a syndicate manager would be expected to conduct extensive due diligence to mitigate its underwriting risk.&nbsp; Due diligence should include an assessment of the creditworthiness of the issuer and a full analysis of primary and any contingent sources of repayment.&nbsp; Offering documents should be reviewed for accuracy and completeness, and full disclosure of all of the relevant risks of the offering.</p>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+Reserve Banks should ensure that all central points of contact, examiners, and other staff involved in the supervision of banking organizations' securities and investment activities review this letter and focus their supervisory efforts accordingly.&nbsp; Reserve Banks are asked to distribute this SR&nbsp;letter to regulated institutions in their districts and to supervisory staff.&nbsp; Questions regarding this letter should be directed to Michael&nbsp;J.&nbsp;Schoenfeld, Senior Supervisory Financial Analyst, at (202)&nbsp;452-2836, or Mary&nbsp;Frances&nbsp;Monroe, Senior Supervisory Financial Analyst, at (202)&nbsp;452-5231.&nbsp; Questions concerning regulatory requirements for state member bank municipal securities dealers should be directed to Susan&nbsp;Meyers, Supervisory Financial Analyst, at (202)&nbsp;452-3626.</p>
+<p>
+<br /></p>
+<P ALIGN="CENTER">Richard Spillenkothen<br>
+Director</p>
+<p>
+<br>
+<hr width=50% align=left>
+<p>
+<b>Notes:</b>
+<p>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;
+See 12 CFR 208.21(b), which advises state member banks to refer to the Office of the Comptroller of the Currency’s Investment Securities Regulation at 12&nbsp;CFR&nbsp;1 to determine permissible activities.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+</p>
+<p>
+<a name="Footnote2">2.</a>&nbsp;&nbsp;
+Certain enumerated types of municipal revenue bonds (i.e., municipal revenue bonds issued for housing, university, or dormitory purposes) may be underwritten, dealt in, and purchased for a bank’s own account, subject to limitations based on capital.&nbsp; These types of bonds are designated Type&nbsp;II securities in the OCC’s regulation.&nbsp;&nbsp;<a href="#Footref2">Return to text</a>
+</p>
+<p>
+<a name="Footnote3">3.</a>&nbsp;&nbsp;
+Corporate bonds that are investment grade and marketable also qualify as Type&nbsp;III securities.&nbsp;&nbsp;<a href="#Footref3">Return to text</a>
+</p>
+<p>
+<a name="Footnote4">4.</a>&nbsp;&nbsp;
+The OCC published proposed amendments to its <i>Investment Securities Regulation</i> on January&nbsp;30,&nbsp;2001, in the <u>Federal</u> <u>Register</u> (66&nbsp;FR&nbsp;8178).&nbsp;&nbsp;<a href="#Footref4">Return to text</a>
+</p>
+<p>
+<a name="Footnote5">5.</a>&nbsp;&nbsp;
+The new municipal revenue bond authority includes revenue bonds, limited obligation bonds, and exempt facility bonds for the construction of, among other things, transportation, energy, or waste disposal facilities.&nbsp; Moreover, this authority includes shorter-term obligations as well, such as revenue anticipation notes.&nbsp;&nbsp;<a href="#Footref5">Return to text</a>
+</p>
+<p>
+<a name="Footnote6">6.</a>&nbsp;&nbsp;
+Examiners and other supervisory staff should continue to refer to the Board’s <a href="http://www.federalreserve.gov/boarddocs/supmanual/default.htm#trading" target="_top"><i>Trading and Capital Markets Activities Manual</i></a> and the <a href="http://www.federalreserve.gov/boarddocs/supmanual/default.htm#cbem" target="_top"><i>Commercial Bank Examination Manual</i></a> when conducting reviews of this business line.&nbsp; The guidance in these Manuals will be updated to reflect new areas of focus as a result of the GLBA amendments.&nbsp;&nbsp;<a href="#Footref6">Return to text</a>
+</p>
+<p><br>
+</td>
+<td width=10%>
+</td>
+</tr>
+<tr>
+<td colspan="2">
+<a href="../">SR letters</a> | <a href="../2001">2001</a>
+<hr noshade>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+</td>
+</tr>
+</table>
+
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

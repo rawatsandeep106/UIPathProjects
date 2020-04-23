@@ -1,0 +1,104 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 06-1 on interagency guidance on sharing Suspicious Activity Reports with head offices and controlling companies
+ -- January 20, 2006</title>
+	<meta name="keywords" content=" ">
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 06-1<br>
+      January 20, 2006</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF SUPERVISION AND APPROPRIATE 
+   SUPERVISORY EXAMINATION STAFF AT EACH FEDERAL RESERVE BANK, AND TO EACH DOMESTIC 
+   AND FOREIGN BANKING ORGANIZATION SUPERVISED BY THE FEDERAL RESERVE </div>
+<div class="subject">SUBJECT:&nbsp;&nbsp;Interagency Guidance on Sharing Suspicious 
+   Activity Reports with Head Offices and Controlling Companies </div>
+<p>The U.S. Department of the Treasury's Financial Crimes Enforcement Network&nbsp;(FinCEN), 
+   along with the Board of Governors of the Federal Reserve System, Federal Deposit 
+   Insurance Corporation, Office of the Comptroller of the Currency, and Office 
+   of Thrift Supervision, has issued the attached interagency guidance for banking 
+   organizations on sharing Suspicious Activity Reports with head offices and 
+   controlling companies (as defined in the guidance). The guidance confirms 
+   that:&nbsp;&nbsp;(1)&nbsp;a U.S. branch or agency of a foreign bank may disclose 
+   a Suspicious Activity Report to its head office outside the United States; 
+   and (2)&nbsp;a U.S. depository institution may disclose a Suspicious Activity 
+   Report to controlling companies whether domestic or foreign. The guidance 
+   notes that banking organizations should maintain appropriate arrangements 
+   for the protection of confidentiality of Suspicious Activity Reports.</p>
+<p>The guidance does not address whether a banking organization may share a Suspicious 
+   Activity Report with an affiliate other than a controlling company or head 
+   office, whether located inside the United&nbsp;States or abroad. Until further 
+   guidance is issued, banking organizations should not share Suspicious Activity 
+   Reports with such affiliates. </p>
+<p>FinCEN has concurrently issued similar guidance (also attached) for securities 
+   broker-dealers, futures commission merchants, and introducing brokers in commodities. 
+</p>
+<p>This SR letter should be distributed to the appropriate management and compliance 
+   personnel at the domestic and foreign banking organizations supervised by 
+   the Federal Reserve, and Reserve Banks should distribute this SR&nbsp;letter 
+   to supervisory and examination staff. If you have any questions, please contact 
+   Nina&nbsp;A.&nbsp;Nichols, Assistant Director, at (202)&nbsp;452-2961, or 
+   Bridget&nbsp;M.&nbsp;Neill, Assistant Director, at (202)&nbsp;452-5235.</p>
+<div class="officer">Richard Spillenkothen<br>
+   Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+  <dt class="nobreak">Attachments:</dt>
+  <dd class="srltr">
+  	 <ul>
+         <li><a href="SR0601a1.pdf">Interagency Guidance on Sharing Suspicious Activity 
+            Reports with Head Offices and Controlling Companies<span class="pdf"> 
+            (178&nbsp;KB&nbsp;PDF)</span></a> 
+            <div class="smindent"><span class="ltrheadersm">Financial Crimes 
+               Enforcement Network<br>
+               Board of Governors of the Federal Reserve System<br>
+               Federal Deposit Insurance Corporation<br>
+               Office of the Comptroller of the Currency<br>
+               Office of Thrift Supervision</span></div>
+         </li>
+         <li><a href="SR0601a2.pdf">Guidance on Sharing of Suspicious Activity 
+            Reports by Securities Broker-Dealers, Futures Commission Merchants, 
+            and Introducing Brokers in Commodities<span class="pdf"> (142&nbsp;KB&nbsp;PDF)</span></a> 
+            <div class="smindent"><span class="ltrheadersm">Financial Crimes Enforcement Network</span></div>
+         </li>
+      </ul>
+   </dd>
+</dl>
+<br clear="all">
+<br>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2006">2006</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: May 10, 2006</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

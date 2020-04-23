@@ -1,0 +1,94 @@
+<HTML>
+<HEAD>
+	<Title>FRB: Supervisory Letter SR 92-8 (IB) on advances by banking Edge Corporations to parent institutions -- March 23, 1992</Title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<BODY BGCOLOR="#FFFFFF"><A NAME="pagetop"></A>
+<blockquote>
+<table border=0 width="600">
+<TR>
+<TD>
+<table border=0 width="600">
+<TR>
+<TD width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font SIZE=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><Div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font SIZE=3><b>SR 92-8 (IB)<br>
+March 23, 1992<br></b></td>
+</tr></table>
+<b><br>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font SIZE=3><b>Advances by Banking Edge Corporations to Parent Institutions
+</b></font></td>
+</tr>
+</table><br>
+<font SIZE=3><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Banking Edge corporations should adhere to established
+credit policies in accordance with prudent banking practices
+including policies on diversification.&nbsp;&nbsp;
+An effective policy on diversification would include reasonable
+standards on advances to the parent institution and its
+affiliates.&nbsp;&nbsp;The purpose of an Edge corporation
+is to stimulate opportunities for international trade by
+permitting banks and organizations with such expertise to expand
+into markets to finance trade.&nbsp;&nbsp;Presently, a large part of the
+business plan of some Edge corporations is accepting foreign
+deposits and on-lending to the parent which, in certain
+situations, may be inconsistent with safe and sound banking
+practice.&nbsp;&nbsp;Generally, prudent standards would call for such
+advances to be limited to a percentage
+of the Edge corporation's capital and not a multiple thereof.
+Examiners should carefully review all lending by the Corporation
+to the parent which exceeds the Corporations's capital.
+Significant concentrations which are not justified should weigh
+negatively on the asset quality rating assessment of the Edge
+corporation and a plan to reduce such exposures to more prudent
+levels should be required.&nbsp;&nbsp;Examiners, in making such judgements,
+should consider whether advances to the parent and affiliates are
+primarily composed of clearing accounts or whether such advances
+primarily represent on-lending to the parent.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Questions on this matter should be directed to Michael
+Martinson (452-3640) or Joseph Sciortino (452-2294).<br>
+<p>
+<p>
+<center>William A. Ryback<br>
+Associate Director</center>
+
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<A HREF="../">SR letters</A> | <a href="./">1992</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<A HREF="/">Home</A> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+<b>Last update: July 26, 2001</b>
+</div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</HTML>

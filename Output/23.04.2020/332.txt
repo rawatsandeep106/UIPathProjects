@@ -1,0 +1,729 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 95-51 (SUP) on rating the adequacy of risk management processes and internal controls at state member banks and bank holding companies -- November 14, 1995</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsftronly.css">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body bgcolor="#FFFFFF"><a name="pagetop"></a>
+<blockquote>
+<table border=0 width="600">
+<tr>
+<td>
+<table border=0 width="600">
+<tr>
+<td width="116" rowspan="2"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" align=left></td>
+
+<td><font size=2><center><b>BOARD OF GOVERNORS<br>OF THE<br>FEDERAL RESERVE SYSTEM<br><br>WASHINGTON, D. C.&nbsp;&nbsp;20551</center><br></b></font></td>
+
+<td width="116"></td>
+</tr>
+<tr>
+<td colspan="2"><div align="right"><b><font size=2>DIVISION OF BANKING<br>SUPERVISION AND REGULATION</font><br></b></div></td>
+</tr>
+<tr>
+<td colspan="3" align=right><br><font size=3><b>SR 95-51 (SUP)<br>
+November 14, 1995<br></b></td>
+</tr></table>
+<b><br>
+<p><em>Note as of June 8, 2016: See <a href="/bankinforeg/srletters/sr1611.htm">SR letter 16-11</a> for supervisory guidance on assessing risk management practices at state member banks, bank holding companies, and savings and loan holding companies (including insurance and commercial savings and loan holding companies) with less than $50 billion in total consolidated assets, and foreign banking organizations with consolidated U.S. assets of less than $50 billion. SR letter 95-51 remains applicable to state member banks and bank holding companies with $50 billion or more in total assets until superseding guidance is issued for these institutions.</em><br /><br /><br /></p>
+<div align="left">TO THE OFFICER IN CHARGE OF SUPERVISION<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;AT EACH FEDERAL RESERVE BANK</b></font><br>
+<br>
+<table width="600">
+<tr>
+<td width=12% valign=top align=left><b>SUBJECT:</b></td>
+<td width=88% align=left><font size=3><b>Rating the Adequacy of Risk Management Processes and Internal Controls at State Member Banks and Bank Holding Companies
+</b></font></td>
+</tr>
+</table><br>
+<font size=3><p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;During recent years, the Federal Reserve has increasingly emphasized the
+importance of sound risk management processes and strong internal controls when
+evaluating the activities of the institutions it supervises.&nbsp; This greater emphasis reflects
+the view that properly managing risks has always been critical to the conduct of safe
+and sound banking activities and has become even more important as new
+technologies, product innovation, and the size and speed of financial transactions have
+changed the nature of banking markets.&nbsp; Accordingly, while an institution's financial
+performance is an important indicator of the adequacy of management, it is essential
+that examiners give significant weight to the quality of risk management practices and
+internal controls when evaluating the management and overall financial condition of
+banking organizations.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Consistent with the greater emphasis given to risk management in Federal
+Reserve examination and supervisory policy statements, System examiners are
+instructed beginning in 1996 to assign a formal supervisory rating to the adequacy of
+an institution's risk management processes, including its internal controls.&nbsp; This step is
+a natural extension of current procedures that incorporate an assessment of risk
+management and internal controls during each on-site, full-scope examination.&nbsp; The
+specific rating of risk management and internal controls should be given significant
+weight when evaluating management under the bank (CAMEL) and bank holding
+company (BOPEC) rating systems.&nbsp; Like the components of those systems, the risk
+management rating should be based on a five point numeric scale.&nbsp; Guidelines for
+assigning the rating are provided in the attachment, which also defines the five rating
+categories and the specific elements to be evaluated when determining which rating to
+assign.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The criteria for rating risk management draw heavily from previously issued
+statements and from other materials of the Federal Reserve, particularly SR 93-69
+(Examining Risk Management and Internal Controls for Trading Activities of Banking
+Organizations), SR 95-17 (Evaluating the Risk Management and Internal Controls of
+Securities and Derivatives Contracts Used in Nontrading Activities), the Trading
+Activities Manual, and SR 95-22 dealing with ratings for U.S. offices of foreign banks. 
+These documents emphasize the importance of an active role by an institution's senior
+management and board of directors, adequate policies and limits, accurate and
+independent measurement procedures and assessments of risk, and strong internal
+controls.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;A greater focus on risk management does not, of course, diminish the
+importance of reviewing capital adequacy, asset quality, earnings, liquidity, and other
+areas relevant to the evaluation of safety and soundness.&nbsp; Rather, the rating of the
+risk management process will bring together and summarize much of the analysis and
+many of the findings regarding an institution's process for managing and controlling
+risks that are currently an important part of the examiner's review of these individual
+areas.&nbsp; The formal rating is intended to highlight and incorporate  both the quantitative
+and qualitative aspects of an examiner's review of an institution's overall process for
+identifying, measuring, monitoring, and controlling risk and to facilitate appropriate
+follow-up action.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;As before, the overall profitability, asset quality, and capital adequacy of a bank
+or bank holding company should continue to influence the examiner's assessment of
+management, but these indicators can to some extent be affected, either favorably or
+adversely, by factors outside management's control.&nbsp; For this reason, the specific
+evaluation of the risk management process should be a primary factor when rating
+management, especially in the case of larger institutions whose activities and
+organizational structures require more formal and extensive procedures.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examiners should apply this guidance flexibly to reflect appropriately each
+institution's individual circumstances and the nature, scope, and complexity of its
+operations.&nbsp; Risk management ratings should be assigned for examinations and
+inspections commencing on or after January 2, 1996 to all state member banks and
+bank holding companies, regardless of their size.&nbsp; Guidelines and procedures for
+assigning the ratings are set forth in the attachment.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examiners should discuss in a clear and straightforward manner in the
+appropriate open sections of the report the nature and severity of any problems or
+deficiencies found and the steps required to correct them, particularly if the risk
+management rating is less than satisfactory.&nbsp; Serious lapses or deficiencies in internal
+controls, including inadequate separation of duties, can constitute an unsafe and
+unsound practice and possibly lead to significant losses or otherwise compromise the
+financial integrity of the institution.&nbsp; If appropriate, the institution should be advised that
+the Federal Reserve will initiate supervisory actions if its failure to separate critical
+operational duties creates the potential for serious losses or if material deficiencies or
+situations that threaten the safe and sound conduct of its activities are not adequately
+addressed in a timely manner.&nbsp; Such supervisory actions may include formal
+enforcement actions against the bank or bank holding company, or its responsible
+officers and directors, or both, and would require the immediate implementation of all
+necessary corrective measures.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The approach outlined in this letter is generally consistent with procedures used
+to evaluate the U.S. offices of foreign banks under the branch and agency (ROCA)
+rating system, which evaluates an office's risk management and operational controls. 
+These guidelines for risk management do not alter the basic interagency bank
+(CAMEL) rating framework.&nbsp; However, the rapid pace of change in the financial
+services industry, including the advent of new technologies, financial innovation,
+globalization, and intensified competition all argue for greater emphasis on market
+risks, risk management processes, and internal controls in the supervisory evaluation 
+and rating of financial institutions.&nbsp; In view of these considerations, the Federal
+Reserve will continue working with the other banking agencies to promote appropriate
+revisions to the bank rating system in order to highlight the importance of market risks
+and sound risk management processes and practices.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Please forward the attached guidelines to state member banks and bank
+holding companies in your District; a suggested transmittal letter is attached.&nbsp; Senior
+officers in charge of supervision are asked to ensure that supervisory personnel and
+examiners are fully informed of the procedures set forth in this letter.&nbsp; If you have any
+questions regarding this statement, please contact Messrs. Roger Cole (ext. 2618) or
+James Garner (ext. 2704). <br>
+<p>
+<br>
+<center>Richard Spillenkothen<br>
+Director</center>
+<p>
+<br>
+ATTACHMENT TRANSMITTED ELECTRONICALLY BELOW<br>
+<p>
+<br>
+Cross references:<br>
+<p>
+<a href="../1993/sr9369.htm">SR 93-69</a> (12-20-93)&nbsp;&nbsp;Examining Risk Management and Internal Controls for Trading
+Activities of Banking Organizations<br>
+            <p> SR 95-17 (3-28-95)&nbsp;&nbsp;Evaluating the Risk Management and Internal 
+               Controls of Securities and Derivatives Contracts Used in Nontrading 
+               Activities<br>
+<p>
+SR 95-22 (3-31-95)&nbsp;&nbsp;Enhanced Framework for Supervising the U.S. Operations of
+Foreign Banking Organizations<br>
+<p>
+Trading Activities Manual<br>
+<p>
+Commercial Bank Examination Manual<br>
+<p>
+Bank Holding Company Supervision Manual
+<hr>
+<p>
+<b>Suggested transmittal letter to state member banks and bank holding
+companies<br>
+<p>
+Subject:</b>&nbsp;&nbsp;New Supervisory Procedures for Rating the Risk Management Processes 
+and Internal Controls at State Member Banks and Bank Holding Companies<br>
+<p>
+<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+I am attaching recently developed guidelines that direct examiners, beginning
+next year, to provide separate supervisory ratings for the risk management process,
+including internal controls, of all state member banks and bank holding companies. 
+While examiners have long taken the quality of risk management and internal controls
+into account in evaluating an institution's overall condition, this rating is intended to
+highlight in the examination process the importance of risk management and to
+facilitate appropriate supervisory follow-up actions.&nbsp; Examiners will give this rating
+significant weight when determining the rating of management under the CAMEL or
+BOPEC rating systems and are also directed to discuss their findings regarding an
+institution's risk management process with management, especially if they view the
+process as less than satisfactory.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The guidelines stress the importance of sound risk management and
+emphasize the need for adequate segregation of duties.&nbsp; They draw from long-standing supervisory procedures that have been updated by policy statements and
+examination manuals in recent years to reflect new financial instruments and evolving
+market practices. They also stress that the Federal Reserve will take appropriate
+supervisory action if institutions fail to maintain adequate controls, including the
+separation of critical duties.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;If you have any questions about our these forthcoming procedures, please call
+________.<br>
+<p>
+<br>
+Attachment
+<p>
+<hr>
+<p>
+<center><b><font size = +1>Federal Reserve Guidelines for Rating Risk Management at<br>
+State Member Banks and Bank Holding Companies</b></center></font>
+<p>
+<br>
+<b>OVERVIEW</b><br>
+<p>
+Taking and managing risks are fundamental to the business of banking.&nbsp; Accordingly,
+the Federal Reserve has always placed significant supervisory emphasis on the
+adequacy of an institution's management of risk, including its system of internal
+controls, when evaluating the management at state member banks and bank holding
+companies.&nbsp; An institution's failure to establish a management structure that
+adequately identifies, measures, monitors, and controls the risks involved in its various
+products and lines of business has long been considered unsafe and unsound
+conduct.&nbsp; Principles of sound management should apply to the entire spectrum of risks
+facing a banking institution including, but not limited to, credit, market, liquidity,
+operational, legal, and reputational risk:<br>
+<p>
+<ul>
+<li><b><i>Credit risk</i></b> arises from the potential that a borrower or counterparty will fail to
+perform on an obligation. <br>
+<p>
+<li><b><i>Market risk</i></b> is the risk to a financial institution's condition resulting from
+adverse movements in market rates or prices, such as interest rates, foreign
+exchange rates, or equity prices.&nbsp;  <br>
+<p>
+<li><b><i>Liquidity risk</i></b> is the potential that an institution will be unable to meet its
+obligations as they come due because of an inability to liquidate assets or
+obtain adequate funding (referred to as &quot;funding liquidity risk&quot;) or that it cannot
+easily unwind or offset specific exposures without significantly lowering market
+prices because of inadequate market depth or market disruptions (&quot;market
+liquidity risk&quot;). <br>
+<p>
+<li><i><b>Operational risk</b></i> arises from the potential that inadequate information systems,
+operational problems, breaches in internal controls, fraud, or unforeseen
+catastrophes will result in unexpected losses. <br>
+<p>
+<li><i><b>Legal risk</b></i> arises from the potential that unenforceable contracts, lawsuits, or
+adverse judgements can disrupt or otherwise negatively affect the operations or
+condition of a banking organization. <br>
+<p>
+<li><i><b>Reputational risk</b></i> is the potential that negative publicity regarding an
+institution's business practices, whether true or not, will cause a decline in the
+customer base, costly litigation, or revenue reductions. <br>
+</ul>
+<p>
+These risks and the banking activities associated with them are addressed in
+greater detail in the Commercial Bank Examination and Bank Holding Company
+Supervision Manuals, the Trading Activities Manual, and other guidance.&nbsp; In practice,
+an institution's business activities present various combinations and concentrations of
+these risks depending on the nature and scope of the particular activity.&nbsp; The following
+discussion provides guidelines for determining a rating for management's formal or
+informal systems for identifying, measuring and containing these risks.&nbsp; &nbsp;&nbsp;<br>
+<p>
+<b>ELEMENTS OF RISK MANAGEMENT</b><br>
+<p>
+When rating the quality of risk management at state member banks and bank holding
+companies as part of the evaluation of the overall quality of management, examiners
+should place primary consideration on findings relating to the following elements of a
+sound risk management system:<br>
+<p>
+<ul>
+<li>active board and senior management oversight; <br>
+<p>
+<li>adequate policies, procedures, and limits; <br>
+<p>
+<li>adequate risk measurement, monitoring, and management information systems;
+and<br>
+<p>
+<li>comprehensive internal controls <br>
+</ul>
+<p>
+Each of these elements is described further below, along with a list of considerations
+relevant to assessing the adequacy of each element.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examiners should recognize that the considerations specified in these
+guidelines are intended only to assist in the evaluation of risk management practices,
+and not as a checklist of requirements for each institution.&nbsp; Moreover, while all bank
+holding companies should be able to assess the major risks of the consolidated
+organization, examiners should expect parent companies that centrally manage the
+operations and functions of their subsidiary banks to have more comprehensive,
+detailed, and developed risk management systems than companies that delegate the
+management of risks to relatively autonomous banking subsidiaries. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Adequate risk management programs can vary considerably in sophistication,
+depending on the size and complexity of the banking organization and the level of risk
+that it accepts.&nbsp; For smaller institutions engaged solely in traditional banking activities
+and whose senior managers and directors are actively involved in the details of day-to-day operations, relatively basic risk management systems may be adequate.&nbsp; In
+such institutions, these systems may consist only of written policies addressing
+material areas of operations such as lending or investing, basic internal control
+systems, and a limited set of management and board reports.&nbsp; However, large
+multinational organizations will require far more elaborate and formal risk management
+systems in order to address their broader and typically more complex range of
+financial activities and to provide senior managers and directors with the information
+they need to monitor and direct day-to-day activities.&nbsp; In addition to the banking
+organization's market and credit risks, risk management systems should also
+encompass the organization's trust and fiduciary activities, including investment
+advisory, mutual funds, and securities lending activities. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The risk management processes of large banking organizations would typically
+contain detailed guidelines that set specific prudential limits on the principal types of
+risks relevant to their activities worldwide.&nbsp; Furthermore, because of the diversity of
+their activities and the geographic dispersion of their operations, these institutions will
+require timely and relatively more sophisticated reporting systems in order to manage 
+their risks properly.&nbsp; These reporting systems, in turn, should comprise an adequate
+array of reports that provide the levels of detail about risk exposures that are relevant
+to the duties and responsibilities of individual managers and directors.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Such extensive systems of large institutions will naturally require frequent
+monitoring and testing by independent control areas and internal, as well as external,
+auditors to ensure the integrity of the information used by senior officials in overseeing
+compliance with policies and limits.&nbsp; The risk management systems or units of such
+institutions must also be sufficiently independent of the business lines in order to
+ensure an adequate separation of duties and the avoidance of conflicts of interest.&nbsp;  <br>
+<p>
+<p>
+<b>Active Board and Senior Management Oversight</b><br>
+<p>
+Boards of directors have ultimate responsibility for the level of risk taken by their
+institutions.&nbsp; Accordingly, they should approve the overall business strategies and
+significant policies of their organizations, including those related to managing and
+taking risks, and should also ensure that senior management is fully capable of
+managing the activities that their institutions conduct.&nbsp; While all boards of directors are
+responsible for understanding the nature of the risks significant to their organizations
+and for ensuring that management is taking the steps necessary to identify, measure,
+monitor, and control these risks, the level of technical knowledge required of directors
+may vary depending on the particular circumstances at the institution.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Directors of large banking organizations that conduct a broad range of
+technically complex activities, for example, cannot be expected to understand the full
+details of their institutions' activities or the precise ways risks are measured and
+controlled.&nbsp; They should, however, have a clear understanding of the types of risks to
+which their institutions are exposed and should receive reports that identify the size
+and significance of the risks in terms that are meaningful to them.&nbsp; In fulfilling this
+responsibility, directors should take steps to develop an appropriate understanding of
+the risks their institutions face, possibly through briefings from auditors and experts
+external  to the organization.&nbsp; Using this knowledge and information, directors should
+provide clear guidance regarding the level of exposures acceptable to their institutions
+and have the responsibility to ensure that senior management implements the
+procedures and controls necessary to comply with adopted policies.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Directors of institutions that conduct more traditional and less complicated
+business activities may require significantly less knowledge of complex financial
+transactions or capital markets.&nbsp; They may, however, be more involved in the day-to-day activities and decision-making of their institutions than are their counterparts at
+larger organizations and should have a level of knowledge commensurate with the
+nature of their involvement.&nbsp;  <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Senior management is responsible for implementing strategies in a manner that
+limits risks associated with each strategy and that ensures compliance with laws and
+regulations on both a long-term and day-to-day basis.&nbsp; Accordingly, management
+should be fully involved in the activities of their institutions and possess sufficient
+knowledge of all major business lines to ensure that appropriate policies, controls, and
+risk monitoring systems are in place and that accountability and lines of authority are
+clearly delineated.&nbsp; Senior management is also responsible for establishing and
+communicating a strong awareness of and need for effective internal controls and high
+ethical standards.&nbsp; Meeting these responsibilities requires senior managers of a bank
+or bank holding company to have a thorough understanding of banking and financial
+market activities and detailed knowledge of the activities their institution conducts,
+including the nature of internal controls necessary to limit the related risks.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In assessing the quality of the oversight by boards of directors and senior
+management, examiners should consider whether the institution follows policies and
+practices such as those described below: <br>
+<p>
+<ul>
+<li>The board and senior management have identified and have a clear
+understanding and working knowledge of the types of risks inherent in the
+institution's activities and make appropriate efforts to remain informed about
+these risks as financial markets, risk management practices, and the
+institution's activities evolve. <br>
+<p>
+<li>The board has reviewed and approved appropriate policies to limit risks
+inherent in the institution's lending, investing, trading, trust, fiduciary and other
+significant activities or products. <br>
+<p>
+<li>The board and management are sufficiently familiar with and are using
+adequate record keeping and reporting systems to measure and monitor the
+major sources of risk to the organization. <br>
+<p>
+<li>The board periodically reviews and approves risk exposure limits to conform
+with any changes in the institution's strategies, addresses new products, and
+reacts to changes in market conditions. <br>
+<p>
+<li>Management ensures that its lines of business are managed and staffed by
+personnel with knowledge, experience, and expertise consistent with the nature
+and scope of the banking organization's activities. <br>
+<p>
+<li>Management ensures that the depth of staff resources is sufficient to operate
+and manage soundly the institution's activities and that its employees have the
+integrity, ethical values, and competence that are consistent with a prudent
+management philosophy and operating style. <br>
+<p>
+<li>Management at all levels provides adequate supervision of the day-to-day
+activities of officers and employees, including management supervision of
+senior officers or heads of business lines. <br>
+<p>
+<li>Management is able to respond to risks that may arise from changes in the
+competitive environment or from innovations in markets in which the
+organization is active. <br>
+<p>
+<li>Before embarking on new activities or introducing products new to the
+institution, management identifies and reviews all risks associated with the
+activity or product and ensures that the infrastructure and internal controls
+necessary to manage the related risks are in place . <br>
+</ul>
+<p>
+<a href="#pagetop"><img src="/gifjpg/uparrow.gif" border="0" alt="Return to top" hspace="5"></a><a href="#pagetop">Return to top</a><p>
+<p>
+<b>Adequate Policies, Procedures, and Limits</b><br>
+<br>
+An institution's directors and senior management should tailor their risk management
+policies and procedures to the types of risks that arise from the activities the institution
+conducts.&nbsp; Once the risks are properly identified, the institution's policies and its more
+fully articulated procedures provide detailed guidance for the day-to-day
+implementation of broad business strategies, and generally include limits designed to
+shield the organization from excessive and imprudent risks.&nbsp; While all banking
+organizations should have policies and procedures that address their significant
+activities and risks, the coverage and level of detail embodied in these statements will
+vary among institutions.&nbsp; A smaller, less complex banking organization that has
+effective management that is heavily involved in day-to-day operations generally would
+be expected to have only basic policies addressing the significant areas of operations
+and setting forth a limited set of requirements and procedures.&nbsp; In a larger institution,
+where senior managers must rely on widely-dispersed staffs to implement strategies in
+an extended range of potentially complex businesses, far more detailed policies and
+related procedures would generally be expected.&nbsp; In either case, however,
+management is expected to ensure that policies and procedures address the material
+areas of risk to an institution and that they are modified when necessary to respond to
+significant changes in the banking organization's activities or business conditions.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The following guidelines should assist examiners in evaluating the adequacy of
+a banking organization's policies, procedures, and limits:<br>
+<p>
+<ul>
+<li>The institution's policies, procedures, and limits provide for adequate
+identification, measurement, monitoring, and control of the risks posed by its
+lending, investing, trading, trust, fiduciary and other significant activities. <br>
+<p>
+<li>The policies, procedures, and limits are consistent with management's
+experience level, the institution's stated goals and objectives, and the overall
+financial strength of the organization. <br>
+<p>
+<li>Policies clearly delineate accountability and lines of authority across the
+institution's activities. <br>
+<p>
+<li>Policies provide for the review of activities new to the financial institution to
+ensure that the infrastructures necessary to identify, monitor, and control risks
+associated with an activity are in place before the activity is initiated. <br>
+</ul>
+<p>
+<p>
+<b>Adequate Risk Monitoring and Management Information Systems</b><br>
+<p>
+Effective risk monitoring requires institutions to identify and measure all material risk
+exposures.&nbsp; Consequently, risk monitoring activities must be supported by information
+systems that provide senior managers and directors with timely reports on the financial
+condition, operating performance, and risk exposure of the consolidated organization,
+as well as with regular and sufficiently detailed reports for line managers engaged in
+the day-to-day management of the organization's activities.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The sophistication of risk monitoring and management information systems
+should be consistent with the complexity and diversity of the institution's operations. 
+Accordingly, smaller and less complicated banking organizations may require only a
+limited set of management and board reports to support risk monitoring activities. 
+These reports include, for example, daily or weekly balance sheets and income
+statements, a watch list for potentially troubled loans, a report for past due loans, a
+simple interest rate risk report, and similar items.&nbsp; Larger, more complicated
+institutions, however, would be expected to have much more comprehensive reporting
+and monitoring systems that allow, for example, for more frequent reporting, tighter
+monitoring of complex trading activities, and the aggregation of risks on a fully
+consolidated basis across all business lines and activities.&nbsp; Financial institutions of all
+sizes are expected to have risk monitoring and management information systems in
+place that provide directors and senior management with a clear understanding of the
+banking organization's positions and risk exposures. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In assessing the adequacy of an institution's measurement and monitoring of
+risk and its management reports and information systems, examiners should consider
+whether these conditions exist:<br>
+<p>
+<ul>
+<li>The institution's risk monitoring practices and reports address all of its material
+risks. <br>
+<p>
+<li>Key assumptions, data sources, and procedures used in measuring and
+monitoring risk are appropriate and adequately documented and tested for
+reliability on an on-going basis. <br>
+<p>
+<li>Reports and other forms of communication are consistent with the banking
+organization's activities, are structured to monitor exposures and compliance
+with established limits, goals, or objectives, and as appropriate, compare actual
+versus expected performance. <br>
+<p>
+<li>Reports to management or to the institution's directors are accurate and timely
+and contain sufficient information for decision-makers to identify any adverse
+trends and to evaluate adequately the level of risk faced by the institution. <br>
+</ul>
+<p>
+<b>Adequate Internal Controls<br></b>
+<p>
+An institution's internal control structure is critical to the safe and sound functioning of
+the organization generally and to its risk management system, in particular. 
+Establishing and maintaining an effective system of controls, including the
+enforcement of official lines of authority and the appropriate separation of duties--such
+as trading, custodial, and back-office--is one of management's more important
+responsibilities.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Indeed, appropriately segregating duties is a fundamental and essential element 
+of a sound risk management and internal control system.&nbsp; Failure to implement and
+maintain an adequate separation of duties can constitute an unsafe and unsound
+practice and possibly lead to serious losses or otherwise compromise the financial
+integrity of the institution.&nbsp; Serious lapses or deficiencies in internal controls, including
+inadequate segregation of duties, may warrant supervisory action, including formal
+enforcement action.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;When properly structured, a system of internal controls promotes effective
+operations and reliable financial and regulatory reporting, safeguards assets, and
+helps to ensure compliance with relevant laws, regulations, and institutional policies. 
+Ideally, internal controls are tested by an independent internal auditor who reports
+directly either to the institution's board of directors or its designated committee, which
+is typically the audit committee.&nbsp; However, smaller institutions whose size and
+complexity do not warrant a full scale internal audit function may rely on regular
+reviews of essential internal controls conducted by other institution personnel. 
+Personnel performing these reviews should generally be independent of the function
+they are assigned to review.&nbsp; Given the importance of appropriate internal controls to
+banking organizations of all sizes and risk profiles, the results of audits or reviews,
+whether conducted by an internal auditor or by other personnel, should be adequately
+documented, as should management's responses to them.&nbsp; In addition, communication
+channels should exist that allow negative or sensitive findings to be reported directly to
+the board of directors or to the relevant board committee.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In evaluating the adequacy of a financial institution's internal controls and audit
+procedures, examiners should consider whether these conditions are met:<br>
+<p>
+<ul>
+<li>The system of internal controls is appropriate to the type and level of risks
+posed by the nature and scope of the organization's activities. <br>
+<p>
+<li>The institution's organizational structure establishes clear lines of authority and
+responsibility for monitoring adherence to policies, procedures, and limits.&nbsp; <br>
+<p>
+<li>Reporting lines provide sufficient independence of the control areas from the
+business lines and adequate separation of duties throughout the organization--such as those relating to trading, custodial, and back-office activities.&nbsp; <br>
+<p>
+<li>Official organizational structures reflect actual operating practices. <br>
+<p>
+<li>Financial, operational, and regulatory reports are reliable, accurate, and timely; 
+wherever applicable, exceptions are noted and promptly investigated. <br>
+<p>
+<li>Adequate procedures exist for ensuring compliance with applicable laws and
+regulations. <br>
+<p>
+<li>Internal audit or other control review practices provide for independence and
+objectivity.&nbsp; <br>
+<p>
+<li>Internal controls and information systems are adequately tested and reviewed;
+the coverage, procedures, findings, and responses to audits and review tests
+are adequately documented; identified material weaknesses are given
+appropriate and timely high level attention; and  management's actions to
+address material weaknesses are objectively verified and reviewed. <br>
+<p>
+<li>The institution's audit committee or board of directors reviews the effectiveness
+of internal audits and other control review activities on a regular basis. <br>
+</ul>
+<p>
+<a href="#pagetop"><img src="/gifjpg/uparrow.gif" border="0" alt="Return to top" hspace="5"></a><a href="#pagetop">Return to top</a><p>
+<p>
+<b>RATING DEFINITIONS</b><br>
+<p>
+The rating for risk management is based on a scale of one through five in ascending
+order of supervisory concern.&nbsp; Examiners should assign this rating to reflect findings
+within all four elements of sound risk management described above.&nbsp; The risk
+management rating should be reflected in the overall &quot;Management&quot; rating of the 
+institution and should be consistent with the following criteria:<br>
+<p>
+<b>Rating 1 (Strong)</b>.&nbsp; A rating of 1 indicates that management effectively identifies and
+controls all major types of risk posed by the institution's activities, including those from
+new products and changing market conditions.&nbsp; The board and management are
+active participants in managing risk and ensure that appropriate policies and limits
+exist, and the board understands, reviews, and approves them.&nbsp; Policies and limits are
+supported by risk monitoring procedures, reports, and management information
+systems that provide management and the board with the necessary information and
+analysis to make timely and appropriate responses to changing conditions.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internal controls and audit procedures are sufficiently comprehensive and
+appropriate to the size and activities of the institution.&nbsp; There are few noted exceptions
+to the institution's established policies and procedures, and none is material. 
+Management effectively and accurately monitors the condition of the institution
+consistent with standards of safety and soundness and in accordance with internal
+and supervisory policies and practices.&nbsp; Risk management is considered fully effective
+to identify, monitor, and control risks to the institution.<br>
+<p>
+<b>Rating 2 (Satisfactory)</b>.&nbsp; A rating of 2 indicates that the institution's management of
+risk is largely effective, but lacking to some modest degree.&nbsp; It reflects a
+responsiveness and ability to cope successfully with existing and foreseeable
+exposures that may arise in carrying out the institution's business plan.&nbsp; While the
+institution may have some minor risk management weaknesses, these problems have
+been recognized and are being addressed.&nbsp; Overall, board and senior management
+oversight, policies and limits, risk monitoring procedures, reports, and management
+information systems are considered satisfactory and effective in maintaining a safe
+and sound institution.&nbsp; Generally, risks are being controlled in a manner that does not
+require additional or more than normal supervisory attention.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internal controls may display modest weaknesses or deficiencies, but they are
+correctable in the normal course of business.&nbsp; The examiner may have
+recommendations for improvement, but the weaknesses noted should not have a 
+significant effect on the safety and soundness of the institution. <br>
+<p>
+<b>Rating 3 (Fair)</b>.&nbsp; A rating of 3 signifies risk management practices that are lacking in
+some important ways and, therefore, are a cause for more than normal supervisory
+attention.&nbsp; One or more of the four elements of sound risk management are
+considered fair, and have precluded the institution from fully addressing a significant
+risk to its operations.&nbsp; Certain risk management practices are in need of improvement
+to ensure that management and the board are able to identify, monitor, and control
+adequately all significant risks to the institution.&nbsp; Weaknesses may include continued
+control exceptions or failures to adhere to written policies and procedures that could
+have adverse effects on the institution.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;The internal control system may be lacking in some important respects,
+particularly as indicated by continued control exceptions or by the failure to adhere to
+written policies and procedures.&nbsp; The risks associated with the internal control system
+could have adverse effects on the safety and soundness of the institution if corrective
+actions are not taken by management.<br>
+<p>
+<b>Rating 4 (Marginal)</b>.&nbsp; A rating of 4 represents marginal risk management practices that
+generally fail to identify, monitor, and control significant risk exposures in many
+material respects.&nbsp; Generally, such a situation reflects a lack of adequate guidance
+and supervision by management and the board.&nbsp; One or more of the four elements of
+sound risk management are considered marginal and require immediate and
+concerted corrective action by the board and management.&nbsp; A number of significant
+risks to the institution have not been adequately addressed, and the risk management
+deficiencies warrant a high degree of supervisory attention.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+The institution may have serious identified weaknesses, such as an inadequate
+separation of duties, that require substantial improvement in its internal control or
+accounting procedures or in its ability to adhere to supervisory standards or
+requirements.&nbsp; Unless properly addressed, these conditions may result in unreliable
+financial records or reports or operating losses that could seriously affect the safety
+and soundness of the institution.<br>
+<p>
+<b>Rating 5 (Unsatisfactory)</b>.&nbsp; A rating of 5 indicates a critical absence of effective risk
+management practices to identify, monitor, or control significant risk exposures.&nbsp; One
+or more of the four elements of sound risk management are considered wholly
+deficient and management and the board have not demonstrated the capability to
+address deficiencies.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Internal controls may be sufficiently weak as to jeopardize seriously the
+continued viability of the institution.&nbsp; If not already evident, there is an immediate
+concern as to the reliability of accounting records and regulatory reports and about 
+potential losses that could result if corrective measures are not taken immediately.&nbsp; 
+Deficiencies in the institution's risk management procedures and internal controls
+require immediate and close supervisory attention.&nbsp; <br>
+<p>
+<p>
+<b>REPORTING CONCLUSIONS</b><br>
+<p>
+For state member banks, a single numerical rating for risk management and the
+rationale for the rating assigned should be provided on page D, &quot;Ratings and General
+Information,&quot; of the confidential section of the bank examination report.&nbsp; The risk
+management rating should also be an important factor when determining the overall 
+management rating of the CAMEL rating system.&nbsp; Comments, conclusions, and
+criticisms relating to a bank's risk management process should be brought to the
+attention of management and included on the &quot;Management/ Administration&quot; page of
+the report, as well as pages 1 and 1a, &quot;Examination Conclusions and Comments&quot; and
+&quot;Matters Requiring Board Attention&quot; if considered appropriate.&nbsp; Comments in the close-out meeting with management and in the open sections of the examination report, in
+sufficient detail to bring about proper corrective actions, are particularly important if the
+examiner has assigned risk management a rating that is less than satisfactory.&nbsp; <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Examiners should also consider the extent to which weaknesses in a bank's
+management of risk may indicate material noncompliance with one or more safety and
+soundness guidelines covering internal controls and information systems, internal audit
+systems, loan documentation, credit underwriting, interest rate exposure, asset growth
+or compensation, fees, and benefits.<a href="#Footnote1" title="Footnote 1" name="Footref1"><sup>1</sup></a>  Organizational procedures directing and
+enforcing an adequate separation of duties can be especially critical to some banking
+activities, such as so-called &quot;front&quot; and &quot;back-office&quot; functions, and should be
+specifically addressed by examiners.&nbsp; In instances in which material noncompliance is
+identified, authority exists to require the state member bank to submit a compliance
+plan within 30 days if such weaknesses are not being adequately addressed through
+other means. <br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;For bank holding companies, the separate numerical rating for risk
+management, and the rationale for the rating assigned, should be included and
+discussed on page B, &quot;Condition of Bank Holding Company,&quot; of the confidential
+section of the bank holding company inspection report,  and should also be reflected in
+the examiner's overall rating of management.&nbsp; Comments, conclusions, and criticisms
+relating to an institution's risk management process should be brought to the attention
+of management and included on the &quot;Policies and Supervision&quot; page of the inspection
+report, as well as on page 1, &quot;Examination Conclusions and Matters Requiring Special
+Board Attention&quot; if considered appropriate and particularly if the rating is less than
+satisfactory.<br>
+<p>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;In reports of examination or inspection and in transmittal letters to boards of
+directors of state member banks and bank holding companies reference should be
+made specifically to the types and nature of corrective actions that need to be taken
+by institutions to address noted risk management and internal control deficiencies. 
+Where appropriate, institutions should also be advised that the Federal Reserve will
+initiate supervisory actions if the failure to separate critical operational duties creates
+the potential for serious losses or if material deficiencies or situations that threaten the
+safe and sound conduct of their activities are not adequately addressed in a timely
+manner.&nbsp; Such supervisory actions may include formal enforcement actions against
+the bank or bank holding company, or its responsible officers and directors, or both,
+and would require the immediate implementation of all necessary corrective measures.<br>
+<p>
+
+<hr>
+<p>
+<b>Footnotes</b>
+<p>
+<a name="Footnote1">1.</a>&nbsp;&nbsp;These guidelines are included in Subpart D (Standards for Safety and Soundness) of the Board's Regulation H and became effective August 9, 1995.&nbsp;&nbsp;<a href="#Footref1">Return to text</a>
+</td>
+</tr>
+</table>
+</blockquote>
+<p><br>
+<a href="../">SR letters</a> | <a href="./">1995</a>
+<hr noshade width=650 align=left>
+<div class="footer">
+<a href="/">Home</a> | <a href="/banknreg.htm">Banking information and regulation</a><br>
+<a href="/accessibility.htm">Accessibility</a> | <a href="/feedback.cfm">Contact Us</a><br>
+   <b>Last update: June 9, 2016</b> </div>
+<p>
+<br>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

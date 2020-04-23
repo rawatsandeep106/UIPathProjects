@@ -1,0 +1,188 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 04-15 on termination of the Regulatory Reports Monitoring Program and new procedures for monitoring regulatory reports -- November 4, 2004</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 04-15<br>
+      November 4, 2004</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF 
+   SUPERVISION<br>
+   AT EACH FEDERAL RESERVE BANK</div>				
+<div class="subject">SUBJECT:&nbsp;&nbsp;Termination 
+   of the Regulatory Reports Monitoring Program and 
+   New Procedures for Monitoring Regulatory Reports</div>
+<!-- single space -->
+<p>The Federal Reserve is terminating the Regulatory 
+   Reports Monitoring Program, under which the Board 
+   used various monitoring, reporting, and consultation 
+   requirements to identify banking organizations' noncompliance 
+   with their filing obligations. As a result, this 
+   letter supersedes previously issued supervisory guidance 
+   on this program (SR&nbsp;letters 93-38, 93-47, 94-4, 
+   and&nbsp;95-9). </p>
+<p>Notwithstanding the termination of the Program, Reserve 
+   Banks should continue to monitor the filing of all 
+   regulatory reports, including those submitted under 
+   the Home Mortgage Disclosure&nbsp;Act, to ensure 
+   that they are filed in a timely manner and are accurate 
+   and not misleading. The Federal Reserve System's 
+   Committee on Current Reporting Series, which represents 
+   staff from the statistics functions from each of 
+   the Reserve Banks and the Board, will continue to 
+   play an active role in this process. </p> 
+<div class="SectionHeader">Background</div>
+<p>The Regulatory Reports Monitoring Program was started 
+   in 1992 to address the statutory requirement that 
+   banking organizations file timely, accurate, and 
+   non-misleading regulatory reports and to ensure a 
+   consistent approach to supervisory actions and sanctions 
+   associated with late, false or misleading filings. 
+   Under the program, the Federal Reserve developed 
+   and maintained an ongoing monitoring system to record 
+   the timeliness of regulatory reports and to identify 
+   those banking institutions that exhibited a pattern 
+   of late or false reporting. </p>
+<p>The Program was implemented in two&nbsp;phases. In 
+   SR letter&nbsp;92-38, dated October&nbsp;15,&nbsp;1992, 
+   the first&nbsp;phase of the Program required the 
+   Reserve Banks to maintain monitoring systems capable 
+   of identifying and maintaining records of institutions 
+   that filed late reports. The Program required the 
+   Reserve Banks to submit to the Board summary reports 
+   of late reporters after each reporting period. The 
+   reports were reviewed by Board staff and appropriate 
+   follow-up actions were taken. To ensure consistent 
+   treatment of reporters' requests for extensions of 
+   time to file reports, the Reserve Banks were required 
+   to consult with Board staff prior to authorizing 
+   extensions. Extensions of due dates for the 
+   filing of regulatory reports were not allowed unless 
+   there were mitigating circumstances.</p>
+<p>In SR&nbsp;letter 93-47, dated August&nbsp;13,&nbsp;1993, 
+   the second&nbsp;phase of the Program required the 
+   Reserve Banks to monitor regulatory reports for accuracy 
+   and completeness in addition to timeliness, to contact 
+   reporters who submitted inaccurate or incomplete 
+   filings, and to submit reports to Board staff concerning 
+   any identified regulatory reporting deficiencies. 
+   The second&nbsp;phase also added the requirement 
+   for Reserve Banks to monitor compliance with banking 
+   organizations' annual reporting requirements under 
+   the Home Mortgage Disclosure&nbsp;Act and to submit 
+   annual reports on the timeliness, completeness, and 
+   accuracy of HMDA reports to Board staff. In SR&nbsp;letter 
+   94-4, dated January&nbsp;14,&nbsp;1994, the Federal 
+   Reserve issued procedures to track whether HMDA reports 
+   are filed in a timely manner and whether they are 
+   both complete and error free. </p>
+<p>SR letter&nbsp;95-9, dated February&nbsp;28,&nbsp;1995, 
+   modified the Program to reflect the generally satisfactory 
+   level of compliance by banking organizations with 
+   regulatory reporting requirements. Reserve Banks 
+   were no longer required to make quarterly submissions 
+   to the Board, but were still required to identify 
+   late and false reporters. In addition, Reserve Banks 
+   were still required to submit annual reports of late 
+   and false HMDA reporters and to consult with Board 
+   staff prior to granting extensions of time for filing 
+   reports. </p>
+<div class="SectionHeader">Termination of Program 
+   and Revised Procedures</div>
+<p>Since the implementation of the Regulatory Reports 
+   Monitoring Program, Federal Reserve staff has found 
+   that banking organizations have consistently been 
+   fulfilling their legal obligations related to regulatory 
+   reports and that they have rarely missed filing deadlines, 
+   or submitted inaccurate or misleading information 
+   in their regulatory reports. Where serious problems 
+   were identified, banking organizations re-filed the 
+   appropriate reports and, in some cases, provisions 
+   related to regulatory report filing obligations were 
+   included in formal and informal enforcement actions. 
+</p>
+<p>Board staff has determined that, in light of the 
+   high level of compliance by state member banks, bank 
+   holding companies, and the U.S.&nbsp;branches and 
+   agencies of foreign banks with their regulatory report 
+   filing requirements, it is appropriate to reduce 
+   the administrative burden on the Reserve Banks by 
+   eliminating the Regulatory Reports Monitoring Program. 
+   This means that Reserve Banks are no longer required 
+   to submit reports to Board staff on late and false 
+   reporters. In addition, there is no further need 
+   for the Reserve Banks to submit requests to Board 
+   staff for extensions of time to file reports. It 
+   is expected that the Committee on Current Reporting 
+   Series will establish procedures for the Reserve 
+   Banks to follow in granting extensions of time to 
+   file reports and will issue whatever guidance may 
+   be necessary in this area to ensure continued consistency 
+   among the Reserve Banks. </p>
+<p>The staff of the Board's Division of Community and 
+   Consumer Affairs will continue to be responsible 
+   for the oversight of HMDA reports. DCCA staff, assisted 
+   by the Board's Information Technology Division, will 
+   continue to monitor the timeliness and accuracy of 
+   HMDA reports as part of its supervisory function. 
+</p>
+<p>The staff of the Enforcement Section of the Division 
+   of Banking Supervision and Regulation will continue 
+   to work with the Reserve Banks in the event that 
+   regulatory report filing deficiencies or violations 
+   are discovered. Serious problems in this area should 
+   be referred to the Enforcement Section staff for 
+   appropriate follow-up corrective action. Enforcement 
+   Section staff will coordinate with DCCA if the problems 
+   relate to HMDA filings. </p>
+<p>In the event that you have any questions concerning 
+   any of these matters, please contact Joan&nbsp;Wolff, 
+   Counsel, Enforcement Section, at (202)&nbsp;728-5881; 
+   Robert&nbsp;Maahs, Manager, Regulatory Reports Section, 
+   at (202)&nbsp;872-4935; or John&nbsp;Bell, CCRS Chair, 
+   Vice President, Federal Reserve Bank of Philadelphia, 
+   at (215)&nbsp;574-6442.</p>
+<div class="officer">Richard Spillenkothen<br>
+   Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+   <dt class="nobreak">Supersedes:</dt>
+   <dd class="srltr">SR letters 92-38, 93-47, 94-4, 
+      and 95-9</dd>
+</dl>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2004">2004</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: July 20, 2005</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>

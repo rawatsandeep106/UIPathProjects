@@ -1,0 +1,169 @@
+<html>
+<head>
+	<title>FRB: Supervisory Letter SR 03-10 on enhancement to the name check process related to applications reviewed by the Federal Reserve -- May 28, 2003</title>
+	<link rel="stylesheet" type="text/css" href="../srltrsnew.css">
+	<link rel="stylesheet" href="../srltrsnew_screen.css" type="text/css" media="screen">
+	<link rel="stylesheet" href="../srltrsnew_print.css" type="text/css" media="print">
+<script type="text/javascript" >
+  (function(i,s,o,g,r,a,m){i['GoogleAnalyticsObject']=r;i[r]=i[r]||function(){
+  (i[r].q=i[r].q||[]).push(arguments)},i[r].l=1*new Date();a=s.createElement(o),
+  m=s.getElementsByTagName(o)[0];a.async=1;a.src=g;m.parentNode.insertBefore(a,m)
+  })(window,document,'script','//www.google-analytics.com/analytics.js','ga');
+  ga('create', 'UA-35121701-1', 'federalreserve.gov', {'cookieExpires': 0});
+  ga('set', 'anonymizeIp', true);
+  ga('send', 'pageview');
+</script></head>
+<body>
+<a name="pagetop"></a>
+<div class="left"><img src="../gifjpg/seal.gif" alt="Seal of the Board of Governors of the Federal Reserve System" border="0" vspace="0" hspace="0"></div>
+<div class="middle">
+  <div class="ltrheader">BOARD OF GOVERNORS</div>
+  <div class="ltrheadersm">OF THE</div>
+  <div class="ltrheader">FEDERAL RESERVE SYSTEM</div>
+  <div class="ltrheadersm">WASHINGTON, D.&nbsp;C.&nbsp;&nbsp;20551</div>
+</div>
+<div class="right">
+  <div class="ltrheadersm">DIVISION OF BANKING<br>
+    SUPERVISION AND REGULATION</div>
+   <div class="ltrheader"><b>SR 03-10<br>
+      May&nbsp;28,&nbsp;2003</b></div>
+</div>
+<br clear="all" />
+<div class="salutation">TO THE OFFICER IN CHARGE OF SUPERVISION <br>
+   AT EACH FEDERAL RESERVE BANK</div>				
+<div class="subject">SUBJECT:&nbsp;&nbsp;Enhancement 
+   to the Name Check Process Related to Applications 
+   Reviewed by the Federal Reserve</div>
+<p>In connection with its review of various applications 
+   and notices, the Federal Reserve has had a longstanding 
+   policy of conducting name checks with law enforcement 
+   and other government authorities on certain individuals 
+   associated with a proposed transaction.&nbsp; Name 
+   checks have generally been performed on significant 
+   shareholders and key policymakers who are not well 
+   known to U.S.&nbsp;bank or thrift regulators, and 
+   in special circumstances particular to some applications. 
+   These checks enable the collection of information 
+   about individuals that may be useful in the Federal 
+   Reserve's review of the financial resources, experience, 
+   integrity, and competence of persons associated with 
+   a banking organization, as well as in the Federal 
+   Reserve's assessment of whether the individuals can 
+   lead the organization in a safe and sound manner.</p>
+<p>The Federal Reserve has worked with the Federal Bureau 
+   of Investigation on an enhancement to the System's 
+   current name check process that will enable the Federal 
+   Reserve to obtain from the FBI more accurate and 
+   current information relating to arrests and convictions. 
+   This new process necessitates the use of fingerprints 
+   from individuals who are subject to name checks in 
+   the applications process. The use of fingerprinting 
+   as a security measure has become significantly more 
+   widespread and accepted, and advances in fingerprinting 
+   technology have been made with respect to the speed 
+   with which such checks can be completed.</p>
+<p>There are currently two methods by which fingerprints 
+   can be provided to the Federal Reserve &#150; a &quot;Live-Scan&quot; 
+   terminal or a fingerprint card. A Live-Scan terminal 
+   allows fingerprints to be obtained in digital format 
+   and sent to the FBI electronically. Eight of the 
+   12&nbsp;Reserve Banks currently have Live-Scan capability, 
+   and individuals can choose to visit one of these 
+   Reserve Banks to submit their fingerprints.<a href="#Footnote1" name="Footref1" title="Footnote 1"><sup>1</sup></a> 
+   The second method of submitting fingerprints is through 
+   fingerprint cards, which are completed manually at 
+   various law enforcement locations and sent via mail 
+   for processing. If it is not convenient to visit 
+   a Reserve Bank to use a Live-Scan terminal, an individual 
+   will be requested to complete a fingerprint card. 
+   The completed card will be sealed by law enforcement 
+   in an envelope supplied by the Reserve Bank and mailed 
+   to the address that is pre-printed on the envelope. 
+   The attached Letter of Instruction for Applicants 
+   provides more detailed information on the submission 
+   of fingerprints.</p>
+<p>The new fingerprint requirement has not changed the 
+   Federal Reserve's overall process for determining 
+   whether an individual will be subject to&nbsp;name 
+   checks for a particular filing. During the applications 
+   process, Reserve Banks will identify persons who 
+   need to be fingerprinted, and send to such persons 
+   blank fingerprint cards and return envelopes, as 
+   well as the attached Letter of Instruction. To meet 
+   all relevant processing timeframes and avoid delay, 
+   it will be necessary for fingerprints to be submitted 
+   as expeditiously as possible (either through Live-Scan 
+   or mail). The use of a Live-Scan terminal, where 
+   available, will significantly expedite the name check 
+   process.</p>
+<p>To the extent possible, the fingerprint process should 
+   commence prior to submission of an application or 
+   notice. Such an approach requires early consultation 
+   with Reserve Bank staff by relevant parties, the 
+   submission of <i>Interagency Biographical and Financial 
+   Reports</i> on a pre-filing basis, and the prompt 
+   identification by Reserve Banks of persons that require 
+   fingerprints.<a href="#Footnote2" name="Footref2" title="Footnote 2"><sup>2</sup></a> 
+   Reserve Banks should emphasize to the affected individuals 
+   and applicants that failure to expeditiously complete 
+   the fingerprinting process could result in a delay 
+   on the related application.</p>
+<p>All applications received after June&nbsp;30,&nbsp;2003 
+   are subject to the new procedure.<a href="#Footnote3" name="Footref3" title="Footnote 3"><sup>3</sup></a> 
+   Fingerprint cards or Live-Scan fingerprints must 
+   be obtained on each relevant person meeting the name 
+   check criteria associated with an application or 
+   notice received after June&nbsp;30.</p>
+<p>Reserve Banks are asked to distribute this SR&nbsp;letter 
+   to staff involved in the applications process and 
+   to other supervisory staff. Questions regarding the 
+   use of fingerprints may be directed to Len&nbsp;Zawistowski, 
+   Senior Special Investigator, at (202)&nbsp;452-6488, 
+   or David&nbsp;Reilly, Senior Supervisory Financial 
+   Analyst, at (202)&nbsp;452-5214. </p>
+<div class="officer">Herbert A. Biern<br>
+   Senior Associate Director</div>
+<br clear="all">
+<br>
+<dl class="attachment"> 
+   <dt class="nobreak">Attachment:</dt>
+   <dd class="srltr"><a href="SR0310a1.pdf">Letter of Instruction for Applicants<span class="pdf"> 
+      (81&nbsp;KB&nbsp;PDF)</span></a> </dd>
+</dl>
+<hr width="50%" align="left">
+<div class="ftnotes"> <b>Notes:</b> 
+   <ol>
+      <li><a name="Footnote1"></a>The Federal Reserve 
+         Banks of Boston, New&nbsp;York, Philadelphia, 
+         Cleveland, Atlanta, Chicago, Minneapolis, and 
+         San&nbsp;Francisco currently have Live-Scan 
+         terminals. The remaining four Reserve Banks 
+         expect to have Live-Scan terminals in the near 
+         future. Individuals can only use Live-Scan 
+         terminals at the Reserve Banks.&nbsp;&nbsp;<a href="#Footref1">Return&nbsp;to&nbsp;text</a></li>
+      <li><a name="Footnote2"></a>Once Federal Reserve 
+         staff determines that an individual should 
+         be subject to fingerprinting, the requirement 
+         may not be eliminated or satisfied by the fact 
+         that the individual may have previously submitted 
+         fingerprints to another government agency.&nbsp;&nbsp;<a href="#Footref2">Return&nbsp;to&nbsp;text</a></li>
+      <li><a name="Footnote3"></a>Certain foreign individuals 
+         associated with foreign bank applications may 
+         not be required to provide fingerprints under 
+         the new procedure. Applicants or their counsel 
+         should consult with the responsible Reserve 
+         Bank on these matters.&nbsp;&nbsp;<a href="#Footref3">Return&nbsp;to&nbsp;text</a></li>
+   </ol>
+</div>
+<div class="pubftnotes">
+<a href="../">SR letters</a> | 
+      <a href="../2003">2003</a> 
+      <div class="pubfooter"><a href="/">Home</a> | <a href="/banknreg.htm">Banking 
+        information and regulation</a><br>
+        <a href="/accessibility.htm">Accessibility</a> 
+        | <a href="/feedback.cfm">Contact Us</a><br>
+      <b>Last update: February 21, 2006</b> </div>
+</div>
+<script type="text/javascript" src="/resources/track_downloads.js"></script>
+</body>
+</html>
